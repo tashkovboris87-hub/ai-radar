@@ -2,6 +2,35 @@
   "version": 1,
   "items": [
     {
+      "id": "i_moipby9q_nbvtr5",
+      "url": "https://www.youtube.com/watch?v=9c7zh2MkslY",
+      "title": "You’re Not Behind (Yet): How to Learn AI in 29 Minutes",
+      "description": "By Futurepedia",
+      "image": "https://i.ytimg.com/vi/9c7zh2MkslY/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "team",
+      "category": null,
+      "tags": [
+        "beginners",
+        "ai",
+        "basics",
+        "video"
+      ],
+      "addedAt": "2026-04-28T14:08:45.374Z",
+      "addedBy": "Boris",
+      "readBy": [
+        "Boris"
+      ],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-04-28T14:08:45.374Z"
+    },
+    {
       "id": "i_moipafuf_ztu7gg",
       "url": "https://www.youtube.com/watch?v=rRrBbyv3ChM",
       "title": "FULL Claude Tutorial for Beginners in 2026! (Become a PRO!)",
