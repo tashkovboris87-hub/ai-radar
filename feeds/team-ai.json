@@ -2,34 +2,6 @@
   "version": 1,
   "items": [
     {
-      "id": "i_moipkc00_0kz9u3",
-      "url": "https://www.youtube.com/watch?v=fOnKo_Hole8",
-      "title": "FULL Claude Projects Guide For Beginners in 2026! (Become a PRO)",
-      "description": "By AI Foundations",
-      "image": "https://i.ytimg.com/vi/fOnKo_Hole8/hqdefault.jpg",
-      "domain": "youtube.com",
-      "contentType": "video",
-      "source": "team",
-      "category": "claude",
-      "tags": [
-        "projects",
-        "claude",
-        "tutorial"
-      ],
-      "addedAt": "2026-04-28T14:15:16.416Z",
-      "addedBy": "Boris",
-      "readBy": [
-        "Boris"
-      ],
-      "reactions": {
-        "important": [],
-        "must_read": [],
-        "watch_later": [],
-        "tried": []
-      },
-      "_updatedAt": "2026-04-28T14:15:16.416Z"
-    },
-    {
       "id": "i_moipdgi0_z1otg6",
       "url": "https://www.anthropic.com/news/claude-opus-4-7",
       "title": "Introducing Claude Opus 4.7",
