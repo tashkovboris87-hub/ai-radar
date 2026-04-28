@@ -2,6 +2,34 @@
   "version": 1,
   "items": [
     {
+      "id": "i_moiy4pv3_r4frio",
+      "url": "https://www.youtube.com/watch?v=0bRxpRupE5Y",
+      "title": "15 Claude Cowork Skills I Can’t Live Without (steal them)",
+      "description": "By Brock Mesarich | AI for Non Techies",
+      "image": "https://i.ytimg.com/vi/0bRxpRupE5Y/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "team",
+      "category": "claude",
+      "tags": [
+        "video",
+        "claude",
+        "skills"
+      ],
+      "addedAt": "2026-04-28T18:15:04.431Z",
+      "addedBy": "Boris",
+      "readBy": [
+        "Boris"
+      ],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-04-28T18:15:04.431Z"
+    },
+    {
       "id": "i_moismotb_myc39n",
       "url": "https://open.spotify.com/episode/0RXnXhhmGXnokqLwRFOpBz?si=OT_RYwLtR7azrAD3WpsL5Q",
       "title": "Как да останеш ценен в света на AI",
