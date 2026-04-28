@@ -9,7 +9,6 @@
       "image": "https://i.ytimg.com/vi/9c7zh2MkslY/hqdefault.jpg",
       "domain": "youtube.com",
       "contentType": "video",
-      "tab": "team",
       "tags": [
         "tutorial"
       ],
@@ -18,7 +17,8 @@
       "readBy": [
         "fsdf",
         "fdadsf",
-        "ggfd"
+        "ggfd",
+        "bvfd"
       ],
       "reactions": {
         "important": [
@@ -30,7 +30,9 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-04-28T13:09:57.164Z"
+      "_updatedAt": "2026-04-28T13:18:15.007Z",
+      "source": "team",
+      "category": null
     }
   ]
 }
