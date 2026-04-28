@@ -2,6 +2,33 @@
   "version": 1,
   "items": [
     {
+      "id": "i_moinnnu9_kvcsc6",
+      "url": "https://www.youtube.com/watch?v=rRrBbyv3ChM",
+      "title": "FULL Claude Tutorial for Beginners in 2026! (Become a PRO!)",
+      "description": "By AI Foundations",
+      "image": "https://i.ytimg.com/vi/rRrBbyv3ChM/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "team",
+      "category": "claude",
+      "tags": [
+        "claude",
+        "basics"
+      ],
+      "addedAt": "2026-04-28T13:21:52.497Z",
+      "addedBy": "bvfd",
+      "readBy": [
+        "bvfd"
+      ],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-04-28T13:21:52.497Z"
+    },
+    {
       "id": "i_moimgzyw_8dgolj",
       "url": "https://www.youtube.com/watch?v=9c7zh2MkslY",
       "title": "You’re Not Behind (Yet): How to Learn AI in 29 Minutes",
