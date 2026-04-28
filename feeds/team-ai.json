@@ -2,6 +2,36 @@
   "version": 1,
   "items": [
     {
+      "id": "i_moipdgi0_z1otg6",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "title": "Introducing Claude Opus 4.7",
+      "description": "",
+      "image": "",
+      "domain": "anthropic.com",
+      "contentType": "article",
+      "source": "team",
+      "category": "claude",
+      "tags": [
+        "opus4.7",
+        "opus",
+        "article",
+        "claude",
+        "anthropic"
+      ],
+      "addedAt": "2026-04-28T14:09:55.656Z",
+      "addedBy": "Boris",
+      "readBy": [
+        "Boris"
+      ],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-04-28T14:09:55.656Z"
+    },
+    {
       "id": "i_moipby9q_nbvtr5",
       "url": "https://www.youtube.com/watch?v=9c7zh2MkslY",
       "title": "You’re Not Behind (Yet): How to Learn AI in 29 Minutes",
