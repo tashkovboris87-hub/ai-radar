@@ -1,4 +1,34 @@
 {
   "version": 1,
-  "items": []
+  "items": [
+    {
+      "id": "i_moipafuf_ztu7gg",
+      "url": "https://www.youtube.com/watch?v=rRrBbyv3ChM",
+      "title": "FULL Claude Tutorial for Beginners in 2026! (Become a PRO!)",
+      "description": "By AI Foundations",
+      "image": "https://i.ytimg.com/vi/rRrBbyv3ChM/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "team",
+      "category": "claude",
+      "tags": [
+        "beginners",
+        "claude",
+        "video",
+        "tutorial"
+      ],
+      "addedAt": "2026-04-28T14:07:34.839Z",
+      "addedBy": "Boris",
+      "readBy": [
+        "Boris"
+      ],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-04-28T14:07:34.840Z"
+    }
+  ]
 }
