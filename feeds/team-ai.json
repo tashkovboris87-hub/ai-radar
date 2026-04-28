@@ -2,6 +2,34 @@
   "version": 1,
   "items": [
     {
+      "id": "i_moismotb_myc39n",
+      "url": "https://open.spotify.com/episode/0RXnXhhmGXnokqLwRFOpBz?si=OT_RYwLtR7azrAD3WpsL5Q",
+      "title": "Как да останеш ценен в света на AI",
+      "description": "",
+      "image": "",
+      "domain": "open.spotify.com",
+      "contentType": "other",
+      "source": "team",
+      "category": "other",
+      "tags": [
+        "podcast",
+        "generic",
+        "discussion"
+      ],
+      "addedAt": "2026-04-28T15:41:05.183Z",
+      "addedBy": "Boris",
+      "readBy": [
+        "Boris"
+      ],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-04-28T15:41:05.192Z"
+    },
+    {
       "id": "i_moirt3dm_h5ztfu",
       "url": "https://pub.towardsai.net/if-you-understand-these-5-ai-terms-youre-ahead-of-90-of-people-c7622d353319",
       "title": "If You Understand These 5 AI Terms, You’re Ahead of 90% of People",
