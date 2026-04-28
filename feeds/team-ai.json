@@ -9,7 +9,7 @@
       "image": "https://i.ytimg.com/vi/9c7zh2MkslY/hqdefault.jpg",
       "domain": "youtube.com",
       "contentType": "video",
-      "tab": "claude",
+      "tab": "feed",
       "tags": [
         "tutorial"
       ],
@@ -27,7 +27,7 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-04-28T12:59:44.243Z"
+      "_updatedAt": "2026-04-28T12:59:56.381Z"
     }
   ]
 }
