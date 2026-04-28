@@ -2,6 +2,34 @@
   "version": 1,
   "items": [
     {
+      "id": "i_moirt3dm_h5ztfu",
+      "url": "https://pub.towardsai.net/if-you-understand-these-5-ai-terms-youre-ahead-of-90-of-people-c7622d353319",
+      "title": "If You Understand These 5 AI Terms, You’re Ahead of 90% of People",
+      "description": "",
+      "image": "",
+      "domain": "pub.towardsai.net",
+      "contentType": "article",
+      "source": "team",
+      "category": "other",
+      "tags": [
+        "terminology",
+        "basics",
+        "article"
+      ],
+      "addedAt": "2026-04-28T15:18:04.378Z",
+      "addedBy": "Boris",
+      "readBy": [
+        "Boris"
+      ],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-04-28T15:18:04.378Z"
+    },
+    {
       "id": "i_moipdgi0_z1otg6",
       "url": "https://www.anthropic.com/news/claude-opus-4-7",
       "title": "Introducing Claude Opus 4.7",
