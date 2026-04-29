@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mojnjk8q_ujv3gl",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sylydi/xiami_mimov25_pro_mit_license_surpasses_opus_45/",
+      "title": "Xiami mimo-v2.5 pro MIT license surpasses Opus 4.5 on arena",
+      "description": "Many asked when we will have open weight model that is better than Opus.  Well now we have it.  Mimo is ranked #9 and Opus 4.5 is ranked #10.\n\n[https://arena.ai/leaderboard/text/coding-no-style-control](https://arena.ai/leaderboard/text/coding-no-style-control)",
+      "image": "",
+      "domain": "reddit.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-04-29T02:32:17.000Z",
+      "addedBy": "r/LocalLLaMA",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-04-29T06:06:27.386Z"
+    },
+    {
+      "id": "i_mojnjk8q_8wejxq",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1sy31hr/built_a_business_this_weekend_im_scared/",
+      "title": "Built a business this weekend. I'm scared.",
+      "description": "One of my favorite things to do is just chat with my LLMs about my silly ideas.  I never intend to execute them, but Claude discovered for me that I actually meet the qualifications for one of the businesses ideas that I've talked about doing for a years now.  \n\nOddly,  my focus around the question ",
+      "image": "",
+      "domain": "reddit.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-04-28T14:28:42.000Z",
+      "addedBy": "r/ClaudeAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-04-29T06:06:27.386Z"
+    },
+    {
+      "id": "i_mojnjk8q_ielpq0",
+      "url": "https://i.redd.it/cfwmea1b00yg1.jpeg",
+      "title": "Chatgpt always giving long answers for simple questions.",
+      "description": "I’m getting headaches reading chatgpt response. OPENAI should make it better. How long can a person read so many long answers. ",
+      "image": "https://preview.redd.it/cfwmea1b00yg1.jpeg?width=140&amp;height=77&amp;auto=webp&amp;s=0bcdf955f29b1dd9f1ca8b3ca8d6a92e13af5f95",
+      "domain": "i.redd.it",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-04-28T21:21:30.000Z",
+      "addedBy": "r/OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-04-29T06:06:27.386Z"
+    },
+    {
       "id": "i_mojh0idr_hnhi2a",
       "url": "https://i.redd.it/rgx28ox4nyxg1.png",
       "title": "Something from Mistral (Vibe) tomorrow",
@@ -1382,5 +1448,41 @@
       },
       "_updatedAt": "2026-04-28T14:16:31.388Z"
     }
-  ]
+  ],
+  "activity": [
+    {
+      "id": "a_mojnjk8q_j7oq",
+      "type": "add",
+      "itemId": "i_mojnjk8q_ielpq0",
+      "itemTitle": "Chatgpt always giving long answers for simple questions.",
+      "itemUrl": "https://i.redd.it/cfwmea1b00yg1.jpeg",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-04-29T06:06:27.386Z"
+    },
+    {
+      "id": "a_mojnjk8q_pryw",
+      "type": "add",
+      "itemId": "i_mojnjk8q_8wejxq",
+      "itemTitle": "Built a business this weekend. I'm scared.",
+      "itemUrl": "https://www.reddit.com/r/ClaudeAI/comments/1sy31hr/built_a_business_this_weekend_im_scared/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-04-29T06:06:27.386Z"
+    },
+    {
+      "id": "a_mojnjk8q_qh11",
+      "type": "add",
+      "itemId": "i_mojnjk8q_ujv3gl",
+      "itemTitle": "Xiami mimo-v2.5 pro MIT license surpasses Opus 4.5 on arena",
+      "itemUrl": "https://www.reddit.com/r/LocalLLaMA/comments/1sylydi/xiami_mimov25_pro_mit_license_surpasses_opus_45/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-04-29T06:06:27.386Z"
+    }
+  ],
+  "filterConfig": null
 }
