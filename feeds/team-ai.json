@@ -1044,30 +1044,6 @@
       "_updatedAt": "2026-04-29T03:03:40.815Z"
     },
     {
-      "id": "i_mojh0idr_n9ssms",
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "description": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits ",
-      "image": "",
-      "domain": "theverge.com",
-      "contentType": "article",
-      "source": "feed",
-      "category": "chatgpt",
-      "tags": [],
-      "addedAt": "2026-04-28T19:27:50.000Z",
-      "addedBy": "The Verge AI",
-      "readBy": [
-        "Boris"
-      ],
-      "reactions": {
-        "important": [],
-        "must_read": [],
-        "watch_later": [],
-        "tried": []
-      },
-      "_updatedAt": "2026-04-29T06:14:42.536Z"
-    },
-    {
       "id": "i_mojh0idr_ca0kgu",
       "url": "https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman",
       "title": "Elon Musk takes the stand in high-profile trial against OpenAI",
@@ -1386,6 +1362,16 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mojnu7t7_sxqm",
+      "type": "delete",
+      "itemId": "i_mojh0idr_n9ssms",
+      "itemTitle": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "itemUrl": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "itemSource": "feed",
+      "by": "Boris",
+      "at": "2026-04-29T06:14:44.491Z"
+    },
     {
       "id": "a_mojnu348_7zoo",
       "type": "delete",
