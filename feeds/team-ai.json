@@ -1044,30 +1044,6 @@
       "_updatedAt": "2026-04-29T03:03:40.815Z"
     },
     {
-      "id": "i_mojh0idr_1cstvj",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one",
-      "title": "Elon Musk appeared more petty than prepared",
-      "description": "Today the first witness was sworn in in Musk v. Altman: Elon Musk. I was surprised by how flat he seemed. This is not the first time I've seen Musk in court. During his defamation suit, he turned on the charm and the jury responded by finding him not guilty. Today he looked adrift and […]",
-      "image": "",
-      "domain": "theverge.com",
-      "contentType": "article",
-      "source": "feed",
-      "category": null,
-      "tags": [],
-      "addedAt": "2026-04-28T23:17:12.000Z",
-      "addedBy": "The Verge AI",
-      "readBy": [
-        "Boris"
-      ],
-      "reactions": {
-        "important": [],
-        "must_read": [],
-        "watch_later": [],
-        "tried": []
-      },
-      "_updatedAt": "2026-04-29T06:14:19.140Z"
-    },
-    {
       "id": "i_mojh0idr_cawfst",
       "url": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity",
       "title": "Elon Musk tells the jury that all he wants to do is save humanity",
@@ -1452,6 +1428,16 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mojnts66_gk3o",
+      "type": "delete",
+      "itemId": "i_mojh0idr_1cstvj",
+      "itemTitle": "Elon Musk appeared more petty than prepared",
+      "itemUrl": "https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one",
+      "itemSource": "feed",
+      "by": "Boris",
+      "at": "2026-04-29T06:14:24.222Z"
+    },
     {
       "id": "a_mojnjk8q_j7oq",
       "type": "add",
