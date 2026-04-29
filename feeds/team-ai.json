@@ -164,7 +164,7 @@
       "domain": "reddit.com",
       "contentType": "article",
       "source": "feed",
-      "category": "claude",
+      "category": null,
       "tags": [],
       "addedAt": "2026-04-28T17:16:29.000Z",
       "addedBy": "r/ClaudeAI",
@@ -177,7 +177,7 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-04-29T06:19:28.848Z"
+      "_updatedAt": "2026-04-29T06:19:30.815Z"
     },
     {
       "id": "i_mojh0idr_ntc5ui",
@@ -1344,6 +1344,18 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mojo0cqn_azak",
+      "type": "categorize",
+      "itemId": "i_mojh0idr_zny9sa",
+      "itemTitle": "Talkie: a 13B LLM trained only on pre-1931 text used Claude Sonnet to help test the model and judge its output",
+      "itemUrl": "https://www.reddit.com/r/ClaudeAI/comments/1sy7rry/talkie_a_13b_llm_trained_only_on_pre1931_text/",
+      "itemSource": "feed",
+      "by": "Boris",
+      "at": "2026-04-29T06:19:30.815Z",
+      "oldCategory": "claude",
+      "newCategory": null
+    },
     {
       "id": "a_mojo09u2_z7x5",
       "type": "categorize",
