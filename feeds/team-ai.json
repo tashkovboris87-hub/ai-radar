@@ -1044,30 +1044,6 @@
       "_updatedAt": "2026-04-29T03:03:40.815Z"
     },
     {
-      "id": "i_mojh0idr_ywrusi",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats",
-      "title": "Taylor Swift is stepping up the legal war on AI copycats",
-      "description": "Taylor Swift has been at the center of AI imitation controversies for years, and now, she's become the latest celebrity who's escalating attempts to protect herself from AI copycats. As usual, however, the legal system intersects with technology in complicated ways - and Swift's efforts may be a lon",
-      "image": "",
-      "domain": "theverge.com",
-      "contentType": "article",
-      "source": "feed",
-      "category": null,
-      "tags": [],
-      "addedAt": "2026-04-28T20:30:00.000Z",
-      "addedBy": "The Verge AI",
-      "readBy": [
-        "Boris"
-      ],
-      "reactions": {
-        "important": [],
-        "must_read": [],
-        "watch_later": [],
-        "tried": []
-      },
-      "_updatedAt": "2026-04-29T06:14:36.628Z"
-    },
-    {
       "id": "i_mojh0idr_n9ssms",
       "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
       "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
@@ -1408,6 +1384,16 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mojnu348_7zoo",
+      "type": "delete",
+      "itemId": "i_mojh0idr_ywrusi",
+      "itemTitle": "Taylor Swift is stepping up the legal war on AI copycats",
+      "itemUrl": "https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats",
+      "itemSource": "feed",
+      "by": "Boris",
+      "at": "2026-04-29T06:14:38.408Z"
+    },
     {
       "id": "a_mojnu0e4_o1jh",
       "type": "delete",
