@@ -169,6 +169,32 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
   display: grid; grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
   gap: 14px; align-content: start;
 }
+.main-content.list-view {
+  display: flex; flex-direction: column; gap: 8px;
+  max-width: 920px; margin-left: auto; margin-right: auto; width: 100%;
+}
+.main-content.list-view .item-card {
+  flex-direction: row; min-height: 78px; max-height: 100px;
+}
+.main-content.list-view .item-card.unread::before { width: 3px; }
+.main-content.list-view .item-image {
+  width: 130px; min-width: 130px; aspect-ratio: auto; height: auto; align-self: stretch;
+}
+.main-content.list-view .item-image-fallback { font-size: 28px; }
+.main-content.list-view .item-source-badge {
+  top: 6px; left: 6px; font-size: 9px; padding: 2px 6px;
+}
+.main-content.list-view .item-tab-badge {
+  top: 6px; right: 6px; font-size: 9px; padding: 2px 6px;
+}
+.main-content.list-view .type-icon {
+  bottom: 6px; right: 6px; width: 22px; height: 22px; font-size: 11px;
+}
+.main-content.list-view .item-body { padding: 10px 14px; }
+.main-content.list-view .item-title { font-size: 13px; -webkit-line-clamp: 1; margin-bottom: 3px; }
+.main-content.list-view .item-desc { font-size: 11px; -webkit-line-clamp: 1; margin-bottom: 4px; line-height: 1.4; }
+.main-content.list-view .item-tags { margin-bottom: 4px; }
+.main-content.list-view .item-foot { padding-top: 4px; border-top: none; }
 .empty-state {
   grid-column: 1 / -1; padding: 80px 20px; text-align: center; color: var(--muted);
 }
@@ -300,6 +326,12 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
   border-color: var(--teal-deep); background: #fff; box-shadow: 0 0 0 3px rgba(0,196,208,0.12);
 }
 .field textarea { resize: vertical; min-height: 60px; line-height: 1.5; }
+.settings-section textarea {
+  font-family: 'SFMono-Regular', 'Consolas', monospace; font-size: 12px;
+}
+.settings-section textarea:disabled {
+  background: var(--bg2); color: var(--muted); cursor: not-allowed; opacity: 0.85;
+}
 .field-help { font-size: 11px; color: var(--muted); margin-top: 4px; }
 .field-row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
 
@@ -429,6 +461,40 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
   border-radius: inherit;
 }
 
+/* ── History ── */
+.history-day-label {
+  font-size: 10px; font-weight: 800; color: var(--muted);
+  letter-spacing: 0.12em; padding: 14px 4px 6px;
+  position: sticky; top: -20px; background: rgba(255,255,255,0.95); backdrop-filter: blur(4px);
+  z-index: 1; border-bottom: 1px solid var(--border); margin-bottom: 4px;
+}
+.history-day-label:first-child { padding-top: 4px; }
+.history-entry {
+  display: flex; align-items: flex-start; gap: 10px;
+  padding: 10px 4px; border-bottom: 1px solid var(--border);
+  font-size: 12px; line-height: 1.5;
+}
+.history-entry:last-child { border-bottom: none; }
+.history-icon {
+  font-size: 16px; flex-shrink: 0; width: 24px; text-align: center; margin-top: -2px;
+}
+.history-text {
+  flex: 1; color: var(--navy);
+}
+.history-text strong { font-weight: 700; color: var(--teal-deep); }
+.history-item-link {
+  color: var(--navy); text-decoration: none; font-weight: 600;
+  border-bottom: 1px dotted var(--border-m); transition: all .15s;
+}
+.history-item-link:hover { color: var(--teal-deep); border-bottom-color: var(--teal-deep); }
+.history-item-deleted {
+  color: var(--muted); text-decoration: line-through; font-weight: 500;
+}
+.history-time {
+  font-size: 10px; color: var(--muted2); flex-shrink: 0;
+  font-variant-numeric: tabular-nums; padding-top: 2px;
+}
+
 /* ── FAB (Floating Action Button) ── */
 .fab {
   position: fixed; bottom: 28px; right: 28px; z-index: 90;
@@ -484,6 +550,7 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
       <button class="tab-btn" data-tab="other">Other <span class="tab-count" data-count="other">0</span></button>
     </div>
     <div class="topbar-right">
+      <button class="icon-btn icon-btn-square" id="history-btn" title="Activity history">🕐</button>
       <button class="icon-btn icon-btn-square" id="sync-btn" title="Sync now">⟳</button>
       <button class="icon-btn icon-btn-square" id="settings-btn" title="Settings">⚙</button>
     </div>
@@ -498,6 +565,7 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
       <button class="chip active" data-type="all">All <span class="chip-count" data-type-count="all">0</span></button>
       <button class="chip" data-type="article">📄 Articles <span class="chip-count" data-type-count="article">0</span></button>
       <button class="chip" data-type="video">▶ Videos <span class="chip-count" data-type-count="video">0</span></button>
+      <button class="chip" data-type="podcast">🎙 Podcasts <span class="chip-count" data-type-count="podcast">0</span></button>
       <button class="chip" data-type="other">⚙ Other <span class="chip-count" data-type-count="other">0</span></button>
     </div>
     <select class="filter-select" id="sharedby-filter">
@@ -507,6 +575,7 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
       <option value="">All tags</option>
     </select>
     <button class="toggle-btn active" id="show-older" data-mode="recent">Last 7 days</button>
+    <button class="toggle-btn" id="view-toggle" title="Toggle list/grid view">☰</button>
   </div>
 
   <div class="main-content" id="items-container">
@@ -542,15 +611,41 @@ const TAB_LABELS = {
 const TAB_KEYS = ['feed', 'team', 'claude', 'gemini', 'chatgpt', 'other'];
 const MODEL_CATEGORIES = ['claude', 'gemini', 'chatgpt', 'other'];
 
+// Admin (filter rules editor). Match is case-insensitive on userName.
+const ADMIN_NAMES = ['boris'];
+
+// Default filter config — used if config doesn't yet exist in GitHub
+const DEFAULT_FILTER_CONFIG = {
+  // Negative keywords — items whose title or description match any of these are skipped by Worker
+  blacklistKeywords: [
+    'taylor swift', 'kardashian', 'celebrity', 'gossip',
+    'crypto pump', 'meme coin', 'nft drop',
+    'trump', 'politics', 'election',
+  ],
+  // Domains/patterns that should be auto-categorized into a model tab
+  // Each rule: { pattern: 'string', category: 'claude'|'gemini'|'chatgpt' }
+  categorizationWhitelist: [
+    { pattern: 'anthropic.com',  category: 'claude' },
+    { pattern: 'claude.ai',      category: 'claude' },
+    { pattern: 'openai.com',     category: 'chatgpt' },
+    { pattern: 'chatgpt.com',    category: 'chatgpt' },
+    { pattern: 'deepmind.google', category: 'gemini' },
+    { pattern: 'gemini.google',  category: 'gemini' },
+  ],
+  // Disabled sources — Worker skips these. Names must match those defined in worker.js exactly.
+  disabledSources: [],
+};
+
 const COMMON_TAGS = ['release', 'coding', 'agents', 'research', 'tutorial', 'pricing', 'opinion', 'tool', 'benchmark', 'paper', 'discussion'];
 
 const S = {
   settings: {
     userName: '',
     githubRepo: '',
-    githubToken: ''
+    githubToken: '',
+    viewMode: 'list',  // 'list' | 'grid'
   },
-  feed: { version: 1, items: [], _sha: null },
+  feed: { version: 1, items: [], activity: [], filterConfig: null, _sha: null },
   ui: {
     activeTab: 'team',
     contentType: 'all',
@@ -583,6 +678,22 @@ function settingsConfigured() {
   return !!(S.settings.githubRepo && S.settings.githubToken && S.settings.userName);
 }
 
+function isAdmin() {
+  const me = (S.settings.userName || '').trim().toLowerCase();
+  return ADMIN_NAMES.includes(me);
+}
+
+function getFilterConfig() {
+  return S.feed.filterConfig || DEFAULT_FILTER_CONFIG;
+}
+
+function updateFabVisibility() {
+  const fab = document.getElementById('fab-add');
+  if (!fab) return;
+  // Hide FAB on Feed tab — auto-only, manual additions not allowed there
+  fab.style.display = S.ui.activeTab === 'feed' ? 'none' : '';
+}
+
 // ─────────────────────────────────────────────────────────────
 // STATUS INDICATOR
 // ─────────────────────────────────────────────────────────────
@@ -613,7 +724,7 @@ async function ghLoadFeed() {
     const res = await fetch(url, { headers: await ghHeaders() });
     if (res.status === 404) {
       // File doesn't exist yet — start with empty feed
-      S.feed = { version: 1, items: [], _sha: null };
+      S.feed = { version: 1, items: [], activity: [], filterConfig: JSON.parse(JSON.stringify(DEFAULT_FILTER_CONFIG)), _sha: null };
       setStatus('saved', 'New feed');
       return;
     }
@@ -634,27 +745,29 @@ async function ghLoadFeed() {
 }
 
 function migrateItems() {
+  // Ensure activity log exists
+  if (!Array.isArray(S.feed.activity)) S.feed.activity = [];
+  // Ensure filterConfig exists
+  if (!S.feed.filterConfig) {
+    S.feed.filterConfig = JSON.parse(JSON.stringify(DEFAULT_FILTER_CONFIG));
+  }
   // Migrate old schema (single `tab` field) to new (source + category)
   let migrated = 0;
   S.feed.items.forEach(it => {
     if (it.source !== undefined && it.category !== undefined) return;
-    // Old schema: single `tab` field
     if (it.tab === 'feed') { it.source = 'feed'; it.category = null; }
     else if (it.tab === 'team') { it.source = 'team'; it.category = null; }
     else if (['claude', 'gemini', 'chatgpt', 'other'].includes(it.tab)) {
-      it.source = 'team'; // assume manual since Phase 1 has no auto-fetch
+      it.source = 'team';
       it.category = it.tab;
     } else {
-      // No tab info at all — default to team
       it.source = 'team';
       it.category = null;
     }
     delete it.tab;
     migrated++;
   });
-  if (migrated > 0) {
-    console.log(`Migrated ${migrated} items to new schema`);
-  }
+  if (migrated > 0) console.log(`Migrated ${migrated} items to new schema`);
 }
 
 async function ghSaveFeed(retry = 0) {
@@ -671,7 +784,12 @@ async function ghSaveFeed(retry = 0) {
   setStatus('saving', 'Saving...');
   try {
     const url = `https://api.github.com/repos/${S.settings.githubRepo}/contents/${FEED_PATH}`;
-    const payload = { version: S.feed.version, items: S.feed.items };
+    const payload = {
+      version: S.feed.version,
+      items: S.feed.items,
+      activity: S.feed.activity || [],
+      filterConfig: S.feed.filterConfig || DEFAULT_FILTER_CONFIG,
+    };
     const jsonStr = JSON.stringify(payload, null, 2);
     // Properly encode UTF-8 to base64
     const base64Content = btoa(unescape(encodeURIComponent(jsonStr)));
@@ -712,16 +830,15 @@ async function ghSaveFeed(retry = 0) {
 async function mergeRemoteAndRetry() {
   // Fetch latest from server, merge our local changes, then retry save
   const localItems = S.feed.items.slice();
+  const localActivity = (S.feed.activity || []).slice();
   await ghLoadFeed();
-  // Merge: keep all remote items, overlay our local items (by id)
+  // Merge items: keep all remote items, overlay our local items (by id)
   const remoteById = new Map(S.feed.items.map(it => [it.id, it]));
   for (const localItem of localItems) {
     const remote = remoteById.get(localItem.id);
     if (!remote) {
-      // New local item, add it
       remoteById.set(localItem.id, localItem);
     } else {
-      // Item exists in both — pick most recent _updatedAt
       const localTs = new Date(localItem._updatedAt || localItem.addedAt).getTime();
       const remoteTs = new Date(remote._updatedAt || remote.addedAt).getTime();
       if (localTs >= remoteTs) {
@@ -730,6 +847,14 @@ async function mergeRemoteAndRetry() {
     }
   }
   S.feed.items = Array.from(remoteById.values());
+  // Merge activity by id, keep newest first
+  const actById = new Map((S.feed.activity || []).map(a => [a.id, a]));
+  for (const localAct of localActivity) {
+    if (!actById.has(localAct.id)) actById.set(localAct.id, localAct);
+  }
+  S.feed.activity = Array.from(actById.values())
+    .sort((a, b) => new Date(b.at) - new Date(a.at))
+    .slice(0, ACTIVITY_CAP);
 }
 
 async function ghTestConnection() {
@@ -844,7 +969,8 @@ function parseMetadata(html, url) {
 }
 
 function detectContentType(url) {
-  if (/youtube\.com|youtu\.be|vimeo\.com|twitch\.tv/.test(url)) return 'video';
+  if (/youtube\.com|youtu\.be|vimeo\.com|twitch\.tv|tiktok\.com/.test(url)) return 'video';
+  if (/spotify\.com\/episode|spotify\.com\/show|podcasts\.apple\.com|podcasts\.google\.com|overcast\.fm|pca\.st|castbox\.fm|podbean\.com|anchor\.fm|soundcloud\.com|player\.fm|stitcher\.com|simplecast\.com|buzzsprout\.com|libsyn\.com|transistor\.fm|fireside\.fm|podtail\.com/.test(url)) return 'podcast';
   return 'article';
 }
 
@@ -854,8 +980,68 @@ function getDomain(url) {
 }
 
 // ─────────────────────────────────────────────────────────────
-// ITEM OPERATIONS
+// ACTIVITY LOG
 // ─────────────────────────────────────────────────────────────
+const ACTIVITY_CAP = 500;
+
+function logActivity(type, item, extras = {}) {
+  if (!S.feed.activity) S.feed.activity = [];
+  S.feed.activity.unshift({
+    id: 'a_' + Date.now().toString(36) + '_' + Math.random().toString(36).slice(2, 6),
+    type,                                  // 'add' | 'delete' | 'categorize'
+    itemId: item.id,
+    itemTitle: item.title || item.url,
+    itemUrl: item.url,
+    itemSource: item.source,
+    by: S.settings.userName || 'unknown',
+    at: new Date().toISOString(),
+    ...extras
+  });
+  // Cap to avoid runaway file size
+  if (S.feed.activity.length > ACTIVITY_CAP) {
+    S.feed.activity = S.feed.activity.slice(0, ACTIVITY_CAP);
+  }
+}
+
+// ─────────────────────────────────────────────────────────────
+// URL NORMALIZATION & DUPLICATE DETECTION
+// ─────────────────────────────────────────────────────────────
+const TRACKING_PARAMS = new Set([
+  'utm_source','utm_medium','utm_campaign','utm_term','utm_content',
+  'fbclid','gclid','dclid','msclkid','yclid',
+  'ref','ref_src','source','referrer','origin',
+  'mc_cid','mc_eid','_ga','_gl','igshid','si','feature','spm'
+]);
+
+function normalizeUrl(rawUrl) {
+  if (!rawUrl) return '';
+  try {
+    const u = new URL(rawUrl.trim());
+    // YouTube: canonicalize to youtube.com/watch?v=ID (strips youtu.be, m.youtube, embed/, shorts/)
+    const ytId = extractYoutubeId(rawUrl);
+    if (ytId) return `youtube.com/watch?v=${ytId}`;
+    // Lowercase host, strip www
+    let host = u.hostname.toLowerCase().replace(/^www\./, '');
+    // Strip tracking params
+    const params = new URLSearchParams(u.search);
+    const cleanParams = new URLSearchParams();
+    Array.from(params.keys()).sort().forEach(k => {
+      if (!TRACKING_PARAMS.has(k.toLowerCase())) cleanParams.append(k, params.get(k));
+    });
+    const qs = cleanParams.toString();
+    // Strip trailing slash from path
+    let path = u.pathname.replace(/\/+$/, '') || '/';
+    return host + path + (qs ? '?' + qs : '');
+  } catch (e) {
+    return rawUrl.trim().toLowerCase();
+  }
+}
+
+function findDuplicate(url) {
+  const norm = normalizeUrl(url);
+  if (!norm) return null;
+  return S.feed.items.find(it => normalizeUrl(it.url) === norm) || null;
+}
 function genId() {
   return 'i_' + Date.now().toString(36) + '_' + Math.random().toString(36).slice(2, 8);
 }
@@ -910,9 +1096,11 @@ function markAsRead(itemId) {
 function setItemCategory(itemId, category) {
   const it = findItem(itemId);
   if (!it) return;
-  // category can be null (uncategorize) or one of claude/gemini/chatgpt/other
+  if (it.category === category) return;  // no change
+  const oldCategory = it.category;
   it.category = category;
   it._updatedAt = new Date().toISOString();
+  logActivity('categorize', it, { oldCategory, newCategory: category });
   ghSaveFeed();
   render();
 }
@@ -920,6 +1108,8 @@ function setItemCategory(itemId, category) {
 function deleteItem(itemId) {
   const idx = S.feed.items.findIndex(it => it.id === itemId);
   if (idx >= 0) {
+    const it = S.feed.items[idx];
+    logActivity('delete', it);
     S.feed.items.splice(idx, 1);
     ghSaveFeed();
     render();
@@ -1009,7 +1199,7 @@ function updateTabCounts() {
     const el = document.querySelector(`[data-count="${tab}"]`);
     if (el) el.textContent = countWithFilters({ activeTab: tab });
   });
-  ['all', 'article', 'video', 'other'].forEach(type => {
+  ['all', 'article', 'video', 'podcast', 'other'].forEach(type => {
     const el = document.querySelector(`[data-type-count="${type}"]`);
     if (el) el.textContent = countWithFilters({ contentType: type });
   });
@@ -1046,7 +1236,16 @@ function updateFilterDropdowns() {
 function render() {
   updateTabCounts();
   updateFilterDropdowns();
+  updateFabVisibility();
   const container = document.getElementById('items-container');
+  // Toggle view mode
+  container.classList.toggle('list-view', S.settings.viewMode === 'list');
+  // Update toggle button icon
+  const tg = document.getElementById('view-toggle');
+  if (tg) {
+    tg.textContent = S.settings.viewMode === 'list' ? '☰' : '▦';
+    tg.title = S.settings.viewMode === 'list' ? 'Switch to grid view' : 'Switch to list view';
+  }
   const items = getFilteredItems();
 
   if (!settingsConfigured()) {
@@ -1095,7 +1294,8 @@ function renderCard(it) {
   const showCatBadge = ['claude', 'gemini', 'chatgpt', 'other'].includes(it.category);
   const tabBadge = showCatBadge ? `<span class="item-tab-badge tab-${it.category}">${TAB_LABELS[it.category]}</span>` : '';
   const sourceBadge = it.domain ? `<span class="item-source-badge">${faviconImg(it.domain)} ${escapeHtml(it.domain)}</span>` : '';
-  const typeIcon = it.contentType === 'video' ? '<div class="type-icon">▶</div>' : '';
+  const typeEmoji = it.contentType === 'video' ? '▶' : (it.contentType === 'podcast' ? '🎙' : '📄');
+  const typeIcon = (it.contentType === 'video' || it.contentType === 'podcast') ? `<div class="type-icon">${typeEmoji}</div>` : '';
   const tags = (it.tags || []).slice(0, 3).map(t => `<span class="tag-chip">#${escapeHtml(t)}</span>`).join('');
   const reactionChips = REACTIONS.map(r => {
     const list = it.reactions?.[r.key] || [];
@@ -1108,8 +1308,8 @@ function renderCard(it) {
     <div class="item-card ${isUnread ? 'unread' : ''}" onclick="openItemDetail('${it.id}')">
       <div class="item-image">
         ${it.image
-          ? `<img src="${escapeAttr(it.image)}" onerror="this.outerHTML='<div class=\\'item-image-fallback\\'>${it.contentType === 'video' ? '▶' : '📄'}</div>'" alt="">`
-          : `<div class="item-image-fallback">${it.contentType === 'video' ? '▶' : '📄'}</div>`}
+          ? `<img src="${escapeAttr(it.image)}" onerror="this.outerHTML='<div class=\\'item-image-fallback\\'>${typeEmoji}</div>'" alt="">`
+          : `<div class="item-image-fallback">${typeEmoji}</div>`}
         ${sourceBadge}
         ${tabBadge}
         ${typeIcon}
@@ -1152,11 +1352,45 @@ function closeModal() {
 
 // ─── Settings modal ───
 function openSettings() {
+  const cfg = getFilterConfig();
+  const adminEditable = isAdmin();
+
+  const filterRulesHtml = `
+        <div class="settings-section">
+          <div class="settings-section-title">
+            🛡 Auto-fetch filter rules
+            ${adminEditable ? '' : '<span style="font-weight:500; color:var(--muted); text-transform:none; letter-spacing:0; font-size:11px; margin-left:8px;">(admin only — read-only)</span>'}
+          </div>
+          <div class="settings-section-sub">
+            Applied by the auto-fetch Worker before adding items to the Feed tab.
+            ${adminEditable ? '<strong>Changes save to GitHub and apply on next Worker run.</strong>' : 'Visible to all team members. Only admins can edit.'}
+          </div>
+
+          <div class="field" style="margin-top: 14px;">
+            <label>Blacklist keywords <span style="font-weight:500; color:var(--muted); text-transform:none; letter-spacing:0;">— one per line, case-insensitive</span></label>
+            <textarea id="cfg-blacklist" rows="6" ${adminEditable ? '' : 'disabled'} placeholder="taylor swift&#10;kardashian&#10;crypto pump">${escapeHtml((cfg.blacklistKeywords || []).join('\n'))}</textarea>
+            <div class="field-help">Items whose title or description contains any of these are skipped.</div>
+          </div>
+
+          <div class="field">
+            <label>Auto-categorization whitelist</label>
+            <div class="field-help" style="margin-bottom: 8px;">Domains and patterns that put items into a model tab automatically. Format per line: <code style="background:var(--navy-tint); padding:1px 4px; border-radius:3px;">pattern → category</code></div>
+            <textarea id="cfg-whitelist" rows="6" ${adminEditable ? '' : 'disabled'} placeholder="anthropic.com → claude&#10;openai.com → chatgpt&#10;deepmind.google → gemini">${escapeHtml((cfg.categorizationWhitelist || []).map(r => `${r.pattern} → ${r.category}`).join('\n'))}</textarea>
+            <div class="field-help">Valid categories: <code>claude</code>, <code>gemini</code>, <code>chatgpt</code>, <code>other</code>. Anything not matching stays uncategorized in Feed.</div>
+          </div>
+
+          <div class="field">
+            <label>Disabled sources <span style="font-weight:500; color:var(--muted); text-transform:none; letter-spacing:0;">— one per line</span></label>
+            <textarea id="cfg-disabled" rows="3" ${adminEditable ? '' : 'disabled'} placeholder="r/singularity&#10;TechCrunch AI">${escapeHtml((cfg.disabledSources || []).join('\n'))}</textarea>
+            <div class="field-help">Source name as listed in Worker. Examples: <code>r/singularity</code>, <code>HackerNews</code>, <code>TechCrunch AI</code>, <code>The Verge AI</code>, <code>Fireship</code>.</div>
+          </div>
+        </div>`;
+
   const html = `
-    <div class="modal-box modal-narrow">
+    <div class="modal-box ${adminEditable ? 'modal-wide' : ''}">
       <div class="modal-head">
         <div class="modal-title">⚙ Settings</div>
-        <div class="modal-sub">Stored locally on this device only.</div>
+        <div class="modal-sub">Personal settings stored locally. Filter rules saved to team's GitHub.</div>
       </div>
       <div class="modal-body">
         <div class="settings-section">
@@ -1182,6 +1416,7 @@ function openSettings() {
           <button class="btn btn-secondary" onclick="testGithubConnection()" style="margin-top:6px;">Test connection</button>
           <div id="test-result"></div>
         </div>
+        ${filterRulesHtml}
       </div>
       <div class="modal-foot">
         <button class="btn btn-ghost" onclick="closeModal()">Cancel</button>
@@ -1221,21 +1456,156 @@ async function saveSettingsFromModal() {
   const repo = document.getElementById('set-repo').value.trim();
   const token = document.getElementById('set-token').value.trim();
   if (!name || !repo || !token) {
-    alert('All three fields are required.');
+    alert('Name, repo, and token are required.');
     return;
   }
   S.settings.userName = name;
   S.settings.githubRepo = repo;
   S.settings.githubToken = token;
   saveSettings();
+
+  // If admin, parse and save filter config too
+  let configChanged = false;
+  if (isAdmin()) {
+    const blacklistEl = document.getElementById('cfg-blacklist');
+    const whitelistEl = document.getElementById('cfg-whitelist');
+    const disabledEl = document.getElementById('cfg-disabled');
+    if (blacklistEl && whitelistEl && disabledEl) {
+      const newConfig = {
+        blacklistKeywords: parseLines(blacklistEl.value).map(s => s.toLowerCase()),
+        categorizationWhitelist: parseWhitelist(whitelistEl.value),
+        disabledSources: parseLines(disabledEl.value),
+      };
+      if (JSON.stringify(newConfig) !== JSON.stringify(S.feed.filterConfig)) {
+        S.feed.filterConfig = newConfig;
+        configChanged = true;
+      }
+    }
+  }
+
   closeModal();
-  // Reload feed with new credentials
   try {
-    await ghLoadFeed();
+    if (configChanged) {
+      // Save current state with new config
+      await ghSaveFeed();
+    } else {
+      // Just reload feed with new credentials
+      await ghLoadFeed();
+    }
     render();
   } catch (e) {
-    alert('Saved settings, but feed load failed: ' + e.message);
+    alert('Saved settings, but feed sync failed: ' + e.message);
   }
+}
+
+function parseLines(text) {
+  return (text || '').split('\n')
+    .map(s => s.trim())
+    .filter(s => s.length > 0);
+}
+
+function parseWhitelist(text) {
+  const validCategories = new Set(MODEL_CATEGORIES);
+  const rules = [];
+  for (const line of parseLines(text)) {
+    const m = line.match(/^(.+?)\s*(?:→|->|=>|\|)\s*(\w+)$/);
+    if (!m) continue;
+    const pattern = m[1].trim();
+    const category = m[2].trim().toLowerCase();
+    if (validCategories.has(category) && pattern) {
+      rules.push({ pattern, category });
+    }
+  }
+  return rules;
+}
+
+// ─── History modal ───
+function openHistory() {
+  const acts = (S.feed.activity || []).slice();
+  let bodyHtml;
+  if (acts.length === 0) {
+    bodyHtml = `
+      <div style="text-align:center; padding:40px 20px; color: var(--muted);">
+        <div style="font-size:42px; opacity:0.5; margin-bottom:12px;">📭</div>
+        <div style="font-size:13px;">No activity yet. Add or move some items to populate the log.</div>
+      </div>`;
+  } else {
+    // Group by day
+    const groups = new Map();
+    for (const a of acts) {
+      const key = formatDayKey(a.at);
+      if (!groups.has(key)) groups.set(key, []);
+      groups.get(key).push(a);
+    }
+    bodyHtml = '';
+    for (const [day, entries] of groups) {
+      bodyHtml += `<div class="history-day-label">${day}</div>`;
+      bodyHtml += entries.map(renderActivityEntry).join('');
+    }
+  }
+  const html = `
+    <div class="modal-box modal-wide">
+      <div class="modal-head">
+        <div class="modal-title">🕐 Activity</div>
+        <div class="modal-sub">Latest changes from the team. Last ${ACTIVITY_CAP} actions are kept.</div>
+      </div>
+      <div class="modal-body" style="padding-top: 12px;">
+        ${bodyHtml}
+      </div>
+      <div class="modal-foot">
+        <button class="btn btn-secondary" onclick="closeModal()">Close</button>
+      </div>
+    </div>`;
+  showModal(html);
+}
+
+function renderActivityEntry(a) {
+  let icon = '•', verb = '', extra = '';
+  if (a.type === 'add') {
+    icon = '🆕'; verb = 'added';
+    if (a.category) extra = `<span class="item-tab-badge tab-${a.category}" style="position:static;box-shadow:none;font-size:9px;padding:2px 6px;margin-left:6px;">${TAB_LABELS[a.category]}</span>`;
+  } else if (a.type === 'delete') {
+    icon = '🗑'; verb = 'deleted';
+  } else if (a.type === 'categorize') {
+    icon = '🏷'; 
+    if (a.newCategory && a.oldCategory) {
+      verb = `re-categorized as`;
+      extra = `<span class="item-tab-badge tab-${a.newCategory}" style="position:static;box-shadow:none;font-size:9px;padding:2px 6px;margin-left:6px;">${TAB_LABELS[a.newCategory]}</span> <span style="color:var(--muted);font-size:10px;">(was ${TAB_LABELS[a.oldCategory]})</span>`;
+    } else if (a.newCategory) {
+      verb = 'categorized as';
+      extra = `<span class="item-tab-badge tab-${a.newCategory}" style="position:static;box-shadow:none;font-size:9px;padding:2px 6px;margin-left:6px;">${TAB_LABELS[a.newCategory]}</span>`;
+    } else {
+      verb = `removed category`;
+      extra = a.oldCategory ? `<span style="color:var(--muted);font-size:10px;margin-left:6px;">(was ${TAB_LABELS[a.oldCategory]})</span>` : '';
+    }
+  }
+  const itemStillExists = !!findItem(a.itemId);
+  const titleHtml = itemStillExists
+    ? `<a href="#" onclick="event.preventDefault(); closeModal(); openItemDetail('${a.itemId}');" class="history-item-link">${escapeHtml(a.itemTitle)}</a>`
+    : `<span class="history-item-deleted">${escapeHtml(a.itemTitle)}</span>`;
+  return `
+    <div class="history-entry">
+      <div class="history-icon">${icon}</div>
+      <div class="history-text">
+        <strong>${escapeHtml(a.by)}</strong> <span style="color:var(--muted)">${verb}</span> ${titleHtml}${extra}
+      </div>
+      <div class="history-time">${formatTime(a.at)}</div>
+    </div>`;
+}
+
+function formatDayKey(iso) {
+  const d = new Date(iso);
+  const today = new Date();
+  const yesterday = new Date(today.getFullYear(), today.getMonth(), today.getDate() - 1);
+  const dDay = new Date(d.getFullYear(), d.getMonth(), d.getDate());
+  const tDay = new Date(today.getFullYear(), today.getMonth(), today.getDate());
+  if (dDay.getTime() === tDay.getTime()) return 'TODAY';
+  if (dDay.getTime() === yesterday.getTime()) return 'YESTERDAY';
+  return d.toLocaleDateString(undefined, { weekday: 'short', month: 'short', day: 'numeric' }).toUpperCase();
+}
+
+function formatTime(iso) {
+  return new Date(iso).toLocaleTimeString(undefined, { hour: '2-digit', minute: '2-digit' });
 }
 
 // ─── Add Link modal ───
@@ -1279,6 +1649,7 @@ function openAddLink() {
               <select id="add-type">
                 <option value="article">📄 Article</option>
                 <option value="video">▶ Video</option>
+                <option value="podcast">🎙 Podcast</option>
                 <option value="other">⚙ Other</option>
               </select>
             </div>
@@ -1321,6 +1692,26 @@ async function fetchAndFillMetadata() {
     document.getElementById('fetch-status').innerHTML = '<div class="test-result error">URL must start with http:// or https://</div>';
     return;
   }
+
+  // Duplicate check first — cheap, runs locally
+  const dup = findDuplicate(url);
+  if (dup) {
+    const dupCategory = dup.category ? ` · in <strong>${TAB_LABELS[dup.category]}</strong>` : '';
+    const sourceLabel = dup.source === 'feed' ? 'Auto-fetched' : 'Shared by ' + escapeHtml(dup.addedBy || 'someone');
+    document.getElementById('fetch-status').innerHTML = `
+      <div class="test-result error" style="display:flex;flex-direction:column;gap:6px;align-items:flex-start;">
+        <div><strong>⚠ Already in your feed</strong></div>
+        <div style="font-weight:500;font-size:11px;line-height:1.5;">
+          "${escapeHtml(dup.title)}"<br>
+          ${sourceLabel} · ${timeAgo(dup.addedAt)}${dupCategory}
+        </div>
+        <button class="btn btn-secondary" style="padding:5px 10px;font-size:11px;margin-top:4px;" onclick="closeModal(); openItemDetail('${dup.id}');">Open existing</button>
+      </div>`;
+    document.getElementById('add-form').style.display = 'none';
+    document.getElementById('save-link-btn').disabled = true;
+    return;
+  }
+
   document.getElementById('fetch-status').innerHTML = '<div class="test-result loading"><span class="spinner"></span> Fetching metadata...</div>';
   document.getElementById('fetch-btn').disabled = true;
 
@@ -1422,6 +1813,7 @@ async function saveLinkFromModal() {
     tags
   });
   S.feed.items.unshift(item);
+  logActivity('add', item, { category });
   closeModal();
   render();
   await ghSaveFeed();
@@ -1578,9 +1970,17 @@ function wireEvents() {
     render();
   });
 
+  // View toggle
+  document.getElementById('view-toggle').addEventListener('click', () => {
+    S.settings.viewMode = S.settings.viewMode === 'list' ? 'grid' : 'list';
+    saveSettings();
+    render();
+  });
+
   // Buttons
   document.getElementById('fab-add').addEventListener('click', openAddLink);
   document.getElementById('settings-btn').addEventListener('click', openSettings);
+  document.getElementById('history-btn').addEventListener('click', openHistory);
   document.getElementById('sync-btn').addEventListener('click', async () => {
     const btn = document.getElementById('sync-btn');
     btn.disabled = true;
