@@ -236,7 +236,7 @@
       "domain": "reddit.com",
       "contentType": "article",
       "source": "feed",
-      "category": "claude",
+      "category": null,
       "tags": [],
       "addedAt": "2026-04-28T13:29:31.000Z",
       "addedBy": "r/ClaudeAI",
@@ -249,7 +249,7 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-04-29T06:19:39.067Z"
+      "_updatedAt": "2026-04-29T06:19:42.428Z"
     },
     {
       "id": "i_mojh0idr_cr55iv",
@@ -1348,6 +1348,18 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mojo0lp8_foyw",
+      "type": "categorize",
+      "itemId": "i_mojh0idr_lbejie",
+      "itemTitle": "Claude has made me excited to work",
+      "itemUrl": "https://www.reddit.com/r/ClaudeAI/comments/1sy1hyb/claude_has_made_me_excited_to_work/",
+      "itemSource": "feed",
+      "by": "Boris",
+      "at": "2026-04-29T06:19:42.428Z",
+      "oldCategory": "claude",
+      "newCategory": null
+    },
     {
       "id": "a_mojo0ge3_qnx2",
       "type": "categorize",
