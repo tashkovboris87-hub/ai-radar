@@ -212,7 +212,7 @@
       "domain": "youtu.be",
       "contentType": "video",
       "source": "feed",
-      "category": "claude",
+      "category": null,
       "tags": [],
       "addedAt": "2026-04-28T15:13:20.000Z",
       "addedBy": "r/ClaudeAI",
@@ -225,7 +225,7 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-04-29T06:19:33.726Z"
+      "_updatedAt": "2026-04-29T06:19:35.547Z"
     },
     {
       "id": "i_mojh0idr_lbejie",
@@ -1346,6 +1346,18 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mojo0ge3_qnx2",
+      "type": "categorize",
+      "itemId": "i_mojh0idr_dn3sqr",
+      "itemTitle": "Claude now connects to Blender",
+      "itemUrl": "https://youtu.be/LZMWsZbZU5w",
+      "itemSource": "feed",
+      "by": "Boris",
+      "at": "2026-04-29T06:19:35.547Z",
+      "oldCategory": "claude",
+      "newCategory": null
+    },
     {
       "id": "a_mojo0cqn_azak",
       "type": "categorize",
