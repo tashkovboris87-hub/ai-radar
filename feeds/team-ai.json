@@ -180,30 +180,6 @@
       "_updatedAt": "2026-04-29T06:19:30.815Z"
     },
     {
-      "id": "i_mojh0idr_ntc5ui",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1syipwf/opus_47_is_just_46_with_a_stick_up_its_butt_give/",
-      "title": "Opus 4.7 is just 4.6 with a stick up its butt. Give me my tokens back!",
-      "description": "I've been a Claude user for a while now, and don't get me wrong — Claude has almost always been one of the most insufferable models when it comes to its \"morals.\" But 4.7 has been one of the absolute worst experiences I've had with any AI model. I want a refund system for the wasted tokens I've had ",
-      "image": "",
-      "domain": "reddit.com",
-      "contentType": "article",
-      "source": "feed",
-      "category": null,
-      "tags": [],
-      "addedAt": "2026-04-29T00:06:48.000Z",
-      "addedBy": "r/ClaudeAI",
-      "readBy": [
-        "Boris"
-      ],
-      "reactions": {
-        "important": [],
-        "must_read": [],
-        "watch_later": [],
-        "tried": []
-      },
-      "_updatedAt": "2026-04-29T06:19:47.280Z"
-    },
-    {
       "id": "i_mojh0idr_dn3sqr",
       "url": "https://youtu.be/LZMWsZbZU5w",
       "title": "Claude now connects to Blender",
@@ -1348,6 +1324,16 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mojo0sz4_3dl5",
+      "type": "delete",
+      "itemId": "i_mojh0idr_ntc5ui",
+      "itemTitle": "Opus 4.7 is just 4.6 with a stick up its butt. Give me my tokens back!",
+      "itemUrl": "https://www.reddit.com/r/ClaudeAI/comments/1syipwf/opus_47_is_just_46_with_a_stick_up_its_butt_give/",
+      "itemSource": "feed",
+      "by": "Boris",
+      "at": "2026-04-29T06:19:51.856Z"
+    },
     {
       "id": "a_mojo0pg0_s4hi",
       "type": "categorize",
