@@ -482,7 +482,7 @@
       "domain": "github.com",
       "contentType": "article",
       "source": "feed",
-      "category": "claude",
+      "category": null,
       "tags": [],
       "addedAt": "2026-04-28T23:59:57.000Z",
       "addedBy": "HackerNews",
@@ -495,7 +495,7 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-04-29T04:11:28.496Z"
+      "_updatedAt": "2026-04-29T06:19:55.059Z"
     },
     {
       "id": "i_mojh0idr_af25ia",
@@ -1324,6 +1324,18 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mojo0vg3_c0x5",
+      "type": "categorize",
+      "itemId": "i_mojh0idr_eusikg",
+      "itemTitle": "Claude system prompt bug wastes user money and bricks managed agents",
+      "itemUrl": "https://github.com/anthropics/claude-code/issues/49363",
+      "itemSource": "feed",
+      "by": "Boris",
+      "at": "2026-04-29T06:19:55.059Z",
+      "oldCategory": "claude",
+      "newCategory": null
+    },
     {
       "id": "a_mojo0sz4_3dl5",
       "type": "delete",
