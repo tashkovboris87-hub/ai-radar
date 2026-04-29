@@ -1056,14 +1056,16 @@
       "tags": [],
       "addedAt": "2026-04-28T23:17:12.000Z",
       "addedBy": "The Verge AI",
-      "readBy": [],
+      "readBy": [
+        "Boris"
+      ],
       "reactions": {
         "important": [],
         "must_read": [],
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-04-29T03:03:40.815Z"
+      "_updatedAt": "2026-04-29T06:14:19.140Z"
     },
     {
       "id": "i_mojh0idr_cawfst",
@@ -1484,5 +1486,45 @@
       "at": "2026-04-29T06:06:27.386Z"
     }
   ],
-  "filterConfig": null
+  "filterConfig": {
+    "blacklistKeywords": [
+      "taylor swift",
+      "kardashian",
+      "celebrity",
+      "gossip",
+      "crypto pump",
+      "meme coin",
+      "nft drop",
+      "trump",
+      "politics",
+      "election"
+    ],
+    "categorizationWhitelist": [
+      {
+        "pattern": "anthropic.com",
+        "category": "claude"
+      },
+      {
+        "pattern": "claude.ai",
+        "category": "claude"
+      },
+      {
+        "pattern": "openai.com",
+        "category": "chatgpt"
+      },
+      {
+        "pattern": "chatgpt.com",
+        "category": "chatgpt"
+      },
+      {
+        "pattern": "deepmind.google",
+        "category": "gemini"
+      },
+      {
+        "pattern": "gemini.google",
+        "category": "gemini"
+      }
+    ],
+    "disabledSources": []
+  }
 }
