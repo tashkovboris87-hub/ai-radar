@@ -130,6 +130,7 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
 .chip {
   background: transparent; color: var(--muted); border: none; border-radius: 5px;
   padding: 4px 10px; font-size: 12px; font-weight: 500; cursor: pointer; transition: all .15s;
+  display: inline-flex; align-items: center; gap: 5px;
 }
 .chip:hover { color: var(--navy); background: rgba(255,255,255,0.8); }
 .chip.active { background: #fff; color: var(--navy); font-weight: 600; box-shadow: 0 1px 3px rgba(25,33,102,0.06); }
@@ -536,12 +537,12 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
       </div>
     </div>
     <div class="tabs-wrap" id="tabs-wrap">
-      <button class="tab-btn" data-tab="feed" title="Auto-fetched from web (coming in Phase 2)">Feed <span class="tab-count" data-count="feed">0</span></button>
-      <button class="tab-btn active" data-tab="team" title="Team's curated picks">Team Feed <span class="tab-count" data-count="team">0</span></button>
-      <button class="tab-btn" data-tab="claude">Claude <span class="tab-count" data-count="claude">0</span></button>
-      <button class="tab-btn" data-tab="gemini">Gemini <span class="tab-count" data-count="gemini">0</span></button>
-      <button class="tab-btn" data-tab="chatgpt">ChatGPT <span class="tab-count" data-count="chatgpt">0</span></button>
-      <button class="tab-btn" data-tab="other">Other <span class="tab-count" data-count="other">0</span></button>
+      <button class="tab-btn" data-tab="feed" title="Auto-fetched from web (coming in Phase 2)"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="2"/><path d="M8.5 8.5a5 5 0 0 0 0 7M15.5 8.5a5 5 0 0 1 0 7"/><path d="M5.5 5.5a9.5 9.5 0 0 0 0 13M18.5 5.5a9.5 9.5 0 0 1 0 13"/></svg> Feed <span class="tab-count" data-count="feed">0</span></button>
+      <button class="tab-btn active" data-tab="team" title="Team's curated picks"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg> Team Feed <span class="tab-count" data-count="team">0</span></button>
+      <button class="tab-btn" data-tab="claude"><span style="width:8px;height:8px;border-radius:50%;background:var(--claude);display:inline-block;flex-shrink:0"></span> Claude <span class="tab-count" data-count="claude">0</span></button>
+      <button class="tab-btn" data-tab="gemini"><span style="width:8px;height:8px;border-radius:50%;background:var(--gemini);display:inline-block;flex-shrink:0"></span> Gemini <span class="tab-count" data-count="gemini">0</span></button>
+      <button class="tab-btn" data-tab="chatgpt"><span style="width:8px;height:8px;border-radius:50%;background:var(--chatgpt);display:inline-block;flex-shrink:0"></span> ChatGPT <span class="tab-count" data-count="chatgpt">0</span></button>
+      <button class="tab-btn" data-tab="other"><span style="width:8px;height:8px;border-radius:50%;background:var(--other);display:inline-block;flex-shrink:0"></span> Other <span class="tab-count" data-count="other">0</span></button>
     </div>
     <div class="topbar-right">
       <button class="icon-btn icon-btn-square" id="history-btn" title="Activity history"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg></button>
@@ -557,10 +558,10 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
     </div>
     <div class="filter-chips" id="type-chips">
       <button class="chip active" data-type="all">All <span class="chip-count" data-type-count="all">0</span></button>
-      <button class="chip" data-type="article">Articles <span class="chip-count" data-type-count="article">0</span></button>
-      <button class="chip" data-type="video">Videos <span class="chip-count" data-type-count="video">0</span></button>
-      <button class="chip" data-type="podcast">Podcasts <span class="chip-count" data-type-count="podcast">0</span></button>
-      <button class="chip" data-type="other">Other <span class="chip-count" data-type-count="other">0</span></button>
+      <button class="chip" data-type="article"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg> Articles <span class="chip-count" data-type-count="article">0</span></button>
+      <button class="chip" data-type="video"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="23 7 16 12 23 17 23 7"/><rect x="1" y="5" width="15" height="14" rx="2" ry="2"/></svg> Videos <span class="chip-count" data-type-count="video">0</span></button>
+      <button class="chip" data-type="podcast"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" y1="19" x2="12" y2="23"/><line x1="8" y1="23" x2="16" y2="23"/></svg> Podcasts <span class="chip-count" data-type-count="podcast">0</span></button>
+      <button class="chip" data-type="other"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="1"/><circle cx="19" cy="12" r="1"/><circle cx="5" cy="12" r="1"/></svg> Other <span class="chip-count" data-type-count="other">0</span></button>
     </div>
     <select class="filter-select" id="sharedby-filter">
       <option value="">All members</option>
