@@ -15,8 +15,8 @@
   --green:     #3d9e4a;
   --red:       #e4003a;
   /* Surfaces */
-  --bg:        #eef2f8;
-  --bg2:       #f4f7fc;
+  --bg:        #f0f2f7;
+  --bg2:       #f6f8fc;
   --surface:   rgba(255,255,255,0.82);
   --surface-s: #ffffff;
   --border:    rgba(25,33,102,0.11);
@@ -51,16 +51,8 @@ body {
 body::before {
   content: ''; position: fixed; inset: 0; z-index: 0; pointer-events: none;
   background:
-    radial-gradient(ellipse 60% 45% at 8% 12%, rgba(25,33,102,0.10) 0%, transparent 65%),
-    radial-gradient(ellipse 40% 38% at 95% 80%, rgba(0,196,208,0.10) 0%, transparent 65%),
-    radial-gradient(ellipse 35% 30% at 60% 0%, rgba(0,159,179,0.07) 0%, transparent 60%),
-    radial-gradient(ellipse 28% 35% at 86% 34%, rgba(61,158,74,0.06) 0%, transparent 55%),
-    radial-gradient(ellipse 45% 25% at 30% 96%, rgba(217,119,6,0.05) 0%, transparent 55%);
-}
-body::after {
-  content: ''; position: fixed; inset: 0; z-index: 0; pointer-events: none;
-  background-image: radial-gradient(circle, rgba(25,33,102,0.06) 1px, transparent 1px);
-  background-size: 32px 32px;
+    radial-gradient(ellipse 55% 40% at 0% 0%, rgba(25,33,102,0.05) 0%, transparent 70%),
+    radial-gradient(ellipse 40% 35% at 100% 100%, rgba(0,196,208,0.05) 0%, transparent 70%);
 }
 #app { position: relative; z-index: 1; display: flex; flex-direction: column; min-height: 100vh; }
 ::-webkit-scrollbar { width: 8px; height: 8px; }
@@ -70,23 +62,21 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
 
 /* ── TOPBAR ── */
 .topbar {
-  background: rgba(255,255,255,0.85); backdrop-filter: blur(20px);
+  background: #fff;
   border-bottom: 1px solid var(--border);
-  padding: 0 22px; height: 60px;
+  padding: 0 22px; height: 56px;
   display: flex; align-items: center; justify-content: space-between;
   flex-shrink: 0; gap: 16px;
-  box-shadow: 0 2px 16px rgba(25,33,102,0.05);
+  box-shadow: none;
   position: sticky; top: 0; z-index: 100;
 }
 .topbar-left { display: flex; align-items: center; gap: 12px; }
 .logo-icon {
-  width: 36px; height: 36px; border-radius: 10px; flex-shrink: 0;
-  background: var(--grad);
+  width: 32px; height: 32px; flex-shrink: 0;
   display: flex; align-items: center; justify-content: center;
-  font-size: 18px; color: #fff;
-  box-shadow: 0 3px 10px rgba(25,33,102,0.30);
+  color: var(--teal-deep);
 }
-.topbar-title { font-size: 16px; font-weight: 800; color: var(--navy); letter-spacing: -.3px; }
+.topbar-title { font-size: 15px; font-weight: 700; color: var(--navy); letter-spacing: -.2px; }
 .topbar-sub { font-size: 11px; color: var(--muted); margin-top: 1px; display: flex; align-items: center; gap: 8px; }
 .save-dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; cursor: help; transition: all .2s; }
 .save-dot.saving { background: var(--teal-deep); animation: pulse 1.2s infinite; }
@@ -94,16 +84,17 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
 .save-dot.error  { background: var(--red); box-shadow: 0 0 0 3px rgba(228,0,58,0.20); }
 @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.3; } }
 
-.tabs-wrap { display: flex; gap: 2px; background: #edf0f8; border-radius: 11px; padding: 3px; border: 1px solid var(--border); }
+.tabs-wrap { display: flex; gap: 2px; background: transparent; border-radius: 0; padding: 0; border: none; border-bottom: 1px solid var(--border); align-self: stretch; }
 .tab-btn {
-  background: transparent; color: var(--muted); border: none; border-radius: var(--r-sm);
-  padding: 7px 16px; font-size: 13px; font-weight: 600; cursor: pointer;
+  background: transparent; color: var(--muted); border: none; border-radius: 0;
+  padding: 0 16px; height: 44px; font-size: 13px; font-weight: 500; cursor: pointer;
   transition: all .15s; white-space: nowrap; display: flex; align-items: center; gap: 6px;
+  border-bottom: 2px solid transparent; margin-bottom: -1px;
 }
 .tab-btn:hover { color: var(--navy); background: var(--navy-tint); }
-.tab-btn.active { background: var(--grad); color: #fff; font-weight: 700; box-shadow: 0 2px 10px rgba(25,33,102,0.25); }
-.tab-count { font-size: 10px; background: rgba(255,255,255,0.25); border-radius: 10px; padding: 1px 6px; font-weight: 700; }
-.tab-btn:not(.active) .tab-count { background: var(--navy-tint); color: var(--muted); }
+.tab-btn.active { background: #fff; color: var(--navy); font-weight: 700; box-shadow: 0 1px 4px rgba(25,33,102,0.10); border-bottom: 2px solid var(--teal-deep); }
+.tab-count { font-size: 10px; background: var(--navy-tint); border-radius: 6px; padding: 1px 6px; font-weight: 600; color: var(--muted); }
+.tab-btn.active .tab-count { background: rgba(0,158,189,0.12); color: var(--teal-deep); }
 
 .topbar-right { display: flex; align-items: center; gap: 8px; flex-shrink: 0; }
 .icon-btn {
@@ -117,9 +108,9 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
 
 /* ── FILTERBAR ── */
 .filterbar {
-  background: rgba(255,255,255,0.6); backdrop-filter: blur(12px);
+  background: #fff;
   border-bottom: 1px solid var(--border);
-  padding: 12px 22px; display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
+  padding: 10px 22px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
 }
 .filter-search {
   flex: 1; min-width: 200px; max-width: 360px; position: relative;
@@ -135,13 +126,13 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
   position: absolute; left: 11px; top: 50%; transform: translateY(-50%);
   color: var(--muted); font-size: 14px; pointer-events: none;
 }
-.filter-chips { display: flex; gap: 4px; background: rgba(237,240,248,0.7); border-radius: var(--r-sm); padding: 3px; }
+.filter-chips { display: flex; gap: 2px; background: var(--bg); border-radius: var(--r-sm); padding: 3px; border: 1px solid var(--border); }
 .chip {
-  background: transparent; color: var(--muted); border: none; border-radius: 7px;
-  padding: 5px 11px; font-size: 12px; font-weight: 600; cursor: pointer; transition: all .15s;
+  background: transparent; color: var(--muted); border: none; border-radius: 5px;
+  padding: 4px 10px; font-size: 12px; font-weight: 500; cursor: pointer; transition: all .15s;
 }
-.chip:hover { color: var(--navy); background: rgba(255,255,255,0.6); }
-.chip.active { background: #fff; color: var(--teal-deep); box-shadow: 0 1px 3px rgba(25,33,102,0.06); }
+.chip:hover { color: var(--navy); background: rgba(255,255,255,0.8); }
+.chip.active { background: #fff; color: var(--navy); font-weight: 600; box-shadow: 0 1px 3px rgba(25,33,102,0.06); }
 .chip-count { font-size: 10px; background: var(--navy-tint); color: var(--muted); border-radius: 10px; padding: 1px 6px; font-weight: 700; margin-left: 4px; }
 .chip.active .chip-count { background: var(--teal-tint); color: var(--teal-deep); }
 
@@ -155,8 +146,8 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
 
 .toggle-btn {
   background: rgba(255,255,255,0.8); border: 1.5px solid var(--border-m);
-  border-radius: var(--r-sm); padding: 7px 12px; font-size: 12px; font-weight: 600;
-  color: var(--muted); cursor: pointer; transition: all .15s;
+  border-radius: var(--r-sm); padding: 6px 12px; font-size: 12px; font-weight: 500;
+  color: var(--muted); cursor: pointer; transition: all .15s; white-space: nowrap;
 }
 .toggle-btn:hover { color: var(--navy); border-color: var(--teal-deep); }
 .toggle-btn.active {
@@ -198,14 +189,14 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
 .empty-state {
   grid-column: 1 / -1; padding: 80px 20px; text-align: center; color: var(--muted);
 }
-.empty-state-icon { font-size: 56px; margin-bottom: 16px; opacity: 0.5; }
+.empty-state-icon { margin-bottom: 16px; opacity: 0.7; display: flex; align-items: center; justify-content: center; }
 .empty-state-title { font-size: 18px; font-weight: 700; color: var(--navy); margin-bottom: 6px; }
 .empty-state-sub { font-size: 13px; color: var(--muted); margin-bottom: 18px; max-width: 380px; margin-left: auto; margin-right: auto; line-height: 1.6; }
 
 /* ── ITEM CARD ── */
 .item-card {
-  background: rgba(255,255,255,0.85); backdrop-filter: blur(8px);
-  border: 1.5px solid var(--border); border-radius: var(--r);
+  background: #fff;
+  border: 1px solid var(--border); border-radius: var(--r);
   overflow: hidden; cursor: pointer; transition: all .2s;
   display: flex; flex-direction: column; position: relative;
 }
@@ -341,10 +332,10 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
   display: inline-flex; align-items: center; gap: 6px;
 }
 .btn-primary {
-  background: var(--grad); color: #fff;
-  box-shadow: 0 2px 10px rgba(25,33,102,0.25);
+  background: var(--navy); color: #fff;
+  box-shadow: none;
 }
-.btn-primary:hover { box-shadow: 0 4px 14px rgba(25,33,102,0.35); transform: translateY(-1px); }
+.btn-primary:hover { background: var(--teal-deep); box-shadow: none; transform: none; }
 .btn-primary:disabled { opacity: 0.5; cursor: not-allowed; box-shadow: none; transform: none; }
 .btn-secondary {
   background: #fff; color: var(--navy); border-color: var(--border-m);
@@ -476,7 +467,8 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
 }
 .history-entry:last-child { border-bottom: none; }
 .history-icon {
-  font-size: 16px; flex-shrink: 0; width: 24px; text-align: center; margin-top: -2px;
+  flex-shrink: 0; width: 24px; text-align: center; margin-top: -1px;
+  font-size: 13px; font-weight: 600; color: var(--muted);
 }
 .history-text {
   flex: 1; color: var(--navy);
@@ -498,20 +490,20 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
 /* ── FAB (Floating Action Button) ── */
 .fab {
   position: fixed; bottom: 28px; right: 28px; z-index: 90;
-  background: var(--grad);
+  background: var(--navy);
   color: #fff; border: none; cursor: pointer;
-  border-radius: 32px; padding: 14px 22px;
-  font-size: 15px; font-weight: 700; font-family: 'Inter', sans-serif;
-  box-shadow: 0 8px 24px rgba(25,33,102,0.35), 0 2px 6px rgba(0,0,0,0.1);
+  border-radius: 8px; padding: 11px 20px;
+  font-size: 13px; font-weight: 600; font-family: 'Inter', sans-serif;
+  box-shadow: 0 4px 16px rgba(25,33,102,0.25);
   display: flex; align-items: center; gap: 8px;
   transition: all .15s;
 }
 .fab:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 10px 28px rgba(25,33,102,0.45), 0 3px 8px rgba(0,0,0,0.12);
+  background: var(--teal-deep);
+  box-shadow: 0 6px 20px rgba(0,158,189,0.30);
+  transform: translateY(-1px);
 }
 .fab:active { transform: translateY(0); }
-.fab-icon { font-size: 20px; line-height: 1; font-weight: 900; }
 .fab-label { line-height: 1; }
 
 /* Responsive */
@@ -531,7 +523,9 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
 <div id="app">
   <div class="topbar">
     <div class="topbar-left">
-      <div class="logo-icon">📡</div>
+      <div class="logo-icon">
+        <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="2"/><path d="M8.5 8.5a5 5 0 0 0 0 7M15.5 8.5a5 5 0 0 1 0 7"/><path d="M5.5 5.5a9.5 9.5 0 0 0 0 13M18.5 5.5a9.5 9.5 0 0 1 0 13"/></svg>
+      </div>
       <div>
         <div class="topbar-title">AI Radar</div>
         <div class="topbar-sub">
@@ -542,31 +536,31 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
       </div>
     </div>
     <div class="tabs-wrap" id="tabs-wrap">
-      <button class="tab-btn" data-tab="feed" title="Auto-fetched from web (coming in Phase 2)">📡 Feed <span class="tab-count" data-count="feed">0</span></button>
-      <button class="tab-btn active" data-tab="team" title="Team's curated picks">👥 Team Feed <span class="tab-count" data-count="team">0</span></button>
+      <button class="tab-btn" data-tab="feed" title="Auto-fetched from web (coming in Phase 2)">Feed <span class="tab-count" data-count="feed">0</span></button>
+      <button class="tab-btn active" data-tab="team" title="Team's curated picks">Team Feed <span class="tab-count" data-count="team">0</span></button>
       <button class="tab-btn" data-tab="claude">Claude <span class="tab-count" data-count="claude">0</span></button>
       <button class="tab-btn" data-tab="gemini">Gemini <span class="tab-count" data-count="gemini">0</span></button>
       <button class="tab-btn" data-tab="chatgpt">ChatGPT <span class="tab-count" data-count="chatgpt">0</span></button>
       <button class="tab-btn" data-tab="other">Other <span class="tab-count" data-count="other">0</span></button>
     </div>
     <div class="topbar-right">
-      <button class="icon-btn icon-btn-square" id="history-btn" title="Activity history">🕐</button>
-      <button class="icon-btn icon-btn-square" id="sync-btn" title="Sync now">⟳</button>
-      <button class="icon-btn icon-btn-square" id="settings-btn" title="Settings">⚙</button>
+      <button class="icon-btn icon-btn-square" id="history-btn" title="Activity history"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg></button>
+      <button class="icon-btn icon-btn-square" id="sync-btn" title="Sync now"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 2v6h-6"/><path d="M3 12a9 9 0 0 1 15-6.7L21 8"/><path d="M3 22v-6h6"/><path d="M21 12a9 9 0 0 1-15 6.7L3 16"/></svg></button>
+      <button class="icon-btn icon-btn-square" id="settings-btn" title="Settings"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg></button>
     </div>
   </div>
 
   <div class="filterbar">
     <div class="filter-search">
-      <span class="filter-search-icon">🔍</span>
+      <span class="filter-search-icon"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg></span>
       <input type="text" id="search" placeholder="Search title, description, tags...">
     </div>
     <div class="filter-chips" id="type-chips">
       <button class="chip active" data-type="all">All <span class="chip-count" data-type-count="all">0</span></button>
-      <button class="chip" data-type="article">📄 Articles <span class="chip-count" data-type-count="article">0</span></button>
-      <button class="chip" data-type="video">▶ Videos <span class="chip-count" data-type-count="video">0</span></button>
-      <button class="chip" data-type="podcast">🎙 Podcasts <span class="chip-count" data-type-count="podcast">0</span></button>
-      <button class="chip" data-type="other">⚙ Other <span class="chip-count" data-type-count="other">0</span></button>
+      <button class="chip" data-type="article">Articles <span class="chip-count" data-type-count="article">0</span></button>
+      <button class="chip" data-type="video">Videos <span class="chip-count" data-type-count="video">0</span></button>
+      <button class="chip" data-type="podcast">Podcasts <span class="chip-count" data-type-count="podcast">0</span></button>
+      <button class="chip" data-type="other">Other <span class="chip-count" data-type-count="other">0</span></button>
     </div>
     <select class="filter-select" id="sharedby-filter">
       <option value="">All members</option>
@@ -575,7 +569,7 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
       <option value="">All tags</option>
     </select>
     <button class="toggle-btn active" id="show-older" data-mode="recent">Last 7 days</button>
-    <button class="toggle-btn" id="view-toggle" title="Toggle list/grid view">☰</button>
+    <button class="toggle-btn" id="view-toggle" title="Toggle list/grid view"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg></button>
   </div>
 
   <div class="main-content" id="items-container">
@@ -584,8 +578,8 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
 </div>
 
 <button class="fab" id="fab-add" title="Add link (paste URL)">
-  <span class="fab-icon">＋</span>
-  <span class="fab-label">Add</span>
+  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+  <span class="fab-label">Add link</span>
 </button>
 
 <div id="modal-overlay" class="hidden"></div>
@@ -1251,7 +1245,7 @@ function render() {
   if (!settingsConfigured()) {
     container.innerHTML = `
       <div class="empty-state">
-        <div class="empty-state-icon">⚙</div>
+        <div class="empty-state-icon"><svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="color:var(--muted2)"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg></div>
         <div class="empty-state-title">Setup needed</div>
         <div class="empty-state-sub">Configure your name, GitHub repo, and access token in Settings to start using the tool.</div>
         <button class="btn btn-primary" onclick="openSettings()">Open Settings</button>
@@ -1265,7 +1259,7 @@ function render() {
     if (S.ui.activeTab === 'feed' && !isFiltered) {
       container.innerHTML = `
         <div class="empty-state">
-          <div class="empty-state-icon">📡</div>
+          <div class="empty-state-icon"><svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="color:var(--muted2)"><circle cx="12" cy="12" r="2"/><path d="M8.5 8.5a5 5 0 0 0 0 7M15.5 8.5a5 5 0 0 1 0 7"/><path d="M5.5 5.5a9.5 9.5 0 0 0 0 13M18.5 5.5a9.5 9.5 0 0 1 0 13"/></svg></div>
           <div class="empty-state-title">Auto-fetched feed</div>
           <div class="empty-state-sub">This tab will fill with auto-pulled items from RSS feeds, Reddit, HackerNews and YouTube once Phase 2 is set up. Until then, share your finds in <strong>👥 Team Feed</strong>.</div>
           <button class="btn btn-primary" onclick="document.querySelector('[data-tab=\\'team\\']').click()">Go to Team Feed</button>
@@ -1274,7 +1268,7 @@ function render() {
     }
     container.innerHTML = `
       <div class="empty-state">
-        <div class="empty-state-icon">${isFiltered ? '🔍' : '📭'}</div>
+        <div class="empty-state-icon"><svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="color:var(--muted2)"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg></div></div>
         <div class="empty-state-title">${isFiltered ? 'No matches' : 'Nothing here yet'}</div>
         <div class="empty-state-sub">
           ${isFiltered ? 'Try adjusting your filters or search.' :
@@ -1389,7 +1383,7 @@ function openSettings() {
   const html = `
     <div class="modal-box ${adminEditable ? 'modal-wide' : ''}">
       <div class="modal-head">
-        <div class="modal-title">⚙ Settings</div>
+        <div class="modal-title">Settings</div>
         <div class="modal-sub">Personal settings stored locally. Filter rules saved to team's GitHub.</div>
       </div>
       <div class="modal-body">
@@ -1546,7 +1540,7 @@ function openHistory() {
   const html = `
     <div class="modal-box modal-wide">
       <div class="modal-head">
-        <div class="modal-title">🕐 Activity</div>
+        <div class="modal-title">Activity</div>
         <div class="modal-sub">Latest changes from the team. Last ${ACTIVITY_CAP} actions are kept.</div>
       </div>
       <div class="modal-body" style="padding-top: 12px;">
@@ -1562,12 +1556,12 @@ function openHistory() {
 function renderActivityEntry(a) {
   let icon = '•', verb = '', extra = '';
   if (a.type === 'add') {
-    icon = '🆕'; verb = 'added';
+    icon = '+'; verb = 'added';
     if (a.category) extra = `<span class="item-tab-badge tab-${a.category}" style="position:static;box-shadow:none;font-size:9px;padding:2px 6px;margin-left:6px;">${TAB_LABELS[a.category]}</span>`;
   } else if (a.type === 'delete') {
-    icon = '🗑'; verb = 'deleted';
+    icon = '−'; verb = 'deleted';
   } else if (a.type === 'categorize') {
-    icon = '🏷'; 
+    icon = '↷'; 
     if (a.newCategory && a.oldCategory) {
       verb = `re-categorized as`;
       extra = `<span class="item-tab-badge tab-${a.newCategory}" style="position:static;box-shadow:none;font-size:9px;padding:2px 6px;margin-left:6px;">${TAB_LABELS[a.newCategory]}</span> <span style="color:var(--muted);font-size:10px;">(was ${TAB_LABELS[a.oldCategory]})</span>`;
@@ -1614,7 +1608,7 @@ function openAddLink() {
   const html = `
     <div class="modal-box">
       <div class="modal-head">
-        <div class="modal-title">＋ Add Link</div>
+        <div class="modal-title">Add Link</div>
         <div class="modal-sub">Paste a URL — we'll fetch metadata automatically.</div>
       </div>
       <div class="modal-body">
@@ -1648,9 +1642,9 @@ function openAddLink() {
               <label>Type</label>
               <select id="add-type">
                 <option value="article">📄 Article</option>
-                <option value="video">▶ Video</option>
-                <option value="podcast">🎙 Podcast</option>
-                <option value="other">⚙ Other</option>
+                <option value="video">Video</option>
+                <option value="podcast">Podcast</option>
+                <option value="other">Other</option>
               </select>
             </div>
             <div class="field">
