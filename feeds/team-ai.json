@@ -234,14 +234,16 @@
       "tags": [],
       "addedAt": "2026-04-28T16:00:03.000Z",
       "addedBy": "Matthew Berman",
-      "readBy": [],
+      "readBy": [
+        "Boris"
+      ],
       "reactions": {
         "important": [],
         "must_read": [],
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-04-29T14:32:59.210Z"
+      "_updatedAt": "2026-04-30T11:38:32.557Z"
     },
     {
       "id": "i_mok5myq2_bgrsgo",
