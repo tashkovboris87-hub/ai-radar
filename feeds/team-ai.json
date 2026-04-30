@@ -406,7 +406,7 @@
       "domain": "youtube.com",
       "contentType": "video",
       "source": "feed",
-      "category": null,
+      "category": "chatgpt",
       "tags": [],
       "addedAt": "2026-04-24T17:56:32.000Z",
       "addedBy": "AI Foundations",
@@ -419,7 +419,7 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-04-30T11:19:09.402Z"
+      "_updatedAt": "2026-04-30T11:19:11.166Z"
     },
     {
       "id": "i_mojnjk8q_ujv3gl",
@@ -1750,6 +1750,18 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mole5l4u_v08a",
+      "type": "categorize",
+      "itemId": "i_mok5myq2_azunr8",
+      "itemTitle": "How To Use GPT 5.5 For Beginners - GPT 5.5 Tutorial",
+      "itemUrl": "https://www.youtube.com/watch?v=Tb4CkJRs9Io",
+      "itemSource": "feed",
+      "by": "Boris",
+      "at": "2026-04-30T11:19:11.167Z",
+      "oldCategory": null,
+      "newCategory": "chatgpt"
+    },
     {
       "id": "a_mok5myq2_z34g",
       "type": "add",
