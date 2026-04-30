@@ -300,14 +300,16 @@
       "tags": [],
       "addedAt": "2026-04-28T17:16:01.000Z",
       "addedBy": "Two Minute Papers",
-      "readBy": [],
+      "readBy": [
+        "Boris"
+      ],
       "reactions": {
         "important": [],
         "must_read": [],
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-04-29T14:32:59.210Z"
+      "_updatedAt": "2026-04-30T11:36:51.015Z"
     },
     {
       "id": "i_mok5myq2_mov4du",
