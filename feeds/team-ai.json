@@ -567,14 +567,16 @@
       "tags": [],
       "addedAt": "2026-04-29T00:42:31.000Z",
       "addedBy": "r/LocalLLaMA",
-      "readBy": [],
+      "readBy": [
+        "Boris"
+      ],
       "reactions": {
         "important": [],
         "must_read": [],
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-04-29T03:03:40.815Z"
+      "_updatedAt": "2026-05-04T08:27:16.698Z"
     },
     {
       "id": "i_mojh0idr_1thghf",
