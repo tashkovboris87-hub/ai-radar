@@ -1925,11 +1925,9 @@
         "release",
         "research"
       ],
-      "addedAt": "2026-05-04T11:11:39.792Z",
+      "addedAt": "2026-05-04T11:21:01.981Z",
       "addedBy": "boris",
-      "readBy": [
-        "Boris Tashkov"
-      ],
+      "readBy": [],
       "reactions": {
         "important": [
           "boris",
@@ -1943,8 +1941,7 @@
           "boris"
         ]
       },
-      "_updatedAt": "2026-05-04T11:13:52.211Z",
-      "comments": []
+      "_updatedAt": "2026-05-04T11:21:01.981Z"
     }
   ],
   "activity": [
