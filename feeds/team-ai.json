@@ -1077,7 +1077,8 @@
       "addedAt": "2026-04-28T00:00:00.000Z",
       "addedBy": "OpenAI",
       "readBy": [
-        "Boris Tashkov"
+        "Boris Tashkov",
+        "Boris"
       ],
       "reactions": {
         "important": [],
@@ -1085,7 +1086,7 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-05-04T11:16:37.645Z",
+      "_updatedAt": "2026-05-04T11:21:37.196Z",
       "comments": [
         {
           "id": "c_mor3th6y_1kpv",
