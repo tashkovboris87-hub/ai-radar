@@ -1737,16 +1737,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-05-04T11:23:01.563Z",
-      "comments": [
-        {
-          "id": "c_mor3pebn_z419",
-          "author": "Boris Tashkov",
-          "text": "fsdafs",
-          "at": "2026-05-04T11:13:16.739Z",
-          "likes": []
-        }
-      ]
+      "_updatedAt": "2026-05-04T11:41:45.096Z",
+      "comments": []
     },
     {
       "id": "i_moirt3dm_h5ztfu",
@@ -1939,7 +1931,8 @@
           "boris"
         ]
       },
-      "_updatedAt": "2026-05-04T11:40:48.153Z"
+      "_updatedAt": "2026-05-04T11:40:48.153Z",
+      "comments": []
     }
   ],
   "activity": [
