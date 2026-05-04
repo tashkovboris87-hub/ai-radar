@@ -71,13 +71,23 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
 .sidebar > * { position: relative; z-index: 1; }
 
 .sidebar-header {
-  padding: 18px 16px 14px;
+  height: 52px;
+  padding: 0 16px;
   border-bottom: 1px solid rgba(255,255,255,0.07);
   display: flex; align-items: center; gap: 9px;
+  flex-shrink: 0;
 }
 .sidebar-logo-icon { color: var(--teal); flex-shrink: 0; }
 .sidebar-logo-name { font-size: 15px; font-weight: 700; color: #fff; letter-spacing: -.2px; }
 .sidebar-logo-sub { font-size: 10px; color: rgba(255,255,255,0.38); }
+
+.sidebar-scroll {
+  flex: 1; overflow-y: auto; overflow-x: hidden;
+  display: flex; flex-direction: column;
+}
+.sidebar-scroll::-webkit-scrollbar { width: 6px; }
+.sidebar-scroll::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.10); border-radius: 3px; }
+.sidebar-scroll::-webkit-scrollbar-thumb:hover { background: rgba(255,255,255,0.20); }
 
 .sidebar-section { padding: 12px 10px 4px; }
 .sidebar-section-label {
@@ -223,81 +233,110 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
   background: var(--teal-tint); color: var(--teal-deep); border-color: var(--teal-deep);
 }
 
-/* ── MAIN CONTENT ── */
-.main-content {
-  flex: 1; padding: 20px 22px 100px;
-  display: grid; grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
-  gap: 14px; align-content: start;
+/* ── CONTENT SPLIT (list + reading pane) ── */
+.content-split {
+  flex: 1; display: flex; min-height: 0; overflow: hidden;
 }
-.main-content.list-view {
-  display: flex; flex-direction: column; gap: 8px;
-  max-width: 920px; margin-left: auto; margin-right: auto; width: 100%;
+
+.items-list {
+  flex: 1.25; min-width: 0;
+  border-right: 1px solid var(--border);
+  background: var(--bg);
+  overflow-y: auto; overflow-x: hidden;
+  padding: 10px 12px 80px;
+  display: flex; flex-direction: column; gap: 6px;
 }
-.main-content.list-view .item-card {
-  flex-direction: row; min-height: 78px; max-height: 100px;
+.items-list::-webkit-scrollbar { width: 8px; }
+.items-list::-webkit-scrollbar-thumb { background: rgba(25,33,102,0.18); border-radius: 4px; }
+.items-list::-webkit-scrollbar-thumb:hover { background: rgba(25,33,102,0.32); }
+
+.reading-pane {
+  flex: 1; min-width: 0;
+  background: #fff;
+  overflow-y: auto; overflow-x: hidden;
+  display: flex; flex-direction: column;
 }
-.main-content.list-view .item-card.unread::before { width: 3px; }
-.main-content.list-view .item-image {
-  width: 130px; min-width: 130px; aspect-ratio: auto; height: auto; align-self: stretch;
-}
-.main-content.list-view .item-image-fallback { font-size: 28px; }
-.main-content.list-view .item-source-badge {
-  top: 6px; left: 6px; font-size: 9px; padding: 2px 6px;
-}
-.main-content.list-view .item-tab-badge {
-  top: 6px; right: 6px; font-size: 9px; padding: 2px 6px;
-}
-.main-content.list-view .type-icon {
-  bottom: 6px; right: 6px; width: 22px; height: 22px; font-size: 11px;
-}
-.main-content.list-view .item-body { padding: 10px 14px; }
-.main-content.list-view .item-title { font-size: 13px; -webkit-line-clamp: 1; margin-bottom: 3px; }
-.main-content.list-view .item-desc { font-size: 11px; -webkit-line-clamp: 1; margin-bottom: 4px; line-height: 1.4; }
-.main-content.list-view .item-tags { margin-bottom: 4px; }
-.main-content.list-view .item-foot { padding-top: 4px; border-top: none; }
+.reading-pane::-webkit-scrollbar { width: 8px; }
+.reading-pane::-webkit-scrollbar-thumb { background: rgba(25,33,102,0.18); border-radius: 4px; }
+.reading-pane::-webkit-scrollbar-thumb:hover { background: rgba(25,33,102,0.32); }
+
 .empty-state {
-  grid-column: 1 / -1; padding: 80px 20px; text-align: center; color: var(--muted);
+  padding: 80px 20px; text-align: center; color: var(--muted);
 }
 .empty-state-icon { margin-bottom: 16px; opacity: 0.7; display: flex; align-items: center; justify-content: center; }
 .empty-state-title { font-size: 18px; font-weight: 700; color: var(--navy); margin-bottom: 6px; }
 .empty-state-sub { font-size: 13px; color: var(--muted); margin-bottom: 18px; max-width: 380px; margin-left: auto; margin-right: auto; line-height: 1.6; }
 
-/* ── ITEM CARD ── */
+/* ── ITEM ROW (in list) ── */
 .item-card {
   background: #fff;
-  border: 1px solid var(--border); border-radius: var(--r);
-  overflow: hidden; cursor: pointer; transition: all .2s;
+  border: 1px solid var(--border); border-radius: var(--r-sm);
+  cursor: pointer; transition: all .15s;
   display: flex; flex-direction: column; position: relative;
+  overflow: hidden;
 }
 .item-card:hover {
-  transform: translateY(-2px); border-color: var(--border-m);
-  box-shadow: 0 8px 24px rgba(25,33,102,0.10); background: #fff;
+  border-color: var(--border-m);
+  box-shadow: 0 2px 8px rgba(25,33,102,0.06);
 }
-.item-card.unread::before {
+.item-card.selected {
+  border-color: var(--teal-deep);
+  background: var(--teal-tint);
+  box-shadow: 0 2px 10px rgba(0,196,208,0.18);
+}
+.item-card.selected::after {
   content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 3px;
-  background: var(--grad); z-index: 2;
+  background: var(--teal-deep); border-radius: 3px 0 0 3px; z-index: 3;
 }
+
+.item-row-main {
+  display: flex; flex-direction: row;
+  padding: 10px; gap: 10px; min-height: 76px;
+  position: relative;
+}
+.item-card.unread .item-row-main::before {
+  content: ''; position: absolute; left: 6px; top: 50%; transform: translateY(-50%);
+  width: 6px; height: 6px; border-radius: 50%; background: var(--teal-deep);
+  z-index: 2;
+}
+.item-card.unread .item-row-main { padding-left: 18px; }
+
 .item-image {
-  width: 100%; aspect-ratio: 1.91 / 1; background: linear-gradient(135deg, #edf0f8, #dfe5f0);
+  width: 64px; min-width: 64px; height: 64px;
+  border-radius: 6px;
+  background: linear-gradient(135deg, #edf0f8, #dfe5f0);
   display: flex; align-items: center; justify-content: center;
-  color: var(--muted2); font-size: 48px; overflow: hidden; position: relative;
+  color: var(--muted2); overflow: hidden; position: relative;
+  flex-shrink: 0;
 }
 .item-image img { width: 100%; height: 100%; object-fit: cover; }
 .item-image-fallback {
   display: flex; align-items: center; justify-content: center;
-  width: 100%; height: 100%; font-size: 48px; opacity: 0.5;
+  width: 100%; height: 100%; opacity: 0.55;
 }
-.item-source-badge {
-  position: absolute; top: 10px; left: 10px;
-  background: rgba(255,255,255,0.95); backdrop-filter: blur(8px);
-  border-radius: 6px; padding: 3px 8px; font-size: 10px; font-weight: 700;
-  color: var(--navy); display: flex; align-items: center; gap: 5px;
-  box-shadow: 0 2px 6px rgba(25,33,102,0.10);
+.item-image-fallback svg { width: 22px; height: 22px; }
+.type-icon {
+  position: absolute; bottom: 2px; right: 2px;
+  background: rgba(25,33,102,0.85); color: #fff; border-radius: 50%;
+  width: 16px; height: 16px; display: flex; align-items: center; justify-content: center;
+  backdrop-filter: blur(4px);
 }
+.type-icon svg { width: 9px; height: 9px; }
+
+.item-body { flex: 1; display: flex; flex-direction: column; min-width: 0; gap: 3px; }
+.item-row-top {
+  display: flex; align-items: center; gap: 6px; justify-content: space-between;
+}
+.item-title {
+  font-size: 13px; font-weight: 600; color: var(--navy); line-height: 1.35;
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+  flex: 1; min-width: 0;
+}
+.item-card.unread .item-title { font-weight: 700; }
 .item-tab-badge {
-  position: absolute; top: 10px; right: 10px; border-radius: 6px;
-  padding: 3px 8px; font-size: 10px; font-weight: 800; text-transform: uppercase;
-  letter-spacing: 0.04em; box-shadow: 0 2px 6px rgba(25,33,102,0.10);
+  flex-shrink: 0; border-radius: 4px;
+  padding: 2px 6px; font-size: 9px; font-weight: 800; text-transform: uppercase;
+  letter-spacing: 0.04em;
 }
 .tab-claude  { background: var(--claude-l);  color: var(--claude);  border: 1px solid var(--claude); }
 .tab-gemini  { background: var(--gemini-l);  color: var(--gemini);  border: 1px solid var(--gemini); }
@@ -305,46 +344,260 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
 .tab-other   { background: var(--other-l);   color: var(--other);   border: 1px solid var(--other); }
 .tab-team    { background: var(--team-l);    color: var(--team);    border: 1px solid var(--team); }
 
-.type-icon {
-  position: absolute; bottom: 10px; right: 10px;
-  background: rgba(25,33,102,0.7); color: #fff; border-radius: 50%;
-  width: 28px; height: 28px; display: flex; align-items: center; justify-content: center;
-  font-size: 14px; backdrop-filter: blur(4px);
-}
-
-.item-body { padding: 12px 14px 10px; flex: 1; display: flex; flex-direction: column; }
-.item-title {
-  font-size: 14px; font-weight: 700; color: var(--navy); line-height: 1.35;
-  margin-bottom: 6px;
-  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
-}
-.item-card.unread .item-title { font-weight: 800; }
 .item-desc {
-  font-size: 12px; color: #4b5876; line-height: 1.5; margin-bottom: 8px; flex: 1;
-  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+  font-size: 11px; color: #6b7593; line-height: 1.4;
+  display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden;
 }
-.item-tags { display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 8px; }
+.item-foot {
+  display: flex; align-items: center; gap: 8px; margin-top: 2px;
+  font-size: 10px; color: var(--muted); font-weight: 500;
+}
+.item-foot .by { color: var(--teal-deep); font-weight: 700; }
+.item-foot .item-source-badge {
+  display: inline-flex; align-items: center; gap: 4px;
+  font-weight: 600; color: var(--muted);
+}
+.item-foot .item-source-badge img { width: 11px; height: 11px; border-radius: 2px; }
+.item-foot-divider { color: rgba(25,33,102,0.18); }
+.item-mini-reactions { display: inline-flex; gap: 2px; margin-left: auto; }
+.item-mini-reactions .mini-r {
+  display: inline-flex; align-items: center; gap: 2px;
+  background: var(--amber-tint); color: var(--amber);
+  padding: 1px 5px; border-radius: 9px; font-size: 9px; font-weight: 700;
+}
+.item-mini-reactions .mini-r svg { width: 9px; height: 9px; }
+
+.item-tags { display: flex; flex-wrap: wrap; gap: 4px; }
 .tag-chip {
   background: var(--teal-tint); color: var(--teal-deep); border: 1px solid rgba(0,196,208,0.25);
-  border-radius: 5px; padding: 1px 6px; font-size: 10px; font-weight: 600;
+  border-radius: 4px; padding: 1px 6px; font-size: 10px; font-weight: 600;
 }
 
-.item-foot {
-  display: flex; justify-content: space-between; align-items: center;
-  padding-top: 8px; border-top: 1px solid var(--border);
-  font-size: 10px;
+/* ── INLINE COMMENTS PREVIEW (under item card) ── */
+.item-comments-preview {
+  border-top: 1px solid var(--border);
+  background: linear-gradient(to bottom, rgba(238,242,248,0.4), rgba(238,242,248,0.7));
+  padding: 7px 12px 8px;
+  display: flex; flex-direction: column; gap: 4px;
 }
-.item-meta { display: flex; align-items: center; gap: 8px; color: var(--muted); font-weight: 600; }
-.item-meta .by { color: var(--teal-deep); font-weight: 700; }
-.item-reactions { display: flex; gap: 3px; }
-.reaction-chip {
-  background: transparent; border: 1px solid transparent; border-radius: 11px;
-  padding: 2px 7px; font-size: 11px; cursor: pointer; transition: all .15s;
-  display: inline-flex; align-items: center; gap: 4px; line-height: 1;
+.item-card.selected .item-comments-preview {
+  background: rgba(255,255,255,0.5);
 }
-.reaction-chip:hover { background: var(--navy-tint); }
-.reaction-chip.active { background: var(--amber-tint); border-color: var(--amber); }
-.reaction-chip .count { font-size: 9px; font-weight: 700; color: var(--amber); }
+.comment-preview-row {
+  display: flex; align-items: flex-start; gap: 7px;
+  font-size: 11px; line-height: 1.45;
+  min-width: 0;
+}
+.comment-avatar-mini {
+  width: 18px; height: 18px; border-radius: 50%;
+  background: var(--grad); color: #fff;
+  font-size: 9px; font-weight: 700;
+  display: flex; align-items: center; justify-content: center;
+  flex-shrink: 0; margin-top: 1px;
+}
+.comment-preview-text {
+  flex: 1; min-width: 0; color: #4b5876;
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+.comment-preview-text strong { color: var(--navy); font-weight: 700; }
+.comment-preview-more {
+  font-size: 10px; color: var(--teal-deep); font-weight: 600;
+  margin-top: 2px; padding-left: 25px;
+}
+.comment-preview-more:hover { text-decoration: underline; }
+
+/* ── READING PANE ── */
+.reading-pane-empty {
+  flex: 1; display: flex; align-items: center; justify-content: center;
+  padding: 40px 20px; color: var(--muted);
+  flex-direction: column; gap: 12px;
+}
+.reading-pane-empty-icon { opacity: 0.35; }
+.reading-pane-empty-title { font-size: 15px; font-weight: 600; color: var(--navy); }
+.reading-pane-empty-sub { font-size: 12px; color: var(--muted); text-align: center; max-width: 280px; line-height: 1.5; }
+
+.reading-content {
+  padding: 28px 32px; max-width: 760px; width: 100%;
+  margin: 0 auto;
+}
+.reading-image {
+  width: 100%; aspect-ratio: 1.91 / 1; background: linear-gradient(135deg, #edf0f8, #dfe5f0);
+  display: flex; align-items: center; justify-content: center; color: var(--muted2);
+  overflow: hidden; border-radius: var(--r); margin-bottom: 16px;
+}
+.reading-image img { width: 100%; height: 100%; object-fit: cover; }
+.reading-image-fallback { font-size: 64px; opacity: 0.4; }
+.reading-meta-row {
+  display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
+  margin-bottom: 10px; font-size: 11px; color: var(--muted);
+}
+.reading-meta-row .item-source-badge {
+  background: var(--bg); padding: 4px 9px; border-radius: 6px;
+  display: inline-flex; align-items: center; gap: 5px; font-weight: 600; color: var(--navy);
+}
+.reading-meta-row .item-source-badge img { width: 12px; height: 12px; border-radius: 2px; }
+.reading-meta-row .item-tab-badge { padding: 4px 9px; font-size: 10px; }
+.reading-title {
+  font-size: 22px; font-weight: 800; color: var(--navy); line-height: 1.25;
+  margin-bottom: 10px; letter-spacing: -.3px;
+}
+.reading-source-link {
+  font-size: 12px; color: var(--teal-deep); text-decoration: none; font-weight: 700;
+  display: inline-flex; align-items: center; gap: 5px;
+  margin-bottom: 16px;
+}
+.reading-source-link:hover { text-decoration: underline; }
+.reading-desc {
+  font-size: 14px; color: #4b5876; line-height: 1.65; margin-bottom: 18px;
+}
+.reading-tags { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 18px; }
+.reading-stats {
+  display: flex; gap: 20px; padding: 12px 0;
+  border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);
+  margin-bottom: 18px; font-size: 11px; color: var(--muted);
+  flex-wrap: wrap;
+}
+.reading-stats strong { color: var(--navy); font-weight: 700; }
+
+.reading-section-label {
+  font-size: 10px; font-weight: 700; color: var(--muted);
+  text-transform: uppercase; letter-spacing: .08em;
+  margin-bottom: 8px; margin-top: 4px;
+}
+
+.reading-reactions { display: flex; gap: 6px; margin-bottom: 22px; flex-wrap: wrap; }
+.reading-reaction-btn {
+  background: #fff; border: 1.5px solid var(--border-m);
+  border-radius: 22px; padding: 6px 13px; font-size: 12px; cursor: pointer;
+  transition: all .15s; display: inline-flex; align-items: center; gap: 6px;
+  font-weight: 600; color: var(--muted);
+}
+.reading-reaction-btn:hover { border-color: var(--teal-deep); color: var(--navy); }
+.reading-reaction-btn.active {
+  background: var(--amber-tint); border-color: var(--amber); color: var(--amber);
+}
+.reading-reaction-count { font-size: 11px; font-weight: 700; }
+.reading-reaction-btn svg { width: 13px; height: 13px; }
+
+.reading-categorize { display: flex; gap: 6px; margin-bottom: 22px; flex-wrap: wrap; }
+.reading-cat-btn {
+  flex: 1; min-width: 80px; padding: 9px 8px; border-radius: var(--r-sm);
+  border: 1.5px solid var(--border-m); background: #fff; cursor: pointer;
+  text-align: center; font-size: 12px; font-weight: 600; color: var(--muted);
+  transition: all .15s;
+}
+.reading-cat-btn:hover { border-color: var(--teal-deep); color: var(--navy); }
+.reading-cat-btn.selected { border-color: var(--teal-deep); background: var(--teal-tint); color: var(--teal-deep); font-weight: 700; }
+
+.reading-actions {
+  display: flex; gap: 8px; padding: 16px 0;
+  border-top: 1px solid var(--border); margin-top: 14px;
+}
+.reading-actions .btn { padding: 9px 18px; }
+
+/* ── COMMENTS ── */
+.comments-section {
+  margin-top: 22px; padding-top: 20px;
+  border-top: 1px solid var(--border);
+}
+.comments-list { display: flex; flex-direction: column; gap: 10px; margin-bottom: 12px; }
+.comment-item {
+  display: flex; gap: 10px; padding: 10px 12px;
+  background: var(--bg); border-radius: var(--r-sm);
+  border: 1px solid var(--border);
+}
+.comment-avatar {
+  width: 28px; height: 28px; border-radius: 50%; flex-shrink: 0;
+  background: var(--grad); color: #fff; font-size: 11px; font-weight: 700;
+  display: flex; align-items: center; justify-content: center;
+}
+.comment-body { flex: 1; min-width: 0; }
+.comment-head {
+  display: flex; align-items: baseline; gap: 8px;
+  margin-bottom: 3px;
+}
+.comment-author { font-size: 12px; font-weight: 700; color: var(--navy); }
+.comment-time { font-size: 10px; color: var(--muted); }
+.comment-text { font-size: 12px; color: #4b5876; line-height: 1.5; word-wrap: break-word; }
+.comment-actions {
+  display: flex; gap: 2px; margin-left: auto;
+  opacity: 0; transition: opacity .15s;
+}
+.comment-item:hover .comment-actions { opacity: 1; }
+.comment-action {
+  background: none; border: none; cursor: pointer;
+  color: var(--muted); padding: 3px 6px;
+  border-radius: 4px; line-height: 1;
+  display: inline-flex; align-items: center;
+  font-size: 13px;
+}
+.comment-action:hover { background: rgba(25,33,102,0.08); color: var(--navy); }
+.comment-action.danger:hover { background: var(--red-tint); color: var(--red); }
+
+.comment-edited {
+  color: var(--muted2); font-style: italic; font-weight: 400;
+  margin-left: 4px; font-size: 10px;
+}
+
+.comment-foot {
+  display: flex; align-items: center; gap: 6px; margin-top: 5px;
+}
+.comment-like {
+  background: none; border: 1px solid transparent; cursor: pointer;
+  color: var(--muted); padding: 3px 9px; border-radius: 12px;
+  display: inline-flex; align-items: center; gap: 5px;
+  font-size: 11px; font-weight: 600;
+  transition: all .12s;
+  font-family: 'Inter', sans-serif;
+}
+.comment-like:hover { background: rgba(228,0,58,0.08); color: var(--red); border-color: rgba(228,0,58,0.2); }
+.comment-like.active { color: var(--red); background: rgba(228,0,58,0.06); }
+.comment-like.active:hover { background: rgba(228,0,58,0.14); border-color: rgba(228,0,58,0.3); }
+
+.comment-edit-textarea {
+  width: 100%; padding: 8px 10px; border-radius: var(--r-sm);
+  border: 1.5px solid var(--teal-deep); background: #fff;
+  font-size: 12px; font-family: 'Inter', sans-serif; color: var(--navy);
+  resize: vertical; min-height: 50px;
+  outline: none; line-height: 1.5;
+  margin: 4px 0;
+  box-shadow: 0 0 0 3px rgba(0,196,208,0.12);
+}
+.comment-edit-actions {
+  display: flex; gap: 6px; justify-content: flex-end; margin-top: 4px;
+}
+.comment-item.editing {
+  background: rgba(0,196,208,0.04);
+  border-color: rgba(0,196,208,0.3);
+}
+.comment-item.editing .comment-actions { opacity: 0 !important; }
+
+/* Inline comments preview likes */
+.comment-preview-likes {
+  display: inline-flex; align-items: center; gap: 2px;
+  color: var(--red); font-size: 10px; font-weight: 700;
+  margin-left: 6px;
+}
+.comment-preview-likes svg { width: 9px; height: 9px; }
+.comments-empty {
+  font-size: 12px; color: var(--muted); padding: 14px; text-align: center;
+  background: var(--bg); border-radius: var(--r-sm);
+}
+
+.comment-form {
+  display: flex; gap: 8px; align-items: flex-end;
+}
+.comment-form textarea {
+  flex: 1; padding: 9px 12px; border-radius: var(--r-sm);
+  border: 1.5px solid var(--border-m); background: #fff;
+  font-size: 12px; font-family: 'Inter', sans-serif; color: var(--navy);
+  resize: vertical; min-height: 38px; max-height: 120px;
+  outline: none; transition: all .15s;
+}
+.comment-form textarea:focus { border-color: var(--teal-deep); box-shadow: 0 0 0 3px rgba(0,196,208,0.12); }
+.comment-form button {
+  padding: 9px 14px; height: 38px; flex-shrink: 0;
+}
 
 /* ── MODAL ── */
 #modal-overlay {
@@ -576,11 +829,12 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
 .fab-label { line-height: 1; }
 
 /* Responsive */
-@media (max-width: 768px) {
+@media (max-width: 880px) {
+  /* Mobile: hide reading pane, list fills width, modal opens on click */
+  .items-list { width: 100%; flex: 1; border-right: none; }
+  .reading-pane { display: none; }
   .topbar { padding: 0 14px; height: auto; flex-wrap: wrap; gap: 10px; padding: 10px 14px; }
-  .tabs-wrap { width: 100%; order: 3; overflow-x: auto; }
   .filterbar { padding: 10px 14px; }
-  .main-content { padding: 14px 14px 100px; grid-template-columns: 1fr; }
   .modal-box { width: 100% !important; }
   .topbar-sub { display: none; }
   .fab { bottom: 18px; right: 18px; padding: 14px; border-radius: 50%; }
@@ -600,44 +854,46 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
     </div>
   </div>
 
-  <div class="sidebar-section">
-    <div class="sidebar-section-label">Views</div>
-    <button class="nav-item" data-tab="feed">
-      <svg class="nav-icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="2"/><path d="M8.5 8.5a5 5 0 0 0 0 7M15.5 8.5a5 5 0 0 1 0 7"/><path d="M5.5 5.5a9.5 9.5 0 0 0 0 13M18.5 5.5a9.5 9.5 0 0 1 0 13"/></svg>
-      Feed
-      <span class="nav-badge" data-count="feed">0</span>
-    </button>
-    <button class="nav-item active" data-tab="team">
-      <svg class="nav-icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
-      Team Feed
-      <span class="nav-badge" data-count="team">0</span>
-    </button>
-  </div>
+  <div class="sidebar-scroll">
+    <div class="sidebar-section">
+      <div class="sidebar-section-label">Views</div>
+      <button class="nav-item" data-tab="feed">
+        <svg class="nav-icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="2"/><path d="M8.5 8.5a5 5 0 0 0 0 7M15.5 8.5a5 5 0 0 1 0 7"/><path d="M5.5 5.5a9.5 9.5 0 0 0 0 13M18.5 5.5a9.5 9.5 0 0 1 0 13"/></svg>
+        Feed
+        <span class="nav-badge" data-count="feed">0</span>
+      </button>
+      <button class="nav-item active" data-tab="team">
+        <svg class="nav-icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+        Team Feed
+        <span class="nav-badge" data-count="team">0</span>
+      </button>
+    </div>
 
-  <div class="sidebar-divider"></div>
+    <div class="sidebar-divider"></div>
 
-  <div class="sidebar-section">
-    <div class="sidebar-section-label">By model</div>
-    <button class="nav-item" data-tab="claude">
-      <span class="nav-dot" style="background:var(--claude)"></span>
-      Claude
-      <span class="nav-badge" data-count="claude">0</span>
-    </button>
-    <button class="nav-item" data-tab="gemini">
-      <span class="nav-dot" style="background:var(--gemini)"></span>
-      Gemini
-      <span class="nav-badge" data-count="gemini">0</span>
-    </button>
-    <button class="nav-item" data-tab="chatgpt">
-      <span class="nav-dot" style="background:var(--chatgpt)"></span>
-      ChatGPT
-      <span class="nav-badge" data-count="chatgpt">0</span>
-    </button>
-    <button class="nav-item" data-tab="other">
-      <span class="nav-dot" style="background:var(--other)"></span>
-      Other
-      <span class="nav-badge" data-count="other">0</span>
-    </button>
+    <div class="sidebar-section">
+      <div class="sidebar-section-label">By model</div>
+      <button class="nav-item" data-tab="claude">
+        <span class="nav-dot" style="background:var(--claude)"></span>
+        Claude
+        <span class="nav-badge" data-count="claude">0</span>
+      </button>
+      <button class="nav-item" data-tab="gemini">
+        <span class="nav-dot" style="background:var(--gemini)"></span>
+        Gemini
+        <span class="nav-badge" data-count="gemini">0</span>
+      </button>
+      <button class="nav-item" data-tab="chatgpt">
+        <span class="nav-dot" style="background:var(--chatgpt)"></span>
+        ChatGPT
+        <span class="nav-badge" data-count="chatgpt">0</span>
+      </button>
+      <button class="nav-item" data-tab="other">
+        <span class="nav-dot" style="background:var(--other)"></span>
+        Other
+        <span class="nav-badge" data-count="other">0</span>
+      </button>
+    </div>
   </div>
 
   <div class="sidebar-footer">
@@ -706,11 +962,15 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
       <option value="">All tags</option>
     </select>
     <button class="toggle-btn active" id="show-older" data-mode="recent">Last 7 days</button>
-    <button class="toggle-btn" id="view-toggle" title="Toggle list/grid view"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg></button>
   </div>
 
-  <div class="main-content" id="items-container">
-    <!-- items rendered here -->
+  <div class="content-split">
+    <div class="items-list" id="items-container">
+      <!-- items rendered here -->
+    </div>
+    <div class="reading-pane" id="reading-pane">
+      <!-- selected item details rendered here -->
+    </div>
   </div>
 </div><!-- /#app -->
 
@@ -785,7 +1045,9 @@ const S = {
     searchQuery: '',
     sharedByFilter: '',
     tagFilter: '',
-    showOlder: false  // false = last 7 days, true = all
+    showOlder: false,  // false = last 7 days, true = all
+    selectedItemId: null,    // currently selected item in reading pane
+    editingCommentId: null   // currently editing comment id
   },
   syncing: false,
   initialLoadDone: false
@@ -887,6 +1149,11 @@ function migrateItems() {
   // Migrate old schema (single `tab` field) to new (source + category)
   let migrated = 0;
   S.feed.items.forEach(it => {
+    // Ensure comments array exists on every item, and each comment has likes array
+    if (!Array.isArray(it.comments)) it.comments = [];
+    it.comments.forEach(c => {
+      if (!Array.isArray(c.likes)) c.likes = [];
+    });
     if (it.source !== undefined && it.category !== undefined) return;
     if (it.tab === 'feed') { it.source = 'feed'; it.category = null; }
     else if (it.tab === 'team') { it.source = 'team'; it.category = null; }
@@ -1195,6 +1462,7 @@ function newItem({ url, title, description, image, domain, contentType, source, 
     addedBy: S.settings.userName || 'unknown',
     readBy: [S.settings.userName || 'unknown'],
     reactions: REACTIONS.reduce((a, r) => (a[r.key] = [], a), {}),
+    comments: [],
     _updatedAt: new Date().toISOString()
   };
 }
@@ -1412,14 +1680,6 @@ function render() {
   updateSidebarUI();
   updateTopbarTitle();
   const container = document.getElementById('items-container');
-  // Toggle view mode
-  container.classList.toggle('list-view', S.settings.viewMode === 'list');
-  // Update toggle button icon
-  const tg = document.getElementById('view-toggle');
-  if (tg) {
-    tg.textContent = S.settings.viewMode === 'list' ? '☰' : '▦';
-    tg.title = S.settings.viewMode === 'list' ? 'Switch to grid view' : 'Switch to list view';
-  }
   const items = getFilteredItems();
 
   if (!settingsConfigured() && S.feed.items.length === 0) {
@@ -1430,78 +1690,407 @@ function render() {
         <div class="empty-state-sub">Configure your name, GitHub repo, and access token in Settings to start using the tool.</div>
         <button class="btn btn-primary" onclick="openSettings()">Open Settings</button>
       </div>`;
+    renderReadingPane();
     return;
   }
 
   if (items.length === 0) {
     const isFiltered = S.ui.searchQuery || S.ui.contentType !== 'all' || S.ui.sharedByFilter || S.ui.tagFilter;
-    // Special case: Feed tab is auto-only
     if (S.ui.activeTab === 'feed' && !isFiltered) {
       container.innerHTML = `
         <div class="empty-state">
           <div class="empty-state-icon"><svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="color:var(--muted2)"><circle cx="12" cy="12" r="2"/><path d="M8.5 8.5a5 5 0 0 0 0 7M15.5 8.5a5 5 0 0 1 0 7"/><path d="M5.5 5.5a9.5 9.5 0 0 0 0 13M18.5 5.5a9.5 9.5 0 0 1 0 13"/></svg></div>
           <div class="empty-state-title">Auto-fetched feed</div>
-          <div class="empty-state-sub">This tab will fill with auto-pulled items from RSS feeds, Reddit, HackerNews and YouTube once Phase 2 is set up. Until then, share your finds in <strong>👥 Team Feed</strong>.</div>
+          <div class="empty-state-sub">This tab fills automatically with items from RSS feeds, Reddit, HackerNews and YouTube. If empty, the worker hasn't run yet.</div>
           <button class="btn btn-primary" onclick="document.querySelector('[data-tab=\\'team\\']').click()">Go to Team Feed</button>
         </div>`;
+      renderReadingPane();
       return;
     }
     container.innerHTML = `
       <div class="empty-state">
-        <div class="empty-state-icon"><svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="color:var(--muted2)"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg></div></div>
+        <div class="empty-state-icon"><svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="color:var(--muted2)"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg></div>
         <div class="empty-state-title">${isFiltered ? 'No matches' : 'Nothing here yet'}</div>
         <div class="empty-state-sub">
           ${isFiltered ? 'Try adjusting your filters or search.' :
             (S.ui.showOlder ? 'No items in this tab. Add the first one!' : 'Nothing in the last 7 days. Try "Show all" or share something.')}
         </div>
-        ${!isFiltered ? '<button class="btn btn-primary" onclick="openAddLink()">＋ Add link</button>' : ''}
+        ${!isFiltered && S.ui.activeTab !== 'feed' ? '<button class="btn btn-primary" onclick="openAddLink()">＋ Add link</button>' : ''}
       </div>`;
+    renderReadingPane();
     return;
   }
 
-  container.innerHTML = items.map(renderCard).join('');
+  container.innerHTML = items.map(renderRow).join('');
+  renderReadingPane();
 }
 
-function renderCard(it) {
+function isMobile() {
+  // Check if reading pane is actually hidden by CSS — works regardless of viewport size,
+  // and correctly detects sandboxed iframe previews vs real mobile.
+  const pane = document.getElementById('reading-pane');
+  if (!pane) return true;
+  return window.getComputedStyle(pane).display === 'none';
+}
+
+function renderRow(it) {
   const me = S.settings.userName || 'unknown';
   const isUnread = !(it.readBy || []).includes(me);
+  const isSelected = S.ui.selectedItemId === it.id;
   const showCatBadge = ['claude', 'gemini', 'chatgpt', 'other'].includes(it.category);
   const tabBadge = showCatBadge ? `<span class="item-tab-badge tab-${it.category}">${TAB_LABELS[it.category]}</span>` : '';
+  const typeSvg = renderTypeSvg(it.contentType);
+  const typeIcon = (it.contentType === 'video' || it.contentType === 'podcast') ? `<div class="type-icon">${typeSvg}</div>` : '';
+  const ago = timeAgo(it.addedAt);
   const sourceBadge = it.domain ? `<span class="item-source-badge">${faviconImg(it.domain)} ${escapeHtml(it.domain)}</span>` : '';
-  const typeEmoji = it.contentType === 'video' ? '▶' : (it.contentType === 'podcast' ? '🎙' : '📄');
-  const typeIcon = (it.contentType === 'video' || it.contentType === 'podcast') ? `<div class="type-icon">${typeEmoji}</div>` : '';
-  const tags = (it.tags || []).slice(0, 3).map(t => `<span class="tag-chip">#${escapeHtml(t)}</span>`).join('');
-  const reactionChips = REACTIONS.map(r => {
+
+  // Compact mini-reactions: only the ones with counts > 0
+  const reactionMini = REACTIONS.map(r => {
     const list = it.reactions?.[r.key] || [];
     if (list.length === 0) return '';
-    return `<span class="reaction-chip"><span>${r.emoji}</span><span class="count">${list.length}</span></span>`;
+    return `<span class="mini-r">${r.emoji}<span>${list.length}</span></span>`;
   }).filter(Boolean).join('');
-  const ago = timeAgo(it.addedAt);
+
+  // Comments badge (count only)
+  const commentCount = (it.comments || []).length;
+  const commentMini = commentCount > 0
+    ? `<span class="mini-r" style="background:var(--navy-tint);color:var(--muted);"><svg width="9" height="9" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg><span>${commentCount}</span></span>`
+    : '';
 
   return `
-    <div class="item-card ${isUnread ? 'unread' : ''}" onclick="openItemDetail('${it.id}')">
-      <div class="item-image">
-        ${it.image
-          ? `<img src="${escapeAttr(it.image)}" onerror="this.outerHTML='<div class=\\'item-image-fallback\\'>${typeEmoji}</div>'" alt="">`
-          : `<div class="item-image-fallback">${typeEmoji}</div>`}
-        ${sourceBadge}
-        ${tabBadge}
-        ${typeIcon}
-      </div>
-      <div class="item-body">
-        <div class="item-title">${escapeHtml(it.title)}</div>
-        ${it.description ? `<div class="item-desc">${escapeHtml(it.description)}</div>` : ''}
-        ${tags ? `<div class="item-tags">${tags}</div>` : ''}
-        <div class="item-foot">
-          <div class="item-meta">
-            <span class="by">${escapeHtml(it.addedBy || 'unknown')}</span>
-            <span>·</span>
-            <span>${ago}</span>
+    <div class="item-card ${isUnread ? 'unread' : ''} ${isSelected ? 'selected' : ''}" onclick="selectItem('${it.id}')">
+      <div class="item-row-main">
+        <div class="item-image">
+          ${it.image
+            ? `<img src="${escapeAttr(it.image)}" onerror="this.outerHTML='<div class=\\'item-image-fallback\\'>'+(${JSON.stringify(typeSvg)})+'</div>'" alt="">`
+            : `<div class="item-image-fallback">${typeSvg}</div>`}
+          ${typeIcon}
+        </div>
+        <div class="item-body">
+          <div class="item-row-top">
+            <div class="item-title">${escapeHtml(it.title)}</div>
+            ${tabBadge}
           </div>
-          <div class="item-reactions">${reactionChips}</div>
+          ${it.description ? `<div class="item-desc">${escapeHtml(it.description)}</div>` : ''}
+          <div class="item-foot">
+            <span class="by">${escapeHtml(it.addedBy || 'unknown')}</span>
+            <span class="item-foot-divider">·</span>
+            <span>${ago}</span>
+            <span class="item-foot-divider">·</span>
+            ${sourceBadge}
+            <div class="item-mini-reactions">${reactionMini}${commentMini}</div>
+          </div>
+        </div>
+      </div>
+      ${renderItemCommentsPreview(it)}
+    </div>`;
+}
+
+function renderItemCommentsPreview(it) {
+  const comments = it.comments || [];
+  if (comments.length === 0) return '';
+
+  // Show latest 2 comments (most recent at bottom, like social media)
+  const latest = comments.slice(-2);
+  const remaining = comments.length - latest.length;
+  const heartIcon = `<svg viewBox="0 0 24 24" fill="currentColor" stroke="none"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>`;
+
+  return `
+    <div class="item-comments-preview">
+      ${latest.map(c => {
+        const initials = (c.author || '?').slice(0, 2).toUpperCase();
+        const likeCount = Array.isArray(c.likes) ? c.likes.length : 0;
+        const likeBadge = likeCount > 0
+          ? `<span class="comment-preview-likes" title="${likeCount} like${likeCount > 1 ? 's' : ''}">${heartIcon}${likeCount}</span>`
+          : '';
+        return `
+          <div class="comment-preview-row">
+            <div class="comment-avatar-mini">${escapeHtml(initials)}</div>
+            <div class="comment-preview-text"><strong>${escapeHtml(c.author || 'unknown')}:</strong> ${escapeHtml(c.text)}${likeBadge}</div>
+          </div>`;
+      }).join('')}
+      ${remaining > 0 ? `<div class="comment-preview-more">+ ${remaining} more comment${remaining > 1 ? 's' : ''}</div>` : ''}
+    </div>`;
+}
+
+function renderTypeSvg(contentType) {
+  if (contentType === 'video') {
+    return `<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="23 7 16 12 23 17 23 7"/><rect x="1" y="5" width="15" height="14" rx="2" ry="2"/></svg>`;
+  }
+  if (contentType === 'podcast') {
+    return `<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" y1="19" x2="12" y2="23"/><line x1="8" y1="23" x2="16" y2="23"/></svg>`;
+  }
+  return `<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>`;
+}
+
+function selectItem(itemId) {
+  const it = findItem(itemId);
+  if (!it) return;
+
+  // On mobile, open as modal (legacy flow)
+  if (isMobile()) {
+    openItemDetail(itemId);
+    return;
+  }
+
+  // Switching to a different item — clear any active comment edit
+  if (S.ui.selectedItemId !== itemId) {
+    S.ui.editingCommentId = null;
+  }
+
+  // Desktop: select for reading pane
+  S.ui.selectedItemId = itemId;
+  markAsRead(itemId);
+  // Re-render only the affected items list rows for selection state, plus reading pane
+  render();
+}
+
+function renderReadingPane() {
+  const pane = document.getElementById('reading-pane');
+  if (!pane) return;
+  const id = S.ui.selectedItemId;
+  if (!id) {
+    pane.innerHTML = `
+      <div class="reading-pane-empty">
+        <div class="reading-pane-empty-icon">
+          <svg width="56" height="56" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+        </div>
+        <div class="reading-pane-empty-title">Select an item to read</div>
+        <div class="reading-pane-empty-sub">Click any item from the list to view details, react, comment and categorize.</div>
+      </div>`;
+    return;
+  }
+  const it = findItem(id);
+  if (!it) {
+    S.ui.selectedItemId = null;
+    pane.innerHTML = `<div class="reading-pane-empty"><div class="reading-pane-empty-title">Item not found</div></div>`;
+    return;
+  }
+
+  const me = S.settings.userName || 'unknown';
+  const showCatBadge = ['claude', 'gemini', 'chatgpt', 'other'].includes(it.category);
+  const catBadge = showCatBadge ? `<span class="item-tab-badge tab-${it.category}">${TAB_LABELS[it.category]}</span>` : '';
+  const sourceBadge = it.domain ? `<span class="item-source-badge">${faviconImg(it.domain)} ${escapeHtml(it.domain)}</span>` : '';
+
+  const reactionsHtml = REACTIONS.map(r => {
+    const list = it.reactions?.[r.key] || [];
+    const isMine = list.includes(me);
+    const reactorsText = list.length > 0 ? list.join(', ') : '';
+    return `
+      <button class="reading-reaction-btn ${isMine ? 'active' : ''}" onclick="toggleReaction('${it.id}','${r.key}'); renderReadingPane();" title="${escapeAttr(reactorsText)}">
+        ${r.emoji}
+        <span>${r.label}</span>
+        ${list.length > 0 ? `<span class="reading-reaction-count">${list.length}</span>` : ''}
+      </button>`;
+  }).join('');
+
+  const tagsHtml = (it.tags || []).map(t => `<span class="tag-chip">#${escapeHtml(t)}</span>`).join('');
+
+  const typeSvg = renderTypeSvg(it.contentType);
+  const imageBlock = it.image
+    ? `<div class="reading-image"><img src="${escapeAttr(it.image)}" onerror="this.parentElement.innerHTML='<div class=\\'reading-image-fallback\\'>'+(${JSON.stringify(typeSvg)})+'</div>'" alt=""></div>`
+    : (it.contentType !== 'article' ? `<div class="reading-image"><div class="reading-image-fallback">${typeSvg}</div></div>` : '');
+
+  // Comments
+  const comments = it.comments || [];
+  const commentsHtml = comments.length === 0
+    ? `<div class="comments-empty">No comments yet. Be the first to share what you think.</div>`
+    : `<div class="comments-list">${comments.map(c => renderComment(c, it.id, me)).join('')}</div>`;
+
+  pane.innerHTML = `
+    <div class="reading-content">
+      ${imageBlock}
+      <div class="reading-meta-row">
+        ${sourceBadge}
+        ${catBadge}
+        <span style="color:var(--muted2)">·</span>
+        <span>Shared by <strong style="color:var(--teal-deep)">${escapeHtml(it.addedBy || 'unknown')}</strong></span>
+        <span style="color:var(--muted2)">·</span>
+        <span>${timeAgo(it.addedAt)}</span>
+      </div>
+      <div class="reading-title">${escapeHtml(it.title)}</div>
+      <a href="${escapeAttr(it.url)}" target="_blank" rel="noopener" class="reading-source-link">
+        Open original
+        <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+      </a>
+      ${it.description ? `<div class="reading-desc">${escapeHtml(it.description)}</div>` : ''}
+      ${tagsHtml ? `<div class="reading-tags">${tagsHtml}</div>` : ''}
+
+      <div class="reading-section-label">Reactions</div>
+      <div class="reading-reactions">${reactionsHtml}</div>
+
+      <div class="reading-section-label">Categorize as</div>
+      <div class="reading-categorize">
+        <button class="reading-cat-btn ${!it.category?'selected':''}" onclick="setItemCategory('${it.id}', null); renderReadingPane();">None</button>
+        ${MODEL_CATEGORIES.map(c =>
+          `<button class="reading-cat-btn ${it.category===c?'selected':''}" onclick="setItemCategory('${it.id}', '${c}'); renderReadingPane();">${TAB_LABELS[c]}</button>`
+        ).join('')}
+      </div>
+
+      <div class="comments-section">
+        <div class="reading-section-label">Comments ${comments.length > 0 ? `(${comments.length})` : ''}</div>
+        ${commentsHtml}
+        <div class="comment-form" style="margin-top: 12px;">
+          <textarea id="comment-input-${it.id}" placeholder="Add a comment..." rows="2" onkeydown="if(event.key==='Enter' && (event.ctrlKey || event.metaKey)) { event.preventDefault(); submitComment('${it.id}'); }"></textarea>
+          <button class="btn btn-primary" onclick="submitComment('${it.id}')">Post</button>
+        </div>
+      </div>
+
+      <div class="reading-actions">
+        <button class="btn btn-danger" onclick="confirmDelete('${it.id}')">Delete</button>
+        <div style="flex:1"></div>
+        <a class="btn btn-primary" href="${escapeAttr(it.url)}" target="_blank" rel="noopener">Open
+          <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+        </a>
+      </div>
+    </div>`;
+}
+
+function renderComment(c, itemId, me) {
+  const initials = (c.author || '?').slice(0, 2).toUpperCase();
+  const isMine = c.author === me;
+  const isAdminUser = isAdmin();
+  const canDelete = isMine || isAdminUser;
+  const canEdit = isMine; // only own comments are editable
+  const isEditing = S.ui.editingCommentId === c.id;
+  const likes = Array.isArray(c.likes) ? c.likes : [];
+  const iLiked = likes.includes(me);
+  const editedSuffix = c.editedAt
+    ? `<span class="comment-edited" title="${escapeAttr('Edited ' + new Date(c.editedAt).toLocaleString())}">(edited)</span>`
+    : '';
+
+  if (isEditing) {
+    return `
+      <div class="comment-item editing">
+        <div class="comment-avatar">${escapeHtml(initials)}</div>
+        <div class="comment-body">
+          <div class="comment-head">
+            <span class="comment-author">${escapeHtml(c.author || 'unknown')}</span>
+            <span class="comment-time">${timeAgo(c.at)}${editedSuffix}</span>
+          </div>
+          <textarea id="edit-comment-${c.id}" class="comment-edit-textarea" rows="2"
+            onkeydown="if(event.key==='Escape'){cancelCommentEdit();} if(event.key==='Enter' && (event.ctrlKey || event.metaKey)){event.preventDefault(); saveCommentEdit('${itemId}','${c.id}');}">${escapeHtml(c.text)}</textarea>
+          <div class="comment-edit-actions">
+            <button class="btn btn-secondary" style="padding:5px 12px;font-size:11px;" onclick="cancelCommentEdit()">Cancel</button>
+            <button class="btn btn-primary" style="padding:5px 12px;font-size:11px;" onclick="saveCommentEdit('${itemId}', '${c.id}')">Save</button>
+          </div>
+        </div>
+      </div>`;
+  }
+
+  const editIcon = `<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/></svg>`;
+  const heartIcon = `<svg width="12" height="12" viewBox="0 0 24 24" fill="${iLiked ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>`;
+  const likeTooltip = likes.length > 0 ? `Liked by ${likes.join(', ')}` : 'Like';
+
+  return `
+    <div class="comment-item">
+      <div class="comment-avatar">${escapeHtml(initials)}</div>
+      <div class="comment-body">
+        <div class="comment-head">
+          <span class="comment-author">${escapeHtml(c.author || 'unknown')}</span>
+          <span class="comment-time">${timeAgo(c.at)}${editedSuffix}</span>
+          <div class="comment-actions">
+            ${canEdit ? `<button class="comment-action" onclick="event.stopPropagation(); startEditComment('${c.id}')" title="Edit">${editIcon}</button>` : ''}
+            ${canDelete ? `<button class="comment-action danger" onclick="event.stopPropagation(); deleteComment('${itemId}', '${c.id}')" title="Delete">×</button>` : ''}
+          </div>
+        </div>
+        <div class="comment-text">${escapeHtml(c.text)}</div>
+        <div class="comment-foot">
+          <button class="comment-like ${iLiked ? 'active' : ''}" onclick="event.stopPropagation(); toggleCommentLike('${itemId}', '${c.id}')" title="${escapeAttr(likeTooltip)}">
+            ${heartIcon}
+            ${likes.length > 0 ? `<span>${likes.length}</span>` : ''}
+          </button>
         </div>
       </div>
     </div>`;
+}
+
+function startEditComment(commentId) {
+  S.ui.editingCommentId = commentId;
+  renderReadingPane();
+  // Focus textarea after DOM update, place cursor at end
+  setTimeout(() => {
+    const ta = document.getElementById('edit-comment-' + commentId);
+    if (ta) {
+      ta.focus();
+      ta.setSelectionRange(ta.value.length, ta.value.length);
+    }
+  }, 0);
+}
+
+function cancelCommentEdit() {
+  S.ui.editingCommentId = null;
+  renderReadingPane();
+}
+
+function saveCommentEdit(itemId, commentId) {
+  const it = findItem(itemId);
+  if (!it) return;
+  const c = (it.comments || []).find(c => c.id === commentId);
+  if (!c) return;
+  const ta = document.getElementById('edit-comment-' + commentId);
+  if (!ta) return;
+  const newText = ta.value.trim();
+  if (!newText) return;
+  if (newText === c.text) {
+    // No change — just exit edit mode
+    S.ui.editingCommentId = null;
+    renderReadingPane();
+    return;
+  }
+  c.text = newText;
+  c.editedAt = new Date().toISOString();
+  it._updatedAt = new Date().toISOString();
+  S.ui.editingCommentId = null;
+  ghSaveFeed();
+  render();
+}
+
+function toggleCommentLike(itemId, commentId) {
+  const it = findItem(itemId);
+  if (!it) return;
+  const c = (it.comments || []).find(c => c.id === commentId);
+  if (!c) return;
+  if (!Array.isArray(c.likes)) c.likes = [];
+  const me = S.settings.userName || 'unknown';
+  const idx = c.likes.indexOf(me);
+  if (idx >= 0) c.likes.splice(idx, 1);
+  else c.likes.push(me);
+  it._updatedAt = new Date().toISOString();
+  ghSaveFeed();
+  render();
+}
+
+function submitComment(itemId) {
+  const input = document.getElementById('comment-input-' + itemId);
+  if (!input) return;
+  const text = input.value.trim();
+  if (!text) return;
+  const it = findItem(itemId);
+  if (!it) return;
+  if (!Array.isArray(it.comments)) it.comments = [];
+  it.comments.push({
+    id: 'c_' + Date.now().toString(36) + '_' + Math.random().toString(36).slice(2, 6),
+    author: S.settings.userName || 'unknown',
+    text,
+    at: new Date().toISOString(),
+    likes: []
+  });
+  it._updatedAt = new Date().toISOString();
+  input.value = '';
+  ghSaveFeed();
+  render();
+}
+
+function deleteComment(itemId, commentId) {
+  const it = findItem(itemId);
+  if (!it || !Array.isArray(it.comments)) return;
+  it.comments = it.comments.filter(c => c.id !== commentId);
+  it._updatedAt = new Date().toISOString();
+  // Clear edit state if deleting the comment being edited
+  if (S.ui.editingCommentId === commentId) S.ui.editingCommentId = null;
+  ghSaveFeed();
+  render();
 }
 
 function faviconImg(domain) {
@@ -2100,6 +2689,8 @@ function wireEvents() {
       document.querySelectorAll('.nav-item[data-tab]').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
       S.ui.activeTab = btn.dataset.tab;
+      S.ui.selectedItemId = null;     // clear reading pane on tab change
+      S.ui.editingCommentId = null;   // exit any comment edit
       // Also sync hidden tabs-wrap for JS compat
       document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
       const hiddenTab = document.querySelector(`.tab-btn[data-tab="${btn.dataset.tab}"]`);
@@ -2116,6 +2707,8 @@ function wireEvents() {
     document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
     S.ui.activeTab = btn.dataset.tab;
+    S.ui.selectedItemId = null;
+    S.ui.editingCommentId = null;
     updateTopbarTitle();
     render();
   });
@@ -2157,13 +2750,6 @@ function wireEvents() {
     S.ui.showOlder = !S.ui.showOlder;
     e.target.textContent = S.ui.showOlder ? 'Showing all' : 'Last 7 days';
     e.target.classList.toggle('active', !S.ui.showOlder);
-    render();
-  });
-
-  // View toggle
-  document.getElementById('view-toggle').addEventListener('click', () => {
-    S.settings.viewMode = S.settings.viewMode === 'list' ? 'grid' : 'list';
-    saveSettings();
     render();
   });
 
@@ -2219,12 +2805,21 @@ async function init() {
   S.initialLoadDone = true;
 
   // Auto-sync every 60 seconds (light refresh, no overwrite)
-  setInterval(async () => {
+  // Stops after 3 consecutive failures to avoid spamming errors in unreachable environments.
+  let consecutiveFailures = 0;
+  const autoSync = setInterval(async () => {
     if (!settingsConfigured() || S.syncing || document.getElementById('modal-overlay').children.length > 0) return;
     try {
       await ghLoadFeed();
       render();
-    } catch (e) { /* silent */ }
+      consecutiveFailures = 0;
+    } catch (e) {
+      consecutiveFailures++;
+      if (consecutiveFailures >= 3) {
+        console.warn('Auto-sync stopped after 3 consecutive failures. Use the manual sync button to retry.');
+        clearInterval(autoSync);
+      }
+    }
   }, 60000);
 }
 
