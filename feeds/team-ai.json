@@ -1734,15 +1734,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-05-04T11:13:27.949Z",
+      "_updatedAt": "2026-05-04T11:23:01.563Z",
       "comments": [
-        {
-          "id": "c_mor3ooje_4l0i",
-          "author": "Boris",
-          "text": "test",
-          "at": "2026-05-04T11:12:43.322Z",
-          "likes": []
-        },
         {
           "id": "c_mor3pebn_z419",
           "author": "Boris Tashkov",
@@ -1941,7 +1934,8 @@
           "boris"
         ]
       },
-      "_updatedAt": "2026-05-04T11:21:01.981Z"
+      "_updatedAt": "2026-05-04T11:21:01.981Z",
+      "comments": []
     }
   ],
   "activity": [
