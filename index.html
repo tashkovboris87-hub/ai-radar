@@ -46,57 +46,125 @@ html, body { height: 100%; }
 body {
   font-family: 'Inter', sans-serif;
   background: var(--bg); color: var(--navy); font-size: 13px;
-  position: relative; min-height: 100vh;
+  display: flex; height: 100vh; overflow: hidden;
 }
-body::before {
-  content: ''; position: fixed; inset: 0; z-index: 0; pointer-events: none;
-  background:
-    radial-gradient(ellipse 55% 40% at 0% 0%, rgba(25,33,102,0.05) 0%, transparent 70%),
-    radial-gradient(ellipse 40% 35% at 100% 100%, rgba(0,196,208,0.05) 0%, transparent 70%);
-}
-#app { position: relative; z-index: 1; display: flex; flex-direction: column; min-height: 100vh; }
-::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar { width: 6px; height: 6px; }
 ::-webkit-scrollbar-thumb { background: rgba(25,33,102,0.18); border-radius: 4px; }
 ::-webkit-scrollbar-thumb:hover { background: rgba(25,33,102,0.32); }
 input, textarea, select, button { font-family: 'Inter', sans-serif; }
+
+/* ── SIDEBAR ── */
+.sidebar {
+  width: 220px; flex-shrink: 0;
+  background: linear-gradient(160deg, #192166 0%, #1a3080 35%, #009EBD 80%, #00C4D0 100%);
+  display: flex; flex-direction: column;
+  height: 100vh; overflow: hidden; position: relative;
+}
+.sidebar::before {
+  content: ''; position: absolute; inset: 0; pointer-events: none;
+  background:
+    radial-gradient(ellipse 120% 45% at 50% 0%, rgba(0,196,208,0.18) 0%, transparent 65%),
+    radial-gradient(ellipse 80% 40% at 100% 100%, rgba(0,158,189,0.22) 0%, transparent 60%),
+    radial-gradient(ellipse 60% 30% at 0% 60%, rgba(25,33,102,0.35) 0%, transparent 70%);
+  z-index: 0;
+}
+.sidebar > * { position: relative; z-index: 1; }
+
+.sidebar-header {
+  padding: 18px 16px 14px;
+  border-bottom: 1px solid rgba(255,255,255,0.07);
+  display: flex; align-items: center; gap: 9px;
+}
+.sidebar-logo-icon { color: var(--teal); flex-shrink: 0; }
+.sidebar-logo-name { font-size: 15px; font-weight: 700; color: #fff; letter-spacing: -.2px; }
+.sidebar-logo-sub { font-size: 10px; color: rgba(255,255,255,0.38); }
+
+.sidebar-section { padding: 12px 10px 4px; }
+.sidebar-section-label {
+  font-size: 10px; font-weight: 600; color: rgba(255,255,255,0.28);
+  letter-spacing: .1em; text-transform: uppercase;
+  padding: 0 8px; margin-bottom: 4px;
+}
+.nav-item {
+  display: flex; align-items: center; gap: 8px;
+  padding: 7px 10px; border-radius: 7px; cursor: pointer;
+  color: rgba(255,255,255,0.55); font-size: 13px; font-weight: 500;
+  transition: all .15s; position: relative; border: none; background: transparent;
+  width: 100%; text-align: left;
+}
+.nav-item:hover { background: rgba(255,255,255,0.07); color: rgba(255,255,255,0.85); }
+.nav-item.active { background: rgba(255,255,255,0.10); color: #fff; }
+.nav-item.active::before {
+  content: ''; position: absolute; left: 0; top: 6px; bottom: 6px;
+  width: 3px; border-radius: 0 2px 2px 0; background: var(--teal);
+}
+.nav-icon { flex-shrink: 0; opacity: 0.7; }
+.nav-item.active .nav-icon { opacity: 1; }
+.nav-badge {
+  margin-left: auto; font-size: 10px; font-weight: 600;
+  background: rgba(255,255,255,0.12); color: rgba(255,255,255,0.55);
+  border-radius: 5px; padding: 1px 6px; min-width: 20px; text-align: center;
+}
+.nav-item.active .nav-badge { background: rgba(0,196,208,0.2); color: var(--teal); }
+.nav-dot { width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0; }
+.sidebar-divider { height: 1px; background: rgba(255,255,255,0.06); margin: 6px 10px; }
+
+.sidebar-footer {
+  margin-top: auto; padding: 12px 10px;
+  border-top: 1px solid rgba(255,255,255,0.07);
+}
+.sidebar-icon-row { display: flex; gap: 2px; padding: 0 6px 6px; }
+.sidebar-icon-btn {
+  background: transparent; border: none; cursor: pointer;
+  color: rgba(255,255,255,0.35); padding: 7px; border-radius: 6px;
+  transition: all .15s; display: flex; align-items: center;
+}
+.sidebar-icon-btn:hover { color: rgba(255,255,255,0.7); background: rgba(255,255,255,0.07); }
+.sidebar-user-row {
+  display: flex; align-items: center; gap: 9px;
+  padding: 7px 8px; border-radius: 7px; cursor: pointer; transition: all .15s;
+}
+.sidebar-user-row:hover { background: rgba(255,255,255,0.07); }
+.sidebar-user-avatar {
+  width: 28px; height: 28px; border-radius: 50%;
+  background: var(--teal); display: flex; align-items: center; justify-content: center;
+  font-size: 11px; font-weight: 700; color: var(--navy); flex-shrink: 0;
+}
+.sidebar-user-name { font-size: 12px; font-weight: 600; color: rgba(255,255,255,0.75); }
+.sidebar-user-status { font-size: 10px; color: rgba(255,255,255,0.32); }
+.sidebar-save-dot {
+  display: inline-block; width: 7px; height: 7px; border-radius: 50%;
+  cursor: help; transition: all .2s; flex-shrink: 0;
+}
+.sidebar-save-dot.saving { background: var(--teal); animation: pulse 1.2s infinite; }
+.sidebar-save-dot.saved  { background: #3d9e4a; }
+.sidebar-save-dot.error  { background: var(--red); }
+
+/* ── MAIN ── */
+#app {
+  flex: 1; display: flex; flex-direction: column; min-width: 0; overflow: hidden;
+}
 
 /* ── TOPBAR ── */
 .topbar {
   background: #fff;
   border-bottom: 1px solid var(--border);
-  padding: 0 22px; height: 56px;
-  display: flex; align-items: center; justify-content: space-between;
-  flex-shrink: 0; gap: 16px;
-  box-shadow: none;
-  position: sticky; top: 0; z-index: 100;
+  padding: 0 20px; height: 52px;
+  display: flex; align-items: center; gap: 12px;
+  flex-shrink: 0; position: relative; z-index: 100;
 }
-.topbar-left { display: flex; align-items: center; gap: 12px; }
-.logo-icon {
-  width: 32px; height: 32px; flex-shrink: 0;
-  display: flex; align-items: center; justify-content: center;
-  color: var(--teal-deep);
-}
-.topbar-title { font-size: 15px; font-weight: 700; color: var(--navy); letter-spacing: -.2px; }
-.topbar-sub { font-size: 11px; color: var(--muted); margin-top: 1px; display: flex; align-items: center; gap: 8px; }
+.topbar-title { font-size: 14px; font-weight: 600; color: var(--navy); }
+.topbar-count { font-size: 11px; color: var(--muted); background: var(--bg); border-radius: 5px; padding: 2px 8px; }
 .save-dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; cursor: help; transition: all .2s; }
 .save-dot.saving { background: var(--teal-deep); animation: pulse 1.2s infinite; }
 .save-dot.saved  { background: var(--green); box-shadow: 0 0 0 3px rgba(61,158,74,0.15); }
 .save-dot.error  { background: var(--red); box-shadow: 0 0 0 3px rgba(228,0,58,0.20); }
 @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.3; } }
 
-.tabs-wrap { display: flex; gap: 2px; background: transparent; border-radius: 0; padding: 0; border: none; border-bottom: 1px solid var(--border); align-self: stretch; }
-.tab-btn {
-  background: transparent; color: var(--muted); border: none; border-radius: 0;
-  padding: 0 16px; height: 44px; font-size: 13px; font-weight: 500; cursor: pointer;
-  transition: all .15s; white-space: nowrap; display: flex; align-items: center; gap: 6px;
-  border-bottom: 2px solid transparent; margin-bottom: -1px;
-}
-.tab-btn:hover { color: var(--navy); background: var(--navy-tint); }
-.tab-btn.active { background: #fff; color: var(--navy); font-weight: 700; box-shadow: 0 1px 4px rgba(25,33,102,0.10); border-bottom: 2px solid var(--teal-deep); }
-.tab-count { font-size: 10px; background: var(--navy-tint); border-radius: 6px; padding: 1px 6px; font-weight: 600; color: var(--muted); }
-.tab-btn.active .tab-count { background: rgba(0,158,189,0.12); color: var(--teal-deep); }
-
-.topbar-right { display: flex; align-items: center; gap: 8px; flex-shrink: 0; }
+/* hide old tabs-wrap — tabs moved to sidebar */
+.tabs-wrap { display: none !important; }
+.topbar-left { display: flex; align-items: center; gap: 12px; }
+.topbar-right { display: flex; align-items: center; gap: 8px; margin-left: auto; flex-shrink: 0; }
 .icon-btn {
   background: rgba(255,255,255,0.9); color: var(--navy);
   border: 1.5px solid var(--border-m); border-radius: var(--r-sm);
@@ -271,8 +339,8 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
 .item-reactions { display: flex; gap: 3px; }
 .reaction-chip {
   background: transparent; border: 1px solid transparent; border-radius: 11px;
-  padding: 2px 6px; font-size: 11px; cursor: pointer; transition: all .15s;
-  display: flex; align-items: center; gap: 3px; line-height: 1;
+  padding: 2px 7px; font-size: 11px; cursor: pointer; transition: all .15s;
+  display: inline-flex; align-items: center; gap: 4px; line-height: 1;
 }
 .reaction-chip:hover { background: var(--navy-tint); }
 .reaction-chip.active { background: var(--amber-tint); border-color: var(--amber); }
@@ -333,10 +401,10 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
   display: inline-flex; align-items: center; gap: 6px;
 }
 .btn-primary {
-  background: var(--navy); color: #fff;
+  background: #1a5c8f; color: #fff;
   box-shadow: none;
 }
-.btn-primary:hover { background: var(--teal-deep); box-shadow: none; transform: none; }
+.btn-primary:hover { background: #1a6ea8; box-shadow: none; transform: none; }
 .btn-primary:disabled { opacity: 0.5; cursor: not-allowed; box-shadow: none; transform: none; }
 .btn-secondary {
   background: #fff; color: var(--navy); border-color: var(--border-m);
@@ -356,7 +424,7 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
   transition: all .15s;
 }
 .tab-option:hover { border-color: var(--teal-deep); color: var(--navy); }
-.tab-option.selected { border-color: var(--teal-deep); background: var(--teal-tint); color: var(--teal-deep); font-weight: 700; }
+.tab-option.selected { border-color: var(--cat-color, var(--teal-deep)); background: rgba(0,0,0,0.03); color: var(--navy); font-weight: 600; }
 
 /* Tag input */
 .tag-input-wrap {
@@ -413,9 +481,9 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
 }
 .detail-reaction-btn {
   background: rgba(255,255,255,0.6); border: 1.5px solid var(--border-m);
-  border-radius: 22px; padding: 6px 12px; font-size: 13px; cursor: pointer;
-  transition: all .15s; display: inline-flex; align-items: center; gap: 6px;
-  font-weight: 600; color: var(--muted);
+  border-radius: 22px; padding: 6px 14px; font-size: 12px; cursor: pointer;
+  transition: all .15s; display: inline-flex; align-items: center; gap: 7px;
+  font-weight: 500; color: var(--muted);
 }
 .detail-reaction-btn:hover { border-color: var(--teal-deep); color: var(--navy); }
 .detail-reaction-btn.active {
@@ -491,7 +559,7 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
 /* ── FAB (Floating Action Button) ── */
 .fab {
   position: fixed; bottom: 28px; right: 28px; z-index: 90;
-  background: var(--navy);
+  background: #1a5c8f;
   color: #fff; border: none; cursor: pointer;
   border-radius: 8px; padding: 11px 20px;
   font-size: 13px; font-weight: 600; font-family: 'Inter', sans-serif;
@@ -500,8 +568,8 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
   transition: all .15s;
 }
 .fab:hover {
-  background: var(--teal-deep);
-  box-shadow: 0 6px 20px rgba(0,158,189,0.30);
+  background: #1a6ea8;
+  box-shadow: 0 6px 20px rgba(26,94,168,0.30);
   transform: translateY(-1px);
 }
 .fab:active { transform: translateY(0); }
@@ -520,35 +588,103 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
 }
 </style>
 </head>
-<body>
-<div id="app">
-  <div class="topbar">
-    <div class="topbar-left">
-      <div class="logo-icon">
-        <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="2"/><path d="M8.5 8.5a5 5 0 0 0 0 7M15.5 8.5a5 5 0 0 1 0 7"/><path d="M5.5 5.5a9.5 9.5 0 0 0 0 13M18.5 5.5a9.5 9.5 0 0 1 0 13"/></svg>
-      </div>
+<body style="display:flex;height:100vh;overflow:hidden;">
+
+<!-- ── SIDEBAR ── -->
+<aside class="sidebar">
+  <div class="sidebar-header">
+    <svg class="sidebar-logo-icon" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="2"/><path d="M8.5 8.5a5 5 0 0 0 0 7M15.5 8.5a5 5 0 0 1 0 7"/><path d="M5.5 5.5a9.5 9.5 0 0 0 0 13M18.5 5.5a9.5 9.5 0 0 1 0 13"/></svg>
+    <div>
+      <div class="sidebar-logo-name">AI Radar</div>
+      <div class="sidebar-logo-sub">Team Ipsos</div>
+    </div>
+  </div>
+
+  <div class="sidebar-section">
+    <div class="sidebar-section-label">Views</div>
+    <button class="nav-item" data-tab="feed">
+      <svg class="nav-icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="2"/><path d="M8.5 8.5a5 5 0 0 0 0 7M15.5 8.5a5 5 0 0 1 0 7"/><path d="M5.5 5.5a9.5 9.5 0 0 0 0 13M18.5 5.5a9.5 9.5 0 0 1 0 13"/></svg>
+      Feed
+      <span class="nav-badge" data-count="feed">0</span>
+    </button>
+    <button class="nav-item active" data-tab="team">
+      <svg class="nav-icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+      Team Feed
+      <span class="nav-badge" data-count="team">0</span>
+    </button>
+  </div>
+
+  <div class="sidebar-divider"></div>
+
+  <div class="sidebar-section">
+    <div class="sidebar-section-label">By model</div>
+    <button class="nav-item" data-tab="claude">
+      <span class="nav-dot" style="background:var(--claude)"></span>
+      Claude
+      <span class="nav-badge" data-count="claude">0</span>
+    </button>
+    <button class="nav-item" data-tab="gemini">
+      <span class="nav-dot" style="background:var(--gemini)"></span>
+      Gemini
+      <span class="nav-badge" data-count="gemini">0</span>
+    </button>
+    <button class="nav-item" data-tab="chatgpt">
+      <span class="nav-dot" style="background:var(--chatgpt)"></span>
+      ChatGPT
+      <span class="nav-badge" data-count="chatgpt">0</span>
+    </button>
+    <button class="nav-item" data-tab="other">
+      <span class="nav-dot" style="background:var(--other)"></span>
+      Other
+      <span class="nav-badge" data-count="other">0</span>
+    </button>
+  </div>
+
+  <div class="sidebar-footer">
+    <div class="sidebar-icon-row">
+      <button class="sidebar-icon-btn" id="history-btn" title="Activity history">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+      </button>
+      <button class="sidebar-icon-btn" id="sync-btn" title="Sync now">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 2v6h-6"/><path d="M3 12a9 9 0 0 1 15-6.7L21 8"/><path d="M3 22v-6h6"/><path d="M21 12a9 9 0 0 1-15 6.7L3 16"/></svg>
+      </button>
+      <button class="sidebar-icon-btn" id="settings-btn" title="Settings">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+      </button>
+    </div>
+    <div class="sidebar-user-row">
+      <div class="sidebar-user-avatar" id="sidebar-avatar">?</div>
       <div>
-        <div class="topbar-title">AI Radar</div>
-        <div class="topbar-sub">
-          <span>Team Ipsos</span>
-          <span style="opacity:0.5">·</span>
+        <div class="sidebar-user-name" id="sidebar-username">—</div>
+        <div class="sidebar-user-status">
           <span class="save-dot saved" id="save-dot" title="Ready"></span>
+          <span style="margin-left:5px;font-size:10px;color:rgba(255,255,255,0.32)" id="sidebar-status-text">Ready</span>
         </div>
       </div>
     </div>
-    <div class="tabs-wrap" id="tabs-wrap">
-      <button class="tab-btn" data-tab="feed" title="Auto-fetched from web (coming in Phase 2)"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="2"/><path d="M8.5 8.5a5 5 0 0 0 0 7M15.5 8.5a5 5 0 0 1 0 7"/><path d="M5.5 5.5a9.5 9.5 0 0 0 0 13M18.5 5.5a9.5 9.5 0 0 1 0 13"/></svg> Feed <span class="tab-count" data-count="feed">0</span></button>
-      <button class="tab-btn active" data-tab="team" title="Team's curated picks"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg> Team Feed <span class="tab-count" data-count="team">0</span></button>
-      <button class="tab-btn" data-tab="claude"><span style="width:8px;height:8px;border-radius:50%;background:var(--claude);display:inline-block;flex-shrink:0"></span> Claude <span class="tab-count" data-count="claude">0</span></button>
-      <button class="tab-btn" data-tab="gemini"><span style="width:8px;height:8px;border-radius:50%;background:var(--gemini);display:inline-block;flex-shrink:0"></span> Gemini <span class="tab-count" data-count="gemini">0</span></button>
-      <button class="tab-btn" data-tab="chatgpt"><span style="width:8px;height:8px;border-radius:50%;background:var(--chatgpt);display:inline-block;flex-shrink:0"></span> ChatGPT <span class="tab-count" data-count="chatgpt">0</span></button>
-      <button class="tab-btn" data-tab="other"><span style="width:8px;height:8px;border-radius:50%;background:var(--other);display:inline-block;flex-shrink:0"></span> Other <span class="tab-count" data-count="other">0</span></button>
-    </div>
+  </div>
+</aside>
+
+<!-- ── MAIN ── -->
+<div id="app" style="flex:1;display:flex;flex-direction:column;min-width:0;overflow:hidden;">
+  <div class="topbar">
+    <span class="topbar-title" id="topbar-title">Team Feed</span>
+    <span class="topbar-count" id="topbar-count"></span>
     <div class="topbar-right">
-      <button class="icon-btn icon-btn-square" id="history-btn" title="Activity history"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg></button>
-      <button class="icon-btn icon-btn-square" id="sync-btn" title="Sync now"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 2v6h-6"/><path d="M3 12a9 9 0 0 1 15-6.7L21 8"/><path d="M3 22v-6h6"/><path d="M21 12a9 9 0 0 1-15 6.7L3 16"/></svg></button>
-      <button class="icon-btn icon-btn-square" id="settings-btn" title="Settings"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg></button>
+      <button class="btn btn-primary" id="fab-topbar" onclick="openAddLink()" style="padding:6px 14px;font-size:12px;">
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+        Add link
+      </button>
     </div>
+  </div>
+  <!-- keep hidden tabs-wrap for JS compatibility -->
+  <div class="tabs-wrap" id="tabs-wrap" style="display:none!important;">
+    <button class="tab-btn" data-tab="feed"><span class="tab-count" data-count="feed">0</span></button>
+    <button class="tab-btn active" data-tab="team"><span class="tab-count" data-count="team">0</span></button>
+    <button class="tab-btn" data-tab="claude"><span class="tab-count" data-count="claude">0</span></button>
+    <button class="tab-btn" data-tab="gemini"><span class="tab-count" data-count="gemini">0</span></button>
+    <button class="tab-btn" data-tab="chatgpt"><span class="tab-count" data-count="chatgpt">0</span></button>
+    <button class="tab-btn" data-tab="other"><span class="tab-count" data-count="other">0</span></button>
   </div>
 
   <div class="filterbar">
@@ -576,12 +712,7 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
   <div class="main-content" id="items-container">
     <!-- items rendered here -->
   </div>
-</div>
-
-<button class="fab" id="fab-add" title="Add link (paste URL)">
-  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
-  <span class="fab-label">Add link</span>
-</button>
+</div><!-- /#app -->
 
 <div id="modal-overlay" class="hidden"></div>
 
@@ -593,11 +724,18 @@ const STORAGE_KEY = 'ai-radar-settings';
 const FEED_PATH = 'feeds/team-ai.json';
 const CORS_PROXY = 'https://corsproxy.io/?url=';
 
+const REACTION_ICONS = {
+  important:  `<svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" stroke="none"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>`,
+  must_read:  `<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg>`,
+  watch_later:`<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>`,
+  tried:      `<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>`
+};
+
 const REACTIONS = [
-  { key: 'important', emoji: '⭐', label: 'важно' },
-  { key: 'must_read', emoji: '🔥', label: 'must-read' },
-  { key: 'watch_later', emoji: '👀', label: 'ще го гледам' },
-  { key: 'tried', emoji: '✅', label: 'изпробвал' }
+  { key: 'important',   emoji: REACTION_ICONS.important,   label: 'важно' },
+  { key: 'must_read',   emoji: REACTION_ICONS.must_read,   label: 'must-read' },
+  { key: 'watch_later', emoji: REACTION_ICONS.watch_later, label: 'ще го гледам' },
+  { key: 'tried',       emoji: REACTION_ICONS.tried,       label: 'изпробвал' }
 ];
 
 const TAB_LABELS = {
@@ -1113,8 +1251,48 @@ function deleteItem(itemId) {
 }
 
 // ─────────────────────────────────────────────────────────────
-// FILTERING & RENDERING
+// SIDEBAR + TOPBAR UI UPDATES
 // ─────────────────────────────────────────────────────────────
+const TAB_LABELS_BG = {
+  feed: 'Feed', team: 'Team Feed', claude: 'Claude', gemini: 'Gemini', chatgpt: 'ChatGPT', other: 'Other'
+};
+
+function updateTopbarTitle() {
+  const titleEl = document.getElementById('topbar-title');
+  if (titleEl) titleEl.textContent = TAB_LABELS_BG[S.ui.activeTab] || 'Feed';
+}
+
+function updateSidebarUI() {
+  // Update nav badges from tab counts
+  TAB_KEYS.forEach(tab => {
+    const badge = document.querySelector(`.nav-item[data-tab="${tab}"] .nav-badge`);
+    if (badge) badge.textContent = countWithFilters({ activeTab: tab });
+  });
+  // Update active state
+  document.querySelectorAll('.nav-item[data-tab]').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.tab === S.ui.activeTab);
+  });
+  // Update user display
+  const nameEl = document.getElementById('sidebar-username');
+  const avatarEl = document.getElementById('sidebar-avatar');
+  if (nameEl && S.settings.userName) nameEl.textContent = S.settings.userName;
+  if (avatarEl && S.settings.userName) avatarEl.textContent = S.settings.userName[0].toUpperCase();
+  // Update topbar count
+  const countEl = document.getElementById('topbar-count');
+  if (countEl) {
+    const n = countWithFilters({ activeTab: S.ui.activeTab });
+    countEl.textContent = n ? `${n} items` : '';
+  }
+  // Hide add link button on Feed tab
+  const fabTopbar = document.getElementById('fab-topbar');
+  if (fabTopbar) fabTopbar.style.display = S.ui.activeTab === 'feed' ? 'none' : '';
+}
+
+function updateFabVisibility() {
+  updateSidebarUI();
+}
+
+
 function matchesActiveTab(it, tab) {
   if (tab === 'feed') return it.source === 'feed';
   if (tab === 'team') return it.source === 'team';
@@ -1231,7 +1409,8 @@ function updateFilterDropdowns() {
 function render() {
   updateTabCounts();
   updateFilterDropdowns();
-  updateFabVisibility();
+  updateSidebarUI();
+  updateTopbarTitle();
   const container = document.getElementById('items-container');
   // Toggle view mode
   container.classList.toggle('list-view', S.settings.viewMode === 'list');
@@ -1243,7 +1422,7 @@ function render() {
   }
   const items = getFilteredItems();
 
-  if (!settingsConfigured()) {
+  if (!settingsConfigured() && S.feed.items.length === 0) {
     container.innerHTML = `
       <div class="empty-state">
         <div class="empty-state-icon"><svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="color:var(--muted2)"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg></div>
@@ -1634,7 +1813,7 @@ function openAddLink() {
             <div class="tab-selector" id="tab-selector">
               <div class="tab-option selected" data-tab-value="" onclick="selectCategory('')">None</div>
               ${MODEL_CATEGORIES.map(c =>
-                `<div class="tab-option" data-tab-value="${c}" onclick="selectCategory('${c}')">${TAB_LABELS[c]}</div>`
+                `<div class="tab-option" data-tab-value="${c}" style="--cat-color:var(--${c})" onclick="selectCategory('${c}')"><span style="width:8px;height:8px;border-radius:50%;background:var(--${c});display:inline-block;margin-right:5px;vertical-align:middle"></span>${TAB_LABELS[c]}</div>`
               ).join('')}
             </div>
           </div>
@@ -1862,7 +2041,7 @@ function openItemDetail(itemId) {
           <div class="tab-selector">
             <div class="tab-option ${!it.category?'selected':''}" onclick="setItemCategory('${it.id}', null); openItemDetail('${it.id}');">None</div>
             ${MODEL_CATEGORIES.map(c =>
-              `<div class="tab-option ${it.category===c?'selected':''}" onclick="setItemCategory('${it.id}', '${c}'); openItemDetail('${it.id}');">${TAB_LABELS[c]}</div>`
+              `<div class="tab-option ${it.category===c?'selected':''}" style="--cat-color:var(--${c})" onclick="setItemCategory('${it.id}', '${c}'); openItemDetail('${it.id}');"><span style="width:8px;height:8px;border-radius:50%;background:var(--${c});display:inline-block;margin-right:5px;vertical-align:middle"></span>${TAB_LABELS[c]}</div>`
             ).join('')}
           </div>
         </div>
@@ -1915,13 +2094,29 @@ function timeAgo(iso) {
 // EVENT WIRING
 // ─────────────────────────────────────────────────────────────
 function wireEvents() {
-  // Tabs
+  // Sidebar nav items
+  document.querySelectorAll('.nav-item[data-tab]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.nav-item[data-tab]').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      S.ui.activeTab = btn.dataset.tab;
+      // Also sync hidden tabs-wrap for JS compat
+      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+      const hiddenTab = document.querySelector(`.tab-btn[data-tab="${btn.dataset.tab}"]`);
+      if (hiddenTab) hiddenTab.classList.add('active');
+      updateTopbarTitle();
+      render();
+    });
+  });
+
+  // Hidden tabs-wrap (kept for JS compat — also wire it)
   document.getElementById('tabs-wrap').addEventListener('click', e => {
     const btn = e.target.closest('.tab-btn');
     if (!btn) return;
     document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
     S.ui.activeTab = btn.dataset.tab;
+    updateTopbarTitle();
     render();
   });
 
@@ -1972,8 +2167,8 @@ function wireEvents() {
     render();
   });
 
-  // Buttons
-  document.getElementById('fab-add').addEventListener('click', openAddLink);
+  // Buttons — fab-topbar instead of fab-add
+  document.getElementById('fab-topbar').addEventListener('click', openAddLink);
   document.getElementById('settings-btn').addEventListener('click', openSettings);
   document.getElementById('history-btn').addEventListener('click', openHistory);
   document.getElementById('sync-btn').addEventListener('click', async () => {
@@ -2005,6 +2200,19 @@ async function init() {
       console.error('Initial load failed', e);
     }
   } else {
+    // Demo mode — inject fake settings and a sample item so the UI is visible
+    S.settings.userName = 'demo';
+    S.settings.githubRepo = 'demo/repo';
+    S.settings.githubToken = 'demo';
+    S.feed.items = [{
+      id: 'demo_1', url: 'https://anthropic.com', title: 'Anthropic releases Claude 4 with extended thinking',
+      description: 'The new model significantly outperforms its predecessor on coding, math, and reasoning benchmarks — a major step forward for frontier AI.',
+      image: '', domain: 'anthropic.com', contentType: 'article',
+      source: 'team', category: 'claude', tags: ['release', 'research'],
+      addedAt: new Date().toISOString(), addedBy: 'boris',
+      readBy: [], reactions: { important: ['boris','maria'], must_read: ['ivan'], watch_later: [], tried: ['boris'] },
+      _updatedAt: new Date().toISOString()
+    }];
     setStatus('error', 'Setup needed');
   }
   render();
