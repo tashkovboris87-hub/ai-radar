@@ -67,7 +67,9 @@
       ],
       "reactions": {
         "important": [],
-        "must_read": [],
+        "must_read": [
+          "Boris"
+        ],
         "watch_later": [
           "Boris"
         ],
@@ -75,7 +77,7 @@
           "Boris"
         ]
       },
-      "_updatedAt": "2026-05-04T08:17:54.473Z"
+      "_updatedAt": "2026-05-04T08:17:54.990Z"
     },
     {
       "id": "i_mok5myq2_uk4v09",
