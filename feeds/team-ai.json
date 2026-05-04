@@ -1430,14 +1430,16 @@
       "tags": [],
       "addedAt": "2026-04-24T04:40:43.000Z",
       "addedBy": "Latent Space",
-      "readBy": [],
+      "readBy": [
+        "Boris Tashkov"
+      ],
       "reactions": {
         "important": [],
         "must_read": [],
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-04-29T03:03:40.815Z",
+      "_updatedAt": "2026-05-04T11:18:55.137Z",
       "comments": []
     },
     {
