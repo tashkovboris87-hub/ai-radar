@@ -1001,14 +1001,16 @@
       "tags": [],
       "addedAt": "2026-04-28T23:54:14.000Z",
       "addedBy": "HackerNews",
-      "readBy": [],
+      "readBy": [
+        "Boris Tashkov"
+      ],
       "reactions": {
         "important": [],
         "must_read": [],
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-04-29T03:03:40.815Z",
+      "_updatedAt": "2026-05-04T11:19:03.020Z",
       "comments": []
     },
     {
