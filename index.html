@@ -126,10 +126,11 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
 .sidebar-icon-row { display: flex; gap: 2px; padding: 0 6px 6px; }
 .sidebar-icon-btn {
   background: transparent; border: none; cursor: pointer;
-  color: rgba(255,255,255,0.35); padding: 7px; border-radius: 6px;
+  color: #fff; padding: 7px; border-radius: 6px;
   transition: all .15s; display: flex; align-items: center;
+  opacity: 0.85;
 }
-.sidebar-icon-btn:hover { color: rgba(255,255,255,0.7); background: rgba(255,255,255,0.07); }
+.sidebar-icon-btn:hover { opacity: 1; background: rgba(255,255,255,0.12); }
 .sidebar-user-row {
   display: flex; align-items: center; gap: 9px;
   padding: 7px 8px; border-radius: 7px; cursor: pointer; transition: all .15s;
@@ -137,11 +138,12 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
 .sidebar-user-row:hover { background: rgba(255,255,255,0.07); }
 .sidebar-user-avatar {
   width: 28px; height: 28px; border-radius: 50%;
-  background: var(--teal); display: flex; align-items: center; justify-content: center;
-  font-size: 11px; font-weight: 700; color: var(--navy); flex-shrink: 0;
+  background: #fff; display: flex; align-items: center; justify-content: center;
+  font-size: 11px; font-weight: 800; color: var(--navy); flex-shrink: 0;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
 }
-.sidebar-user-name { font-size: 12px; font-weight: 600; color: rgba(255,255,255,0.75); }
-.sidebar-user-status { font-size: 10px; color: rgba(255,255,255,0.32); }
+.sidebar-user-name { font-size: 12px; font-weight: 700; color: #fff; }
+.sidebar-user-status { font-size: 10px; color: rgba(255,255,255,0.85); }
 .sidebar-save-dot {
   display: inline-block; width: 7px; height: 7px; border-radius: 50%;
   cursor: help; transition: all .2s; flex-shrink: 0;
@@ -166,9 +168,9 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
 .topbar-title { font-size: 14px; font-weight: 600; color: var(--navy); }
 .topbar-count { font-size: 11px; color: var(--muted); background: var(--bg); border-radius: 5px; padding: 2px 8px; }
 .save-dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; cursor: help; transition: all .2s; }
-.save-dot.saving { background: var(--teal-deep); animation: pulse 1.2s infinite; }
-.save-dot.saved  { background: var(--green); box-shadow: 0 0 0 3px rgba(61,158,74,0.15); }
-.save-dot.error  { background: var(--red); box-shadow: 0 0 0 3px rgba(228,0,58,0.20); }
+.save-dot.saving { background: var(--teal); animation: pulse 1.2s infinite; box-shadow: 0 0 0 2px rgba(0,196,208,0.35); }
+.save-dot.saved  { background: #5dd368; box-shadow: 0 0 0 2px rgba(93,211,104,0.35); }
+.save-dot.error  { background: var(--red); box-shadow: 0 0 0 2px rgba(228,0,58,0.35); }
 @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.3; } }
 
 /* hide old tabs-wrap — tabs moved to sidebar */
@@ -274,6 +276,7 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
   cursor: pointer; transition: all .15s;
   display: flex; flex-direction: column; position: relative;
   overflow: hidden;
+  flex-shrink: 0;
 }
 .item-card:hover {
   border-color: var(--border-m);
@@ -305,14 +308,17 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
   width: 64px; min-width: 64px; height: 64px;
   border-radius: 6px;
   background: linear-gradient(135deg, #edf0f8, #dfe5f0);
-  display: flex; align-items: center; justify-content: center;
   color: var(--muted2); overflow: hidden; position: relative;
   flex-shrink: 0;
 }
-.item-image img { width: 100%; height: 100%; object-fit: cover; }
+.item-image img {
+  position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover;
+  z-index: 1;
+}
 .item-image-fallback {
+  position: absolute; inset: 0; z-index: 0;
   display: flex; align-items: center; justify-content: center;
-  width: 100%; height: 100%; opacity: 0.55;
+  opacity: 0.55;
 }
 .item-image-fallback svg { width: 22px; height: 22px; }
 .type-icon {
@@ -417,16 +423,25 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
 .reading-pane-empty-sub { font-size: 12px; color: var(--muted); text-align: center; max-width: 280px; line-height: 1.5; }
 
 .reading-content {
-  padding: 28px 32px; max-width: 760px; width: 100%;
+  padding: 32px 44px; max-width: 720px; width: 100%;
   margin: 0 auto;
 }
 .reading-image {
   width: 100%; aspect-ratio: 1.91 / 1; background: linear-gradient(135deg, #edf0f8, #dfe5f0);
-  display: flex; align-items: center; justify-content: center; color: var(--muted2);
+  color: var(--muted2);
   overflow: hidden; border-radius: var(--r); margin-bottom: 16px;
+  position: relative;
 }
-.reading-image img { width: 100%; height: 100%; object-fit: cover; }
-.reading-image-fallback { font-size: 64px; opacity: 0.4; }
+.reading-image img {
+  position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover;
+  z-index: 1;
+}
+.reading-image-fallback {
+  position: absolute; inset: 0; z-index: 0;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 64px; opacity: 0.4;
+}
+.reading-image-fallback svg { width: 64px; height: 64px; }
 .reading-meta-row {
   display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
   margin-bottom: 10px; font-size: 11px; color: var(--muted);
@@ -465,12 +480,14 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
   margin-bottom: 8px; margin-top: 4px;
 }
 
-.reading-reactions { display: flex; gap: 6px; margin-bottom: 22px; flex-wrap: wrap; }
+.reading-reactions { display: flex; gap: 8px; margin-bottom: 22px; flex-wrap: wrap; }
 .reading-reaction-btn {
   background: #fff; border: 1.5px solid var(--border-m);
   border-radius: 22px; padding: 6px 13px; font-size: 12px; cursor: pointer;
   transition: all .15s; display: inline-flex; align-items: center; gap: 6px;
   font-weight: 600; color: var(--muted);
+  min-width: 140px; justify-content: center;
+  flex-shrink: 0;
 }
 .reading-reaction-btn:hover { border-color: var(--teal-deep); color: var(--navy); }
 .reading-reaction-btn.active {
@@ -914,7 +931,7 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
         <div class="sidebar-user-name" id="sidebar-username">—</div>
         <div class="sidebar-user-status">
           <span class="save-dot saved" id="save-dot" title="Ready"></span>
-          <span style="margin-left:5px;font-size:10px;color:rgba(255,255,255,0.32)" id="sidebar-status-text">Ready</span>
+          <span style="margin-left:5px;font-size:10px;color:#fff;font-weight:600;" id="sidebar-status-text">Ready</span>
         </div>
       </div>
     </div>
@@ -981,6 +998,7 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
 // STATE
 // ─────────────────────────────────────────────────────────────
 const STORAGE_KEY = 'ai-radar-settings';
+const FEED_CACHE_KEY = 'ai-radar-feed-cache';
 const FEED_PATH = 'feeds/team-ai.json';
 const CORS_PROXY = 'https://corsproxy.io/?url=';
 
@@ -1069,6 +1087,30 @@ function saveSettings() {
   try { localStorage.setItem(STORAGE_KEY, JSON.stringify(S.settings)); }
   catch (e) { console.warn('Settings save failed', e); }
 }
+
+function saveFeedCache() {
+  try {
+    const payload = {
+      version: S.feed.version || 1,
+      items: S.feed.items,
+      activity: S.feed.activity || [],
+      filterConfig: S.feed.filterConfig || null,
+      _cachedAt: new Date().toISOString()
+    };
+    localStorage.setItem(FEED_CACHE_KEY, JSON.stringify(payload));
+  } catch (e) {
+    // localStorage full / disabled — silent fail; feed still loads from GitHub
+    console.warn('Feed cache save failed:', e.message);
+  }
+}
+
+function loadFeedCache() {
+  try {
+    const raw = localStorage.getItem(FEED_CACHE_KEY);
+    if (!raw) return null;
+    return JSON.parse(raw);
+  } catch (e) { return null; }
+}
 function settingsConfigured() {
   return !!(S.settings.githubRepo && S.settings.githubToken && S.settings.userName);
 }
@@ -1094,9 +1136,12 @@ function updateFabVisibility() {
 // ─────────────────────────────────────────────────────────────
 function setStatus(state, text) {
   const dot = document.getElementById('save-dot');
-  if (!dot) return;
-  dot.className = 'save-dot ' + state;
-  dot.title = text;
+  if (dot) {
+    dot.className = 'save-dot ' + state;
+    dot.title = text;
+  }
+  const txt = document.getElementById('sidebar-status-text');
+  if (txt) txt.textContent = text;
 }
 
 // ─────────────────────────────────────────────────────────────
@@ -1131,6 +1176,7 @@ async function ghLoadFeed() {
     const parsed = JSON.parse(decoded);
     S.feed = { ...parsed, _sha: data.sha };
     migrateItems();
+    saveFeedCache();
     setStatus('saved', `Synced · ${S.feed.items.length} items`);
   } catch (err) {
     console.error('Load feed error', err);
@@ -1216,6 +1262,7 @@ async function ghSaveFeed(retry = 0) {
     if (!res.ok) throw new Error(`GitHub ${res.status}: ${await res.text()}`);
     const data = await res.json();
     S.feed._sha = data.content.sha;
+    saveFeedCache();
     setStatus('saved', `Synced · ${S.feed.items.length} items`);
     S.syncing = false;
     return true;
@@ -1544,7 +1591,7 @@ function updateSidebarUI() {
   const nameEl = document.getElementById('sidebar-username');
   const avatarEl = document.getElementById('sidebar-avatar');
   if (nameEl && S.settings.userName) nameEl.textContent = S.settings.userName;
-  if (avatarEl && S.settings.userName) avatarEl.textContent = S.settings.userName[0].toUpperCase();
+  if (avatarEl && S.settings.userName) avatarEl.textContent = getInitials(S.settings.userName);
   // Update topbar count
   const countEl = document.getElementById('topbar-count');
   if (countEl) {
@@ -1605,13 +1652,9 @@ function getFilteredItems() {
     items = items.filter(it => new Date(it.addedAt).getTime() >= sevenDaysAgo);
   }
 
-  // Sort: unread first (per current user), then by date desc
-  items.sort((a, b) => {
-    const aRead = (a.readBy || []).includes(me);
-    const bRead = (b.readBy || []).includes(me);
-    if (aRead !== bRead) return aRead ? 1 : -1;
-    return new Date(b.addedAt) - new Date(a.addedAt);
-  });
+  // Sort by date desc only — read state is shown via the unread dot indicator,
+  // not via reordering, so items stay in stable position when selected.
+  items.sort((a, b) => new Date(b.addedAt) - new Date(a.addedAt));
 
   return items;
 }
@@ -1761,9 +1804,8 @@ function renderRow(it) {
     <div class="item-card ${isUnread ? 'unread' : ''} ${isSelected ? 'selected' : ''}" onclick="selectItem('${it.id}')">
       <div class="item-row-main">
         <div class="item-image">
-          ${it.image
-            ? `<img src="${escapeAttr(it.image)}" onerror="this.outerHTML='<div class=\\'item-image-fallback\\'>'+(${JSON.stringify(typeSvg)})+'</div>'" alt="">`
-            : `<div class="item-image-fallback">${typeSvg}</div>`}
+          <div class="item-image-fallback">${typeSvg}</div>
+          ${it.image ? `<img src="${escapeAttr(it.image)}" onerror="this.remove()" alt="">` : ''}
           ${typeIcon}
         </div>
         <div class="item-body">
@@ -1798,7 +1840,7 @@ function renderItemCommentsPreview(it) {
   return `
     <div class="item-comments-preview">
       ${latest.map(c => {
-        const initials = (c.author || '?').slice(0, 2).toUpperCase();
+        const initials = getInitials(c.author);
         const likeCount = Array.isArray(c.likes) ? c.likes.length : 0;
         const likeBadge = likeCount > 0
           ? `<span class="comment-preview-likes" title="${likeCount} like${likeCount > 1 ? 's' : ''}">${heartIcon}${likeCount}</span>`
@@ -1887,9 +1929,13 @@ function renderReadingPane() {
   const tagsHtml = (it.tags || []).map(t => `<span class="tag-chip">#${escapeHtml(t)}</span>`).join('');
 
   const typeSvg = renderTypeSvg(it.contentType);
-  const imageBlock = it.image
-    ? `<div class="reading-image"><img src="${escapeAttr(it.image)}" onerror="this.parentElement.innerHTML='<div class=\\'reading-image-fallback\\'>'+(${JSON.stringify(typeSvg)})+'</div>'" alt=""></div>`
-    : (it.contentType !== 'article' ? `<div class="reading-image"><div class="reading-image-fallback">${typeSvg}</div></div>` : '');
+  // Always render fallback as base layer; img sits on top and removes itself on error.
+  const imageBlock = (it.image || it.contentType !== 'article')
+    ? `<div class="reading-image">
+         <div class="reading-image-fallback">${typeSvg}</div>
+         ${it.image ? `<img src="${escapeAttr(it.image)}" onerror="this.remove()" alt="">` : ''}
+       </div>`
+    : '';
 
   // Comments
   const comments = it.comments || [];
@@ -1947,7 +1993,7 @@ function renderReadingPane() {
 }
 
 function renderComment(c, itemId, me) {
-  const initials = (c.author || '?').slice(0, 2).toUpperCase();
+  const initials = getInitials(c.author);
   const isMine = c.author === me;
   const isAdminUser = isAdmin();
   const canDelete = isMine || isAdminUser;
@@ -2664,6 +2710,15 @@ function escapeHtml(s) {
 }
 function escapeAttr(s) { return escapeHtml(s); }
 
+function getInitials(name) {
+  if (!name) return '?';
+  const parts = String(name).trim().split(/\s+/);
+  if (parts.length === 0 || !parts[0]) return '?';
+  if (parts.length === 1) return parts[0][0].toUpperCase();
+  // Use first letter of first word + first letter of last word (max 2)
+  return (parts[0][0] + parts[parts.length - 1][0]).toUpperCase();
+}
+
 function timeAgo(iso) {
   if (!iso) return '';
   const ms = Date.now() - new Date(iso).getTime();
@@ -2779,13 +2834,32 @@ function wireEvents() {
 async function init() {
   loadSettings();
   wireEvents();
+
+  // 1. Try to load cached feed first for instant render — same pattern as training tracker
+  const cached = loadFeedCache();
+  if (cached && Array.isArray(cached.items) && cached.items.length > 0) {
+    S.feed = {
+      version: cached.version || 1,
+      items: cached.items,
+      activity: cached.activity || [],
+      filterConfig: cached.filterConfig || JSON.parse(JSON.stringify(DEFAULT_FILTER_CONFIG)),
+      _sha: null  // we don't trust cached sha — GitHub will give us the fresh one
+    };
+    migrateItems();
+    setStatus('saving', 'Cached · refreshing...');
+    render();  // instant render from cache
+  }
+
+  // 2. Then fetch fresh data from GitHub in background
   if (settingsConfigured()) {
     try {
       await ghLoadFeed();
+      render();
     } catch (e) {
       console.error('Initial load failed', e);
+      // If we had no cache, show empty state. If we did, the cached version is still showing.
     }
-  } else {
+  } else if (!cached) {
     // Demo mode — inject fake settings and a sample item so the UI is visible
     S.settings.userName = 'demo';
     S.settings.githubRepo = 'demo/repo';
@@ -2800,8 +2874,9 @@ async function init() {
       _updatedAt: new Date().toISOString()
     }];
     setStatus('error', 'Setup needed');
+    render();
   }
-  render();
+
   S.initialLoadDone = true;
 
   // Auto-sync every 60 seconds (light refresh, no overwrite)
