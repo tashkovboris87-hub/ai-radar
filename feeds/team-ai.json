@@ -1903,44 +1903,19 @@
       },
       "_updatedAt": "2026-05-04T11:13:45.646Z",
       "comments": []
-    },
-    {
-      "id": "demo_1",
-      "url": "https://anthropic.com",
-      "title": "Anthropic releases Claude 4 with extended thinking",
-      "description": "The new model significantly outperforms its predecessor on coding, math, and reasoning benchmarks — a major step forward for frontier AI.",
-      "image": "",
-      "domain": "anthropic.com",
-      "contentType": "article",
-      "source": "team",
-      "category": "claude",
-      "tags": [
-        "release",
-        "research"
-      ],
-      "addedAt": "2026-05-04T11:40:23.631Z",
-      "addedBy": "boris",
-      "readBy": [
-        "Boris"
-      ],
-      "reactions": {
-        "important": [
-          "boris",
-          "maria"
-        ],
-        "must_read": [
-          "ivan"
-        ],
-        "watch_later": [],
-        "tried": [
-          "boris"
-        ]
-      },
-      "_updatedAt": "2026-05-04T11:40:48.153Z",
-      "comments": []
     }
   ],
   "activity": [
+    {
+      "id": "a_mor546qg_wdgx",
+      "type": "delete",
+      "itemId": "demo_1",
+      "itemTitle": "Anthropic releases Claude 4 with extended thinking",
+      "itemUrl": "https://anthropic.com",
+      "itemSource": "team",
+      "by": "Boris",
+      "at": "2026-05-04T11:52:46.360Z"
+    },
     {
       "id": "a_mole5l4u_v08a",
       "type": "categorize",
