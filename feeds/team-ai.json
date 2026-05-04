@@ -1922,7 +1922,9 @@
       ],
       "addedAt": "2026-05-04T12:27:03.376Z",
       "addedBy": "boris",
-      "readBy": [],
+      "readBy": [
+        "Boris"
+      ],
       "reactions": {
         "important": [
           "boris",
@@ -1936,7 +1938,7 @@
           "boris"
         ]
       },
-      "_updatedAt": "2026-05-04T12:27:03.376Z"
+      "_updatedAt": "2026-05-04T12:28:03.575Z"
     }
   ],
   "activity": [
