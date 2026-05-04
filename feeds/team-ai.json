@@ -196,14 +196,16 @@
       "tags": [],
       "addedAt": "2026-04-29T04:00:00.000Z",
       "addedBy": "OpenAI",
-      "readBy": [],
+      "readBy": [
+        "Boris"
+      ],
       "reactions": {
         "important": [],
         "must_read": [],
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-04-29T14:32:59.210Z"
+      "_updatedAt": "2026-05-04T08:16:09.046Z"
     },
     {
       "id": "i_mok5myq2_1pcw8q",
