@@ -1712,8 +1712,16 @@
         ],
         "tried": []
       },
-      "_updatedAt": "2026-05-04T11:13:56.193Z",
-      "comments": []
+      "_updatedAt": "2026-05-05T11:02:19.487Z",
+      "comments": [
+        {
+          "id": "c_mosir5ul_ez0r",
+          "author": "Boris",
+          "text": "test",
+          "at": "2026-05-05T11:02:19.487Z",
+          "likes": []
+        }
+      ]
     },
     {
       "id": "i_moismotb_myc39n",
