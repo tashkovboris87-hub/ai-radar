@@ -2,6 +2,35 @@
   "version": 1,
   "items": [
     {
+      "id": "i_movd2ps3_ixlmzx",
+      "url": "https://www.youtube.com/watch?v=S_oN3vlzpMw",
+      "title": "How AI agents & Claude skills work (Clearly Explained)",
+      "description": "By Greg Isenberg",
+      "image": "https://i.ytimg.com/vi/S_oN3vlzpMw/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "team",
+      "category": "claude",
+      "tags": [
+        "skills",
+        "claude",
+        "agents"
+      ],
+      "addedAt": "2026-05-07T10:46:39.363Z",
+      "addedBy": "Boris",
+      "readBy": [
+        "Boris"
+      ],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "comments": [],
+      "_updatedAt": "2026-05-07T10:46:39.363Z"
+    },
+    {
       "id": "i_mov5yavf_8pnsrl",
       "url": "https://www.youtube.com/watch?v=JdQ_FHgP5ms&pp=0gcJCQMLAYcqIYzv",
       "title": "FULL Claude Cowork Tutorial For Beginners in 2026! (Zero to PRO)",
@@ -1933,6 +1962,17 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_movd2ps3_fscx",
+      "type": "add",
+      "itemId": "i_movd2ps3_ixlmzx",
+      "itemTitle": "How AI agents & Claude skills work (Clearly Explained)",
+      "itemUrl": "https://www.youtube.com/watch?v=S_oN3vlzpMw",
+      "itemSource": "team",
+      "by": "Boris",
+      "at": "2026-05-07T10:46:39.363Z",
+      "category": "claude"
+    },
     {
       "id": "a_mov5yavf_w4zd",
       "type": "add",
