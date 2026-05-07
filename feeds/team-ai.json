@@ -2,6 +2,31 @@
   "version": 1,
   "items": [
     {
+      "id": "i_movmcq52_gmhdhb",
+      "url": "https://tashkovboris87-hub.github.io/ai-radar/",
+      "title": "AI Radar — Team · Ipsos",
+      "description": "",
+      "image": "",
+      "domain": "tashkovboris87-hub.github.io",
+      "contentType": "article",
+      "source": "team",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-07T15:06:22.934Z",
+      "addedBy": "Petar Peev",
+      "readBy": [
+        "Petar Peev"
+      ],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "comments": [],
+      "_updatedAt": "2026-05-07T15:06:22.935Z"
+    },
+    {
       "id": "i_movd2ps3_ixlmzx",
       "url": "https://www.youtube.com/watch?v=S_oN3vlzpMw",
       "title": "How AI agents & Claude skills work (Clearly Explained)",
@@ -1965,6 +1990,17 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_movmcq54_mt7h",
+      "type": "add",
+      "itemId": "i_movmcq52_gmhdhb",
+      "itemTitle": "AI Radar — Team · Ipsos",
+      "itemUrl": "https://tashkovboris87-hub.github.io/ai-radar/",
+      "itemSource": "team",
+      "by": "Petar Peev",
+      "at": "2026-05-07T15:06:22.936Z",
+      "category": null
+    },
     {
       "id": "a_movd2ps3_fscx",
       "type": "add",
