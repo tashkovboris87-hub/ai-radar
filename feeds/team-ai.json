@@ -2,6 +2,31 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mov5yavf_8pnsrl",
+      "url": "https://www.youtube.com/watch?v=JdQ_FHgP5ms&pp=0gcJCQMLAYcqIYzv",
+      "title": "FULL Claude Cowork Tutorial For Beginners in 2026! (Zero to PRO)",
+      "description": "By AI Foundations",
+      "image": "https://i.ytimg.com/vi/JdQ_FHgP5ms/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "team",
+      "category": "claude",
+      "tags": [],
+      "addedAt": "2026-05-07T07:27:16.107Z",
+      "addedBy": "Boris",
+      "readBy": [
+        "Boris"
+      ],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "comments": [],
+      "_updatedAt": "2026-05-07T07:27:16.107Z"
+    },
+    {
       "id": "i_mok5myq2_46x4h5",
       "url": "https://i.redd.it/maf1pj64d3yg1.jpeg",
       "title": "What it feels like to have to have Qwen 3.6 or Gemma 4 running locally",
@@ -1908,6 +1933,17 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mov5yavf_w4zd",
+      "type": "add",
+      "itemId": "i_mov5yavf_8pnsrl",
+      "itemTitle": "FULL Claude Cowork Tutorial For Beginners in 2026! (Zero to PRO)",
+      "itemUrl": "https://www.youtube.com/watch?v=JdQ_FHgP5ms&pp=0gcJCQMLAYcqIYzv",
+      "itemSource": "team",
+      "by": "Boris",
+      "at": "2026-05-07T07:27:16.107Z",
+      "category": "claude"
+    },
     {
       "id": "a_mor6dnl6_7n9r",
       "type": "delete",
