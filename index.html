@@ -978,7 +978,7 @@ input, textarea, select, button { font-family: 'Inter', sans-serif; }
     <select class="filter-select" id="tag-filter">
       <option value="">All tags</option>
     </select>
-    <button class="toggle-btn active" id="show-older" data-mode="recent">Last 7 days</button>
+    <button class="toggle-btn" id="show-older" data-mode="all">Showing all</button>
   </div>
 
   <div class="content-split">
@@ -1063,7 +1063,7 @@ const S = {
     searchQuery: '',
     sharedByFilter: '',
     tagFilter: '',
-    showOlder: false,  // false = last 7 days, true = all
+    showOlder: true,   // true = show all (default), false = last 7 days only
     selectedItemId: null,    // currently selected item in reading pane
     editingCommentId: null   // currently editing comment id
   },
