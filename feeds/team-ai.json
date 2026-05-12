@@ -2,6 +2,36 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mp29manp_9voquk",
+      "url": "https://peerlist.io/whykislay/articles/how-to-stop-hitting-claude-usage-limits",
+      "title": "How to stop hitting Claude usage limits",
+      "description": "Tips about using Claude so it does burn less tokens",
+      "image": "",
+      "domain": "peerlist.io",
+      "contentType": "article",
+      "source": "team",
+      "category": "claude",
+      "tags": [
+        "claude",
+        "tips",
+        "tricks",
+        "article"
+      ],
+      "addedAt": "2026-05-12T06:44:17.653Z",
+      "addedBy": "Boris",
+      "readBy": [
+        "Boris"
+      ],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "comments": [],
+      "_updatedAt": "2026-05-12T06:44:17.653Z"
+    },
+    {
       "id": "i_movd2ps3_ixlmzx",
       "url": "https://www.youtube.com/watch?v=S_oN3vlzpMw",
       "title": "How AI agents & Claude skills work (Clearly Explained)",
@@ -1965,6 +1995,17 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mp29manp_y933",
+      "type": "add",
+      "itemId": "i_mp29manp_9voquk",
+      "itemTitle": "How to stop hitting Claude usage limits",
+      "itemUrl": "https://peerlist.io/whykislay/articles/how-to-stop-hitting-claude-usage-limits",
+      "itemSource": "team",
+      "by": "Boris",
+      "at": "2026-05-12T06:44:17.653Z",
+      "category": "claude"
+    },
     {
       "id": "a_mownnel2_wedb",
       "type": "delete",
