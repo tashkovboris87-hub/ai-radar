@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpctl7js_5s5o1o",
+      "url": "https://twitter.com/karpathy/status/2056753169888334312",
+      "title": "I’ve joined Anthropic",
+      "description": "",
+      "image": "",
+      "domain": "twitter.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-19T15:07:45.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-19T16:01:01.048Z"
+    },
+    {
+      "id": "i_mpctl7js_d5b4o5",
+      "url": "https://www.latent.space/p/the-fourth-law",
+      "title": "The Next War Is Already Here. The West Isn't Ready. — Yaroslav Azhnyuk, The Fourth Law & Guest Host Noah Smith, Noahpinion",
+      "description": "Ukrainian drone founder Yaroslav Azhnyuk went from pet cameras to AI-guided weapons. He and guest host Noah Smith make the case that the West is asleep at the wheel.",
+      "image": "",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-18T13:45:32.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-19T16:01:01.048Z"
+    },
+    {
+      "id": "i_mpctl7js_icka1s",
+      "url": "https://huggingface.co/blog/ettin-reranker",
+      "title": "Introducing the Ettin Reranker Family",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-19T00:00:00.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-19T16:01:01.048Z"
+    },
+    {
       "id": "i_mpcp47on_u8lhin",
       "url": "https://i.redd.it/l9uvdhar922h1.jpeg",
       "title": "Excited to announce I’ve hit my daily Claude limit! This means I’m fully present for my family and fiends. Work-life balance achieved!",
@@ -2899,6 +2965,39 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpctl7js_ap0d",
+      "type": "add",
+      "itemId": "i_mpctl7js_icka1s",
+      "itemTitle": "Introducing the Ettin Reranker Family",
+      "itemUrl": "https://huggingface.co/blog/ettin-reranker",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-19T16:01:01.048Z"
+    },
+    {
+      "id": "a_mpctl7js_mxv2",
+      "type": "add",
+      "itemId": "i_mpctl7js_d5b4o5",
+      "itemTitle": "The Next War Is Already Here. The West Isn't Ready. — Yaroslav Azhnyuk, The Fourth Law & Guest Host Noah Smith, Noahpinion",
+      "itemUrl": "https://www.latent.space/p/the-fourth-law",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-19T16:01:01.048Z"
+    },
+    {
+      "id": "a_mpctl7js_emkn",
+      "type": "add",
+      "itemId": "i_mpctl7js_5s5o1o",
+      "itemTitle": "I’ve joined Anthropic",
+      "itemUrl": "https://twitter.com/karpathy/status/2056753169888334312",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-19T16:01:01.048Z"
+    },
     {
       "id": "a_mpcpegtk_nlm6",
       "type": "delete",
