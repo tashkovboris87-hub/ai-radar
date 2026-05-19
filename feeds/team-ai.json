@@ -453,14 +453,16 @@
       "tags": [],
       "addedAt": "2026-05-19T07:31:40.000Z",
       "addedBy": "Latent Space",
-      "readBy": [],
+      "readBy": [
+        "Boris"
+      ],
       "reactions": {
         "important": [],
         "must_read": [],
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-05-19T13:55:49.607Z",
+      "_updatedAt": "2026-05-19T13:57:42.709Z",
       "comments": []
     },
     {
