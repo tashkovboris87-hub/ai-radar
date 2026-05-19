@@ -829,14 +829,16 @@
       "tags": [],
       "addedAt": "2026-05-16T21:15:02.000Z",
       "addedBy": "AI Foundations",
-      "readBy": [],
+      "readBy": [
+        "Boris"
+      ],
       "reactions": {
         "important": [],
         "must_read": [],
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-05-19T13:55:49.607Z",
+      "_updatedAt": "2026-05-19T14:28:48.381Z",
       "comments": []
     },
     {
