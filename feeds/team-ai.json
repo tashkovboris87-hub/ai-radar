@@ -468,31 +468,6 @@
       "comments": []
     },
     {
-      "id": "i_mpcp47on_ej1g3v",
-      "url": "https://www.latent.space/p/the-fourth-law",
-      "title": "The Next War Is Already Here. The West Isn't Ready. — Yaroslav Azhnyuk, The Fourth Law & Guest Host Noah Smith, Noahpinion",
-      "description": "Ukrainian drone founder Yaroslav Azhnyuk went from pet cameras to AI-guided weapons. He and guest host Noah Smith make the case that the West is asleep at the wheel.",
-      "image": "",
-      "domain": "latent.space",
-      "contentType": "article",
-      "source": "feed",
-      "category": null,
-      "tags": [],
-      "addedAt": "2026-05-18T13:45:32.000Z",
-      "addedBy": "Latent Space",
-      "readBy": [
-        "Boris"
-      ],
-      "reactions": {
-        "important": [],
-        "must_read": [],
-        "watch_later": [],
-        "tried": []
-      },
-      "_updatedAt": "2026-05-19T14:03:45.412Z",
-      "comments": []
-    },
-    {
       "id": "i_mpcp47on_ifyes7",
       "url": "https://www.latent.space/p/ainews-cerebras-60b-ipo-slowly-then",
       "title": "[AINews] Cerebras' $60B IPO: Slowly, then All at Once",
@@ -2920,6 +2895,16 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpcpegtk_nlm6",
+      "type": "delete",
+      "itemId": "i_mpcp47on_ej1g3v",
+      "itemTitle": "The Next War Is Already Here. The West Isn't Ready. — Yaroslav Azhnyuk, The Fourth Law & Guest Host Noah Smith, Noahpinion",
+      "itemUrl": "https://www.latent.space/p/the-fourth-law",
+      "itemSource": "feed",
+      "by": "Boris",
+      "at": "2026-05-19T14:03:48.008Z"
+    },
     {
       "id": "a_mpcp47on_i9bq",
       "type": "add",
