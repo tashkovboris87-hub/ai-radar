@@ -416,31 +416,6 @@
       "comments": []
     },
     {
-      "id": "i_mpctl7js_d5b4o5",
-      "url": "https://www.latent.space/p/the-fourth-law",
-      "title": "The Next War Is Already Here. The West Isn't Ready. — Yaroslav Azhnyuk, The Fourth Law & Guest Host Noah Smith, Noahpinion",
-      "description": "Ukrainian drone founder Yaroslav Azhnyuk went from pet cameras to AI-guided weapons. He and guest host Noah Smith make the case that the West is asleep at the wheel.",
-      "image": "",
-      "domain": "latent.space",
-      "contentType": "article",
-      "source": "feed",
-      "category": null,
-      "tags": [],
-      "addedAt": "2026-05-18T13:45:32.000Z",
-      "addedBy": "Latent Space",
-      "readBy": [
-        "Boris"
-      ],
-      "reactions": {
-        "important": [],
-        "must_read": [],
-        "watch_later": [],
-        "tried": []
-      },
-      "_updatedAt": "2026-05-20T03:15:08.178Z",
-      "comments": []
-    },
-    {
       "id": "i_mpctl7js_icka1s",
       "url": "https://huggingface.co/blog/ettin-reranker",
       "title": "Introducing the Ettin Reranker Family",
@@ -3361,6 +3336,16 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpdho7j4_khha",
+      "type": "delete",
+      "itemId": "i_mpctl7js_d5b4o5",
+      "itemTitle": "The Next War Is Already Here. The West Isn't Ready. — Yaroslav Azhnyuk, The Fourth Law & Guest Host Noah Smith, Noahpinion",
+      "itemUrl": "https://www.latent.space/p/the-fourth-law",
+      "itemSource": "feed",
+      "by": "Boris",
+      "at": "2026-05-20T03:15:11.776Z"
+    },
     {
       "id": "a_mpdaqhen_kusg",
       "type": "add",
