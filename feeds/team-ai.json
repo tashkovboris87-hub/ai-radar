@@ -21,7 +21,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-05-20T04:01:01.020Z"
+      "_updatedAt": "2026-05-20T04:01:01.020Z",
+      "comments": []
     },
     {
       "id": "i_mpdjb4v0_6nl0k0",
@@ -43,7 +44,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-05-20T04:01:01.020Z"
+      "_updatedAt": "2026-05-20T04:01:01.020Z",
+      "comments": []
     },
     {
       "id": "i_mpdjb4v0_wqu4b9",
@@ -58,14 +60,17 @@
       "tags": [],
       "addedAt": "2026-05-20T03:34:17.000Z",
       "addedBy": "Latent Space",
-      "readBy": [],
+      "readBy": [
+        "Boris"
+      ],
       "reactions": {
         "important": [],
         "must_read": [],
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-05-20T04:01:01.020Z"
+      "_updatedAt": "2026-05-20T06:16:01.327Z",
+      "comments": []
     },
     {
       "id": "i_mpdjb4v0_9i4msx",
@@ -87,7 +92,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-05-20T04:01:01.020Z"
+      "_updatedAt": "2026-05-20T04:01:01.020Z",
+      "comments": []
     },
     {
       "id": "i_mpdaqhen_1hs414",
