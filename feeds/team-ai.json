@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpe0gaos_rd4yvk",
+      "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
+      "title": "Learnings from 100K lines of Rust with AI (2025)",
+      "description": "",
+      "image": "",
+      "domain": "zfhuang99.github.io",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-20T10:04:28.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-20T12:00:55.324Z"
+    },
+    {
+      "id": "i_mpe0gaos_jl7x4n",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "description": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-05-20T00:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-20T12:00:55.324Z"
+    },
+    {
+      "id": "i_mpe0gaos_osg3bj",
+      "url": "https://www.youtube.com/watch?v=90-nxjzYt9g",
+      "title": "Google's New AI Update Just Shocked The AI Industry - Gemini 3.5 Pro , Gemini Omni, Gemini Spark",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/90-nxjzYt9g/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-20T11:17:24.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-20T12:00:55.324Z"
+    },
+    {
       "id": "i_mpdjb4v0_5qpqqk",
       "url": "https://github.com/wiltodelta/remove-ai-watermarks",
       "title": "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
@@ -3432,6 +3498,39 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpe0gaos_07n8",
+      "type": "add",
+      "itemId": "i_mpe0gaos_osg3bj",
+      "itemTitle": "Google's New AI Update Just Shocked The AI Industry - Gemini 3.5 Pro , Gemini Omni, Gemini Spark",
+      "itemUrl": "https://www.youtube.com/watch?v=90-nxjzYt9g",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-20T12:00:55.324Z"
+    },
+    {
+      "id": "a_mpe0gaos_1xsi",
+      "type": "add",
+      "itemId": "i_mpe0gaos_jl7x4n",
+      "itemTitle": "The next phase of OpenAI’s Education for Countries",
+      "itemUrl": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-05-20T12:00:55.324Z"
+    },
+    {
+      "id": "a_mpe0gaos_354t",
+      "type": "add",
+      "itemId": "i_mpe0gaos_rd4yvk",
+      "itemTitle": "Learnings from 100K lines of Rust with AI (2025)",
+      "itemUrl": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-20T12:00:55.324Z"
+    },
     {
       "id": "a_mpdjb4v0_p4al",
       "type": "add",
