@@ -2,6 +2,182 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpdaqhen_1hs414",
+      "url": "https://github.com/antoinezambelli/forge",
+      "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "description": "",
+      "image": "",
+      "domain": "github.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-19T12:23:07.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-20T00:01:00.575Z"
+    },
+    {
+      "id": "i_mpdaqhen_uwz5it",
+      "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+      "title": "Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
+      "description": "",
+      "image": "",
+      "domain": "emmi.ai",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-19T19:14:12.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-20T00:01:00.575Z"
+    },
+    {
+      "id": "i_mpdaqhen_cbrvdv",
+      "url": "https://openai.com/index/databricks",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "description": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-05-15T00:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-20T00:01:00.575Z"
+    },
+    {
+      "id": "i_mpdaqhen_d79g4l",
+      "url": "https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything",
+      "title": "llm-gemini 0.32",
+      "description": "Release: llm-gemini 0.32 New model gemini-3.5-flash for Gemini 3.5 Flash. See also my notes on Gemini 3.5 Flash, and the pelican I drew using this upgrade to the plugin. Tags: gemini, llm",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-19T23:46:27.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-20T00:01:00.575Z"
+    },
+    {
+      "id": "i_mpdaqhen_ze11y2",
+      "url": "https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything",
+      "title": "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
+      "description": "Today at Google I/O, Google released Gemini 3.5 Flash. This one skipped the -preview modifier and went straight to general availability, and Google appear to be using it for a whole lot of their key products: 3.5 Flash is available today to billions of people globally: For everyone via the Gemini ap",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-19T22:40:25.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-20T00:01:00.575Z"
+    },
+    {
+      "id": "i_mpdaqhen_zcd8zf",
+      "url": "https://simonwillison.net/2026/May/19/datasette-llm-accountant/#atom-everything",
+      "title": "datasette-llm-accountant 0.1a4",
+      "description": "Release: datasette-llm-accountant 0.1a4 Fixed bug tracking chains of responses. Refs datasette-llm#7 Tags: llm, datasette",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-19T20:45:43.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-20T00:01:00.575Z"
+    },
+    {
+      "id": "i_mpdaqhen_keuxnn",
+      "url": "https://simonwillison.net/2026/May/19/llm-gemini/#atom-everything",
+      "title": "llm-gemini 0.32a0",
+      "description": "Release: llm-gemini 0.32a0 Compatible with llm>=0.32a0 alpha - adds the ability to stream reasoning tokens. Tags: gemini, llm",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-19T20:36:23.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-20T00:01:00.575Z"
+    },
+    {
+      "id": "i_mpdaqhen_ftayr3",
+      "url": "https://simonwillison.net/2026/May/19/datasette-llm/#atom-everything",
+      "title": "datasette-llm 0.1a8",
+      "description": "Release: datasette-llm 0.1a8 Fix for bug where llm_prompt_context() hook did not fully collect chains of responses. #7",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-19T20:28:16.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-20T00:01:00.575Z"
+    },
+    {
       "id": "i_mpd25uc6_lsu1j9",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
       "title": "Gemini 3.5 Flash",
@@ -3163,6 +3339,94 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpdaqhen_kusg",
+      "type": "add",
+      "itemId": "i_mpdaqhen_ftayr3",
+      "itemTitle": "datasette-llm 0.1a8",
+      "itemUrl": "https://simonwillison.net/2026/May/19/datasette-llm/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-20T00:01:00.575Z"
+    },
+    {
+      "id": "a_mpdaqhen_vzwx",
+      "type": "add",
+      "itemId": "i_mpdaqhen_keuxnn",
+      "itemTitle": "llm-gemini 0.32a0",
+      "itemUrl": "https://simonwillison.net/2026/May/19/llm-gemini/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-20T00:01:00.575Z"
+    },
+    {
+      "id": "a_mpdaqhen_kdpt",
+      "type": "add",
+      "itemId": "i_mpdaqhen_zcd8zf",
+      "itemTitle": "datasette-llm-accountant 0.1a4",
+      "itemUrl": "https://simonwillison.net/2026/May/19/datasette-llm-accountant/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-20T00:01:00.575Z"
+    },
+    {
+      "id": "a_mpdaqhen_p4rm",
+      "type": "add",
+      "itemId": "i_mpdaqhen_ze11y2",
+      "itemTitle": "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
+      "itemUrl": "https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-20T00:01:00.575Z"
+    },
+    {
+      "id": "a_mpdaqhen_pym2",
+      "type": "add",
+      "itemId": "i_mpdaqhen_d79g4l",
+      "itemTitle": "llm-gemini 0.32",
+      "itemUrl": "https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-20T00:01:00.575Z"
+    },
+    {
+      "id": "a_mpdaqhen_1k9q",
+      "type": "add",
+      "itemId": "i_mpdaqhen_cbrvdv",
+      "itemTitle": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "itemUrl": "https://openai.com/index/databricks",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-05-20T00:01:00.575Z"
+    },
+    {
+      "id": "a_mpdaqhen_kqky",
+      "type": "add",
+      "itemId": "i_mpdaqhen_uwz5it",
+      "itemTitle": "Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
+      "itemUrl": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-20T00:01:00.575Z"
+    },
+    {
+      "id": "a_mpdaqhen_8mtm",
+      "type": "add",
+      "itemId": "i_mpdaqhen_1hs414",
+      "itemTitle": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "itemUrl": "https://github.com/antoinezambelli/forge",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-20T00:01:00.575Z"
+    },
     {
       "id": "a_mpd25uc6_l8lh",
       "type": "add",
