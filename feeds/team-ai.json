@@ -292,14 +292,16 @@
       "tags": [],
       "addedAt": "2026-05-19T17:43:45.000Z",
       "addedBy": "HackerNews",
-      "readBy": [],
+      "readBy": [
+        "Boris"
+      ],
       "reactions": {
         "important": [],
         "must_read": [],
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-05-19T20:01:00.630Z",
+      "_updatedAt": "2026-05-20T06:26:33.169Z",
       "comments": []
     },
     {
