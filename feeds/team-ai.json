@@ -2,6 +2,94 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpehlkd0_wc6hko",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "description": "",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-05-20T19:05:30.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-20T20:00:54.612Z"
+    },
+    {
+      "id": "i_mpehlkd0_uykv43",
+      "url": "https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything",
+      "title": "How fast is 10 tokens per second really?",
+      "description": "How fast is 10 tokens per second really? Neat little HTML app by Mike Veerman (source code here) which simulates LLM token output speeds from 5/second to 800/second. Useful if you see a model advertised as \"30 tokens/second\" and want to get a feel for what that actually looks like. Via Hacker News T",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-20T17:57:45.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-20T20:00:54.612Z"
+    },
+    {
+      "id": "i_mpehlkd0_00m1xz",
+      "url": "https://www.youtube.com/watch?v=o_av1b9rs2g",
+      "title": "Two Rival Bets on AGI: Google I/O Highlights",
+      "description": "AI Explained (YouTube)",
+      "image": "https://i.ytimg.com/vi/o_av1b9rs2g/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-20T16:50:34.000Z",
+      "addedBy": "AI Explained",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-20T20:00:54.612Z"
+    },
+    {
+      "id": "i_mpehlkd0_4cwa56",
+      "url": "https://www.youtube.com/watch?v=IB7IW6zX-H0",
+      "title": "Google CEO: Agents, Open Source, Race to AGI, Cybersecurity, Chips, China",
+      "description": "Matthew Berman (YouTube)",
+      "image": "https://i.ytimg.com/vi/IB7IW6zX-H0/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-20T18:55:27.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-20T20:00:54.612Z"
+    },
+    {
       "id": "i_mpe90ygi_udct8s",
       "url": "https://qwen.ai/blog?id=qwen3.7",
       "title": "Qwen3.7-Max: The Agent Frontier",
@@ -3564,6 +3652,50 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpehlkd0_21eo",
+      "type": "add",
+      "itemId": "i_mpehlkd0_4cwa56",
+      "itemTitle": "Google CEO: Agents, Open Source, Race to AGI, Cybersecurity, Chips, China",
+      "itemUrl": "https://www.youtube.com/watch?v=IB7IW6zX-H0",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-20T20:00:54.612Z"
+    },
+    {
+      "id": "a_mpehlkd0_dqbl",
+      "type": "add",
+      "itemId": "i_mpehlkd0_00m1xz",
+      "itemTitle": "Two Rival Bets on AGI: Google I/O Highlights",
+      "itemUrl": "https://www.youtube.com/watch?v=o_av1b9rs2g",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-20T20:00:54.612Z"
+    },
+    {
+      "id": "a_mpehlkd0_yat7",
+      "type": "add",
+      "itemId": "i_mpehlkd0_uykv43",
+      "itemTitle": "How fast is 10 tokens per second really?",
+      "itemUrl": "https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-20T20:00:54.612Z"
+    },
+    {
+      "id": "a_mpehlkd0_bj50",
+      "type": "add",
+      "itemId": "i_mpehlkd0_wc6hko",
+      "itemTitle": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "itemUrl": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-05-20T20:00:54.612Z"
+    },
     {
       "id": "a_mpe90ygi_8fj0",
       "type": "add",
