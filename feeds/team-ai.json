@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpe90ygi_udct8s",
+      "url": "https://qwen.ai/blog?id=qwen3.7",
+      "title": "Qwen3.7-Max: The Agent Frontier",
+      "description": "",
+      "image": "",
+      "domain": "qwen.ai",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-20T10:35:02.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-20T16:00:56.178Z"
+    },
+    {
+      "id": "i_mpe90ygi_2jbzro",
+      "url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
+      "title": "Google's AI is being manipulated. The search giant is quietly fighting back",
+      "description": "",
+      "image": "",
+      "domain": "bbc.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-20T10:57:09.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-20T16:00:56.178Z"
+    },
+    {
+      "id": "i_mpe90ygi_rg2q7c",
+      "url": "https://simonwillison.net/2026/May/20/google-io/#atom-everything",
+      "title": "Google I/O, Gemini Spark, Antigravity",
+      "description": "It's hard to find much to write about Google I/O this year because I have a policy of not writing about anything that I can't try out myself, and a lot of the big announcements are \"coming soon\". I actually prefer to write about things that are in general availability, because I've had instances in ",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-20T15:32:17.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-20T16:00:56.178Z"
+    },
+    {
       "id": "i_mpe0gaos_rd4yvk",
       "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
       "title": "Learnings from 100K lines of Rust with AI (2025)",
@@ -3498,6 +3564,39 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpe90ygi_8fj0",
+      "type": "add",
+      "itemId": "i_mpe90ygi_rg2q7c",
+      "itemTitle": "Google I/O, Gemini Spark, Antigravity",
+      "itemUrl": "https://simonwillison.net/2026/May/20/google-io/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-20T16:00:56.178Z"
+    },
+    {
+      "id": "a_mpe90ygi_npgo",
+      "type": "add",
+      "itemId": "i_mpe90ygi_2jbzro",
+      "itemTitle": "Google's AI is being manipulated. The search giant is quietly fighting back",
+      "itemUrl": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-20T16:00:56.178Z"
+    },
+    {
+      "id": "a_mpe90ygi_rl36",
+      "type": "add",
+      "itemId": "i_mpe90ygi_udct8s",
+      "itemTitle": "Qwen3.7-Max: The Agent Frontier",
+      "itemUrl": "https://qwen.ai/blog?id=qwen3.7",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-20T16:00:56.178Z"
+    },
     {
       "id": "a_mpe0gaos_07n8",
       "type": "add",
