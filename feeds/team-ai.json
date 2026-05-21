@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpf7bkx9_bbbqgd",
+      "url": "https://twitter.com/nottombrown/status/2057194829986300375",
+      "title": "Anthropic is expanding to Colossus2. Will use GB200",
+      "description": "",
+      "image": "",
+      "domain": "twitter.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-20T20:55:52.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-21T08:00:58.797Z"
+    },
+    {
+      "id": "i_mpf7bkx9_vn83yh",
+      "url": "https://www.latent.space/p/ainews-openai-gpt-next-disproves",
+      "title": "[AINews] OpenAI GPT-next disproves 80 year old Erdős planar unit distance problem for under $1000",
+      "description": "a quiet day but a nice result in AI x mathematics",
+      "image": "https://substackcdn.com/image/fetch/$s_!BIRC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ff7bdc0-79ef-49ce-a5c0-f7db89d60637_1098x1582.png",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-21T07:28:36.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-21T08:00:58.797Z"
+    },
+    {
       "id": "i_mpeq677e_5y1kpb",
       "url": "https://openai.com/index/ramp",
       "title": "How Ramp engineers accelerate code review with Codex",
@@ -3718,6 +3762,28 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpf7bkx9_9c6c",
+      "type": "add",
+      "itemId": "i_mpf7bkx9_vn83yh",
+      "itemTitle": "[AINews] OpenAI GPT-next disproves 80 year old Erdős planar unit distance problem for under $1000",
+      "itemUrl": "https://www.latent.space/p/ainews-openai-gpt-next-disproves",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-21T08:00:58.797Z"
+    },
+    {
+      "id": "a_mpf7bkx9_wg94",
+      "type": "add",
+      "itemId": "i_mpf7bkx9_bbbqgd",
+      "itemTitle": "Anthropic is expanding to Colossus2. Will use GB200",
+      "itemUrl": "https://twitter.com/nottombrown/status/2057194829986300375",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-21T08:00:58.797Z"
+    },
     {
       "id": "a_mpeq677e_5xwk",
       "type": "add",
