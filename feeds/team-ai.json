@@ -2,6 +2,138 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpfx1c0o_shmauv",
+      "url": "https://openai.com/index/adventhealth",
+      "title": "AdventHealth advances whole-person care with OpenAI",
+      "description": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-05-21T12:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-21T20:00:50.712Z"
+    },
+    {
+      "id": "i_mpfx1c0o_k28w5w",
+      "url": "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything",
+      "title": "Datasette Agent",
+      "description": "We just announced the first release of Datasette Agent, a new extensible AI assistant for Datasette. I've been working on my LLM Python library for just over three years now, and Datasette Agent represents the moment that LLM and Datasette finally come together. I'm really excited about it! Datasett",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-21T19:52:19.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-21T20:00:50.712Z"
+    },
+    {
+      "id": "i_mpfx1c0o_qeszfb",
+      "url": "https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything",
+      "title": "datasette-agent-sprites 0.1a0",
+      "description": "Release: datasette-agent-sprites 0.1a0 A Datasette Agent plugin for running commands in a Fly Sprites sandbox. Tags: sandboxing, datasette, fly, datasette-agent",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-21T18:21:07.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-21T20:00:50.712Z"
+    },
+    {
+      "id": "i_mpfx1c0o_hpkhhn",
+      "url": "https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything",
+      "title": "datasette-agent 0.1a3",
+      "description": "Release: datasette-agent 0.1a3 See Datasette Agent, an extensible AI assistant for Datasette. Tags: datasette, datasette-agent",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-21T15:04:09.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-21T20:00:50.712Z"
+    },
+    {
+      "id": "i_mpfx1c0o_gfq9lw",
+      "url": "https://www.youtube.com/watch?v=tk9lt-9x8mE",
+      "title": "Composer 2.5 and I INTERVIEWED THE CEO OF ALPHABET",
+      "description": "Matthew Berman (YouTube)",
+      "image": "https://i.ytimg.com/vi/tk9lt-9x8mE/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-21T19:49:20.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-21T20:00:50.712Z"
+    },
+    {
+      "id": "i_mpfx1c0o_y9vuep",
+      "url": "https://www.youtube.com/watch?v=Td2TaMWNUtA",
+      "title": "This is absolutely CRAZY",
+      "description": "Matthew Berman (YouTube)",
+      "image": "https://i.ytimg.com/vi/Td2TaMWNUtA/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-21T19:43:02.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-21T20:00:50.712Z"
+    },
+    {
       "id": "i_mpfogus4_xcwao1",
       "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
       "title": "AI is just unauthorised plagiarism at a bigger scale",
@@ -3806,6 +3938,72 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpfx1c0o_xmph",
+      "type": "add",
+      "itemId": "i_mpfx1c0o_y9vuep",
+      "itemTitle": "This is absolutely CRAZY",
+      "itemUrl": "https://www.youtube.com/watch?v=Td2TaMWNUtA",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-21T20:00:50.712Z"
+    },
+    {
+      "id": "a_mpfx1c0o_h8n5",
+      "type": "add",
+      "itemId": "i_mpfx1c0o_gfq9lw",
+      "itemTitle": "Composer 2.5 and I INTERVIEWED THE CEO OF ALPHABET",
+      "itemUrl": "https://www.youtube.com/watch?v=tk9lt-9x8mE",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-21T20:00:50.712Z"
+    },
+    {
+      "id": "a_mpfx1c0o_3v3w",
+      "type": "add",
+      "itemId": "i_mpfx1c0o_hpkhhn",
+      "itemTitle": "datasette-agent 0.1a3",
+      "itemUrl": "https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-21T20:00:50.712Z"
+    },
+    {
+      "id": "a_mpfx1c0o_nu0r",
+      "type": "add",
+      "itemId": "i_mpfx1c0o_qeszfb",
+      "itemTitle": "datasette-agent-sprites 0.1a0",
+      "itemUrl": "https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-21T20:00:50.712Z"
+    },
+    {
+      "id": "a_mpfx1c0o_by6e",
+      "type": "add",
+      "itemId": "i_mpfx1c0o_k28w5w",
+      "itemTitle": "Datasette Agent",
+      "itemUrl": "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-21T20:00:50.712Z"
+    },
+    {
+      "id": "a_mpfx1c0o_0z51",
+      "type": "add",
+      "itemId": "i_mpfx1c0o_shmauv",
+      "itemTitle": "AdventHealth advances whole-person care with OpenAI",
+      "itemUrl": "https://openai.com/index/adventhealth",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-05-21T20:00:50.712Z"
+    },
     {
       "id": "a_mpfogus4_v3a8",
       "type": "add",
