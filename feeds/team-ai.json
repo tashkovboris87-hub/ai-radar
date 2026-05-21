@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpfogus4_xcwao1",
+      "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
+      "title": "AI is just unauthorised plagiarism at a bigger scale",
+      "description": "",
+      "image": "",
+      "domain": "axelk.ee",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-21T13:38:12.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-21T16:00:58.324Z"
+    },
+    {
       "id": "i_mpffw9d0_d6mk1o",
       "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
       "title": "Google officially announces that ads will be included in AI Mode search results",
@@ -3784,6 +3806,17 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpfogus4_v3a8",
+      "type": "add",
+      "itemId": "i_mpfogus4_xcwao1",
+      "itemTitle": "AI is just unauthorised plagiarism at a bigger scale",
+      "itemUrl": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-21T16:00:58.324Z"
+    },
     {
       "id": "a_mpffw9d0_qz78",
       "type": "add",
