@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpgmr9fa_qgpuda",
+      "url": "https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything",
+      "title": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service",
+      "description": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service Back in 2024 Cox Media Group were caught trying to sell advertisers packages based on \"active listening\", with this deck which clai",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-22T04:48:32.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-22T08:00:50.806Z"
+    },
+    {
+      "id": "i_mpgmr9fa_fvqyab",
+      "url": "https://www.latent.space/p/ainews-new-ai-infra-unicorns-exa",
+      "title": "[AINews] New AI Infra unicorns: Exa, Modal, TurboPuffer",
+      "description": "a quiet day lets us feature fundraises!",
+      "image": "https://substack-post-media.s3.amazonaws.com/public/images/ab2507aa-9755-4e9d-9cbf-4c7f755a8527_1086x280.png",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-22T05:50:58.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-22T08:00:50.806Z"
+    },
+    {
+      "id": "i_mpgmr9fa_7ggvq8",
+      "url": "https://www.youtube.com/watch?v=LpXhy2iiaQE",
+      "title": "DeepSeek’s New AI Is A Game Changer",
+      "description": "Two Minute Papers (YouTube)",
+      "image": "https://i.ytimg.com/vi/LpXhy2iiaQE/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-22T00:47:58.000Z",
+      "addedBy": "Two Minute Papers",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-22T08:00:50.806Z"
+    },
+    {
       "id": "i_mpge6mde_vme3k8",
       "url": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
       "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
@@ -4026,6 +4092,39 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpgmr9fa_2va6",
+      "type": "add",
+      "itemId": "i_mpgmr9fa_7ggvq8",
+      "itemTitle": "DeepSeek’s New AI Is A Game Changer",
+      "itemUrl": "https://www.youtube.com/watch?v=LpXhy2iiaQE",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-22T08:00:50.806Z"
+    },
+    {
+      "id": "a_mpgmr9fa_gvu4",
+      "type": "add",
+      "itemId": "i_mpgmr9fa_fvqyab",
+      "itemTitle": "[AINews] New AI Infra unicorns: Exa, Modal, TurboPuffer",
+      "itemUrl": "https://www.latent.space/p/ainews-new-ai-infra-unicorns-exa",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-22T08:00:50.806Z"
+    },
+    {
+      "id": "a_mpgmr9fa_lrzi",
+      "type": "add",
+      "itemId": "i_mpgmr9fa_qgpuda",
+      "itemTitle": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service",
+      "itemUrl": "https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-22T08:00:50.806Z"
+    },
     {
       "id": "a_mpge6mde_0byi",
       "type": "add",
