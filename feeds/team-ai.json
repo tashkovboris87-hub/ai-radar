@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpge6mde_vme3k8",
+      "url": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
+      "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
+      "description": "",
+      "image": "",
+      "domain": "qz.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-22T01:30:45.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-22T04:00:50.882Z"
+    },
+    {
       "id": "i_mpg5lznz_qyfvrb",
       "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
       "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
@@ -4004,6 +4026,17 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpge6mde_0byi",
+      "type": "add",
+      "itemId": "i_mpge6mde_vme3k8",
+      "itemTitle": "Samsung chip workers will get an average $340k bonus as AI profits soar",
+      "itemUrl": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-22T04:00:50.882Z"
+    },
     {
       "id": "a_mpg5lznz_dmhv",
       "type": "add",
