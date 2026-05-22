@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpg5lznz_qyfvrb",
+      "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+      "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+      "description": "",
+      "image": "",
+      "domain": "deepmind.google",
+      "contentType": "article",
+      "source": "feed",
+      "category": "gemini",
+      "tags": [],
+      "addedAt": "2026-05-21T19:46:42.000Z",
+      "addedBy": "Google DeepMind",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-22T00:00:51.407Z"
+    },
+    {
+      "id": "i_mpg5lznz_3jundq",
+      "url": "https://simonwillison.net/2026/May/21/datasette-agent-charts/#atom-everything",
+      "title": "datasette-agent-charts 0.1a2",
+      "description": "Release: datasette-agent-charts 0.1a2 \"View SQL query\" buttons below rendered charts. Tags: datasette, datasette-agent",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-21T15:15:58.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-22T00:00:51.407Z"
+    },
+    {
+      "id": "i_mpg5lznz_wob2h8",
+      "url": "https://www.latent.space/p/daytona",
+      "title": "Giving Agents Computers — Ivan Burazin, Daytona",
+      "description": "We chat with Daytona's CEO about their insane 74% MoM Growth, 850K Daily Runs, Bare Metal Sandboxes, RL Evals, and the New Agent Cloud",
+      "image": "",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-21T20:37:40.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-22T00:00:51.407Z"
+    },
+    {
       "id": "i_mpfx1c0o_shmauv",
       "url": "https://openai.com/index/adventhealth",
       "title": "AdventHealth advances whole-person care with OpenAI",
@@ -3938,6 +4004,39 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpg5lznz_dmhv",
+      "type": "add",
+      "itemId": "i_mpg5lznz_wob2h8",
+      "itemTitle": "Giving Agents Computers — Ivan Burazin, Daytona",
+      "itemUrl": "https://www.latent.space/p/daytona",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-22T00:00:51.407Z"
+    },
+    {
+      "id": "a_mpg5lznz_3jf9",
+      "type": "add",
+      "itemId": "i_mpg5lznz_3jundq",
+      "itemTitle": "datasette-agent-charts 0.1a2",
+      "itemUrl": "https://simonwillison.net/2026/May/21/datasette-agent-charts/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-22T00:00:51.407Z"
+    },
+    {
+      "id": "a_mpg5lznz_10j4",
+      "type": "add",
+      "itemId": "i_mpg5lznz_qyfvrb",
+      "itemTitle": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+      "itemUrl": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+      "itemSource": "feed",
+      "category": "gemini",
+      "by": "AI Radar bot",
+      "at": "2026-05-22T00:00:51.407Z"
+    },
     {
       "id": "a_mpfx1c0o_xmph",
       "type": "add",
