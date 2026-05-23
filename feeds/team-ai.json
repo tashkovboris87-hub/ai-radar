@@ -2,6 +2,160 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpi27ce6_8yd2dk",
+      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+      "title": "Microsoft starts canceling Claude Code licenses",
+      "description": "",
+      "image": "",
+      "domain": "theverge.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-22T17:32:04.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-23T08:01:01.566Z"
+    },
+    {
+      "id": "i_mpi27ce6_od0nk5",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "description": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-05-22T00:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-23T08:01:01.566Z"
+    },
+    {
+      "id": "i_mpi27ce6_l9i7hn",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "description": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-05-22T00:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-23T08:01:01.566Z"
+    },
+    {
+      "id": "i_mpi27ce6_dul4az",
+      "url": "https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything",
+      "title": "The memory shortage is causing a repricing of consumer electronics",
+      "description": "The memory shortage is causing a repricing of consumer electronics David Oks provides the clearest explanation I've seen yet of why consumer products that use memory are likely to get significantly more expensive over the next few years. The short version is that memory manufacturers - of which ther",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-22T22:01:31.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-23T08:01:01.566Z"
+    },
+    {
+      "id": "i_mpi27ce6_qk8ftg",
+      "url": "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
+      "title": "[AINews] All Model Labs are now Agent Labs",
+      "description": "a quiet day lets us tie together a few quotes as all model labs become agent labs",
+      "image": "https://substackcdn.com/image/fetch/$s_!TLyU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F348d0573-16b0-46d0-a852-ccaae2b6ff4f_1122x534.png",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-23T04:21:17.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-23T08:01:01.566Z"
+    },
+    {
+      "id": "i_mpi27ce6_bmibjv",
+      "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+      "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-22T15:25:59.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-23T08:01:01.566Z"
+    },
+    {
+      "id": "i_mpi27ce6_x7qqrm",
+      "url": "https://www.youtube.com/watch?v=9OQ5vaYbGV0",
+      "title": "Google’s AI endgame is here… everything you missed at I/O 2026",
+      "description": "Fireship (YouTube)",
+      "image": "https://i.ytimg.com/vi/9OQ5vaYbGV0/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-22T16:38:42.000Z",
+      "addedBy": "Fireship",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-23T08:01:01.566Z"
+    },
+    {
       "id": "i_mpgmr9fa_qgpuda",
       "url": "https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything",
       "title": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service",
@@ -4092,6 +4246,83 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpi27ce6_24i8",
+      "type": "add",
+      "itemId": "i_mpi27ce6_x7qqrm",
+      "itemTitle": "Google’s AI endgame is here… everything you missed at I/O 2026",
+      "itemUrl": "https://www.youtube.com/watch?v=9OQ5vaYbGV0",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-23T08:01:01.566Z"
+    },
+    {
+      "id": "a_mpi27ce6_ssf0",
+      "type": "add",
+      "itemId": "i_mpi27ce6_bmibjv",
+      "itemTitle": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+      "itemUrl": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-23T08:01:01.566Z"
+    },
+    {
+      "id": "a_mpi27ce6_mas6",
+      "type": "add",
+      "itemId": "i_mpi27ce6_qk8ftg",
+      "itemTitle": "[AINews] All Model Labs are now Agent Labs",
+      "itemUrl": "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-23T08:01:01.566Z"
+    },
+    {
+      "id": "a_mpi27ce6_0afn",
+      "type": "add",
+      "itemId": "i_mpi27ce6_dul4az",
+      "itemTitle": "The memory shortage is causing a repricing of consumer electronics",
+      "itemUrl": "https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-23T08:01:01.566Z"
+    },
+    {
+      "id": "a_mpi27ce6_m1oi",
+      "type": "add",
+      "itemId": "i_mpi27ce6_l9i7hn",
+      "itemTitle": "How Virgin Atlantic ships faster with Codex",
+      "itemUrl": "https://openai.com/index/virgin-atlantic",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-05-23T08:01:01.566Z"
+    },
+    {
+      "id": "a_mpi27ce6_hj39",
+      "type": "add",
+      "itemId": "i_mpi27ce6_od0nk5",
+      "itemTitle": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "itemUrl": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-05-23T08:01:01.566Z"
+    },
+    {
+      "id": "a_mpi27ce6_q25b",
+      "type": "add",
+      "itemId": "i_mpi27ce6_8yd2dk",
+      "itemTitle": "Microsoft starts canceling Claude Code licenses",
+      "itemUrl": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-23T08:01:01.566Z"
+    },
     {
       "id": "a_mpgmr9fa_2va6",
       "type": "add",
