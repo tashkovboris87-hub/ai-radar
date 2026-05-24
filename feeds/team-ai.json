@@ -2,6 +2,94 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpk7crtk_4etqcq",
+      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+      "description": "",
+      "image": "",
+      "domain": "epoch.ai",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-24T16:31:29.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-24T20:00:45.272Z"
+    },
+    {
+      "id": "i_mpk7crtk_iztogb",
+      "url": "https://www.hollandtech.net/claude-is-not-your-architect/",
+      "title": "Claude Is Not Your Architect. Stop Letting It Pretend",
+      "description": "",
+      "image": "",
+      "domain": "hollandtech.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-24T18:28:11.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-24T20:00:45.272Z"
+    },
+    {
+      "id": "i_mpk7crtk_qhs2om",
+      "url": "https://arxiv.org/abs/2605.06445",
+      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+      "description": "",
+      "image": "",
+      "domain": "arxiv.org",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-24T12:55:53.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-24T20:00:45.272Z"
+    },
+    {
+      "id": "i_mpk7crtk_z9hb6d",
+      "url": "https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything",
+      "title": "Quoting Armin Ronacher",
+      "description": "The most frustrating failure mode right now is that people submit issues that are not in their own voice. They contain an observed problem somewhere, but it has been thrown into a clanker and the clanker reworded it and made a huge mess of it. Typically, it was prompted so badly that the conclusions",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-24T18:46:53.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-24T20:00:45.272Z"
+    },
+    {
       "id": "i_mpjys49v_0bwm7a",
       "url": "https://esengine.github.io/DeepSeek-Reasonix/",
       "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
@@ -4312,6 +4400,50 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpk7crtk_32ml",
+      "type": "add",
+      "itemId": "i_mpk7crtk_z9hb6d",
+      "itemTitle": "Quoting Armin Ronacher",
+      "itemUrl": "https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-24T20:00:45.272Z"
+    },
+    {
+      "id": "a_mpk7crtk_aotv",
+      "type": "add",
+      "itemId": "i_mpk7crtk_qhs2om",
+      "itemTitle": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+      "itemUrl": "https://arxiv.org/abs/2605.06445",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-24T20:00:45.272Z"
+    },
+    {
+      "id": "a_mpk7crtk_8vpk",
+      "type": "add",
+      "itemId": "i_mpk7crtk_iztogb",
+      "itemTitle": "Claude Is Not Your Architect. Stop Letting It Pretend",
+      "itemUrl": "https://www.hollandtech.net/claude-is-not-your-architect/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-24T20:00:45.272Z"
+    },
+    {
+      "id": "a_mpk7crtk_mbx9",
+      "type": "add",
+      "itemId": "i_mpk7crtk_4etqcq",
+      "itemTitle": "Memory has grown to nearly two-thirds of AI chip component costs",
+      "itemUrl": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-24T20:00:45.272Z"
+    },
     {
       "id": "a_mpjys49v_5m0z",
       "type": "add",
