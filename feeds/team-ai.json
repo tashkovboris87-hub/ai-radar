@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpjq7gnu_tqm0zc",
+      "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+      "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
+      "description": "",
+      "image": "",
+      "domain": "fs.blog",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-24T08:29:38.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-24T12:00:44.058Z"
+    },
+    {
       "id": "i_mpj0hksc_2gi1rd",
       "url": "https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything",
       "title": "On the <dl>",
@@ -4268,6 +4290,17 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpjq7gnu_v05c",
+      "type": "add",
+      "itemId": "i_mpjq7gnu_tqm0zc",
+      "itemTitle": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
+      "itemUrl": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-24T12:00:44.058Z"
+    },
     {
       "id": "a_mpj0hksc_c544",
       "type": "add",
