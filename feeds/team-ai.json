@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpjys49v_0bwm7a",
+      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "description": "",
+      "image": "",
+      "domain": "esengine.github.io",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-24T13:02:06.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-24T16:00:44.707Z"
+    },
+    {
       "id": "i_mpjq7gnu_tqm0zc",
       "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
       "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
@@ -4290,6 +4312,17 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpjys49v_5m0z",
+      "type": "add",
+      "itemId": "i_mpjys49v_0bwm7a",
+      "itemTitle": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "itemUrl": "https://esengine.github.io/DeepSeek-Reasonix/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-24T16:00:44.707Z"
+    },
     {
       "id": "a_mpjq7gnu_v05c",
       "type": "add",
