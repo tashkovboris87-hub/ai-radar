@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mple7ubc_rxh8ue",
+      "url": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
+      "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
+      "description": "",
+      "image": "",
+      "domain": "religionnews.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-25T13:17:58.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-25T16:00:38.712Z"
+    },
+    {
+      "id": "i_mple7ubc_fblppp",
+      "url": "https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/",
+      "title": "Pope Leo: opaque AI run by few firms risks \"New Forms of Dehumanization\"",
+      "description": "",
+      "image": "",
+      "domain": "variety.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-25T13:12:40.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-25T16:00:38.712Z"
+    },
+    {
+      "id": "i_mple7ubc_xpzb1y",
+      "url": "https://huggingface.co/blog/agent-glossary",
+      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-25T00:00:00.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-25T16:00:38.712Z"
+    },
+    {
       "id": "i_mpkfxggh_0hb6ir",
       "url": "https://simonwillison.net/2026/May/24/datasette/#atom-everything",
       "title": "datasette 1.0a30",
@@ -4488,6 +4554,39 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mple7ubc_2qne",
+      "type": "add",
+      "itemId": "i_mple7ubc_xpzb1y",
+      "itemTitle": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+      "itemUrl": "https://huggingface.co/blog/agent-glossary",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-25T16:00:38.712Z"
+    },
+    {
+      "id": "a_mple7ubc_rqrb",
+      "type": "add",
+      "itemId": "i_mple7ubc_fblppp",
+      "itemTitle": "Pope Leo: opaque AI run by few firms risks \"New Forms of Dehumanization\"",
+      "itemUrl": "https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-25T16:00:38.712Z"
+    },
+    {
+      "id": "a_mple7ubc_47hl",
+      "type": "add",
+      "itemId": "i_mple7ubc_rxh8ue",
+      "itemTitle": "Pope Leo XIV says AI must serve humanity, not the powerful few",
+      "itemUrl": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-25T16:00:38.712Z"
+    },
     {
       "id": "a_mpkfxggh_ihv7",
       "type": "add",
