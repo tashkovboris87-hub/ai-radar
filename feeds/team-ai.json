@@ -2,6 +2,94 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpkfxggh_0hb6ir",
+      "url": "https://simonwillison.net/2026/May/24/datasette/#atom-everything",
+      "title": "datasette 1.0a30",
+      "description": "Release: datasette 1.0a30 The big new feature in this alpha is a new customizable \"Jump to...\" menu, described in detail in The extensible \"Jump to\" menu in Datasette 1.0a30 on the Datasette blog. You can try it out by hitting / on latest.datasette.io - it looks like this: The new jump_items_sql() p",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-24T23:52:37.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-25T00:00:47.249Z"
+    },
+    {
+      "id": "i_mpkfxggh_46v7ot",
+      "url": "https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything",
+      "title": "datasette-agent 0.1a4",
+      "description": "Release: datasette-agent 0.1a4 Taking advantage of the new makeJumpSections() JavaScript plugin hook added in Datasette 1.0a30, datasette-agent now presents this \"Start a new agent chat\" interface as part of the Jump to menu, any time you hit /: You can try this out by signing into agent.datasette.i",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-24T23:19:34.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-25T00:00:47.249Z"
+    },
+    {
+      "id": "i_mpkfxggh_cz41cb",
+      "url": "https://simonwillison.net/2026/May/24/datasette-fixtures/#atom-everything",
+      "title": "datasette-fixtures 0.1a0",
+      "description": "Release: datasette-fixtures 0.1a0 One of the smaller features in Datasette 1.0a30 is this: New documented datasette.fixtures.populate_fixture_database(conn) helper for creating the fixture database tables used by Datasette's own tests, intended for plugin test suites. This new plugin takes advantage",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-24T21:38:32.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-25T00:00:47.249Z"
+    },
+    {
+      "id": "i_mpkfxggh_7j6cbu",
+      "url": "https://simonwillison.net/2026/May/24/usborne-mad-house/#atom-everything",
+      "title": "Mad House — Usborne Creepy Computer Games",
+      "description": "Tool: Mad House — Usborne Creepy Computer Games Via Hacker News I learned that UK publisher Usborne published free PDFs of their 1980s Computer Books, some of which I remember working through on my Commodore 64 as a child. These were so great! Beautifully illustrated books with fun projects made up ",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-24T17:14:11.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-25T00:00:47.249Z"
+    },
+    {
       "id": "i_mpk7crtk_4etqcq",
       "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
       "title": "Memory has grown to nearly two-thirds of AI chip component costs",
@@ -4400,6 +4488,50 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpkfxggh_ihv7",
+      "type": "add",
+      "itemId": "i_mpkfxggh_7j6cbu",
+      "itemTitle": "Mad House — Usborne Creepy Computer Games",
+      "itemUrl": "https://simonwillison.net/2026/May/24/usborne-mad-house/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-25T00:00:47.249Z"
+    },
+    {
+      "id": "a_mpkfxggh_hok5",
+      "type": "add",
+      "itemId": "i_mpkfxggh_cz41cb",
+      "itemTitle": "datasette-fixtures 0.1a0",
+      "itemUrl": "https://simonwillison.net/2026/May/24/datasette-fixtures/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-25T00:00:47.249Z"
+    },
+    {
+      "id": "a_mpkfxggh_918f",
+      "type": "add",
+      "itemId": "i_mpkfxggh_46v7ot",
+      "itemTitle": "datasette-agent 0.1a4",
+      "itemUrl": "https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-25T00:00:47.249Z"
+    },
+    {
+      "id": "a_mpkfxggh_0usf",
+      "type": "add",
+      "itemId": "i_mpkfxggh_0hb6ir",
+      "itemTitle": "datasette 1.0a30",
+      "itemUrl": "https://simonwillison.net/2026/May/24/datasette/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-25T00:00:47.249Z"
+    },
     {
       "id": "a_mpk7crtk_32ml",
       "type": "add",
