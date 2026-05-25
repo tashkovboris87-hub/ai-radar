@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mplmshne_zvr2sq",
+      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "description": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-05-25T00:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-25T20:00:39.002Z"
+    },
+    {
+      "id": "i_mplmshne_a4hxt6",
+      "url": "https://www.youtube.com/watch?v=huAwz_BR8WM",
+      "title": "DeepMind’s Insane AI Breakthroughs With CEO Demis Hassabis",
+      "description": "Two Minute Papers (YouTube)",
+      "image": "https://i.ytimg.com/vi/huAwz_BR8WM/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-25T17:49:30.000Z",
+      "addedBy": "Two Minute Papers",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-25T20:00:39.002Z"
+    },
+    {
       "id": "i_mple7ubc_rxh8ue",
       "url": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
       "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
@@ -4554,6 +4598,28 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mplmshne_8v6e",
+      "type": "add",
+      "itemId": "i_mplmshne_a4hxt6",
+      "itemTitle": "DeepMind’s Insane AI Breakthroughs With CEO Demis Hassabis",
+      "itemUrl": "https://www.youtube.com/watch?v=huAwz_BR8WM",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-25T20:00:39.002Z"
+    },
+    {
+      "id": "a_mplmshne_u3p8",
+      "type": "add",
+      "itemId": "i_mplmshne_zvr2sq",
+      "itemTitle": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "itemUrl": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-05-25T20:00:39.002Z"
+    },
     {
       "id": "a_mple7ubc_2qne",
       "type": "add",
