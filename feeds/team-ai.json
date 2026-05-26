@@ -2,6 +2,94 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpn28cpi_bvhb87",
+      "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+      "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
+      "description": "",
+      "image": "",
+      "domain": "signalbloom.ai",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-26T12:08:33.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-26T20:00:39.510Z"
+    },
+    {
+      "id": "i_mpn28cpi_6rh3tw",
+      "url": "https://www.youtube.com/watch?v=GBISeUYMzoU",
+      "title": "Cursor just beat EVERYONE.",
+      "description": "Matthew Berman (YouTube)",
+      "image": "https://i.ytimg.com/vi/GBISeUYMzoU/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-26T16:40:27.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-26T20:00:39.510Z"
+    },
+    {
+      "id": "i_mpn28cpi_d7at23",
+      "url": "https://www.youtube.com/shorts/kIvvzCR5NjA",
+      "title": "Google DeepMind CEO Likes Hard Questions",
+      "description": "Two Minute Papers (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-26T17:35:28.000Z",
+      "addedBy": "Two Minute Papers",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-26T20:00:39.510Z"
+    },
+    {
+      "id": "i_mpn28cpi_3yi9h2",
+      "url": "https://www.youtube.com/watch?v=qPuzWFvRajk",
+      "title": "10 weird OSS projects you need to know about...",
+      "description": "Fireship (YouTube)",
+      "image": "https://i.ytimg.com/vi/qPuzWFvRajk/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-26T17:53:11.000Z",
+      "addedBy": "Fireship",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-26T20:00:39.510Z"
+    },
+    {
       "id": "i_mpmtnq89_e8shfw",
       "url": "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything",
       "title": "Microsoft Copilot Cowork Exfiltrates Files",
@@ -4856,6 +4944,50 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpn28cpi_8g5a",
+      "type": "add",
+      "itemId": "i_mpn28cpi_3yi9h2",
+      "itemTitle": "10 weird OSS projects you need to know about...",
+      "itemUrl": "https://www.youtube.com/watch?v=qPuzWFvRajk",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-26T20:00:39.510Z"
+    },
+    {
+      "id": "a_mpn28cpi_da7i",
+      "type": "add",
+      "itemId": "i_mpn28cpi_d7at23",
+      "itemTitle": "Google DeepMind CEO Likes Hard Questions",
+      "itemUrl": "https://www.youtube.com/shorts/kIvvzCR5NjA",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-26T20:00:39.510Z"
+    },
+    {
+      "id": "a_mpn28cpi_mrcf",
+      "type": "add",
+      "itemId": "i_mpn28cpi_6rh3tw",
+      "itemTitle": "Cursor just beat EVERYONE.",
+      "itemUrl": "https://www.youtube.com/watch?v=GBISeUYMzoU",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-26T20:00:39.510Z"
+    },
+    {
+      "id": "a_mpn28cpi_us6l",
+      "type": "add",
+      "itemId": "i_mpn28cpi_bvhb87",
+      "itemTitle": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
+      "itemUrl": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-26T20:00:39.510Z"
+    },
     {
       "id": "a_mpmtnq89_7pgo",
       "type": "add",
