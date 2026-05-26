@@ -2,6 +2,94 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpmtnq89_e8shfw",
+      "url": "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything",
+      "title": "Microsoft Copilot Cowork Exfiltrates Files",
+      "description": "Microsoft Copilot Cowork Exfiltrates Files The biggest challenge in designing agentic systems continues to be preventing them from enabling attackers to exfiltrate data. In this case Microsoft Copilot Cowork (yes, that's a real product name) was allowing agents to send emails to the user's own inbox",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-26T15:36:48.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-26T16:00:40.329Z"
+    },
+    {
+      "id": "i_mpmtnq89_d2j7u5",
+      "url": "https://simonwillison.net/2026/May/26/paul-graham/#atom-everything",
+      "title": "Quoting Paul Graham",
+      "description": "A lot of the emails I get from founders are now written in a hard-hitting journalistic style. I know they're written by AI, because no founder ever wrote this way before. And once you realize something is written by AI, it's hard not to ignore it. I have never knowingly finished reading an email sig",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-26T15:02:30.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-26T16:00:40.329Z"
+    },
+    {
+      "id": "i_mpmtnq89_zu3ef8",
+      "url": "https://simonwillison.net/2026/May/25/sighting-365297287/#atom-everything",
+      "title": "California Brown Pelican, Snowy Egret, California Sea Lion, Harbor Seal",
+      "description": "California Brown Pelican, Snowy Egret, California Sea Lion, Harbor Seal, in San Mateo County, CA, USWe took our new folding kayak out in the harbor and saw sea lions and harbor seals chilling on the docks.",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-25T23:08:00.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-26T16:00:40.329Z"
+    },
+    {
+      "id": "i_mpmtnq89_uvabk1",
+      "url": "https://importai.substack.com/p/import-ai-458-reckoning-with-the",
+      "title": "Import AI 458: Reckoning with the future; and a singularity story",
+      "description": "What AI-driven miracles will happen this year?",
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "domain": "importai.substack.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-26T12:32:03.000Z",
+      "addedBy": "Import AI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-26T16:00:40.329Z"
+    },
+    {
       "id": "i_mpm3xrco_vhzpzq",
       "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
       "title": "Using AI to write better code more slowly",
@@ -4768,6 +4856,50 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpmtnq89_7pgo",
+      "type": "add",
+      "itemId": "i_mpmtnq89_uvabk1",
+      "itemTitle": "Import AI 458: Reckoning with the future; and a singularity story",
+      "itemUrl": "https://importai.substack.com/p/import-ai-458-reckoning-with-the",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-26T16:00:40.329Z"
+    },
+    {
+      "id": "a_mpmtnq89_1159",
+      "type": "add",
+      "itemId": "i_mpmtnq89_zu3ef8",
+      "itemTitle": "California Brown Pelican, Snowy Egret, California Sea Lion, Harbor Seal",
+      "itemUrl": "https://simonwillison.net/2026/May/25/sighting-365297287/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-26T16:00:40.329Z"
+    },
+    {
+      "id": "a_mpmtnq89_hibi",
+      "type": "add",
+      "itemId": "i_mpmtnq89_d2j7u5",
+      "itemTitle": "Quoting Paul Graham",
+      "itemUrl": "https://simonwillison.net/2026/May/26/paul-graham/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-26T16:00:40.329Z"
+    },
+    {
+      "id": "a_mpmtnq89_ictn",
+      "type": "add",
+      "itemId": "i_mpmtnq89_e8shfw",
+      "itemTitle": "Microsoft Copilot Cowork Exfiltrates Files",
+      "itemUrl": "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-26T16:00:40.329Z"
+    },
     {
       "id": "a_mpm3xrco_h94t",
       "type": "add",
