@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpm3xrco_vhzpzq",
+      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+      "title": "Using AI to write better code more slowly",
+      "description": "",
+      "image": "",
+      "domain": "nolanlawson.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-25T23:16:59.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-26T04:00:38.328Z"
+    },
+    {
+      "id": "i_mpm3xrco_4h6diu",
+      "url": "https://simonwillison.net/2026/May/26/corey-quinn/#atom-everything",
+      "title": "Quoting Corey Quinn",
+      "description": "I cannot believe I'm saying this, but getting the literal Pope to canonize your product's specific technical limitations as a spiritual treatise is the single greatest act of vendor lobbying I have ever seen. &mdash; Corey Quinn, on Anthropic co-founder Christopher Olah's influence on Magnifica Huma",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-26T02:28:54.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-26T04:00:38.328Z"
+    },
+    {
+      "id": "i_mpm3xrco_k9qgrf",
+      "url": "https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything",
+      "title": "Notes on Pope Leo XIV's encyclical on AI",
+      "description": "Dropped this morning by the Vatican: Magnifica Humanitas of His Holiness Pope Leo XIV on Safeguarding the Human Person in the Time of Artificial Intelligence. This is a very interesting document. It's some of the clearest writing I've seen on the ethics of integrating AI into modern society. Pope Le",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-25T23:58:17.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-26T04:00:38.328Z"
+    },
+    {
       "id": "i_mplvd4hb_7xu1m0",
       "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
       "title": "Microsoft Copilot Cowork Exfiltrates Files",
@@ -4642,6 +4708,39 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpm3xrco_h94t",
+      "type": "add",
+      "itemId": "i_mpm3xrco_k9qgrf",
+      "itemTitle": "Notes on Pope Leo XIV's encyclical on AI",
+      "itemUrl": "https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-26T04:00:38.328Z"
+    },
+    {
+      "id": "a_mpm3xrco_19f7",
+      "type": "add",
+      "itemId": "i_mpm3xrco_4h6diu",
+      "itemTitle": "Quoting Corey Quinn",
+      "itemUrl": "https://simonwillison.net/2026/May/26/corey-quinn/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-26T04:00:38.328Z"
+    },
+    {
+      "id": "a_mpm3xrco_a2gv",
+      "type": "add",
+      "itemId": "i_mpm3xrco_vhzpzq",
+      "itemTitle": "Using AI to write better code more slowly",
+      "itemUrl": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-26T04:00:38.328Z"
+    },
     {
       "id": "a_mplvd4hb_0sk3",
       "type": "add",
