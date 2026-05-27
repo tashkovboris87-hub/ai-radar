@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpnaszz9_tmma7z",
+      "url": "https://simonwillison.net/2026/May/26/the-pressure/#atom-everything",
+      "title": "The pressure",
+      "description": "The pressure Daniel Stenberg on the unprecedented level of pressure the curl team are facing right now thanks to the deluge of (credible) AI-assisted security issues being reported. The rate of incoming security reports is 4-5 times higher than it was in 2024 and double the speed of 2025 -- meaning ",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-26T23:48:45.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-27T00:00:39.717Z"
+    },
+    {
       "id": "i_mpn28cpi_bvhb87",
       "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
       "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
@@ -4944,6 +4966,17 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpnaszz9_jqcx",
+      "type": "add",
+      "itemId": "i_mpnaszz9_tmma7z",
+      "itemTitle": "The pressure",
+      "itemUrl": "https://simonwillison.net/2026/May/26/the-pressure/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-27T00:00:39.717Z"
+    },
     {
       "id": "a_mpn28cpi_8g5a",
       "type": "add",
