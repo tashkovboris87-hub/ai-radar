@@ -2,6 +2,182 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpoq915k_ioajip",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tpebhw/qwen36_huge_quality_gain_from_q4_to_q6_for_coding/",
+      "title": "Qwen3.6 huge quality gain from Q4 to Q6 for coding agent",
+      "description": "So, last week I tried to update my unused local LLM setup. I had to stop using it because quality was too low and deepseek was too cheap.\n\nFirst thing I stopped using Ollama and now I only use llama.cpp built in server that works really great.\n\nThe quality improvement from Q4 to Q6 is outstanding an",
+      "image": "",
+      "domain": "reddit.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-27T18:32:18.000Z",
+      "addedBy": "r/LocalLLaMA",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-28T00:00:48.152Z"
+    },
+    {
+      "id": "i_mpoq915k_nkcv33",
+      "url": "https://swe-rebench.com/?insight=may_2026",
+      "title": "SWE-rebench Leaderboard (March, April and May 2026): GPT-5.5, Opus 4.7, Cursor (Composer 2.5), Kimi K2.6 and More",
+      "description": "Hi all,\n\nSorry for going missing — we’ve been collecting a larger, higher-quality set of more complex tasks. We’re excited to share a major leaderboard update covering the past three months.\n\nWe’ve updated the **SWE-rebench leaderboard** with **110 fresh Python tasks** from GitHub PRs created in **M",
+      "image": "https://external-preview.redd.it/t4cNt5D638DSOJgsxl8f-7IwJhLpxHIh7HxK5GHcBJE.png?width=140&amp;height=73&amp;auto=webp&amp;s=80b9569cbd561b6ad7ff9094f1cdcb1fd20c51b7",
+      "domain": "swe-rebench.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-27T16:35:56.000Z",
+      "addedBy": "r/LocalLLaMA",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-28T00:00:48.152Z"
+    },
+    {
+      "id": "i_mpoq915k_70vt9u",
+      "url": "https://www.reddit.com/gallery/1tpgked",
+      "title": "I called this a few months ago - enterprises are burning unsustainable amounts on Claude, and now it's showing up in the news",
+      "description": "A while back I wrote a post on r/wallstreetbets about why Anthropic's revenue story doesn't hold up the way the headlines suggest. It got removed because you can't take positions in a private company. But the core argument is playing out now, so I want to share it here for discussion.\n\n  \nURL of the",
+      "image": "https://preview.redd.it/cll7popngq3h1.png?width=140&amp;height=75&amp;auto=webp&amp;s=16b87c8ec13b3474138df4669340a06bef602042",
+      "domain": "reddit.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-27T19:50:51.000Z",
+      "addedBy": "r/ClaudeAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-28T00:00:48.152Z"
+    },
+    {
+      "id": "i_mpoq915k_dhu4x0",
+      "url": "https://i.redd.it/6soxajjg2q3h1.png",
+      "title": "Just got this email from openAI",
+      "description": "",
+      "image": "https://preview.redd.it/6soxajjg2q3h1.png?width=140&amp;height=100&amp;auto=webp&amp;s=c17a2841ec912659e2f614d1a30a4f3852b2b6fa",
+      "domain": "i.redd.it",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-27T18:21:02.000Z",
+      "addedBy": "r/OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-28T00:00:48.152Z"
+    },
+    {
+      "id": "i_mpoq915k_t6jkqe",
+      "url": "https://i.redd.it/qwuzl19j3k3h1.png",
+      "title": "Pretty cool feature. Didn't know Gemini could do this",
+      "description": "",
+      "image": "",
+      "domain": "i.redd.it",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-26T22:16:19.000Z",
+      "addedBy": "r/Bard",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-28T00:00:48.152Z"
+    },
+    {
+      "id": "i_mpoq915k_vkwzjs",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "title": "YouTube to automatically label AI-generated videos",
+      "description": "",
+      "image": "",
+      "domain": "blog.youtube",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-27T20:00:51.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-28T00:00:48.152Z"
+    },
+    {
+      "id": "i_mpoq915k_w8jb0t",
+      "url": "https://openai.com/index/cisco",
+      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+      "description": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-05-27T11:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-28T00:00:48.152Z"
+    },
+    {
+      "id": "i_mpoq915k_uz2swr",
+      "url": "https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything",
+      "title": "sqlite AGENTS.md",
+      "description": "sqlite AGENTS.md SQLite gained an AGENTS.md file five days ago - but it's not intended for their own development, it's presumably aimed at people who are pointing agents at the SQLite codebase. It includes: SQLite does not accept pull requests without prior agreement and/or accompanying legal paperw",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-27T23:44:37.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-28T00:00:48.152Z"
+    },
+    {
       "id": "i_mpohobxh_bsnwvl",
       "url": "https://i.redd.it/w2x3lxw11q3h1.jpeg",
       "title": "Behold! Probably the most ghetto local AI server:",
@@ -5854,6 +6030,94 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpoq915k_ovmu",
+      "type": "add",
+      "itemId": "i_mpoq915k_uz2swr",
+      "itemTitle": "sqlite AGENTS.md",
+      "itemUrl": "https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-28T00:00:48.152Z"
+    },
+    {
+      "id": "a_mpoq915k_6me6",
+      "type": "add",
+      "itemId": "i_mpoq915k_w8jb0t",
+      "itemTitle": "Cisco and OpenAI redefine enterprise engineering with Codex",
+      "itemUrl": "https://openai.com/index/cisco",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-05-28T00:00:48.152Z"
+    },
+    {
+      "id": "a_mpoq915k_b2qc",
+      "type": "add",
+      "itemId": "i_mpoq915k_vkwzjs",
+      "itemTitle": "YouTube to automatically label AI-generated videos",
+      "itemUrl": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-28T00:00:48.152Z"
+    },
+    {
+      "id": "a_mpoq915k_c34f",
+      "type": "add",
+      "itemId": "i_mpoq915k_t6jkqe",
+      "itemTitle": "Pretty cool feature. Didn't know Gemini could do this",
+      "itemUrl": "https://i.redd.it/qwuzl19j3k3h1.png",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-28T00:00:48.152Z"
+    },
+    {
+      "id": "a_mpoq915k_cqwy",
+      "type": "add",
+      "itemId": "i_mpoq915k_dhu4x0",
+      "itemTitle": "Just got this email from openAI",
+      "itemUrl": "https://i.redd.it/6soxajjg2q3h1.png",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-28T00:00:48.152Z"
+    },
+    {
+      "id": "a_mpoq915k_efqc",
+      "type": "add",
+      "itemId": "i_mpoq915k_70vt9u",
+      "itemTitle": "I called this a few months ago - enterprises are burning unsustainable amounts on Claude, and now it's showing up in the news",
+      "itemUrl": "https://www.reddit.com/gallery/1tpgked",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-28T00:00:48.152Z"
+    },
+    {
+      "id": "a_mpoq915k_egv4",
+      "type": "add",
+      "itemId": "i_mpoq915k_nkcv33",
+      "itemTitle": "SWE-rebench Leaderboard (March, April and May 2026): GPT-5.5, Opus 4.7, Cursor (Composer 2.5), Kimi K2.6 and More",
+      "itemUrl": "https://swe-rebench.com/?insight=may_2026",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-28T00:00:48.152Z"
+    },
+    {
+      "id": "a_mpoq915k_vavg",
+      "type": "add",
+      "itemId": "i_mpoq915k_ioajip",
+      "itemTitle": "Qwen3.6 huge quality gain from Q4 to Q6 for coding agent",
+      "itemUrl": "https://www.reddit.com/r/LocalLLaMA/comments/1tpebhw/qwen36_huge_quality_gain_from_q4_to_q6_for_coding/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-28T00:00:48.152Z"
+    },
     {
       "id": "a_mpohobxh_rxd0",
       "type": "add",
