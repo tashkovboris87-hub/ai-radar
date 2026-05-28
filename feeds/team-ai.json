@@ -2,6 +2,138 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mppx4nd7_zvuggn",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "title": "Claude Opus 4.8",
+      "description": "",
+      "image": "",
+      "domain": "anthropic.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "claude",
+      "tags": [],
+      "addedAt": "2026-05-28T16:49:14.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-28T20:01:07.147Z"
+    },
+    {
+      "id": "i_mppx4nd7_zwi91e",
+      "url": "https://kristoff.it/blog/llms-at-zig-days/",
+      "title": "About LLMs at Zig Days",
+      "description": "",
+      "image": "",
+      "domain": "kristoff.it",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-28T18:20:34.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-28T20:01:07.147Z"
+    },
+    {
+      "id": "i_mppx4nd7_97avtp",
+      "url": "https://llmgame.scalex.dev",
+      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "description": "",
+      "image": "",
+      "domain": "llmgame.scalex.dev",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-28T13:02:00.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-28T20:01:07.147Z"
+    },
+    {
+      "id": "i_mppx4nd7_eajzwx",
+      "url": "https://openai.com/index/openai-frontier-governance-framework",
+      "title": "OpenAI’s Frontier Governance Framework",
+      "description": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-05-28T00:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-28T20:01:07.147Z"
+    },
+    {
+      "id": "i_mppx4nd7_i1nnak",
+      "url": "https://www.latent.space/p/cognition",
+      "title": "The Age of Async Agents — Cognition's Walden Yan & OpenInspect's Cole Murray",
+      "description": "80% Devin Commits, Spec-to-PR Workflows, Full VMs, Agent Memory, and PMs Shipping Code",
+      "image": "",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-28T18:41:24.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-28T20:01:07.147Z"
+    },
+    {
+      "id": "i_mppx4nd7_l42k4c",
+      "url": "https://www.youtube.com/watch?v=4n_pxHZfTC8",
+      "title": "OPUS 4.8!!! (also maybe GPT5.6??)",
+      "description": "Matthew Berman (YouTube)",
+      "image": "https://i.ytimg.com/vi/4n_pxHZfTC8/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-28T19:43:28.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-28T20:01:07.147Z"
+    },
+    {
       "id": "i_mppojyt3_jmhhgk",
       "url": "https://i.redd.it/r2ad9gqtnv3h1.jpeg",
       "title": "Zai replaced the network architecture running GLM-5.1 inference and the gains are pretty wild",
@@ -6338,6 +6470,72 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mppx4nd7_b8hh",
+      "type": "add",
+      "itemId": "i_mppx4nd7_l42k4c",
+      "itemTitle": "OPUS 4.8!!! (also maybe GPT5.6??)",
+      "itemUrl": "https://www.youtube.com/watch?v=4n_pxHZfTC8",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-28T20:01:07.147Z"
+    },
+    {
+      "id": "a_mppx4nd7_uxko",
+      "type": "add",
+      "itemId": "i_mppx4nd7_i1nnak",
+      "itemTitle": "The Age of Async Agents — Cognition's Walden Yan & OpenInspect's Cole Murray",
+      "itemUrl": "https://www.latent.space/p/cognition",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-28T20:01:07.147Z"
+    },
+    {
+      "id": "a_mppx4nd7_o0k5",
+      "type": "add",
+      "itemId": "i_mppx4nd7_eajzwx",
+      "itemTitle": "OpenAI’s Frontier Governance Framework",
+      "itemUrl": "https://openai.com/index/openai-frontier-governance-framework",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-05-28T20:01:07.147Z"
+    },
+    {
+      "id": "a_mppx4nd7_a24p",
+      "type": "add",
+      "itemId": "i_mppx4nd7_97avtp",
+      "itemTitle": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "itemUrl": "https://llmgame.scalex.dev",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-28T20:01:07.147Z"
+    },
+    {
+      "id": "a_mppx4nd7_ietw",
+      "type": "add",
+      "itemId": "i_mppx4nd7_zwi91e",
+      "itemTitle": "About LLMs at Zig Days",
+      "itemUrl": "https://kristoff.it/blog/llms-at-zig-days/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-28T20:01:07.147Z"
+    },
+    {
+      "id": "a_mppx4nd7_dxwe",
+      "type": "add",
+      "itemId": "i_mppx4nd7_zvuggn",
+      "itemTitle": "Claude Opus 4.8",
+      "itemUrl": "https://www.anthropic.com/news/claude-opus-4-8",
+      "itemSource": "feed",
+      "category": "claude",
+      "by": "AI Radar bot",
+      "at": "2026-05-28T20:01:07.147Z"
+    },
     {
       "id": "a_mppojyt3_emet",
       "type": "add",
