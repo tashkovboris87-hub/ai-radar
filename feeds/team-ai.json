@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpp7ek57_s2925t",
+      "url": "https://www.latent.space/p/ainews-cognition-raises-1b-in-26b",
+      "title": "[AINews] Cognition raises $1B in $26B Series D",
+      "description": "coding is an uncapped TAM market",
+      "image": "https://substackcdn.com/image/fetch/$s_!i6tW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1563dd3-9a40-45b1-9060-7ec196bf8e77_1316x1616.png",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-28T07:26:09.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-28T08:00:59.515Z"
+    },
+    {
       "id": "i_mpoytn4v_8pmxou",
       "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
       "title": "Vulnerability found in framework used by VLLM, many MCP servers, and other LLM tools",
@@ -6096,6 +6118,17 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpp7ek57_o7f9",
+      "type": "add",
+      "itemId": "i_mpp7ek57_s2925t",
+      "itemTitle": "[AINews] Cognition raises $1B in $26B Series D",
+      "itemUrl": "https://www.latent.space/p/ainews-cognition-raises-1b-in-26b",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-28T08:00:59.515Z"
+    },
     {
       "id": "a_mpoytn4v_f92m",
       "type": "add",
