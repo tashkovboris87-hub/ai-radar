@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mppojyt3_jmhhgk",
+      "url": "https://i.redd.it/r2ad9gqtnv3h1.jpeg",
+      "title": "Zai replaced the network architecture running GLM-5.1 inference and the gains are pretty wild",
+      "description": "Been following the infrastructure side of AI more lately and stumbled on this from Zai. They upgraded the network architecture on a thousand-GPU cluster running GLM-5.1 coding inference from the standard ROFT setup to something they built called ZCube, developed with Tsinghua University and HarnetsA",
+      "image": "https://preview.redd.it/r2ad9gqtnv3h1.jpeg?width=140&amp;height=86&amp;auto=webp&amp;s=f934dbfb7c8694f699ec8de747f06924fdf5854d",
+      "domain": "i.redd.it",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-28T13:09:11.000Z",
+      "addedBy": "r/LocalLLaMA",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-28T16:01:05.271Z"
+    },
+    {
+      "id": "i_mppojyt3_t7321g",
+      "url": "https://fortune.com/2026/05/28/ai-model-simulation-claude-chatgpt-grok-gemini/?utm_source=reddit/",
+      "title": "Researchers let AI models run a simulated society. Claude was the safest—and Grok committed 180 crimes and went extinct within 4 days",
+      "description": "Imagine a world run by AI agents. What does it look like? What are the values or societal priorities? Is it a safer or more dangerous world?\n\nEnterprise AI startup Emergence AI is trying to find out. The company just launched Emergence World, a research lab dedicated to stress-testing the long-term ",
+      "image": "https://external-preview.redd.it/AgcEHnMM7iGzdmLmpYJqjJPBBWeoG_BiVtwodWtA3dA.jpeg?width=140&amp;height=70&amp;auto=webp&amp;s=710981a334aadfdad318a4aa3e9dc511acbd9a63",
+      "domain": "fortune.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-28T13:01:50.000Z",
+      "addedBy": "r/ClaudeAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-28T16:01:05.271Z"
+    },
+    {
+      "id": "i_mppojyt3_q2970a",
+      "url": "https://lenz.io/research/llm-disagreement",
+      "title": "Five frontier LLMs disagree on 67% of 1k real-world fact-check claims",
+      "description": "",
+      "image": "",
+      "domain": "lenz.io",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-28T12:20:19.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-28T16:01:05.271Z"
+    },
+    {
       "id": "i_mppfz9a8_l4i94p",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tphhqk/i_built_a_103btoken_usenet_corpus_19802013_preweb/",
       "title": "I built a 103B-token Usenet corpus (1980–2013) — pre-web, human-only, zero AI contamination. Got strong traction on r/ML, thought this community would find it useful.",
@@ -6272,6 +6338,39 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mppojyt3_emet",
+      "type": "add",
+      "itemId": "i_mppojyt3_q2970a",
+      "itemTitle": "Five frontier LLMs disagree on 67% of 1k real-world fact-check claims",
+      "itemUrl": "https://lenz.io/research/llm-disagreement",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-28T16:01:05.271Z"
+    },
+    {
+      "id": "a_mppojyt3_y5z4",
+      "type": "add",
+      "itemId": "i_mppojyt3_t7321g",
+      "itemTitle": "Researchers let AI models run a simulated society. Claude was the safest—and Grok committed 180 crimes and went extinct within 4 days",
+      "itemUrl": "https://fortune.com/2026/05/28/ai-model-simulation-claude-chatgpt-grok-gemini/?utm_source=reddit/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-28T16:01:05.271Z"
+    },
+    {
+      "id": "a_mppojyt3_lr6d",
+      "type": "add",
+      "itemId": "i_mppojyt3_jmhhgk",
+      "itemTitle": "Zai replaced the network architecture running GLM-5.1 inference and the gains are pretty wild",
+      "itemUrl": "https://i.redd.it/r2ad9gqtnv3h1.jpeg",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-28T16:01:05.271Z"
+    },
     {
       "id": "a_mppfz9a8_7ru2",
       "type": "add",
