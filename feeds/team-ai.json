@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpoytn4v_8pmxou",
+      "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+      "title": "Vulnerability found in framework used by VLLM, many MCP servers, and other LLM tools",
+      "description": "Worth taking a look to see if this affects any of you. Surprised nobody has posted it yet.",
+      "image": "https://external-preview.redd.it/wrqQUnSWuCTpvqxiG_3DlA-NncVV8d3b5hKS-S9DEow.jpeg?width=140&amp;height=78&amp;auto=webp&amp;s=a11a4e1eda2c627c9f4b8cb926cf4ead6ab09ecb",
+      "domain": "arstechnica.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-28T01:27:29.000Z",
+      "addedBy": "r/LocalLLaMA",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-28T04:00:46.687Z"
+    },
+    {
+      "id": "i_mpoytn4v_jefb9b",
+      "url": "https://v.redd.it/8ggn6qsvbp3h1",
+      "title": "260K-param LLM running on an emulated 90s CPU inside an 18-year-old RTOS",
+      "description": "I know this sub loves absurd LLM projects, so sharing my contribution while we wait for the new Qwen 3.7 models to drop!\n\nI successfully got a tiny LLM running inside an RTOS, running inside a custom-built JavaScript emulator for the Freescale ColdFire MCF5307, which is a derivative of the legendary",
+      "image": "https://external-preview.redd.it/MHc0M29hdHZicDNoMSKFjPuRpORqs_ENJUfrd76ROtlTRf_Ra5U8Y9dDpj9i.png?width=140&amp;height=110&amp;format=jpg&amp;auto=webp&amp;s=51e3d85286baf437bf0c44b866845026648d222e",
+      "domain": "v.redd.it",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-27T17:42:49.000Z",
+      "addedBy": "r/LocalLLaMA",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-28T04:00:46.687Z"
+    },
+    {
+      "id": "i_mpoytn4v_6cltzg",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tpl9t9/antropic_has_now_integrated_claude_design_usage/",
+      "title": "Antropic has now integrated Claude Design usage into the existing Claude usage.",
+      "description": "The weekly usage of Claude Design was too small, so I think this is a good thing.",
+      "image": "",
+      "domain": "reddit.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-27T22:46:05.000Z",
+      "addedBy": "r/ClaudeAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-28T04:00:46.687Z"
+    },
+    {
       "id": "i_mpoq915k_ioajip",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tpebhw/qwen36_huge_quality_gain_from_q4_to_q6_for_coding/",
       "title": "Qwen3.6 huge quality gain from Q4 to Q6 for coding agent",
@@ -6030,6 +6096,39 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpoytn4v_f92m",
+      "type": "add",
+      "itemId": "i_mpoytn4v_6cltzg",
+      "itemTitle": "Antropic has now integrated Claude Design usage into the existing Claude usage.",
+      "itemUrl": "https://www.reddit.com/r/ClaudeAI/comments/1tpl9t9/antropic_has_now_integrated_claude_design_usage/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-28T04:00:46.687Z"
+    },
+    {
+      "id": "a_mpoytn4v_21wn",
+      "type": "add",
+      "itemId": "i_mpoytn4v_jefb9b",
+      "itemTitle": "260K-param LLM running on an emulated 90s CPU inside an 18-year-old RTOS",
+      "itemUrl": "https://v.redd.it/8ggn6qsvbp3h1",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-28T04:00:46.687Z"
+    },
+    {
+      "id": "a_mpoytn4v_l3nk",
+      "type": "add",
+      "itemId": "i_mpoytn4v_8pmxou",
+      "itemTitle": "Vulnerability found in framework used by VLLM, many MCP servers, and other LLM tools",
+      "itemUrl": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-28T04:00:46.687Z"
+    },
     {
       "id": "a_mpoq915k_ovmu",
       "type": "add",
