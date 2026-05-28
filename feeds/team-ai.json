@@ -2,6 +2,160 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mppfz9a8_l4i94p",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tphhqk/i_built_a_103btoken_usenet_corpus_19802013_preweb/",
+      "title": "I built a 103B-token Usenet corpus (1980–2013) — pre-web, human-only, zero AI contamination. Got strong traction on r/ML, thought this community would find it useful.",
+      "description": "Posted this to r/MachineLearning a couple weeks ago (30K views, 100+ upvotes) and have been meaning to share it here where the fine-tuning angle is more directly relevant.\n\nI spent years building and processing a complete Usenet corpus from 1980 to 2013. Here’s why it might matter for local model wo",
+      "image": "",
+      "domain": "reddit.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-27T20:23:41.000Z",
+      "addedBy": "r/LocalLLaMA",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-28T12:01:02.144Z"
+    },
+    {
+      "id": "i_mppfz9a8_zunk47",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tps0ak/so_claude_helped_build_a_sex_requesting_app_for/",
+      "title": "So, Claude helped build a sex requesting app for my wife and I...",
+      "description": "Recently I asked my wife if we could do some sexy stuff later in the evening and she eye rolled me and said without looking up from her phone “Put it in a request. Maybe a Google Form. And I might say yes”. Ohhhh?\n\n\nUnfortunately for both of us, my degenerate brain took that seriously... what if I m",
+      "image": "",
+      "domain": "reddit.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-28T03:40:25.000Z",
+      "addedBy": "r/ClaudeAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-28T12:01:02.144Z"
+    },
+    {
+      "id": "i_mppfz9a8_s9odoz",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1tpts8g/claude_is_starting_to_feel_tired_trying_to_avoid/",
+      "title": "Claude Is Starting to Feel “Tired”, Trying to Avoid Work",
+      "description": "I've been noticing this lately. I use Opus 4.7 with Claude Code, and I've been using Claude Code for a long time. Lately, I've been noticing some strange behaviour from Opus.\n\nThings like;\n\n\\- Stopping for no reason and asking \"should we stop here?\" in the middle of a task  \n\\- Asking multi-choice q",
+      "image": "",
+      "domain": "reddit.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-28T05:06:38.000Z",
+      "addedBy": "r/ClaudeAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-28T12:01:02.144Z"
+    },
+    {
+      "id": "i_mppfz9a8_klzqy6",
+      "url": "https://i.redd.it/gi7b3vjwpt3h1.png",
+      "title": "The Party is cancelled, pack it up",
+      "description": "Ai slopped",
+      "image": "https://preview.redd.it/gi7b3vjwpt3h1.png?width=140&amp;height=84&amp;auto=webp&amp;s=af709291f13e40672864ea3c075920ed2d20f6e5",
+      "domain": "i.redd.it",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-28T06:38:06.000Z",
+      "addedBy": "r/OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-28T12:01:02.144Z"
+    },
+    {
+      "id": "i_mppfz9a8_q9hs8s",
+      "url": "https://v.redd.it/0frhzihb0t3h1",
+      "title": "Gemini omni is underrated ! Best model for editing !!",
+      "description": "",
+      "image": "",
+      "domain": "v.redd.it",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-28T04:14:03.000Z",
+      "addedBy": "r/Bard",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-28T12:01:02.144Z"
+    },
+    {
+      "id": "i_mppfz9a8_1vw826",
+      "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+      "description": "",
+      "image": "",
+      "domain": "iisc.ac.in",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-28T06:40:31.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-28T12:01:02.144Z"
+    },
+    {
+      "id": "i_mppfz9a8_fxr9i6",
+      "url": "https://www.youtube.com/watch?v=ahhThdwhQUU",
+      "title": "Googles New Statement On AGI Just Stunned Everyone",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/ahhThdwhQUU/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-28T08:45:18.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-28T12:01:02.144Z"
+    },
+    {
       "id": "i_mpp7ek57_s2925t",
       "url": "https://www.latent.space/p/ainews-cognition-raises-1b-in-26b",
       "title": "[AINews] Cognition raises $1B in $26B Series D",
@@ -6118,6 +6272,83 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mppfz9a8_7ru2",
+      "type": "add",
+      "itemId": "i_mppfz9a8_fxr9i6",
+      "itemTitle": "Googles New Statement On AGI Just Stunned Everyone",
+      "itemUrl": "https://www.youtube.com/watch?v=ahhThdwhQUU",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-28T12:01:02.144Z"
+    },
+    {
+      "id": "a_mppfz9a8_0obf",
+      "type": "add",
+      "itemId": "i_mppfz9a8_1vw826",
+      "itemTitle": "A Eureka machine that thinks like nature and explores what AI cannot",
+      "itemUrl": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-28T12:01:02.144Z"
+    },
+    {
+      "id": "a_mppfz9a8_cv0b",
+      "type": "add",
+      "itemId": "i_mppfz9a8_q9hs8s",
+      "itemTitle": "Gemini omni is underrated ! Best model for editing !!",
+      "itemUrl": "https://v.redd.it/0frhzihb0t3h1",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-28T12:01:02.144Z"
+    },
+    {
+      "id": "a_mppfz9a8_164y",
+      "type": "add",
+      "itemId": "i_mppfz9a8_klzqy6",
+      "itemTitle": "The Party is cancelled, pack it up",
+      "itemUrl": "https://i.redd.it/gi7b3vjwpt3h1.png",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-28T12:01:02.144Z"
+    },
+    {
+      "id": "a_mppfz9a8_o3fu",
+      "type": "add",
+      "itemId": "i_mppfz9a8_s9odoz",
+      "itemTitle": "Claude Is Starting to Feel “Tired”, Trying to Avoid Work",
+      "itemUrl": "https://www.reddit.com/r/ClaudeAI/comments/1tpts8g/claude_is_starting_to_feel_tired_trying_to_avoid/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-28T12:01:02.144Z"
+    },
+    {
+      "id": "a_mppfz9a8_arah",
+      "type": "add",
+      "itemId": "i_mppfz9a8_zunk47",
+      "itemTitle": "So, Claude helped build a sex requesting app for my wife and I...",
+      "itemUrl": "https://www.reddit.com/r/ClaudeAI/comments/1tps0ak/so_claude_helped_build_a_sex_requesting_app_for/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-28T12:01:02.144Z"
+    },
+    {
+      "id": "a_mppfz9a8_ve3s",
+      "type": "add",
+      "itemId": "i_mppfz9a8_l4i94p",
+      "itemTitle": "I built a 103B-token Usenet corpus (1980–2013) — pre-web, human-only, zero AI contamination. Got strong traction on r/ML, thought this community would find it useful.",
+      "itemUrl": "https://www.reddit.com/r/LocalLLaMA/comments/1tphhqk/i_built_a_103btoken_usenet_corpus_19802013_preweb/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-28T12:01:02.144Z"
+    },
     {
       "id": "a_mpp7ek57_o7f9",
       "type": "add",
