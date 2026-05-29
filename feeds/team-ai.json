@@ -2,6 +2,182 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mprck28h_1l3xv4",
+      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "title": "Notes from the Mistral AI Now Summit in Paris",
+      "description": "",
+      "image": "",
+      "domain": "koenvangilst.nl",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-29T16:22:01.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-29T20:00:46.673Z"
+    },
+    {
+      "id": "i_mprck28h_rqxjuy",
+      "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+      "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+      "description": "",
+      "image": "",
+      "domain": "liquid.ai",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-29T16:19:54.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-29T20:00:46.673Z"
+    },
+    {
+      "id": "i_mprck28h_vljby2",
+      "url": "https://openai.com/index/boston-childrens-hospital",
+      "title": "Boston Children’s uses AI to unlock new diagnoses",
+      "description": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-05-29T12:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-29T20:00:46.673Z"
+    },
+    {
+      "id": "i_mprck28h_kb4n0q",
+      "url": "https://openai.com/index/braintrust",
+      "title": "How Braintrust turns customer requests into code with Codex",
+      "description": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-05-29T12:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-29T20:00:46.673Z"
+    },
+    {
+      "id": "i_mprck28h_ffki55",
+      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "description": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-05-29T00:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-29T20:00:46.673Z"
+    },
+    {
+      "id": "i_mprck28h_t0grij",
+      "url": "https://www.youtube.com/shorts/IYN2jfJHJd4",
+      "title": "Self Improving AI actually solves everything",
+      "description": "Matthew Berman (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-29T19:09:21.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-29T20:00:46.673Z"
+    },
+    {
+      "id": "i_mprck28h_5z6e75",
+      "url": "https://www.youtube.com/watch?v=HoMvCjnpAJ8",
+      "title": "The Pope is into AI",
+      "description": "Matthew Berman (YouTube)",
+      "image": "https://i.ytimg.com/vi/HoMvCjnpAJ8/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-29T17:03:37.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-29T20:00:46.673Z"
+    },
+    {
+      "id": "i_mprck28h_xcboij",
+      "url": "https://www.youtube.com/watch?v=JfPWbttemYE",
+      "title": "The forgotten developer who saved JavaScript...",
+      "description": "Fireship (YouTube)",
+      "image": "https://i.ytimg.com/vi/JfPWbttemYE/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-29T17:06:48.000Z",
+      "addedBy": "Fireship",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-29T20:00:46.673Z"
+    },
+    {
       "id": "i_mpr3zw3a_wxkiuk",
       "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
       "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
@@ -6838,6 +7014,94 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mprck28h_k718",
+      "type": "add",
+      "itemId": "i_mprck28h_xcboij",
+      "itemTitle": "The forgotten developer who saved JavaScript...",
+      "itemUrl": "https://www.youtube.com/watch?v=JfPWbttemYE",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-29T20:00:46.673Z"
+    },
+    {
+      "id": "a_mprck28h_goe5",
+      "type": "add",
+      "itemId": "i_mprck28h_5z6e75",
+      "itemTitle": "The Pope is into AI",
+      "itemUrl": "https://www.youtube.com/watch?v=HoMvCjnpAJ8",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-29T20:00:46.673Z"
+    },
+    {
+      "id": "a_mprck28h_4iij",
+      "type": "add",
+      "itemId": "i_mprck28h_t0grij",
+      "itemTitle": "Self Improving AI actually solves everything",
+      "itemUrl": "https://www.youtube.com/shorts/IYN2jfJHJd4",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-29T20:00:46.673Z"
+    },
+    {
+      "id": "a_mprck28h_krml",
+      "type": "add",
+      "itemId": "i_mprck28h_ffki55",
+      "itemTitle": "A shared playbook for trustworthy third party evaluations",
+      "itemUrl": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-05-29T20:00:46.673Z"
+    },
+    {
+      "id": "a_mprck28h_wffp",
+      "type": "add",
+      "itemId": "i_mprck28h_kb4n0q",
+      "itemTitle": "How Braintrust turns customer requests into code with Codex",
+      "itemUrl": "https://openai.com/index/braintrust",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-05-29T20:00:46.673Z"
+    },
+    {
+      "id": "a_mprck28h_9bo5",
+      "type": "add",
+      "itemId": "i_mprck28h_vljby2",
+      "itemTitle": "Boston Children’s uses AI to unlock new diagnoses",
+      "itemUrl": "https://openai.com/index/boston-childrens-hospital",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-05-29T20:00:46.673Z"
+    },
+    {
+      "id": "a_mprck28h_elpx",
+      "type": "add",
+      "itemId": "i_mprck28h_rqxjuy",
+      "itemTitle": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+      "itemUrl": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-29T20:00:46.673Z"
+    },
+    {
+      "id": "a_mprck28h_rdbk",
+      "type": "add",
+      "itemId": "i_mprck28h_1l3xv4",
+      "itemTitle": "Notes from the Mistral AI Now Summit in Paris",
+      "itemUrl": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-29T20:00:46.673Z"
+    },
     {
       "id": "a_mpr3zw3a_6ct1",
       "type": "add",
