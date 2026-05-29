@@ -332,7 +332,7 @@
       "domain": "youtube.com",
       "contentType": "video",
       "source": "feed",
-      "category": null,
+      "category": "claude",
       "tags": [],
       "addedAt": "2026-05-28T19:43:28.000Z",
       "addedBy": "Matthew Berman",
@@ -345,7 +345,7 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-05-29T09:24:08.983Z",
+      "_updatedAt": "2026-05-29T09:24:33.261Z",
       "comments": []
     },
     {
@@ -6727,6 +6727,18 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpqptvfx_ny2t",
+      "type": "categorize",
+      "itemId": "i_mppx4nd7_l42k4c",
+      "itemTitle": "OPUS 4.8!!! (also maybe GPT5.6??)",
+      "itemUrl": "https://www.youtube.com/watch?v=4n_pxHZfTC8",
+      "itemSource": "feed",
+      "by": "Boris",
+      "at": "2026-05-29T09:24:33.262Z",
+      "oldCategory": null,
+      "newCategory": "claude"
+    },
     {
       "id": "a_mpqmugln_c140",
       "type": "add",
