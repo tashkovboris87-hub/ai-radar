@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpqvf3b3_h9k143",
+      "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+      "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+      "description": "",
+      "image": "",
+      "domain": "buildingbetter.tech",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-29T02:13:20.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-29T12:01:01.311Z"
+    },
+    {
+      "id": "i_mpqvf3b3_vu66xm",
+      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "title": "Strengthening societal resilience with Rosalind Biodefense",
+      "description": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-05-29T03:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-29T12:01:01.311Z"
+    },
+    {
+      "id": "i_mpqvf3b3_f6c4lk",
+      "url": "https://huggingface.co/blog/torch-profiler",
+      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-29T00:00:00.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-29T12:01:01.311Z"
+    },
+    {
       "id": "i_mpqmugln_t0ta8r",
       "url": "https://openai.com/index/mufg",
       "title": "MUFG aims to become AI-native with OpenAI",
@@ -6728,6 +6794,39 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpqvf3b3_2txs",
+      "type": "add",
+      "itemId": "i_mpqvf3b3_f6c4lk",
+      "itemTitle": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+      "itemUrl": "https://huggingface.co/blog/torch-profiler",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-29T12:01:01.311Z"
+    },
+    {
+      "id": "a_mpqvf3b3_u4pc",
+      "type": "add",
+      "itemId": "i_mpqvf3b3_vu66xm",
+      "itemTitle": "Strengthening societal resilience with Rosalind Biodefense",
+      "itemUrl": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-05-29T12:01:01.311Z"
+    },
+    {
+      "id": "a_mpqvf3b3_a7qi",
+      "type": "add",
+      "itemId": "i_mpqvf3b3_h9k143",
+      "itemTitle": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+      "itemUrl": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-29T12:01:01.311Z"
+    },
     {
       "id": "a_mpqptvfx_ny2t",
       "type": "categorize",
