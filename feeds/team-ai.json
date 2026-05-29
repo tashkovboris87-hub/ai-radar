@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpq5pawx_bih5d6",
+      "url": "https://shvbsle.in/various-llm-smells/",
+      "title": "Various LLM Smells",
+      "description": "",
+      "image": "",
+      "domain": "shvbsle.in",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-28T19:02:18.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-29T00:01:07.713Z"
+    },
+    {
       "id": "i_mppx4nd7_zvuggn",
       "url": "https://www.anthropic.com/news/claude-opus-4-8",
       "title": "Claude Opus 4.8",
@@ -6470,6 +6492,17 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpq5pawx_28ta",
+      "type": "add",
+      "itemId": "i_mpq5pawx_bih5d6",
+      "itemTitle": "Various LLM Smells",
+      "itemUrl": "https://shvbsle.in/various-llm-smells/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-29T00:01:07.713Z"
+    },
     {
       "id": "a_mppx4nd7_b8hh",
       "type": "add",
