@@ -2,6 +2,94 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpqmugln_t0ta8r",
+      "url": "https://openai.com/index/mufg",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "description": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-05-28T00:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-29T08:01:01.835Z"
+    },
+    {
+      "id": "i_mpqmugln_7ddxeq",
+      "url": "https://simonwillison.net/2026/May/29/datasette/#atom-everything",
+      "title": "datasette 1.0a31",
+      "description": "Release: datasette 1.0a31 Another significant alpha release, with two new headline features. Datasette now offers users with the necessary permissions the ability to both execute write queries against their database and to save stored queries (renamed from \"canned queries\") both privately and for us",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-29T03:32:02.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-29T08:01:01.835Z"
+    },
+    {
+      "id": "i_mpqmugln_myh4ja",
+      "url": "https://simonwillison.net/2026/May/28/markdown-svg-renderer/#atom-everything",
+      "title": "markdown-svg-renderer",
+      "description": "Tool: markdown-svg-renderer A slightly customized Markdown rendering tool with special treatment for fenced code SVG blocks - it both renders the image and provides a tab for switching to the code view. You can paste in Markdown or give it a URL to a CORS-enabled Markdown file or Gist. Here's an exa",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-28T19:45:14.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-29T08:01:01.835Z"
+    },
+    {
+      "id": "i_mpqmugln_qgeczv",
+      "url": "https://www.youtube.com/watch?v=t3uBGhpii6w",
+      "title": "Anthropic just dropped Opus 4.8... (WOAH)",
+      "description": "Matthew Berman (YouTube)",
+      "image": "https://i.ytimg.com/vi/t3uBGhpii6w/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-29T01:01:34.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-29T08:01:01.835Z"
+    },
+    {
       "id": "i_mpqe9s1q_jnxhkw",
       "url": "https://simonwillison.net/2026/May/29/anthropic/#atom-everything",
       "title": "Anthropic's run-rate revenue hits $47 billion",
@@ -6580,6 +6668,50 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpqmugln_c140",
+      "type": "add",
+      "itemId": "i_mpqmugln_qgeczv",
+      "itemTitle": "Anthropic just dropped Opus 4.8... (WOAH)",
+      "itemUrl": "https://www.youtube.com/watch?v=t3uBGhpii6w",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-29T08:01:01.835Z"
+    },
+    {
+      "id": "a_mpqmugln_8xfw",
+      "type": "add",
+      "itemId": "i_mpqmugln_myh4ja",
+      "itemTitle": "markdown-svg-renderer",
+      "itemUrl": "https://simonwillison.net/2026/May/28/markdown-svg-renderer/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-29T08:01:01.835Z"
+    },
+    {
+      "id": "a_mpqmugln_yw5r",
+      "type": "add",
+      "itemId": "i_mpqmugln_7ddxeq",
+      "itemTitle": "datasette 1.0a31",
+      "itemUrl": "https://simonwillison.net/2026/May/29/datasette/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-29T08:01:01.835Z"
+    },
+    {
+      "id": "a_mpqmugln_y36u",
+      "type": "add",
+      "itemId": "i_mpqmugln_t0ta8r",
+      "itemTitle": "MUFG aims to become AI-native with OpenAI",
+      "itemUrl": "https://openai.com/index/mufg",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-05-29T08:01:01.835Z"
+    },
     {
       "id": "a_mpqe9s1q_edld",
       "type": "add",
