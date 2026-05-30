@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mprl5a07_gpwd7u",
+      "url": "https://github.com/jmaczan/tiny-vllm",
+      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+      "description": "",
+      "image": "",
+      "domain": "github.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-29T19:38:27.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-30T00:01:13.447Z"
+    },
+    {
       "id": "i_mprck28h_1l3xv4",
       "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
       "title": "Notes from the Mistral AI Now Summit in Paris",
@@ -7014,6 +7036,17 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mprl5a07_8vxz",
+      "type": "add",
+      "itemId": "i_mprl5a07_gpwd7u",
+      "itemTitle": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+      "itemUrl": "https://github.com/jmaczan/tiny-vllm",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-30T00:01:13.447Z"
+    },
     {
       "id": "a_mprck28h_k718",
       "type": "add",
