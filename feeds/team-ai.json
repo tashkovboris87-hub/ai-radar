@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpsrztuu_hhjbc5",
+      "url": "https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything",
+      "title": "Quoting Daniel Jalkut",
+      "description": "My take on AI is, essentially, everybody who’s against it is too against it and everybody who’s for it is too for it. &mdash; Daniel Jalkut, via John Gruber Tags: ai",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-30T17:29:55.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-30T20:00:42.726Z"
+    },
+    {
+      "id": "i_mpsrztuu_t2hhvv",
+      "url": "https://www.youtube.com/watch?v=4ryHMCHLvG4",
+      "title": "Googles New AI Glasses Will Change AI Forever",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/4ryHMCHLvG4/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-30T17:50:46.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-30T20:00:42.726Z"
+    },
+    {
       "id": "i_mpsjf70m_sjudef",
       "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
       "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
@@ -7058,6 +7102,28 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpsrztuu_do1r",
+      "type": "add",
+      "itemId": "i_mpsrztuu_t2hhvv",
+      "itemTitle": "Googles New AI Glasses Will Change AI Forever",
+      "itemUrl": "https://www.youtube.com/watch?v=4ryHMCHLvG4",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-30T20:00:42.726Z"
+    },
+    {
+      "id": "a_mpsrztuu_b2ej",
+      "type": "add",
+      "itemId": "i_mpsrztuu_hhjbc5",
+      "itemTitle": "Quoting Daniel Jalkut",
+      "itemUrl": "https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-30T20:00:42.726Z"
+    },
     {
       "id": "a_mpsjf70m_n9kx",
       "type": "add",
