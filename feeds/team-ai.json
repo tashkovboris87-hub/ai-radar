@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpt0kfzk_k49761",
+      "url": "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything",
+      "title": "How we contain Claude across products",
+      "description": "How we contain Claude across products A complaint I often have about sandboxing products is that they are rarely thoroughly documented, and in the absence of detailed documentation it's hard to know how much I can trust them. Anthropic just published a fantastic overview of how their various sandbox",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-30T21:36:24.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-31T00:00:41.456Z"
+    },
+    {
+      "id": "i_mpt0kfzk_jh2mwm",
+      "url": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything",
+      "title": "Running Python ASGI apps in the browser via Pyodide + a service worker",
+      "description": "Research: Running Python ASGI apps in the browser via Pyodide + a service worker Datasette Lite is my version of Datasette that runs entirely in the browser using Pyodide in WebAssembly. When I first built it four years ago I used Web Workers and code that intercepts navigation operations and fetche",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-30T21:02:16.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-31T00:00:41.456Z"
+    },
+    {
+      "id": "i_mpt0kfzk_0o4c90",
+      "url": "https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything",
+      "title": "I Am Retiring from Tech to Live Offline",
+      "description": "I Am Retiring from Tech to Live Offline I've seen a lot of posts on forums from people threatening to quit their careers over AI. This is not one of those: Chad Whitacre is taking concrete steps, starting with this typewritten, scanned letter I'm retiring from tech. Well, \"retiring\" is euphemistic. ",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-30T19:39:08.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-05-31T00:00:41.456Z"
+    },
+    {
       "id": "i_mpsrztuu_hhjbc5",
       "url": "https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything",
       "title": "Quoting Daniel Jalkut",
@@ -7102,6 +7168,39 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpt0kfzk_js4u",
+      "type": "add",
+      "itemId": "i_mpt0kfzk_0o4c90",
+      "itemTitle": "I Am Retiring from Tech to Live Offline",
+      "itemUrl": "https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-31T00:00:41.456Z"
+    },
+    {
+      "id": "a_mpt0kfzk_6era",
+      "type": "add",
+      "itemId": "i_mpt0kfzk_jh2mwm",
+      "itemTitle": "Running Python ASGI apps in the browser via Pyodide + a service worker",
+      "itemUrl": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-31T00:00:41.456Z"
+    },
+    {
+      "id": "a_mpt0kfzk_2vac",
+      "type": "add",
+      "itemId": "i_mpt0kfzk_k49761",
+      "itemTitle": "How we contain Claude across products",
+      "itemUrl": "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-05-31T00:00:41.456Z"
+    },
     {
       "id": "a_mpsrztuu_do1r",
       "type": "add",
