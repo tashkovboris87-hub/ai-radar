@@ -2,6 +2,116 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpveasi2_9s7b2o",
+      "url": "https://www.latent.space/p/video-agents",
+      "title": "Why Video Agent models are next — Ethan He, xAI Grok Imagine Lead",
+      "description": "Inside xAI: Building Grok Imagine in 3 Months, Videogen vs World Models, and why Grok Imagine is so underrated. For the first time, we do a deep dive with the guy who led it!",
+      "image": "",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-01T15:41:48.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-01T16:00:38.090Z"
+    },
+    {
+      "id": "i_mpveasi2_a4fykl",
+      "url": "https://importai.substack.com/p/import-ai-459-ai-oversight-is-difficult",
+      "title": "Import AI 459: AI oversight is difficult; scaling laws for protein folding models; and pricing the extinction risk of AI systems",
+      "description": "Do you feel as though you are living in a revolution?",
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "domain": "importai.substack.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-01T13:31:56.000Z",
+      "addedBy": "Import AI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-01T16:00:38.090Z"
+    },
+    {
+      "id": "i_mpveasi2_ssz8ja",
+      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-01T15:45:17.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-01T16:00:38.090Z"
+    },
+    {
+      "id": "i_mpveasi2_pubcfk",
+      "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-01T13:51:18.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-01T16:00:38.090Z"
+    },
+    {
+      "id": "i_mpveasi2_jfxx5f",
+      "url": "https://www.youtube.com/shorts/l2r3aWn96K8",
+      "title": "SWEbench is done.",
+      "description": "Matthew Berman (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-01T15:23:07.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-01T16:00:38.090Z"
+    },
+    {
       "id": "i_mpux5i3v_ycsm2i",
       "url": "https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything",
       "title": "May 2026 newsletter",
@@ -7366,6 +7476,61 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpveasi2_wogc",
+      "type": "add",
+      "itemId": "i_mpveasi2_jfxx5f",
+      "itemTitle": "SWEbench is done.",
+      "itemUrl": "https://www.youtube.com/shorts/l2r3aWn96K8",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-01T16:00:38.090Z"
+    },
+    {
+      "id": "a_mpveasi2_11k4",
+      "type": "add",
+      "itemId": "i_mpveasi2_pubcfk",
+      "itemTitle": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+      "itemUrl": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-01T16:00:38.090Z"
+    },
+    {
+      "id": "a_mpveasi2_msvc",
+      "type": "add",
+      "itemId": "i_mpveasi2_ssz8ja",
+      "itemTitle": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+      "itemUrl": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-01T16:00:38.090Z"
+    },
+    {
+      "id": "a_mpveasi2_0al3",
+      "type": "add",
+      "itemId": "i_mpveasi2_a4fykl",
+      "itemTitle": "Import AI 459: AI oversight is difficult; scaling laws for protein folding models; and pricing the extinction risk of AI systems",
+      "itemUrl": "https://importai.substack.com/p/import-ai-459-ai-oversight-is-difficult",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-01T16:00:38.090Z"
+    },
+    {
+      "id": "a_mpveasi2_2ucm",
+      "type": "add",
+      "itemId": "i_mpveasi2_9s7b2o",
+      "itemTitle": "Why Video Agent models are next — Ethan He, xAI Grok Imagine Lead",
+      "itemUrl": "https://www.latent.space/p/video-agents",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-01T16:00:38.090Z"
+    },
     {
       "id": "a_mpux5i3v_l8dh",
       "type": "add",
