@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpux5i3v_ycsm2i",
+      "url": "https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything",
+      "title": "May 2026 newsletter",
+      "description": "I just sent out the May edition of my sponsors-only monthly newsletter. If you are a sponsor (or if you start a sponsorship now) you can access it here. This month: Al got expensive, and Anthropic had a really good month The model releases were a little disappointing Conferences and podcasts I launc",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-01T04:45:00.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-01T08:00:37.867Z"
+    },
+    {
+      "id": "i_mpux5i3v_3yjy1s",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+      "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-01T04:44:55.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-01T08:00:37.867Z"
+    },
+    {
       "id": "i_mpuol142_7ah7tg",
       "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
       "title": "ChatGPT for Google Sheets exfiltrates workbooks",
@@ -7322,6 +7366,28 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpux5i3v_l8dh",
+      "type": "add",
+      "itemId": "i_mpux5i3v_3yjy1s",
+      "itemTitle": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+      "itemUrl": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-01T08:00:37.867Z"
+    },
+    {
+      "id": "a_mpux5i3v_vi6z",
+      "type": "add",
+      "itemId": "i_mpux5i3v_ycsm2i",
+      "itemTitle": "May 2026 newsletter",
+      "itemUrl": "https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-01T08:00:37.867Z"
+    },
     {
       "id": "a_mpuol142_h1k3",
       "type": "add",
