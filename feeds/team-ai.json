@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpuol142_7ah7tg",
+      "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+      "title": "ChatGPT for Google Sheets exfiltrates workbooks",
+      "description": "",
+      "image": "",
+      "domain": "promptarmor.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-31T20:35:38.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-01T04:00:45.794Z"
+    },
+    {
+      "id": "i_mpuol142_c9ywds",
+      "url": "https://www.youtube.com/shorts/vsKH3oPwss4",
+      "title": "Feynman vs. Einstein vs. Newton: Who Wins? 🧠🤔 #physics #ai #science #feynman #research",
+      "description": "Two Minute Papers (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-01T00:16:21.000Z",
+      "addedBy": "Two Minute Papers",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-01T04:00:45.794Z"
+    },
+    {
       "id": "i_mpug07ta_4g8hfe",
       "url": "https://simonwillison.net/2026/May/31/datasette/#atom-everything",
       "title": "datasette 1.0a32",
@@ -7278,6 +7322,28 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpuol142_h1k3",
+      "type": "add",
+      "itemId": "i_mpuol142_c9ywds",
+      "itemTitle": "Feynman vs. Einstein vs. Newton: Who Wins? 🧠🤔 #physics #ai #science #feynman #research",
+      "itemUrl": "https://www.youtube.com/shorts/vsKH3oPwss4",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-01T04:00:45.794Z"
+    },
+    {
+      "id": "a_mpuol142_gak6",
+      "type": "add",
+      "itemId": "i_mpuol142_7ah7tg",
+      "itemTitle": "ChatGPT for Google Sheets exfiltrates workbooks",
+      "itemUrl": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-01T04:00:45.794Z"
+    },
     {
       "id": "a_mpug07ta_2xmb",
       "type": "add",
