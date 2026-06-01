@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpug07ta_4g8hfe",
+      "url": "https://simonwillison.net/2026/May/31/datasette/#atom-everything",
+      "title": "datasette 1.0a32",
+      "description": "Release: datasette 1.0a32 A minor bugfix release. Fixes a bug with INSERT ... RETURNING queries via the new /db/-/execute-write endpoint and a bunch of base_url issues which showed up when I was experimenting with Service Workers yesterday. Tags: datasette, annotated-release-notes",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-05-31T23:23:38.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-01T00:00:37.774Z"
+    },
+    {
       "id": "i_mpu7flc8_nv6jns",
       "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
       "title": "The Speed of Prototyping in the Age of AI",
@@ -7256,6 +7278,17 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpug07ta_2xmb",
+      "type": "add",
+      "itemId": "i_mpug07ta_4g8hfe",
+      "itemTitle": "datasette 1.0a32",
+      "itemUrl": "https://simonwillison.net/2026/May/31/datasette/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-01T00:00:37.774Z"
+    },
     {
       "id": "a_mpu7flc8_dw0u",
       "type": "add",
