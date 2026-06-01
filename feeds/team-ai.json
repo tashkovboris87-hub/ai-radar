@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpvmvfk5_7a7b3u",
+      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+      "title": "AI Agent Guidelines for CS336 at Stanford",
+      "description": "",
+      "image": "",
+      "domain": "github.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-01T16:41:49.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-01T20:00:38.021Z"
+    },
+    {
+      "id": "i_mpvmvfk5_e8rpkj",
+      "url": "https://openai.com/index/stargate-michigan-data-center",
+      "title": "Building the infrastructure for the Intelligence Age in Michigan",
+      "description": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-01T12:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-01T20:00:38.021Z"
+    },
+    {
+      "id": "i_mpvmvfk5_d5vb6b",
+      "url": "https://www.youtube.com/watch?v=yz6I23VRbdg",
+      "title": "What Happens After A 1,000,000x AI Compute Leap? | Jeff Dean",
+      "description": "Two Minute Papers (YouTube)",
+      "image": "https://i.ytimg.com/vi/yz6I23VRbdg/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-01T15:41:22.000Z",
+      "addedBy": "Two Minute Papers",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-01T20:00:38.021Z"
+    },
+    {
       "id": "i_mpveasi2_9s7b2o",
       "url": "https://www.latent.space/p/video-agents",
       "title": "Why Video Agent models are next — Ethan He, xAI Grok Imagine Lead",
@@ -7476,6 +7542,39 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpvmvfk5_v9yy",
+      "type": "add",
+      "itemId": "i_mpvmvfk5_d5vb6b",
+      "itemTitle": "What Happens After A 1,000,000x AI Compute Leap? | Jeff Dean",
+      "itemUrl": "https://www.youtube.com/watch?v=yz6I23VRbdg",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-01T20:00:38.021Z"
+    },
+    {
+      "id": "a_mpvmvfk5_9rdq",
+      "type": "add",
+      "itemId": "i_mpvmvfk5_e8rpkj",
+      "itemTitle": "Building the infrastructure for the Intelligence Age in Michigan",
+      "itemUrl": "https://openai.com/index/stargate-michigan-data-center",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-01T20:00:38.021Z"
+    },
+    {
+      "id": "a_mpvmvfk5_bu9h",
+      "type": "add",
+      "itemId": "i_mpvmvfk5_7a7b3u",
+      "itemTitle": "AI Agent Guidelines for CS336 at Stanford",
+      "itemUrl": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-01T20:00:38.021Z"
+    },
     {
       "id": "a_mpveasi2_wogc",
       "type": "add",
