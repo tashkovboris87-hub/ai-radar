@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpvvg2el_yzdlnr",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "description": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-01T10:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-02T00:00:37.677Z"
+    },
+    {
+      "id": "i_mpvvg2el_bhcx4h",
+      "url": "https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai/#atom-everything",
+      "title": "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked",
+      "description": "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked I had trouble believing this story was true, but I've seen it verified from multiple sources now: One video shows a hacker starting a conversation with Meta’s AI support bot and asking it to link the targe",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-01T21:14:47.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-02T00:00:37.677Z"
+    },
+    {
       "id": "i_mpvmvfk5_7a7b3u",
       "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
       "title": "AI Agent Guidelines for CS336 at Stanford",
@@ -7542,6 +7586,28 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpvvg2el_6tp3",
+      "type": "add",
+      "itemId": "i_mpvvg2el_bhcx4h",
+      "itemTitle": "Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked",
+      "itemUrl": "https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-02T00:00:37.677Z"
+    },
+    {
+      "id": "a_mpvvg2el_x9sj",
+      "type": "add",
+      "itemId": "i_mpvvg2el_yzdlnr",
+      "itemTitle": "OpenAI frontier models and Codex are now available on AWS",
+      "itemUrl": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-02T00:00:37.677Z"
+    },
     {
       "id": "a_mpvmvfk5_v9yy",
       "type": "add",
