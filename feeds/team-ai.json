@@ -2,6 +2,94 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpwtqosz_27f63n",
+      "url": "https://openai.com/index/travelers",
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "description": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-02T12:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-02T16:00:40.211Z"
+    },
+    {
+      "id": "i_mpwtqosz_vcl8q2",
+      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+      "title": "Codex for every role, tool, and workflow",
+      "description": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-02T09:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-02T16:00:40.211Z"
+    },
+    {
+      "id": "i_mpwtqosz_hvhapf",
+      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "description": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-02T07:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-02T16:00:40.211Z"
+    },
+    {
+      "id": "i_mpwtqosz_pndnib",
+      "url": "https://huggingface.co/blog/Hcompany/holo31",
+      "title": "Holo3.1: Fast & Local Computer Use Agents",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-02T14:13:23.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-02T16:00:40.211Z"
+    },
+    {
       "id": "i_mpwl60q9_gua1pb",
       "url": "https://blog.adafruit.com/",
       "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
@@ -7762,6 +7850,50 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpwtqosz_5b98",
+      "type": "add",
+      "itemId": "i_mpwtqosz_pndnib",
+      "itemTitle": "Holo3.1: Fast & Local Computer Use Agents",
+      "itemUrl": "https://huggingface.co/blog/Hcompany/holo31",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-02T16:00:40.211Z"
+    },
+    {
+      "id": "a_mpwtqosz_mmfl",
+      "type": "add",
+      "itemId": "i_mpwtqosz_hvhapf",
+      "itemTitle": "Advancing youth safety and opportunity through global leadership",
+      "itemUrl": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-02T16:00:40.211Z"
+    },
+    {
+      "id": "a_mpwtqosz_lvjq",
+      "type": "add",
+      "itemId": "i_mpwtqosz_vcl8q2",
+      "itemTitle": "Codex for every role, tool, and workflow",
+      "itemUrl": "https://openai.com/index/codex-for-every-role-tool-workflow",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-02T16:00:40.211Z"
+    },
+    {
+      "id": "a_mpwtqosz_usa4",
+      "type": "add",
+      "itemId": "i_mpwtqosz_27f63n",
+      "itemTitle": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "itemUrl": "https://openai.com/index/travelers",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-02T16:00:40.211Z"
+    },
     {
       "id": "a_mpwl60q9_wmtv",
       "type": "add",
