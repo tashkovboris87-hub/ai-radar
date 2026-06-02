@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpwclhp6_4gak65",
+      "url": "https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything",
+      "title": "Pasted File Editor",
+      "description": "Tool: Pasted File Editor I really like how you can paste a large volume of text into claude.ai (or the Claude desktop/mobile apps) and it will detect it as a large paste and turn it into a file attachment instead. I decided to have Codex desktop build me a version of that as a prototype. You can als",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": "claude",
+      "tags": [],
+      "addedAt": "2026-06-02T04:13:36.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-02T08:00:44.250Z"
+    },
+    {
+      "id": "i_mpwclhp6_pbw8xf",
+      "url": "https://www.youtube.com/shorts/MOviZKtFeHM",
+      "title": "A Second Nobel Prize for AlphaFold? 🧬🏆 #alphafold #deepmind #nobelprize #science #ai",
+      "description": "Two Minute Papers (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-02T07:13:59.000Z",
+      "addedBy": "Two Minute Papers",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-02T08:00:44.250Z"
+    },
+    {
       "id": "i_mpw40pxr_ugtcye",
       "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
       "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
@@ -7652,6 +7696,28 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpwclhp6_1h2h",
+      "type": "add",
+      "itemId": "i_mpwclhp6_pbw8xf",
+      "itemTitle": "A Second Nobel Prize for AlphaFold? 🧬🏆 #alphafold #deepmind #nobelprize #science #ai",
+      "itemUrl": "https://www.youtube.com/shorts/MOviZKtFeHM",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-02T08:00:44.250Z"
+    },
+    {
+      "id": "a_mpwclhp6_y7kh",
+      "type": "add",
+      "itemId": "i_mpwclhp6_4gak65",
+      "itemTitle": "Pasted File Editor",
+      "itemUrl": "https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything",
+      "itemSource": "feed",
+      "category": "claude",
+      "by": "AI Radar bot",
+      "at": "2026-06-02T08:00:44.250Z"
+    },
     {
       "id": "a_mpw40pxr_hxao",
       "type": "add",
