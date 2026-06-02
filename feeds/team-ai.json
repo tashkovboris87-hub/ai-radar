@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpx2baw9_a114vp",
+      "url": "https://www.latent.space/p/github",
+      "title": "GitHub's plan for Agents — Kyle Daigle, GitHub",
+      "description": "GitHub pioneered the modern AI coding era with Copilot, and the resulting explosion in agentic coding has led to notable strains on the most popular developer platform in the world. Here's the plan.",
+      "image": "",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-02T16:48:21.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-02T20:00:38.889Z"
+    },
+    {
+      "id": "i_mpx2baw9_6ayfxt",
+      "url": "https://www.youtube.com/watch?v=gyXjvzMDV7s",
+      "title": "Is AI actually helping?",
+      "description": "Matthew Berman (YouTube)",
+      "image": "https://i.ytimg.com/vi/gyXjvzMDV7s/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-02T18:15:20.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-02T20:00:38.889Z"
+    },
+    {
       "id": "i_mpwtqosz_27f63n",
       "url": "https://openai.com/index/travelers",
       "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
@@ -7850,6 +7894,28 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpx2baw9_qnb5",
+      "type": "add",
+      "itemId": "i_mpx2baw9_6ayfxt",
+      "itemTitle": "Is AI actually helping?",
+      "itemUrl": "https://www.youtube.com/watch?v=gyXjvzMDV7s",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-02T20:00:38.889Z"
+    },
+    {
+      "id": "a_mpx2baw9_gt9j",
+      "type": "add",
+      "itemId": "i_mpx2baw9_a114vp",
+      "itemTitle": "GitHub's plan for Agents — Kyle Daigle, GitHub",
+      "itemUrl": "https://www.latent.space/p/github",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-02T20:00:38.889Z"
+    },
     {
       "id": "a_mpwtqosz_5b98",
       "type": "add",
