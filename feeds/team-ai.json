@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpwl60q9_gua1pb",
+      "url": "https://blog.adafruit.com/",
+      "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
+      "description": "",
+      "image": "",
+      "domain": "blog.adafruit.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-02T10:00:56.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-02T12:00:38.961Z"
+    },
+    {
+      "id": "i_mpwl60q9_vdcxsr",
+      "url": "https://openai.com/index/codex-for-knowledge-work",
+      "title": "Codex is becoming a productivity tool for everyone",
+      "description": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-02T02:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-02T12:00:38.961Z"
+    },
+    {
+      "id": "i_mpwl60q9_zafyix",
+      "url": "https://www.youtube.com/watch?v=WW2UBwWQ2M4",
+      "title": "Nvidia Just Introduced 4 New Stunning AI Updates",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/WW2UBwWQ2M4/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-02T11:45:10.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-02T12:00:38.961Z"
+    },
+    {
       "id": "i_mpwclhp6_4gak65",
       "url": "https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything",
       "title": "Pasted File Editor",
@@ -7696,6 +7762,39 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpwl60q9_wmtv",
+      "type": "add",
+      "itemId": "i_mpwl60q9_zafyix",
+      "itemTitle": "Nvidia Just Introduced 4 New Stunning AI Updates",
+      "itemUrl": "https://www.youtube.com/watch?v=WW2UBwWQ2M4",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-02T12:00:38.961Z"
+    },
+    {
+      "id": "a_mpwl60q9_zkjn",
+      "type": "add",
+      "itemId": "i_mpwl60q9_vdcxsr",
+      "itemTitle": "Codex is becoming a productivity tool for everyone",
+      "itemUrl": "https://openai.com/index/codex-for-knowledge-work",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-02T12:00:38.961Z"
+    },
+    {
+      "id": "a_mpwl60q9_fr4c",
+      "type": "add",
+      "itemId": "i_mpwl60q9_gua1pb",
+      "itemTitle": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
+      "itemUrl": "https://blog.adafruit.com/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-02T12:00:38.961Z"
+    },
     {
       "id": "a_mpwclhp6_1h2h",
       "type": "add",
