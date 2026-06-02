@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpw40pxr_ugtcye",
+      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "description": "",
+      "image": "",
+      "domain": "economist.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-01T23:45:46.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-02T04:00:38.223Z"
+    },
+    {
+      "id": "i_mpw40pxr_cu0d7v",
+      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+      "title": "Our views on AI policy and political advocacy",
+      "description": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-01T17:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-02T04:00:38.223Z"
+    },
+    {
+      "id": "i_mpw40pxr_i68gij",
+      "url": "https://www.latent.space/p/ainews-nvidia-cosmos-3-nemotron-3",
+      "title": "[AINews] NVIDIA Cosmos 3, Nemotron 3 Ultra, and RTX Spark",
+      "description": "Jensen scores a huge win.",
+      "image": "https://substackcdn.com/image/fetch/$s_!5bzA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6685277-4569-4135-92cb-e7a645246125_4096x2732.jpeg",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-02T03:28:10.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-02T04:00:38.223Z"
+    },
+    {
       "id": "i_mpvvg2el_yzdlnr",
       "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
       "title": "OpenAI frontier models and Codex are now available on AWS",
@@ -7586,6 +7652,39 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpw40pxr_hxao",
+      "type": "add",
+      "itemId": "i_mpw40pxr_i68gij",
+      "itemTitle": "[AINews] NVIDIA Cosmos 3, Nemotron 3 Ultra, and RTX Spark",
+      "itemUrl": "https://www.latent.space/p/ainews-nvidia-cosmos-3-nemotron-3",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-02T04:00:38.223Z"
+    },
+    {
+      "id": "a_mpw40pxr_1lkz",
+      "type": "add",
+      "itemId": "i_mpw40pxr_cu0d7v",
+      "itemTitle": "Our views on AI policy and political advocacy",
+      "itemUrl": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-02T04:00:38.223Z"
+    },
+    {
+      "id": "a_mpw40pxr_2paa",
+      "type": "add",
+      "itemId": "i_mpw40pxr_ugtcye",
+      "itemTitle": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "itemUrl": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-02T04:00:38.223Z"
+    },
     {
       "id": "a_mpvvg2el_6tp3",
       "type": "add",
