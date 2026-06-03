@@ -2,6 +2,116 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpxavy74_bs561g",
+      "url": "https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html",
+      "title": "California’s university system went all in on AI, now it's tearing itself apart",
+      "description": "",
+      "image": "",
+      "domain": "nytimes.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-02T07:46:20.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-03T00:00:39.136Z"
+    },
+    {
+      "id": "i_mpxavy74_48ndyk",
+      "url": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
+      "title": "How we index images for RAG",
+      "description": "",
+      "image": "",
+      "domain": "kapa.ai",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-02T16:13:41.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-03T00:00:39.136Z"
+    },
+    {
+      "id": "i_mpxavy74_64buql",
+      "url": "https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything",
+      "title": "Microsoft's new MAI models",
+      "description": "Microsoft announced two new text LLMs this morning - MAI-Thinking-1 (reasoning, 35B parameters, available to \"select early partners\") and MAI-Code-1-Flash (5B parameters, \"purpose-built for GitHub Copilot and VS Code to deliver high performance and lower cost [...] rolling out to GitHub Copilot indi",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-02T22:21:52.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-03T00:00:39.136Z"
+    },
+    {
+      "id": "i_mpxavy74_0wysel",
+      "url": "https://simonwillison.net/2026/Jun/2/sighting-367841339/#atom-everything",
+      "title": "California Brown Pelican",
+      "description": "California Brown Pelican, in Fort Mason, CA, USI'm at the Microsoft Build conference today, held at Fort Mason in San Francisco. There are California Brown Pelicans diving into the water directly behind venue! Tags: microsoft, ai, generative-ai, llms, llm-release",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-02T18:17:03.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-03T00:00:39.136Z"
+    },
+    {
+      "id": "i_mpxavy74_8w3x17",
+      "url": "https://www.youtube.com/shorts/fdkwkmZrpEU",
+      "title": "Everyone's holding their laptops open",
+      "description": "Matthew Berman (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-02T21:42:27.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-03T00:00:39.136Z"
+    },
+    {
       "id": "i_mpx2baw9_a114vp",
       "url": "https://www.latent.space/p/github",
       "title": "GitHub's plan for Agents — Kyle Daigle, GitHub",
@@ -7894,6 +8004,61 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpxavy74_d0eu",
+      "type": "add",
+      "itemId": "i_mpxavy74_8w3x17",
+      "itemTitle": "Everyone's holding their laptops open",
+      "itemUrl": "https://www.youtube.com/shorts/fdkwkmZrpEU",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-03T00:00:39.136Z"
+    },
+    {
+      "id": "a_mpxavy74_3xcw",
+      "type": "add",
+      "itemId": "i_mpxavy74_0wysel",
+      "itemTitle": "California Brown Pelican",
+      "itemUrl": "https://simonwillison.net/2026/Jun/2/sighting-367841339/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-03T00:00:39.136Z"
+    },
+    {
+      "id": "a_mpxavy74_g4jz",
+      "type": "add",
+      "itemId": "i_mpxavy74_64buql",
+      "itemTitle": "Microsoft's new MAI models",
+      "itemUrl": "https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-03T00:00:39.136Z"
+    },
+    {
+      "id": "a_mpxavy74_nn3t",
+      "type": "add",
+      "itemId": "i_mpxavy74_48ndyk",
+      "itemTitle": "How we index images for RAG",
+      "itemUrl": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-03T00:00:39.136Z"
+    },
+    {
+      "id": "a_mpxavy74_zkgv",
+      "type": "add",
+      "itemId": "i_mpxavy74_bs561g",
+      "itemTitle": "California’s university system went all in on AI, now it's tearing itself apart",
+      "itemUrl": "https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-03T00:00:39.136Z"
+    },
     {
       "id": "a_mpx2baw9_qnb5",
       "type": "add",
