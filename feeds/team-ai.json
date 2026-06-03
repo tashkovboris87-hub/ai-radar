@@ -2,6 +2,138 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpyhrccj_ub9t5a",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "title": "OpenAI public policy agenda",
+      "description": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-03T10:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-03T20:00:47.683Z"
+    },
+    {
+      "id": "i_mpyhrccj_tr6d42",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "title": "A blueprint for democratic governance of frontier AI",
+      "description": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-03T10:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-03T20:00:47.683Z"
+    },
+    {
+      "id": "i_mpyhrccj_gkfq4k",
+      "url": "https://www.latent.space/p/axiom",
+      "title": "🔬Scaling Past Informal AI - Carina Hong, Axiom Math",
+      "description": "Verified Generation and Compounding Intelligence",
+      "image": "",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-03T19:27:49.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-03T20:00:47.683Z"
+    },
+    {
+      "id": "i_mpyhrccj_d4fd7o",
+      "url": "https://www.latent.space/p/satya-2026",
+      "title": "⚡️Satya Nadella: No Priors x Latent Space Crossover Special at Microsoft Build",
+      "description": "The legendary Microsoft CEO makes his first Latent Space appearance!",
+      "image": "",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-03T17:13:57.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-03T20:00:47.683Z"
+    },
+    {
+      "id": "i_mpyhrccj_cs3ynx",
+      "url": "https://www.youtube.com/shorts/iz7elwbqZVI",
+      "title": "Meet the AI \"Co-Scientist\" Changing Everything 🤖🧪 #ai",
+      "description": "Two Minute Papers (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-03T17:00:19.000Z",
+      "addedBy": "Two Minute Papers",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-03T20:00:47.683Z"
+    },
+    {
+      "id": "i_mpyhrccj_idyjhz",
+      "url": "https://www.youtube.com/watch?v=7NN6XbI3-lo",
+      "title": "Microsofts New Quantum Breakthrough is 1000X BETTER! - Majorana 2 Explained",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/7NN6XbI3-lo/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-03T17:50:03.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-03T20:00:47.683Z"
+    },
+    {
       "id": "i_mpy96msn_k5hsmp",
       "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything",
       "title": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs",
@@ -8180,6 +8312,72 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpyhrccj_i70t",
+      "type": "add",
+      "itemId": "i_mpyhrccj_idyjhz",
+      "itemTitle": "Microsofts New Quantum Breakthrough is 1000X BETTER! - Majorana 2 Explained",
+      "itemUrl": "https://www.youtube.com/watch?v=7NN6XbI3-lo",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-03T20:00:47.683Z"
+    },
+    {
+      "id": "a_mpyhrccj_ad79",
+      "type": "add",
+      "itemId": "i_mpyhrccj_cs3ynx",
+      "itemTitle": "Meet the AI \"Co-Scientist\" Changing Everything 🤖🧪 #ai",
+      "itemUrl": "https://www.youtube.com/shorts/iz7elwbqZVI",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-03T20:00:47.683Z"
+    },
+    {
+      "id": "a_mpyhrccj_8j91",
+      "type": "add",
+      "itemId": "i_mpyhrccj_d4fd7o",
+      "itemTitle": "⚡️Satya Nadella: No Priors x Latent Space Crossover Special at Microsoft Build",
+      "itemUrl": "https://www.latent.space/p/satya-2026",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-03T20:00:47.683Z"
+    },
+    {
+      "id": "a_mpyhrccj_n1rt",
+      "type": "add",
+      "itemId": "i_mpyhrccj_gkfq4k",
+      "itemTitle": "🔬Scaling Past Informal AI - Carina Hong, Axiom Math",
+      "itemUrl": "https://www.latent.space/p/axiom",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-03T20:00:47.683Z"
+    },
+    {
+      "id": "a_mpyhrccj_3t0c",
+      "type": "add",
+      "itemId": "i_mpyhrccj_tr6d42",
+      "itemTitle": "A blueprint for democratic governance of frontier AI",
+      "itemUrl": "https://openai.com/index/frontier-safety-blueprint",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-03T20:00:47.683Z"
+    },
+    {
+      "id": "a_mpyhrccj_ac5v",
+      "type": "add",
+      "itemId": "i_mpyhrccj_ub9t5a",
+      "itemTitle": "OpenAI public policy agenda",
+      "itemUrl": "https://openai.com/index/public-policy-agenda",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-03T20:00:47.683Z"
+    },
     {
       "id": "a_mpy96msn_hus1",
       "type": "add",
