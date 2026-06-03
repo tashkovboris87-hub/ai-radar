@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpxjgkfw_iaustz",
+      "url": "https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything",
+      "title": "datasette-agent-micropython 0.1a0",
+      "description": "Release: datasette-agent-micropython 0.1a0 I want Datasette Agent to be able to generate and execute Python code safely. This alpha is looking promising so far. GPT-5.5 has so far failed to break out of the sandbox! Tags: python, sandboxing, datasette, webassembly, datasette-agent",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-02T19:28:36.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-03T04:00:38.012Z"
+    },
+    {
+      "id": "i_mpxjgkfw_g2e14d",
+      "url": "https://simonwillison.net/2026/Jun/2/micropython-wasm/#atom-everything",
+      "title": "micropython-wasm 0.1a1",
+      "description": "Release: micropython-wasm 0.1a1 Fixes for some limitations that emerged while I was trying to use this to build datasette-agent-micropython. Tags: python, sandboxing, webassembly",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-02T19:20:47.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-03T04:00:38.012Z"
+    },
+    {
       "id": "i_mpxavy74_bs561g",
       "url": "https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html",
       "title": "California’s university system went all in on AI, now it's tearing itself apart",
@@ -8004,6 +8048,28 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpxjgkfw_noi0",
+      "type": "add",
+      "itemId": "i_mpxjgkfw_g2e14d",
+      "itemTitle": "micropython-wasm 0.1a1",
+      "itemUrl": "https://simonwillison.net/2026/Jun/2/micropython-wasm/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-03T04:00:38.012Z"
+    },
+    {
+      "id": "a_mpxjgkfw_9z2e",
+      "type": "add",
+      "itemId": "i_mpxjgkfw_iaustz",
+      "itemTitle": "datasette-agent-micropython 0.1a0",
+      "itemUrl": "https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-03T04:00:38.012Z"
+    },
     {
       "id": "a_mpxavy74_d0eu",
       "type": "add",
