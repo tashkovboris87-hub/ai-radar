@@ -2,6 +2,94 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpy96msn_k5hsmp",
+      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything",
+      "title": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs",
+      "description": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs I wrote the other day about Uber blowing its 2026 AI budget in four months, and how that wasn't particularly surprising given they would have set that budget in 2025, before anyone could have predicted how popular token-burning coding agen",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-03T12:01:27.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-03T16:00:44.519Z"
+    },
+    {
+      "id": "i_mpy96msn_ww4xsf",
+      "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "title": "Direct Preference Optimization Beyond Chatbots",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-03T12:55:11.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-03T16:00:44.519Z"
+    },
+    {
+      "id": "i_mpy96msn_p5i4sl",
+      "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+      "title": "Adding MCP Tools to Reachy Mini",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-03T00:00:00.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-03T16:00:44.519Z"
+    },
+    {
+      "id": "i_mpy96msn_f7dpan",
+      "url": "https://www.youtube.com/watch?v=ypL7kUiw_LM",
+      "title": "Claude Opus 4.8: Lying Machine No More?",
+      "description": "Two Minute Papers (YouTube)",
+      "image": "https://i.ytimg.com/vi/ypL7kUiw_LM/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-03T13:49:31.000Z",
+      "addedBy": "Two Minute Papers",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-03T16:00:44.519Z"
+    },
+    {
       "id": "i_mpxs17av_vtzef0",
       "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
       "title": "AI outperforms law professors in Stanford Law study",
@@ -8092,6 +8180,50 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpy96msn_hus1",
+      "type": "add",
+      "itemId": "i_mpy96msn_f7dpan",
+      "itemTitle": "Claude Opus 4.8: Lying Machine No More?",
+      "itemUrl": "https://www.youtube.com/watch?v=ypL7kUiw_LM",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-03T16:00:44.519Z"
+    },
+    {
+      "id": "a_mpy96msn_kzmk",
+      "type": "add",
+      "itemId": "i_mpy96msn_p5i4sl",
+      "itemTitle": "Adding MCP Tools to Reachy Mini",
+      "itemUrl": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-03T16:00:44.519Z"
+    },
+    {
+      "id": "a_mpy96msn_qe5j",
+      "type": "add",
+      "itemId": "i_mpy96msn_ww4xsf",
+      "itemTitle": "Direct Preference Optimization Beyond Chatbots",
+      "itemUrl": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-03T16:00:44.519Z"
+    },
+    {
+      "id": "a_mpy96msn_vmf2",
+      "type": "add",
+      "itemId": "i_mpy96msn_k5hsmp",
+      "itemTitle": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs",
+      "itemUrl": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-03T16:00:44.519Z"
+    },
     {
       "id": "a_mpxs17av_5tkn",
       "type": "add",
