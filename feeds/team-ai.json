@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpxs17av_vtzef0",
+      "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+      "title": "AI outperforms law professors in Stanford Law study",
+      "description": "",
+      "image": "",
+      "domain": "law.stanford.edu",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-02T23:43:12.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-03T08:00:37.687Z"
+    },
+    {
+      "id": "i_mpxs17av_zjctq1",
+      "url": "https://www.latent.space/p/ainews-microsoft-build-mai-thinking",
+      "title": "[AINews] Microsoft Build: MAI-Thinking-1 and MAI Family models",
+      "description": "Microsoft Build recap, and new MAI model technical details",
+      "image": "https://substackcdn.com/image/fetch/$s_!PL7Y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e8ca90a-629c-44d5-af2f-0b0cd2a60aa2_1510x886.png",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-03T05:49:02.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-03T08:00:37.687Z"
+    },
+    {
       "id": "i_mpxjgkfw_iaustz",
       "url": "https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything",
       "title": "datasette-agent-micropython 0.1a0",
@@ -8048,6 +8092,28 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpxs17av_5tkn",
+      "type": "add",
+      "itemId": "i_mpxs17av_zjctq1",
+      "itemTitle": "[AINews] Microsoft Build: MAI-Thinking-1 and MAI Family models",
+      "itemUrl": "https://www.latent.space/p/ainews-microsoft-build-mai-thinking",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-03T08:00:37.687Z"
+    },
+    {
+      "id": "a_mpxs17av_w7pt",
+      "type": "add",
+      "itemId": "i_mpxs17av_vtzef0",
+      "itemTitle": "AI outperforms law professors in Stanford Law study",
+      "itemUrl": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-03T08:00:37.687Z"
+    },
     {
       "id": "a_mpxjgkfw_noi0",
       "type": "add",
