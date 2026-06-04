@@ -2,6 +2,94 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpzx6sew_ikodbg",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming",
+      "title": "Dreaming: Better memory for a more helpful ChatGPT",
+      "description": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-04T09:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-04T20:00:28.760Z"
+    },
+    {
+      "id": "i_mpzx6sew_axew3s",
+      "url": "https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything",
+      "title": "Quoting Emanuel Maiberg, 404 Media",
+      "description": "After this story was published Google's spokesperson reached out and asked us to publish a slightly different version of that statement. The new statement no longer stated that \"it's critical that we maintain humans in the loop.\" &mdash; Emanuel Maiberg, 404 Media, Google Employees Internally Share ",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-04T16:38:29.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-04T20:00:28.760Z"
+    },
+    {
+      "id": "i_mpzx6sew_ewkcor",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-04T18:57:45.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-04T20:00:28.760Z"
+    },
+    {
+      "id": "i_mpzx6sew_rbccax",
+      "url": "https://www.youtube.com/watch?v=a56T6OQtwEg",
+      "title": "Anthopic did a thing...",
+      "description": "Matthew Berman (YouTube)",
+      "image": "https://i.ytimg.com/vi/a56T6OQtwEg/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-04T19:03:39.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-04T20:00:28.760Z"
+    },
+    {
       "id": "i_mpzom5l5_nzr6s5",
       "url": "https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr",
       "title": "How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent",
@@ -8576,6 +8664,50 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpzx6sew_5r5d",
+      "type": "add",
+      "itemId": "i_mpzx6sew_rbccax",
+      "itemTitle": "Anthopic did a thing...",
+      "itemUrl": "https://www.youtube.com/watch?v=a56T6OQtwEg",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-04T20:00:28.760Z"
+    },
+    {
+      "id": "a_mpzx6sew_nbrs",
+      "type": "add",
+      "itemId": "i_mpzx6sew_ewkcor",
+      "itemTitle": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "itemUrl": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-04T20:00:28.760Z"
+    },
+    {
+      "id": "a_mpzx6sew_11jh",
+      "type": "add",
+      "itemId": "i_mpzx6sew_axew3s",
+      "itemTitle": "Quoting Emanuel Maiberg, 404 Media",
+      "itemUrl": "https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-04T20:00:28.760Z"
+    },
+    {
+      "id": "a_mpzx6sew_3ne8",
+      "type": "add",
+      "itemId": "i_mpzx6sew_ikodbg",
+      "itemTitle": "Dreaming: Better memory for a more helpful ChatGPT",
+      "itemUrl": "https://openai.com/index/chatgpt-memory-dreaming",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-04T20:00:28.760Z"
+    },
     {
       "id": "a_mpzom5l5_1amn",
       "type": "add",
