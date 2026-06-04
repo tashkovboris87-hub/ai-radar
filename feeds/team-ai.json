@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpzom5l5_nzr6s5",
+      "url": "https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr",
+      "title": "How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-04T12:59:35.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-04T16:00:29.129Z"
+    },
+    {
+      "id": "i_mpzom5l5_1veunh",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-04T12:24:58.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-04T16:00:29.129Z"
+    },
+    {
+      "id": "i_mpzom5l5_lxfwp0",
+      "url": "https://huggingface.co/blog/hf-cli-for-agents",
+      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-04T00:00:00.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-04T16:00:29.129Z"
+    },
+    {
       "id": "i_mpzg1j6k_iklhfp",
       "url": "https://huggingface.co/blog/nvidia/task-seeded-sdg",
       "title": "Task-Seeded Synthetic Q&A Generation for Nemotron Pretraining",
@@ -8510,6 +8576,39 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpzom5l5_1amn",
+      "type": "add",
+      "itemId": "i_mpzom5l5_lxfwp0",
+      "itemTitle": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+      "itemUrl": "https://huggingface.co/blog/hf-cli-for-agents",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-04T16:00:29.129Z"
+    },
+    {
+      "id": "a_mpzom5l5_zo2h",
+      "type": "add",
+      "itemId": "i_mpzom5l5_1veunh",
+      "itemTitle": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+      "itemUrl": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-04T16:00:29.129Z"
+    },
+    {
+      "id": "a_mpzom5l5_9uzr",
+      "type": "add",
+      "itemId": "i_mpzom5l5_nzr6s5",
+      "itemTitle": "How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent",
+      "itemUrl": "https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-04T16:00:29.129Z"
+    },
     {
       "id": "a_mpzg1j6k_72f3",
       "type": "add",
