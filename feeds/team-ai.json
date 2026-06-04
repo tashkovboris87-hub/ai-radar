@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpyqbx01_236kck",
+      "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "title": "Artificial intelligence is not conscious – Ted Chiang",
+      "description": "",
+      "image": "",
+      "domain": "theatlantic.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-03T17:51:37.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-04T00:00:44.497Z"
+    },
+    {
+      "id": "i_mpyqbx01_nf6rj4",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "description": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-03T13:15:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-04T00:00:44.497Z"
+    },
+    {
+      "id": "i_mpyqbx01_0bjcxb",
+      "url": "https://openai.com/index/wasmer",
+      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+      "description": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-03T12:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-04T00:00:44.497Z"
+    },
+    {
       "id": "i_mpyhrccj_ub9t5a",
       "url": "https://openai.com/index/public-policy-agenda",
       "title": "OpenAI public policy agenda",
@@ -8312,6 +8378,39 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpyqbx01_t097",
+      "type": "add",
+      "itemId": "i_mpyqbx01_0bjcxb",
+      "itemTitle": "How Wasmer used Codex to build a Node.js runtime for the edge",
+      "itemUrl": "https://openai.com/index/wasmer",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-04T00:00:44.497Z"
+    },
+    {
+      "id": "a_mpyqbx01_36cw",
+      "type": "add",
+      "itemId": "i_mpyqbx01_nf6rj4",
+      "itemTitle": "Introducing new capabilities to GPT-Rosalind",
+      "itemUrl": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-04T00:00:44.497Z"
+    },
+    {
+      "id": "a_mpyqbx01_rzcr",
+      "type": "add",
+      "itemId": "i_mpyqbx01_236kck",
+      "itemTitle": "Artificial intelligence is not conscious – Ted Chiang",
+      "itemUrl": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-04T00:00:44.497Z"
+    },
     {
       "id": "a_mpyhrccj_i70t",
       "type": "add",
