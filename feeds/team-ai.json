@@ -2,6 +2,94 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mpyywe06_xyf448",
+      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+      "description": "",
+      "image": "",
+      "domain": "kasra.blog",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-04T00:56:32.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-04T04:00:36.582Z"
+    },
+    {
+      "id": "i_mpyywe06_pg1idp",
+      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "description": "",
+      "image": "",
+      "domain": "dailycal.org",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-04T00:18:02.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-04T04:00:36.582Z"
+    },
+    {
+      "id": "i_mpyywe06_k6oi0o",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "title": "The ways we contain Claude across products",
+      "description": "",
+      "image": "",
+      "domain": "anthropic.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "claude",
+      "tags": [],
+      "addedAt": "2026-06-04T00:27:52.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-04T04:00:36.582Z"
+    },
+    {
+      "id": "i_mpyywe06_3uzesy",
+      "url": "https://www.latent.space/p/ainews-reve-2-and-ideogram-4-layouts",
+      "title": "[AINews] Reve 2 and Ideogram 4: Layouts in Imagegen",
+      "description": "a quiet day.",
+      "image": "https://substackcdn.com/image/upload/w_1028,c_limit,q_auto:best/khye4hsl8xurczaxecv5",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-04T03:24:07.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-04T04:00:36.582Z"
+    },
+    {
       "id": "i_mpyqbx01_236kck",
       "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
       "title": "Artificial intelligence is not conscious – Ted Chiang",
@@ -8378,6 +8466,50 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mpyywe06_ingv",
+      "type": "add",
+      "itemId": "i_mpyywe06_3uzesy",
+      "itemTitle": "[AINews] Reve 2 and Ideogram 4: Layouts in Imagegen",
+      "itemUrl": "https://www.latent.space/p/ainews-reve-2-and-ideogram-4-layouts",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-04T04:00:36.582Z"
+    },
+    {
+      "id": "a_mpyywe06_dlji",
+      "type": "add",
+      "itemId": "i_mpyywe06_k6oi0o",
+      "itemTitle": "The ways we contain Claude across products",
+      "itemUrl": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "itemSource": "feed",
+      "category": "claude",
+      "by": "AI Radar bot",
+      "at": "2026-06-04T04:00:36.582Z"
+    },
+    {
+      "id": "a_mpyywe06_92ym",
+      "type": "add",
+      "itemId": "i_mpyywe06_pg1idp",
+      "itemTitle": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "itemUrl": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-04T04:00:36.582Z"
+    },
+    {
+      "id": "a_mpyywe06_bp7y",
+      "type": "add",
+      "itemId": "i_mpyywe06_xyf448",
+      "itemTitle": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+      "itemUrl": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-04T04:00:36.582Z"
+    },
     {
       "id": "a_mpyqbx01_t097",
       "type": "add",
