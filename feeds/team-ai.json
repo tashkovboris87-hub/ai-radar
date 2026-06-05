@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mq0vhe8y_4x3mqh",
+      "url": "https://passo.uno/fine-tuning-docs-llm/",
+      "title": "Fine-tuning an LLM to write docs like it's 1995",
+      "description": "",
+      "image": "",
+      "domain": "passo.uno",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-05T05:46:06.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-05T12:00:30.562Z"
+    },
+    {
+      "id": "i_mq0vhe8y_mfu73e",
+      "url": "https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything",
+      "title": "Quoting Andreas Kling",
+      "description": "We will no longer accept public pull requests. [...] A substantial patch used to imply substantial effort, and that effort was a reasonable proxy for good faith. That assumption no longer holds. [...] Whether code was typed by hand is beside the point. What matters is who is responsible for it once ",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-05T11:10:05.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-05T12:00:30.562Z"
+    },
+    {
       "id": "i_mq0mwqro_w9stmo",
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-7a8",
       "title": "[AINews] not much happened today",
@@ -8840,6 +8884,28 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mq0vhe8y_ryv5",
+      "type": "add",
+      "itemId": "i_mq0vhe8y_mfu73e",
+      "itemTitle": "Quoting Andreas Kling",
+      "itemUrl": "https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-05T12:00:30.562Z"
+    },
+    {
+      "id": "a_mq0vhe8y_2pm5",
+      "type": "add",
+      "itemId": "i_mq0vhe8y_4x3mqh",
+      "itemTitle": "Fine-tuning an LLM to write docs like it's 1995",
+      "itemUrl": "https://passo.uno/fine-tuning-docs-llm/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-05T12:00:30.562Z"
+    },
     {
       "id": "a_mq0mwqro_pyq9",
       "type": "add",
