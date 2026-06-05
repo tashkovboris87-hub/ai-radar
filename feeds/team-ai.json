@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mq0mwqro_w9stmo",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-7a8",
+      "title": "[AINews] not much happened today",
+      "description": "a quiet day",
+      "image": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-05T06:44:49.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-05T08:00:30.084Z"
+    },
+    {
       "id": "i_mq0ec8vf_j7ly6z",
       "url": "https://arxiv.org/abs/2606.04032",
       "title": "Do transformers need three projections? Systematic study of QKV variants",
@@ -8818,6 +8840,17 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mq0mwqro_pyq9",
+      "type": "add",
+      "itemId": "i_mq0mwqro_w9stmo",
+      "itemTitle": "[AINews] not much happened today",
+      "itemUrl": "https://www.latent.space/p/ainews-not-much-happened-today-7a8",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-05T08:00:30.084Z"
+    },
     {
       "id": "a_mq0ec8vf_0v1v",
       "type": "add",
