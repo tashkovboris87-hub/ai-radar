@@ -2,6 +2,116 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mq05rfiv_emypgo",
+      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "description": "",
+      "image": "",
+      "domain": "github.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-04T20:11:20.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-05T00:00:28.759Z"
+    },
+    {
+      "id": "i_mq05rfiv_73dvq8",
+      "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
+      "title": "Biodefense in the Intelligence Age",
+      "description": "An action plan for AI-powered biological resilience",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-04T00:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-05T00:00:28.759Z"
+    },
+    {
+      "id": "i_mq05rfiv_rgayod",
+      "url": "https://www.latent.space/p/andon",
+      "title": "Reality: The Final Eval — Lukas Petersson and Axel Backlund of Andon Labs",
+      "description": "We talk with the VendingBench authors on evaling Claudes from Haiku to Mythos, and how they build leading, and lasting, frontier evals from scratch.",
+      "image": "",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-04T20:39:18.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-05T00:00:28.759Z"
+    },
+    {
+      "id": "i_mq05rfiv_pvp566",
+      "url": "https://www.youtube.com/shorts/RGh9kL8hVgQ",
+      "title": "It's like AI insurance",
+      "description": "Matthew Berman (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-04T21:06:16.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-05T00:00:28.759Z"
+    },
+    {
+      "id": "i_mq05rfiv_scjzqu",
+      "url": "https://www.youtube.com/watch?v=FIKzx8ZvlG0",
+      "title": "Meta’s New AI Pendant Is Coming - Metas AI Pendant Explained",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/FIKzx8ZvlG0/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-04T23:00:31.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-05T00:00:28.759Z"
+    },
+    {
       "id": "i_mpzx6sew_ikodbg",
       "url": "https://openai.com/index/chatgpt-memory-dreaming",
       "title": "Dreaming: Better memory for a more helpful ChatGPT",
@@ -8664,6 +8774,61 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mq05rfiv_sgxt",
+      "type": "add",
+      "itemId": "i_mq05rfiv_scjzqu",
+      "itemTitle": "Meta’s New AI Pendant Is Coming - Metas AI Pendant Explained",
+      "itemUrl": "https://www.youtube.com/watch?v=FIKzx8ZvlG0",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-05T00:00:28.759Z"
+    },
+    {
+      "id": "a_mq05rfiv_5f3p",
+      "type": "add",
+      "itemId": "i_mq05rfiv_pvp566",
+      "itemTitle": "It's like AI insurance",
+      "itemUrl": "https://www.youtube.com/shorts/RGh9kL8hVgQ",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-05T00:00:28.759Z"
+    },
+    {
+      "id": "a_mq05rfiv_aie8",
+      "type": "add",
+      "itemId": "i_mq05rfiv_rgayod",
+      "itemTitle": "Reality: The Final Eval — Lukas Petersson and Axel Backlund of Andon Labs",
+      "itemUrl": "https://www.latent.space/p/andon",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-05T00:00:28.759Z"
+    },
+    {
+      "id": "a_mq05rfiv_hxv6",
+      "type": "add",
+      "itemId": "i_mq05rfiv_73dvq8",
+      "itemTitle": "Biodefense in the Intelligence Age",
+      "itemUrl": "https://openai.com/index/biodefense-in-the-intelligence-age",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-05T00:00:28.759Z"
+    },
+    {
+      "id": "a_mq05rfiv_z4dv",
+      "type": "add",
+      "itemId": "i_mq05rfiv_emypgo",
+      "itemTitle": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "itemUrl": "https://github.com/anthropics/defending-code-reference-harness",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-05T00:00:28.759Z"
+    },
     {
       "id": "a_mpzx6sew_5r5d",
       "type": "add",
