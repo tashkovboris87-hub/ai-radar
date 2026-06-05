@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mq1cmt36_qaqyto",
+      "url": "https://www.latent.space/p/bad-envs",
+      "title": "How to Stop Shipping Low-Quality RL Environments (with Examples)",
+      "description": "Your broken harness is actively making the model worse. Here's what I keep seeing after years of eyeballing trajectories, and what you need to fix.",
+      "image": "https://substackcdn.com/image/fetch/$s_!NbXz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe58868ac-23a0-453d-81e5-5ca830f7454d_1456x1394.png",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-05T18:49:40.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-05T20:00:36.546Z"
+    },
+    {
+      "id": "i_mq1cmt36_ln1uqh",
+      "url": "https://www.youtube.com/shorts/ny6g0zyTuzY",
+      "title": "$1,300,000 in TOKENS",
+      "description": "Matthew Berman (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-05T19:52:13.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-05T20:00:36.546Z"
+    },
+    {
+      "id": "i_mq1cmt36_zxogn3",
+      "url": "https://www.youtube.com/watch?v=Dkqzqw8rxXI",
+      "title": "DeepMind’s New AI Found A Strange New Way To Think",
+      "description": "Two Minute Papers (YouTube)",
+      "image": "https://i.ytimg.com/vi/Dkqzqw8rxXI/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-05T15:50:26.000Z",
+      "addedBy": "Two Minute Papers",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-05T20:00:36.546Z"
+    },
+    {
       "id": "i_mq1422ku_kf5sgc",
       "url": "https://www.youtube.com/watch?v=XzUB8_gj6xM",
       "title": "It’s starting…",
@@ -8906,6 +8972,39 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mq1cmt36_xpx7",
+      "type": "add",
+      "itemId": "i_mq1cmt36_zxogn3",
+      "itemTitle": "DeepMind’s New AI Found A Strange New Way To Think",
+      "itemUrl": "https://www.youtube.com/watch?v=Dkqzqw8rxXI",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-05T20:00:36.546Z"
+    },
+    {
+      "id": "a_mq1cmt36_3b94",
+      "type": "add",
+      "itemId": "i_mq1cmt36_ln1uqh",
+      "itemTitle": "$1,300,000 in TOKENS",
+      "itemUrl": "https://www.youtube.com/shorts/ny6g0zyTuzY",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-05T20:00:36.546Z"
+    },
+    {
+      "id": "a_mq1cmt36_xwb5",
+      "type": "add",
+      "itemId": "i_mq1cmt36_qaqyto",
+      "itemTitle": "How to Stop Shipping Low-Quality RL Environments (with Examples)",
+      "itemUrl": "https://www.latent.space/p/bad-envs",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-05T20:00:36.546Z"
+    },
     {
       "id": "a_mq1422ku_jg7y",
       "type": "add",
