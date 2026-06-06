@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mq1ts33m_imzdf1",
+      "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything",
+      "title": "Running Python code in a sandbox with MicroPython and WASM",
+      "description": "I've been experimenting with different approaches to running code in a sandbox for several years now, but my latest attempt feels like it might finally have all of the characteristics I've been looking for. I've released it as an alpha package called micropython-wasm, and I'm using it for a code exe",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-06T03:53:34.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-06T04:00:36.274Z"
+    },
+    {
+      "id": "i_mq1ts33m_wjrq7z",
+      "url": "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything",
+      "title": "OpenAI Help: Lockdown Mode",
+      "description": "OpenAI Help: Lockdown Mode OpenAI first teased this in February, but now it's live and \"rolling out to eligible personal accounts, including Free, Go, Plus, and Pro, and self-serve ChatGPT Business accounts\": Lockdown Mode is designed to help prevent the final stage of data exfiltration from a promp",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-05T23:56:40.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-06T04:00:36.274Z"
+    },
+    {
       "id": "i_mq1l7g66_iktccq",
       "url": "https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/",
       "title": "Microsoft wants users to be addicted to Scout, their AI personal assistant",
@@ -9082,6 +9126,28 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mq1ts33m_fh58",
+      "type": "add",
+      "itemId": "i_mq1ts33m_wjrq7z",
+      "itemTitle": "OpenAI Help: Lockdown Mode",
+      "itemUrl": "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-06T04:00:36.274Z"
+    },
+    {
+      "id": "a_mq1ts33m_zb8r",
+      "type": "add",
+      "itemId": "i_mq1ts33m_imzdf1",
+      "itemTitle": "Running Python code in a sandbox with MicroPython and WASM",
+      "itemUrl": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-06T04:00:36.274Z"
+    },
     {
       "id": "a_mq1l7g66_csbv",
       "type": "add",
