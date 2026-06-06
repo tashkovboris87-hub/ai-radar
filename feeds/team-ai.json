@@ -2,6 +2,116 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mq22cvnl_1puanl",
+      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+      "title": "How LLMs work",
+      "description": "",
+      "image": "",
+      "domain": "0xkato.xyz",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-03T20:15:13.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-06T08:00:43.329Z"
+    },
+    {
+      "id": "i_mq22cvnl_93uhdg",
+      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "description": "",
+      "image": "",
+      "domain": "arstechnica.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-06T04:38:36.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-06T08:00:43.329Z"
+    },
+    {
+      "id": "i_mq22cvnl_fqknfg",
+      "url": "https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything",
+      "title": "micropython-wasm 0.1a2",
+      "description": "Release: micropython-wasm 0.1a2 I added a CLI to micropython-wasm (issue #7), inspired by the first draft of the blog entry when I realized it would be a great way to illustrate the Try it yourself section. Tags: python, sandboxing, webassembly, micropython",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-06T04:26:06.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-06T08:00:43.329Z"
+    },
+    {
+      "id": "i_mq22cvnl_02mz8r",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-6b8",
+      "title": "[AINews] not much happened today",
+      "description": "a quiet day of RSI.",
+      "image": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-06T04:34:47.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-06T08:00:43.329Z"
+    },
+    {
+      "id": "i_mq22cvnl_pqowr2",
+      "url": "https://www.youtube.com/shorts/82m7YqosdgU",
+      "title": "AI Agents as \"Games Masters\"? 🎮🔥",
+      "description": "Two Minute Papers (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-06T06:20:46.000Z",
+      "addedBy": "Two Minute Papers",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-06T08:00:43.329Z"
+    },
+    {
       "id": "i_mq1ts33m_imzdf1",
       "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything",
       "title": "Running Python code in a sandbox with MicroPython and WASM",
@@ -9126,6 +9236,61 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mq22cvnl_3bna",
+      "type": "add",
+      "itemId": "i_mq22cvnl_pqowr2",
+      "itemTitle": "AI Agents as \"Games Masters\"? 🎮🔥",
+      "itemUrl": "https://www.youtube.com/shorts/82m7YqosdgU",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-06T08:00:43.329Z"
+    },
+    {
+      "id": "a_mq22cvnl_v467",
+      "type": "add",
+      "itemId": "i_mq22cvnl_02mz8r",
+      "itemTitle": "[AINews] not much happened today",
+      "itemUrl": "https://www.latent.space/p/ainews-not-much-happened-today-6b8",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-06T08:00:43.329Z"
+    },
+    {
+      "id": "a_mq22cvnl_0y0k",
+      "type": "add",
+      "itemId": "i_mq22cvnl_fqknfg",
+      "itemTitle": "micropython-wasm 0.1a2",
+      "itemUrl": "https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-06T08:00:43.329Z"
+    },
+    {
+      "id": "a_mq22cvnl_6aje",
+      "type": "add",
+      "itemId": "i_mq22cvnl_93uhdg",
+      "itemTitle": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "itemUrl": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-06T08:00:43.329Z"
+    },
+    {
+      "id": "a_mq22cvnl_jjkn",
+      "type": "add",
+      "itemId": "i_mq22cvnl_1puanl",
+      "itemTitle": "How LLMs work",
+      "itemUrl": "https://www.0xkato.xyz/how-llms-actually-work/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-06T08:00:43.329Z"
+    },
     {
       "id": "a_mq1ts33m_fh58",
       "type": "add",
