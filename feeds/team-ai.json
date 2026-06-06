@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mq2s26zk_jczw35",
+      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+      "title": "Five labs, five minds: building a multi-model finance drama on small models",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-06T19:02:33.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-06T20:00:14.816Z"
+    },
+    {
+      "id": "i_mq2s26zk_3s1ofi",
+      "url": "https://www.youtube.com/watch?v=udS9osDCJKo",
+      "title": "I didn't think this was possible...",
+      "description": "Matthew Berman (YouTube)",
+      "image": "https://i.ytimg.com/vi/udS9osDCJKo/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-06T18:03:35.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-06T20:00:14.816Z"
+    },
+    {
+      "id": "i_mq2s26zk_nn3aa5",
+      "url": "https://www.youtube.com/watch?v=w9SAwahZUGQ",
+      "title": "How To Use ChatGPT Memory (Updated Memory Guide)",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/w9SAwahZUGQ/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-06T16:30:21.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-06T20:00:14.816Z"
+    },
+    {
       "id": "i_mq2jhlat_2lh5sp",
       "url": "https://huggingface.co/blog/build-small-hackathon/job-search-blog",
       "title": "Job Searcher",
@@ -9258,6 +9324,39 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mq2s26zk_xfds",
+      "type": "add",
+      "itemId": "i_mq2s26zk_nn3aa5",
+      "itemTitle": "How To Use ChatGPT Memory (Updated Memory Guide)",
+      "itemUrl": "https://www.youtube.com/watch?v=w9SAwahZUGQ",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-06T20:00:14.816Z"
+    },
+    {
+      "id": "a_mq2s26zk_c5ff",
+      "type": "add",
+      "itemId": "i_mq2s26zk_3s1ofi",
+      "itemTitle": "I didn't think this was possible...",
+      "itemUrl": "https://www.youtube.com/watch?v=udS9osDCJKo",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-06T20:00:14.816Z"
+    },
+    {
+      "id": "a_mq2s26zk_fky2",
+      "type": "add",
+      "itemId": "i_mq2s26zk_jczw35",
+      "itemTitle": "Five labs, five minds: building a multi-model finance drama on small models",
+      "itemUrl": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-06T20:00:14.816Z"
+    },
     {
       "id": "a_mq2jhlat_9rrv",
       "type": "add",
