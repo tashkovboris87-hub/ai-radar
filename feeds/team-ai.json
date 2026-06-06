@@ -2,6 +2,116 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mq1l7g66_iktccq",
+      "url": "https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/",
+      "title": "Microsoft wants users to be addicted to Scout, their AI personal assistant",
+      "description": "",
+      "image": "",
+      "domain": "disassociated.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-05T22:12:58.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-06T00:00:36.510Z"
+    },
+    {
+      "id": "i_mq1l7g66_ujnzpj",
+      "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+      "title": "My Agent Skill for Test-Driven Development",
+      "description": "",
+      "image": "",
+      "domain": "saturnci.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-04T14:10:40.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-06T00:00:36.510Z"
+    },
+    {
+      "id": "i_mq1l7g66_58stt9",
+      "url": "https://alexispurslane.github.io/rsync-analysis/",
+      "title": "Did Claude increase bugs in rsync?",
+      "description": "",
+      "image": "",
+      "domain": "alexispurslane.github.io",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-05T12:43:33.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-06T00:00:36.510Z"
+    },
+    {
+      "id": "i_mq1l7g66_ul9mu8",
+      "url": "https://openreview.net/pdf?id=Yxz92UuPLQ",
+      "title": "Transformers Are Inherently Succinct",
+      "description": "",
+      "image": "",
+      "domain": "openreview.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-05T18:50:26.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-06T00:00:36.510Z"
+    },
+    {
+      "id": "i_mq1l7g66_evu2zl",
+      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+      "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-05T22:18:46.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-06T00:00:36.510Z"
+    },
+    {
       "id": "i_mq1cmt36_qaqyto",
       "url": "https://www.latent.space/p/bad-envs",
       "title": "How to Stop Shipping Low-Quality RL Environments (with Examples)",
@@ -8972,6 +9082,61 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mq1l7g66_csbv",
+      "type": "add",
+      "itemId": "i_mq1l7g66_evu2zl",
+      "itemTitle": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
+      "itemUrl": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-06T00:00:36.510Z"
+    },
+    {
+      "id": "a_mq1l7g66_b656",
+      "type": "add",
+      "itemId": "i_mq1l7g66_ul9mu8",
+      "itemTitle": "Transformers Are Inherently Succinct",
+      "itemUrl": "https://openreview.net/pdf?id=Yxz92UuPLQ",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-06T00:00:36.510Z"
+    },
+    {
+      "id": "a_mq1l7g66_ozkn",
+      "type": "add",
+      "itemId": "i_mq1l7g66_58stt9",
+      "itemTitle": "Did Claude increase bugs in rsync?",
+      "itemUrl": "https://alexispurslane.github.io/rsync-analysis/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-06T00:00:36.510Z"
+    },
+    {
+      "id": "a_mq1l7g66_ea4u",
+      "type": "add",
+      "itemId": "i_mq1l7g66_ujnzpj",
+      "itemTitle": "My Agent Skill for Test-Driven Development",
+      "itemUrl": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-06T00:00:36.510Z"
+    },
+    {
+      "id": "a_mq1l7g66_lfs2",
+      "type": "add",
+      "itemId": "i_mq1l7g66_iktccq",
+      "itemTitle": "Microsoft wants users to be addicted to Scout, their AI personal assistant",
+      "itemUrl": "https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-06T00:00:36.510Z"
+    },
     {
       "id": "a_mq1cmt36_xpx7",
       "type": "add",
