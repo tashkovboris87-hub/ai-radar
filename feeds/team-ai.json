@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mq30mw5d_xi4da1",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "description": "",
+      "image": "",
+      "domain": "this.weekinsecurity.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-06T18:35:27.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-07T00:00:17.473Z"
+    },
+    {
       "id": "i_mq2s26zk_jczw35",
       "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
       "title": "Five labs, five minds: building a multi-model finance drama on small models",
@@ -9324,6 +9346,17 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mq30mw5d_w8ql",
+      "type": "add",
+      "itemId": "i_mq30mw5d_xi4da1",
+      "itemTitle": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "itemUrl": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-07T00:00:17.473Z"
+    },
     {
       "id": "a_mq2s26zk_xfds",
       "type": "add",
