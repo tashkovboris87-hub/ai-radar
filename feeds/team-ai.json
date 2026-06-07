@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mq47i44x_2dvh9d",
+      "url": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
+      "title": "Amazing Digital Dentures (a failed project)",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-07T19:44:27.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-07T20:00:18.033Z"
+    },
+    {
+      "id": "i_mq47i44x_qnil5s",
+      "url": "https://www.youtube.com/watch?v=RKGvCDExJvo",
+      "title": "Don't Use Chatbots Anymore! Skywork 3.0 Tutorial & Guide",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/RKGvCDExJvo/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-07T16:30:33.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-07T20:00:18.033Z"
+    },
+    {
       "id": "i_mq3yxmu7_yix4ms",
       "url": "https://leoveanu.com/2026-06-06-qwen3.7max/",
       "title": "The OnlyFans Economy of American AI",
@@ -9478,6 +9522,28 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mq47i44x_jzgc",
+      "type": "add",
+      "itemId": "i_mq47i44x_qnil5s",
+      "itemTitle": "Don't Use Chatbots Anymore! Skywork 3.0 Tutorial & Guide",
+      "itemUrl": "https://www.youtube.com/watch?v=RKGvCDExJvo",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-07T20:00:18.033Z"
+    },
+    {
+      "id": "a_mq47i44x_nwdq",
+      "type": "add",
+      "itemId": "i_mq47i44x_2dvh9d",
+      "itemTitle": "Amazing Digital Dentures (a failed project)",
+      "itemUrl": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-07T20:00:18.033Z"
+    },
     {
       "id": "a_mq3yxmu7_y4n7",
       "type": "add",
