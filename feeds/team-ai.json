@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mq3yxmu7_yix4ms",
+      "url": "https://leoveanu.com/2026-06-06-qwen3.7max/",
+      "title": "The OnlyFans Economy of American AI",
+      "description": "",
+      "image": "",
+      "domain": "leoveanu.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-07T14:47:17.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-07T16:00:25.567Z"
+    },
+    {
+      "id": "i_mq3yxmu7_outp3b",
+      "url": "https://github.com/anthropics/claude-code/issues/65697",
+      "title": "Anthropic, please ship an official Claude Desktop for Linux",
+      "description": "",
+      "image": "",
+      "domain": "github.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-07T13:06:52.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-07T16:00:25.567Z"
+    },
+    {
+      "id": "i_mq3yxmu7_vltsou",
+      "url": "https://github.com/devenjarvis/lathe",
+      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+      "description": "",
+      "image": "",
+      "domain": "github.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-07T11:16:46.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-07T16:00:25.567Z"
+    },
+    {
       "id": "i_mq3qd2o7_3x424u",
       "url": "https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers",
       "title": "Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange",
@@ -9412,6 +9478,39 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mq3yxmu7_y4n7",
+      "type": "add",
+      "itemId": "i_mq3yxmu7_vltsou",
+      "itemTitle": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+      "itemUrl": "https://github.com/devenjarvis/lathe",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-07T16:00:25.567Z"
+    },
+    {
+      "id": "a_mq3yxmu7_em13",
+      "type": "add",
+      "itemId": "i_mq3yxmu7_outp3b",
+      "itemTitle": "Anthropic, please ship an official Claude Desktop for Linux",
+      "itemUrl": "https://github.com/anthropics/claude-code/issues/65697",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-07T16:00:25.567Z"
+    },
+    {
+      "id": "a_mq3yxmu7_5mw2",
+      "type": "add",
+      "itemId": "i_mq3yxmu7_yix4ms",
+      "itemTitle": "The OnlyFans Economy of American AI",
+      "itemUrl": "https://leoveanu.com/2026-06-06-qwen3.7max/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-07T16:00:25.567Z"
+    },
     {
       "id": "a_mq3qd2o7_iy2g",
       "type": "add",
