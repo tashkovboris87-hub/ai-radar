@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mq3qd2o7_3x424u",
+      "url": "https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers",
+      "title": "Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-07T11:38:54.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-07T12:00:29.383Z"
+    },
+    {
       "id": "i_mq3hsbul_perj42",
       "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
       "title": "I design with Claude more than Figma now",
@@ -9390,6 +9412,17 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mq3qd2o7_iy2g",
+      "type": "add",
+      "itemId": "i_mq3qd2o7_3x424u",
+      "itemTitle": "Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange",
+      "itemUrl": "https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-07T12:00:29.383Z"
+    },
     {
       "id": "a_mq3hsbul_ooom",
       "type": "add",
