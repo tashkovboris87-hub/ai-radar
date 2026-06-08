@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mq5edi1x_grv812",
+      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v3",
+      "title": "The crash that vanished: control and emergence in a five-model economy",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-08T13:10:48.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-08T16:00:26.277Z"
+    },
+    {
+      "id": "i_mq5edi1x_qc95m0",
+      "url": "https://huggingface.co/blog/openenv-agentic-rl",
+      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-08T00:00:00.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-08T16:00:26.277Z"
+    },
+    {
       "id": "i_mq55swb4_auyjvs",
       "url": "https://huggingface.co/blog/build-small-hackathon/building-pakistan-notice-helper",
       "title": "Building Pakistan Notice Helper: A Small AI Tool for a Very Local Safety Problem",
@@ -9719,6 +9763,28 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mq5edi1x_sn7w",
+      "type": "add",
+      "itemId": "i_mq5edi1x_qc95m0",
+      "itemTitle": "The Open Source Community is backing OpenEnv for Agentic RL",
+      "itemUrl": "https://huggingface.co/blog/openenv-agentic-rl",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-08T16:00:26.277Z"
+    },
+    {
+      "id": "a_mq5edi1x_a7e8",
+      "type": "add",
+      "itemId": "i_mq5edi1x_grv812",
+      "itemTitle": "The crash that vanished: control and emergence in a five-model economy",
+      "itemUrl": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v3",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-08T16:00:26.277Z"
+    },
     {
       "id": "a_mq55swb4_cpiu",
       "type": "add",
