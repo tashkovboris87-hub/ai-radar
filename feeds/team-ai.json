@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mq6ldjso_jji07n",
+      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "description": "",
+      "image": "",
+      "domain": "techcrunch.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-09T07:33:16.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-09T12:04:12.024Z"
+    },
+    {
+      "id": "i_mq6ldjso_23d9b2",
+      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-09T10:46:19.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-09T12:04:12.024Z"
+    },
+    {
       "id": "i_mq6cnv2u_y62d9v",
       "url": "https://www.latent.space/p/ainews-frontiercode-benchmarking",
       "title": "[AINews] FrontierCode: Benchmarking for Code Quality over Slop",
@@ -9999,6 +10043,28 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mq6ldjso_puiy",
+      "type": "add",
+      "itemId": "i_mq6ldjso_23d9b2",
+      "itemTitle": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "itemUrl": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-09T12:04:12.024Z"
+    },
+    {
+      "id": "a_mq6ldjso_ng6c",
+      "type": "add",
+      "itemId": "i_mq6ldjso_jji07n",
+      "itemTitle": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "itemUrl": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-09T12:04:12.024Z"
+    },
     {
       "id": "a_mq6cnv2u_lego",
       "type": "add",
