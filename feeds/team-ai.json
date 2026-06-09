@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mq643717_28q5j7",
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "description": "",
+      "image": "",
+      "domain": "macrumors.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-08T19:14:47.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-09T04:00:15.451Z"
+    },
+    {
+      "id": "i_mq643717_k0siwt",
+      "url": "https://www.youtube.com/watch?v=dMrm2jAyrKM",
+      "title": "Only the best are using them...",
+      "description": "Matthew Berman (YouTube)",
+      "image": "https://i.ytimg.com/vi/dMrm2jAyrKM/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-09T02:01:01.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-09T04:00:15.451Z"
+    },
+    {
       "id": "i_mq5vitec_6blgay",
       "url": "https://openai.com/index/openai-submits-confidential-s-1/",
       "title": "OpenAI Submits S-1 Draft to SEC",
@@ -9917,6 +9961,28 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mq643717_7uml",
+      "type": "add",
+      "itemId": "i_mq643717_k0siwt",
+      "itemTitle": "Only the best are using them...",
+      "itemUrl": "https://www.youtube.com/watch?v=dMrm2jAyrKM",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-09T04:00:15.451Z"
+    },
+    {
+      "id": "a_mq643717_djd5",
+      "type": "add",
+      "itemId": "i_mq643717_28q5j7",
+      "itemTitle": "Apple reveals new AI architecture built around Google Gemini models",
+      "itemUrl": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-09T04:00:15.451Z"
+    },
     {
       "id": "a_mq5vitec_403k",
       "type": "add",
