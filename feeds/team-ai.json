@@ -21,7 +21,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-06-09T04:00:15.451Z"
+      "_updatedAt": "2026-06-09T04:00:15.451Z",
+      "comments": []
     },
     {
       "id": "i_mq643717_k0siwt",
@@ -43,7 +44,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-06-09T04:00:15.451Z"
+      "_updatedAt": "2026-06-09T04:00:15.451Z",
+      "comments": []
     },
     {
       "id": "i_mq5vitec_6blgay",
@@ -65,7 +67,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-06-09T00:00:27.732Z"
+      "_updatedAt": "2026-06-09T00:00:27.732Z",
+      "comments": []
     },
     {
       "id": "i_mq5vitec_kcsd7d",
@@ -80,14 +83,17 @@
       "tags": [],
       "addedAt": "2026-06-08T18:17:53.000Z",
       "addedBy": "HackerNews",
-      "readBy": [],
+      "readBy": [
+        "Boris"
+      ],
       "reactions": {
         "important": [],
         "must_read": [],
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-06-09T00:00:27.732Z"
+      "_updatedAt": "2026-06-09T07:45:13.219Z",
+      "comments": []
     },
     {
       "id": "i_mq5vitec_fukzjx",
@@ -109,7 +115,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-06-09T00:00:27.732Z"
+      "_updatedAt": "2026-06-09T00:00:27.732Z",
+      "comments": []
     },
     {
       "id": "i_mq5vitec_vrc996",
@@ -131,7 +138,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-06-09T00:00:27.732Z"
+      "_updatedAt": "2026-06-09T00:00:27.732Z",
+      "comments": []
     },
     {
       "id": "i_mq5vitec_uoicnx",
@@ -153,7 +161,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-06-09T00:00:27.732Z"
+      "_updatedAt": "2026-06-09T00:00:27.732Z",
+      "comments": []
     },
     {
       "id": "i_mq5mxwij_x7xr3t",
@@ -175,7 +184,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-06-08T20:00:15.067Z"
+      "_updatedAt": "2026-06-08T20:00:15.067Z",
+      "comments": []
     },
     {
       "id": "i_mq5mxwij_nu36p0",
@@ -197,7 +207,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-06-08T20:00:15.067Z"
+      "_updatedAt": "2026-06-08T20:00:15.067Z",
+      "comments": []
     },
     {
       "id": "i_mq5edi1x_grv812",
@@ -219,7 +230,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-06-08T16:00:26.277Z"
+      "_updatedAt": "2026-06-08T16:00:26.277Z",
+      "comments": []
     },
     {
       "id": "i_mq5edi1x_qc95m0",
@@ -241,7 +253,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-06-08T16:00:26.277Z"
+      "_updatedAt": "2026-06-08T16:00:26.277Z",
+      "comments": []
     },
     {
       "id": "i_mq55swb4_auyjvs",
@@ -263,7 +276,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-06-08T12:00:28.048Z"
+      "_updatedAt": "2026-06-08T12:00:28.048Z",
+      "comments": []
     },
     {
       "id": "i_mq4ongb4_wbgtvy",
