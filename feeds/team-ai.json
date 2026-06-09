@@ -2,6 +2,116 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mq72dqqn_qjqwc2",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "title": "Claude Fable 5",
+      "description": "",
+      "image": "",
+      "domain": "anthropic.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "claude",
+      "tags": [],
+      "addedAt": "2026-06-09T16:58:01.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-09T20:00:14.495Z"
+    },
+    {
+      "id": "i_mq72dqqn_kjlk7x",
+      "url": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/",
+      "title": "GPT-2: Too Dangerous To Release (2019)",
+      "description": "",
+      "image": "",
+      "domain": "naokishibuya.github.io",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-09T18:21:43.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-09T20:00:14.495Z"
+    },
+    {
+      "id": "i_mq72dqqn_ph56e1",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+      "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-09T19:38:28.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-09T20:00:14.495Z"
+    },
+    {
+      "id": "i_mq72dqqn_vbm9m9",
+      "url": "https://www.youtube.com/watch?v=e-4xG1U7M70",
+      "title": "MYTHOS is LIVE!!!!",
+      "description": "Matthew Berman (YouTube)",
+      "image": "https://i.ytimg.com/vi/e-4xG1U7M70/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-09T19:17:39.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-09T20:00:14.495Z"
+    },
+    {
+      "id": "i_mq72dqqn_9p4nyd",
+      "url": "https://www.youtube.com/watch?v=0pgCBV8CTZY",
+      "title": "Anthropic is starting to panic…",
+      "description": "Fireship (YouTube)",
+      "image": "https://i.ytimg.com/vi/0pgCBV8CTZY/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-09T17:32:30.000Z",
+      "addedBy": "Fireship",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-09T20:00:14.495Z"
+    },
+    {
       "id": "i_mq6tt5ch_oqyxf5",
       "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
       "title": "Cleaning up after AI rockstar developers",
@@ -10175,6 +10285,61 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mq72dqqn_blt5",
+      "type": "add",
+      "itemId": "i_mq72dqqn_9p4nyd",
+      "itemTitle": "Anthropic is starting to panic…",
+      "itemUrl": "https://www.youtube.com/watch?v=0pgCBV8CTZY",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-09T20:00:14.495Z"
+    },
+    {
+      "id": "a_mq72dqqn_629d",
+      "type": "add",
+      "itemId": "i_mq72dqqn_vbm9m9",
+      "itemTitle": "MYTHOS is LIVE!!!!",
+      "itemUrl": "https://www.youtube.com/watch?v=e-4xG1U7M70",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-09T20:00:14.495Z"
+    },
+    {
+      "id": "a_mq72dqqn_83ms",
+      "type": "add",
+      "itemId": "i_mq72dqqn_ph56e1",
+      "itemTitle": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+      "itemUrl": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-09T20:00:14.495Z"
+    },
+    {
+      "id": "a_mq72dqqn_hnfg",
+      "type": "add",
+      "itemId": "i_mq72dqqn_kjlk7x",
+      "itemTitle": "GPT-2: Too Dangerous To Release (2019)",
+      "itemUrl": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-09T20:00:14.495Z"
+    },
+    {
+      "id": "a_mq72dqqn_kr10",
+      "type": "add",
+      "itemId": "i_mq72dqqn_qjqwc2",
+      "itemTitle": "Claude Fable 5",
+      "itemUrl": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "itemSource": "feed",
+      "category": "claude",
+      "by": "AI Radar bot",
+      "at": "2026-06-09T20:00:14.495Z"
+    },
     {
       "id": "a_mq6tt5ch_tbc1",
       "type": "add",
