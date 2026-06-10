@@ -2,6 +2,138 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mq8htqdf_hx0iuf",
+      "url": "https://github.com/anthropics/claude-code/issues/29045",
+      "title": "Claude Desktop spins up a VM without no way of stopping it",
+      "description": "",
+      "image": "",
+      "domain": "github.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-10T17:11:56.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-10T20:00:20.931Z"
+    },
+    {
+      "id": "i_mq8htqdf_6676ym",
+      "url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
+      "title": "Anthropic's Model Naming, Extrapolated",
+      "description": "",
+      "image": "",
+      "domain": "samwilkinson.io",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-10T18:45:20.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-10T20:00:20.931Z"
+    },
+    {
+      "id": "i_mq8htqdf_c2jzi8",
+      "url": "https://darioamodei.com/post/policy-on-the-ai-exponential",
+      "title": "Policy on the AI Exponential",
+      "description": "",
+      "image": "",
+      "domain": "darioamodei.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-10T18:36:04.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-10T20:00:20.931Z"
+    },
+    {
+      "id": "i_mq8htqdf_gb5ap0",
+      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "title": "DiffusionGemma: 4x faster text generation",
+      "description": "",
+      "image": "",
+      "domain": "deepmind.google",
+      "contentType": "article",
+      "source": "feed",
+      "category": "gemini",
+      "tags": [],
+      "addedAt": "2026-06-10T16:24:11.000Z",
+      "addedBy": "Google DeepMind",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-10T20:00:20.931Z"
+    },
+    {
+      "id": "i_mq8htqdf_6c29s2",
+      "url": "https://www.youtube.com/watch?v=haK1KoQWm18",
+      "title": "Claude Fable 5 - Full 319 page Breakdown",
+      "description": "AI Explained (YouTube)",
+      "image": "https://i.ytimg.com/vi/haK1KoQWm18/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-10T18:43:12.000Z",
+      "addedBy": "AI Explained",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-10T20:00:20.931Z"
+    },
+    {
+      "id": "i_mq8htqdf_mpnraf",
+      "url": "https://www.youtube.com/shorts/GclDWye2kgk",
+      "title": "Supercomputer is the next level of AI video generation",
+      "description": "Matthew Berman (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-10T17:10:35.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-10T20:00:20.931Z"
+    },
+    {
       "id": "i_mq8995cx_4mz3ux",
       "url": "https://www.youtube.com/watch?v=E6XZnaYCfg0",
       "title": "The Hidden Problem With Elon Musk’s  SpaceX AI Datacenter",
@@ -10759,6 +10891,72 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mq8htqdf_nkqk",
+      "type": "add",
+      "itemId": "i_mq8htqdf_mpnraf",
+      "itemTitle": "Supercomputer is the next level of AI video generation",
+      "itemUrl": "https://www.youtube.com/shorts/GclDWye2kgk",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-10T20:00:20.931Z"
+    },
+    {
+      "id": "a_mq8htqdf_iaop",
+      "type": "add",
+      "itemId": "i_mq8htqdf_6c29s2",
+      "itemTitle": "Claude Fable 5 - Full 319 page Breakdown",
+      "itemUrl": "https://www.youtube.com/watch?v=haK1KoQWm18",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-10T20:00:20.931Z"
+    },
+    {
+      "id": "a_mq8htqdf_5ui7",
+      "type": "add",
+      "itemId": "i_mq8htqdf_gb5ap0",
+      "itemTitle": "DiffusionGemma: 4x faster text generation",
+      "itemUrl": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "itemSource": "feed",
+      "category": "gemini",
+      "by": "AI Radar bot",
+      "at": "2026-06-10T20:00:20.931Z"
+    },
+    {
+      "id": "a_mq8htqdf_yx3m",
+      "type": "add",
+      "itemId": "i_mq8htqdf_c2jzi8",
+      "itemTitle": "Policy on the AI Exponential",
+      "itemUrl": "https://darioamodei.com/post/policy-on-the-ai-exponential",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-10T20:00:20.931Z"
+    },
+    {
+      "id": "a_mq8htqdf_iiz7",
+      "type": "add",
+      "itemId": "i_mq8htqdf_6676ym",
+      "itemTitle": "Anthropic's Model Naming, Extrapolated",
+      "itemUrl": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-10T20:00:20.931Z"
+    },
+    {
+      "id": "a_mq8htqdf_onnh",
+      "type": "add",
+      "itemId": "i_mq8htqdf_hx0iuf",
+      "itemTitle": "Claude Desktop spins up a VM without no way of stopping it",
+      "itemUrl": "https://github.com/anthropics/claude-code/issues/29045",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-10T20:00:20.931Z"
+    },
     {
       "id": "a_mq8995cx_rs4x",
       "type": "add",
