@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mq80ohqm_bjn38o",
+      "url": "https://openai.com/index/lseg",
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "description": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-10T00:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-10T12:00:22.990Z"
+    },
+    {
       "id": "i_mq7s3w6i_ifd15v",
       "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
       "title": "Rich Sutton on AI creativity and discovery",
@@ -10715,6 +10737,17 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mq80ohqm_cier",
+      "type": "add",
+      "itemId": "i_mq80ohqm_bjn38o",
+      "itemTitle": "From data to decisions: how LSEG is scaling trusted AI",
+      "itemUrl": "https://openai.com/index/lseg",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-10T12:00:22.990Z"
+    },
     {
       "id": "a_mq7s3w6i_2lmq",
       "type": "add",
