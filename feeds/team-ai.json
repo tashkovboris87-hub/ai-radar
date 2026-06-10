@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mq8995cx_4mz3ux",
+      "url": "https://www.youtube.com/watch?v=E6XZnaYCfg0",
+      "title": "The Hidden Problem With Elon Musk’s  SpaceX AI Datacenter",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/E6XZnaYCfg0/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-10T14:03:24.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-10T16:00:23.649Z"
+    },
+    {
       "id": "i_mq80ohqm_bjn38o",
       "url": "https://openai.com/index/lseg",
       "title": "From data to decisions: how LSEG is scaling trusted AI",
@@ -10737,6 +10759,17 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mq8995cx_rs4x",
+      "type": "add",
+      "itemId": "i_mq8995cx_4mz3ux",
+      "itemTitle": "The Hidden Problem With Elon Musk’s  SpaceX AI Datacenter",
+      "itemUrl": "https://www.youtube.com/watch?v=E6XZnaYCfg0",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-10T16:00:23.649Z"
+    },
     {
       "id": "a_mq80ohqm_cier",
       "type": "add",
