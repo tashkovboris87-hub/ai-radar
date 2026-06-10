@@ -21,7 +21,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-06-10T02:53:24.923Z"
+      "_updatedAt": "2026-06-10T02:53:24.923Z",
+      "comments": []
     },
     {
       "id": "i_mq7h535n_0wfyft",
@@ -43,7 +44,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-06-10T02:53:24.923Z"
+      "_updatedAt": "2026-06-10T02:53:24.923Z",
+      "comments": []
     },
     {
       "id": "i_mq7h535n_q1aj1h",
@@ -65,7 +67,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-06-10T02:53:24.923Z"
+      "_updatedAt": "2026-06-10T02:53:24.923Z",
+      "comments": []
     },
     {
       "id": "i_mq7h535n_87l76d",
@@ -87,7 +90,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-06-10T02:53:24.923Z"
+      "_updatedAt": "2026-06-10T02:53:24.923Z",
+      "comments": []
     },
     {
       "id": "i_mq7h535n_reqt78",
@@ -109,7 +113,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-06-10T02:53:24.923Z"
+      "_updatedAt": "2026-06-10T02:53:24.923Z",
+      "comments": []
     },
     {
       "id": "i_mq7h535n_dvwbfo",
@@ -131,7 +136,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-06-10T02:53:24.923Z"
+      "_updatedAt": "2026-06-10T02:53:24.923Z",
+      "comments": []
     },
     {
       "id": "i_mq7h535n_cs34v9",
@@ -153,7 +159,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-06-10T02:53:24.923Z"
+      "_updatedAt": "2026-06-10T02:53:24.923Z",
+      "comments": []
     },
     {
       "id": "i_mq7aygj6_3weetr",
@@ -377,14 +384,16 @@
       "tags": [],
       "addedAt": "2026-06-09T16:58:01.000Z",
       "addedBy": "HackerNews",
-      "readBy": [],
+      "readBy": [
+        "Boris"
+      ],
       "reactions": {
         "important": [],
         "must_read": [],
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-06-09T20:00:14.495Z",
+      "_updatedAt": "2026-06-10T02:54:10.389Z",
       "comments": []
     },
     {
