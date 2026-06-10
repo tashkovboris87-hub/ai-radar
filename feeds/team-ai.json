@@ -2,6 +2,160 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mq7h535n_exyeae",
+      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+      "title": "German ruling declares Google liable for false answers in AI Overviews",
+      "description": "",
+      "image": "",
+      "domain": "the-decoder.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-10T01:44:13.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-10T02:53:24.923Z"
+    },
+    {
+      "id": "i_mq7h535n_0wfyft",
+      "url": "https://openai.com/index/nextdoor",
+      "title": "How engineers at Nextdoor use Codex to build without limits",
+      "description": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-09T12:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-10T02:53:24.923Z"
+    },
+    {
+      "id": "i_mq7h535n_q1aj1h",
+      "url": "https://openai.com/index/notion",
+      "title": "What Codex unlocks for Notion",
+      "description": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-09T10:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-10T02:53:24.923Z"
+    },
+    {
+      "id": "i_mq7h535n_87l76d",
+      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "title": "Industrial policy for the Intelligence Age",
+      "description": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-09T00:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-10T02:53:24.923Z"
+    },
+    {
+      "id": "i_mq7h535n_reqt78",
+      "url": "https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything",
+      "title": "If Claude Fable stops helping you, you'll never know",
+      "description": "If Claude Fable stops helping you, you'll never know Jonathon Ready highlights one of the more eyebrow-raising details from the 319 page system card for Fable 5 and Mythos 5. Here's a longer excerpt, highlights mine: In light of the ability of recent models to accelerate their own development, we’ve",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-10T00:37:25.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-10T02:53:24.923Z"
+    },
+    {
+      "id": "i_mq7h535n_dvwbfo",
+      "url": "https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything",
+      "title": "Initial impressions of Claude Fable 5",
+      "description": "I didn't have early access to today's Claude Fable 5 release, but I've spent the past ~5.5 hours putting it through its paces. My initial impressions are that this is something of a beast. It's slow, expensive and has been quite happily churning through everything I've thrown at it so far. As is fre",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-09T23:59:54.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-10T02:53:24.923Z"
+    },
+    {
+      "id": "i_mq7h535n_cs34v9",
+      "url": "https://simonwillison.net/2026/Jun/9/llm/#atom-everything",
+      "title": "llm 0.32a3",
+      "description": "Release: llm 0.32a3 Almost entirely written by the new Claude Fable 5, see my write-up for more details. Tags: projects, ai, generative-ai, llms, llm, claude-mythos",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-09T22:27:03.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-10T02:53:24.923Z"
+    },
+    {
       "id": "i_mq7aygj6_3weetr",
       "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
       "title": "If Claude Fable stops helping you, you'll never know",
@@ -10508,6 +10662,83 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mq7h535n_l03n",
+      "type": "add",
+      "itemId": "i_mq7h535n_cs34v9",
+      "itemTitle": "llm 0.32a3",
+      "itemUrl": "https://simonwillison.net/2026/Jun/9/llm/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-10T02:53:24.923Z"
+    },
+    {
+      "id": "a_mq7h535n_kyp6",
+      "type": "add",
+      "itemId": "i_mq7h535n_dvwbfo",
+      "itemTitle": "Initial impressions of Claude Fable 5",
+      "itemUrl": "https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-10T02:53:24.923Z"
+    },
+    {
+      "id": "a_mq7h535n_gala",
+      "type": "add",
+      "itemId": "i_mq7h535n_reqt78",
+      "itemTitle": "If Claude Fable stops helping you, you'll never know",
+      "itemUrl": "https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-10T02:53:24.923Z"
+    },
+    {
+      "id": "a_mq7h535n_t4k9",
+      "type": "add",
+      "itemId": "i_mq7h535n_87l76d",
+      "itemTitle": "Industrial policy for the Intelligence Age",
+      "itemUrl": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-10T02:53:24.923Z"
+    },
+    {
+      "id": "a_mq7h535n_2zz8",
+      "type": "add",
+      "itemId": "i_mq7h535n_q1aj1h",
+      "itemTitle": "What Codex unlocks for Notion",
+      "itemUrl": "https://openai.com/index/notion",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-10T02:53:24.923Z"
+    },
+    {
+      "id": "a_mq7h535n_c4uz",
+      "type": "add",
+      "itemId": "i_mq7h535n_0wfyft",
+      "itemTitle": "How engineers at Nextdoor use Codex to build without limits",
+      "itemUrl": "https://openai.com/index/nextdoor",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-10T02:53:24.923Z"
+    },
+    {
+      "id": "a_mq7h535n_ncq2",
+      "type": "add",
+      "itemId": "i_mq7h535n_exyeae",
+      "itemTitle": "German ruling declares Google liable for false answers in AI Overviews",
+      "itemUrl": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-10T02:53:24.923Z"
+    },
     {
       "id": "a_mq7aygj6_8ynl",
       "type": "add",
