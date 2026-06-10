@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mq7s3w6i_ifd15v",
+      "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+      "title": "Rich Sutton on AI creativity and discovery",
+      "description": "",
+      "image": "",
+      "domain": "twitter.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-10T02:25:24.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-10T08:00:25.002Z"
+    },
+    {
       "id": "i_mq7jjf0k_d3jsva",
       "url": "https://www.latent.space/p/ainews-anthropic-claude-fable-5-mythos",
       "title": "[AINews] Anthropic Claude Fable 5 — Mythos but Safe, with Controversial Terms",
@@ -10693,6 +10715,17 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mq7s3w6i_2lmq",
+      "type": "add",
+      "itemId": "i_mq7s3w6i_ifd15v",
+      "itemTitle": "Rich Sutton on AI creativity and discovery",
+      "itemUrl": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-10T08:00:25.002Z"
+    },
     {
       "id": "a_mq7jjf0k_0ilk",
       "type": "add",
