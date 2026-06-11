@@ -2,6 +2,138 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mq9x9jvf_0nty04",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "title": "OpenAI to acquire Ona",
+      "description": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-11T00:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-11T20:00:19.419Z"
+    },
+    {
+      "id": "i_mq9x9jvf_z3xcjm",
+      "url": "https://openai.com/index/bbva",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "description": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-11T00:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-11T20:00:19.419Z"
+    },
+    {
+      "id": "i_mq9x9jvf_5z67x7",
+      "url": "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything",
+      "title": "datasette 1.0a33",
+      "description": "Release: datasette 1.0a33 This alpha is a significant step on the road to a stable 1.0, finally extending the ?_extra= pattern I introduced in Datasette 1.0a3 to cover queries and rows in addition to tables. That pattern is also now documented! I wrote a whole lot more about the new release on the D",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-11T15:26:49.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-11T20:00:19.419Z"
+    },
+    {
+      "id": "i_mq9x9jvf_bajcxb",
+      "url": "https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything",
+      "title": "asyncinject 0.7",
+      "description": "Release: asyncinject 0.7 I built this utility library to support an asyncio dependency injection pattern a few years ago. I was using it with Datasette and Claude Fable 5 spotted some bugs in the dependency which it then fixed for me. It's a very proactive model! Tags: async, projects, python, claud",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-11T06:28:09.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-11T20:00:19.419Z"
+    },
+    {
+      "id": "i_mq9x9jvf_5h7864",
+      "url": "https://www.youtube.com/watch?v=1PBRhm5ZnjU",
+      "title": "Anthropic begged the world to stop AI… then shipped this",
+      "description": "Fireship (YouTube)",
+      "image": "https://i.ytimg.com/vi/1PBRhm5ZnjU/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-11T17:17:48.000Z",
+      "addedBy": "Fireship",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-11T20:00:19.419Z"
+    },
+    {
+      "id": "i_mq9x9jvf_dnttqv",
+      "url": "https://www.youtube.com/watch?v=y6pfgiTjHXQ",
+      "title": "LMS Are About to Hit a wall - The AI Scaling Law Might Be Breaking...",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/y6pfgiTjHXQ/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-11T17:02:19.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-11T20:00:19.419Z"
+    },
+    {
       "id": "i_mq9oox2w_8di9ny",
       "url": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
       "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
@@ -11221,6 +11353,72 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mq9x9jvf_s4bm",
+      "type": "add",
+      "itemId": "i_mq9x9jvf_dnttqv",
+      "itemTitle": "LMS Are About to Hit a wall - The AI Scaling Law Might Be Breaking...",
+      "itemUrl": "https://www.youtube.com/watch?v=y6pfgiTjHXQ",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-11T20:00:19.419Z"
+    },
+    {
+      "id": "a_mq9x9jvf_ph9m",
+      "type": "add",
+      "itemId": "i_mq9x9jvf_5h7864",
+      "itemTitle": "Anthropic begged the world to stop AI… then shipped this",
+      "itemUrl": "https://www.youtube.com/watch?v=1PBRhm5ZnjU",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-11T20:00:19.419Z"
+    },
+    {
+      "id": "a_mq9x9jvf_fc8u",
+      "type": "add",
+      "itemId": "i_mq9x9jvf_bajcxb",
+      "itemTitle": "asyncinject 0.7",
+      "itemUrl": "https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-11T20:00:19.419Z"
+    },
+    {
+      "id": "a_mq9x9jvf_k2jj",
+      "type": "add",
+      "itemId": "i_mq9x9jvf_5z67x7",
+      "itemTitle": "datasette 1.0a33",
+      "itemUrl": "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-11T20:00:19.419Z"
+    },
+    {
+      "id": "a_mq9x9jvf_lvwz",
+      "type": "add",
+      "itemId": "i_mq9x9jvf_z3xcjm",
+      "itemTitle": "BBVA puts AI at the core of banking with OpenAI",
+      "itemUrl": "https://openai.com/index/bbva",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-11T20:00:19.419Z"
+    },
+    {
+      "id": "a_mq9x9jvf_vcfm",
+      "type": "add",
+      "itemId": "i_mq9x9jvf_0nty04",
+      "itemTitle": "OpenAI to acquire Ona",
+      "itemUrl": "https://openai.com/index/openai-to-acquire-ona",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-11T20:00:19.419Z"
+    },
     {
       "id": "a_mq9oox2w_51sv",
       "type": "add",
