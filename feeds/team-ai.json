@@ -2,6 +2,94 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mq8yz19f_cfrhhq",
+      "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+      "title": "AI agent runs amok in Fedora and elsewhere",
+      "description": "",
+      "image": "",
+      "domain": "lwn.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-11T00:10:08.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-11T04:00:21.795Z"
+    },
+    {
+      "id": "i_mq8yz19f_ryopfx",
+      "url": "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything",
+      "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
+      "description": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude Big scoop for Maxwell Zeff at Wired: “We’re changing Fable 5’s safeguards for frontier LLM development to make them visible.” Anthropic said in a statement to WIRED. “We made the wrong tradeoff and we apologize for n",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-11T03:45:49.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-11T04:00:21.795Z"
+    },
+    {
+      "id": "i_mq8yz19f_7jg2xw",
+      "url": "https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything",
+      "title": "datasette-agent 0.2a0",
+      "description": "Release: datasette-agent 0.2a0 Highlights from the release notes: Tools can now ask the user questions mid-execution. Tools that declare a context parameter receive a ToolContext object, and await context.ask_user(...) can ask a yes/no, multiple-choice (options=[...]) or free-text (free_text=True) q",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-10T23:57:27.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-11T04:00:21.795Z"
+    },
+    {
+      "id": "i_mq8yz19f_xzapfl",
+      "url": "https://www.latent.space/p/ainews-open-models-model-labs-vs",
+      "title": "[AINews] Open Models, Model Labs vs Agent Labs, and What's Untrainable — Sarah Guo",
+      "description": "a quiet day lets us reflect on a great essay",
+      "image": "https://substackcdn.com/image/fetch/$s_!76lN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F709bf7b6-3173-4a7f-9099-fcabd2ebd438_1954x2078.png",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-11T03:14:26.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-11T04:00:21.795Z"
+    },
+    {
       "id": "i_mq8qef77_9q8och",
       "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
       "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
@@ -11023,6 +11111,50 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mq8yz19f_vd00",
+      "type": "add",
+      "itemId": "i_mq8yz19f_xzapfl",
+      "itemTitle": "[AINews] Open Models, Model Labs vs Agent Labs, and What's Untrainable — Sarah Guo",
+      "itemUrl": "https://www.latent.space/p/ainews-open-models-model-labs-vs",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-11T04:00:21.795Z"
+    },
+    {
+      "id": "a_mq8yz19f_l8i6",
+      "type": "add",
+      "itemId": "i_mq8yz19f_7jg2xw",
+      "itemTitle": "datasette-agent 0.2a0",
+      "itemUrl": "https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-11T04:00:21.795Z"
+    },
+    {
+      "id": "a_mq8yz19f_c1ng",
+      "type": "add",
+      "itemId": "i_mq8yz19f_ryopfx",
+      "itemTitle": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
+      "itemUrl": "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-11T04:00:21.795Z"
+    },
+    {
+      "id": "a_mq8yz19f_aejh",
+      "type": "add",
+      "itemId": "i_mq8yz19f_cfrhhq",
+      "itemTitle": "AI agent runs amok in Fedora and elsewhere",
+      "itemUrl": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-11T04:00:21.795Z"
+    },
     {
       "id": "a_mq8qef77_9cmr",
       "type": "add",
