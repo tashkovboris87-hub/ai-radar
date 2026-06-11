@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mq9oox2w_8di9ny",
+      "url": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
+      "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
+      "description": "",
+      "image": "",
+      "domain": "businessinsider.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-11T13:26:59.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-11T16:00:19.832Z"
+    },
+    {
+      "id": "i_mq9oox2w_avdq9f",
+      "url": "https://www.youtube.com/shorts/ibnHNoxQOSQ",
+      "title": "I'm making a tamagotchi for my son!",
+      "description": "Matthew Berman (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-11T13:00:30.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-11T16:00:19.832Z"
+    },
+    {
       "id": "i_mq9g4aj7_krtb4m",
       "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
       "title": "Investing in multi-agent AI safety research",
@@ -11177,6 +11221,28 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mq9oox2w_51sv",
+      "type": "add",
+      "itemId": "i_mq9oox2w_avdq9f",
+      "itemTitle": "I'm making a tamagotchi for my son!",
+      "itemUrl": "https://www.youtube.com/shorts/ibnHNoxQOSQ",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-11T16:00:19.832Z"
+    },
+    {
+      "id": "a_mq9oox2w_q4rt",
+      "type": "add",
+      "itemId": "i_mq9oox2w_8di9ny",
+      "itemTitle": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
+      "itemUrl": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-11T16:00:19.832Z"
+    },
     {
       "id": "a_mq9g4aj7_yq9w",
       "type": "add",
