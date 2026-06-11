@@ -2,6 +2,138 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mq8qef77_9q8och",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+      "description": "",
+      "image": "",
+      "domain": "techcrunch.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-10T16:42:00.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-11T00:00:23.155Z"
+    },
+    {
+      "id": "i_mq8qef77_wnth5n",
+      "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+      "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+      "description": "",
+      "image": "",
+      "domain": "support.claude.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-09T17:23:40.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-11T00:00:23.155Z"
+    },
+    {
+      "id": "i_mq8qef77_grwo1m",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "description": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-11T00:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-11T00:00:23.155Z"
+    },
+    {
+      "id": "i_mq8qef77_wil2g0",
+      "url": "https://openai.com/index/openai-on-oracle-cloud",
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "description": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-10T20:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-11T00:00:23.155Z"
+    },
+    {
+      "id": "i_mq8qef77_id7cja",
+      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+      "title": "PRC-linked influence operations are targeting AI debates in the US",
+      "description": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-10T12:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-11T00:00:23.155Z"
+    },
+    {
+      "id": "i_mq8qef77_hmr722",
+      "url": "https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything",
+      "title": "DiffusionGemma",
+      "description": "DiffusionGemma Last May Google briefly released an experimental Gemini Diffusion model. I tried the preview at the time and recorded it running at 857 tokens/second. It was an exciting model, but Google made no further announcements about it. That research has returned in the best possible way: as a",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-10T20:00:54.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-11T00:00:23.155Z"
+    },
+    {
       "id": "i_mq8htqdf_hx0iuf",
       "url": "https://github.com/anthropics/claude-code/issues/29045",
       "title": "Claude Desktop spins up a VM without no way of stopping it",
@@ -10891,6 +11023,72 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mq8qef77_9cmr",
+      "type": "add",
+      "itemId": "i_mq8qef77_hmr722",
+      "itemTitle": "DiffusionGemma",
+      "itemUrl": "https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-11T00:00:23.155Z"
+    },
+    {
+      "id": "a_mq8qef77_8fnd",
+      "type": "add",
+      "itemId": "i_mq8qef77_id7cja",
+      "itemTitle": "PRC-linked influence operations are targeting AI debates in the US",
+      "itemUrl": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-11T00:00:23.155Z"
+    },
+    {
+      "id": "a_mq8qef77_hvbw",
+      "type": "add",
+      "itemId": "i_mq8qef77_wil2g0",
+      "itemTitle": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "itemUrl": "https://openai.com/index/openai-on-oracle-cloud",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-11T00:00:23.155Z"
+    },
+    {
+      "id": "a_mq8qef77_s8ee",
+      "type": "add",
+      "itemId": "i_mq8qef77_grwo1m",
+      "itemTitle": "How an astrophysicist uses Codex to help simulate black holes",
+      "itemUrl": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-11T00:00:23.155Z"
+    },
+    {
+      "id": "a_mq8qef77_8yp8",
+      "type": "add",
+      "itemId": "i_mq8qef77_wnth5n",
+      "itemTitle": "Anthropic requires 30 day data retention for Fable and Mythos",
+      "itemUrl": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-11T00:00:23.155Z"
+    },
+    {
+      "id": "a_mq8qef77_w9t0",
+      "type": "add",
+      "itemId": "i_mq8qef77_9q8och",
+      "itemTitle": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+      "itemUrl": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-11T00:00:23.155Z"
+    },
     {
       "id": "a_mq8htqdf_nkqk",
       "type": "add",
