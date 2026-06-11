@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mq97jnae_8nw423",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "description": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-11T00:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-11T08:00:20.390Z"
+    },
+    {
       "id": "i_mq8yz19f_cfrhhq",
       "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
       "title": "AI agent runs amok in Fedora and elsewhere",
@@ -11111,6 +11133,17 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mq97jnae_fsvg",
+      "type": "add",
+      "itemId": "i_mq97jnae_8nw423",
+      "itemTitle": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "itemUrl": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-11T08:00:20.390Z"
+    },
     {
       "id": "a_mq8yz19f_vd00",
       "type": "add",
