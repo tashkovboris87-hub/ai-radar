@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mq9g4aj7_krtb4m",
+      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+      "title": "Investing in multi-agent AI safety research",
+      "description": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+      "image": "https://lh3.googleusercontent.com/YgqOl-h3mEKPbpttnT89PtoHDKTc1-2fbhwRgDauUPtagZVWiw0lr1IGgRUDZDqb9Ib4nhaU93T0mJSE8FFbhkDRiaT53BGLnLVdpqliTP8v5kvmwu8=w528-h297-n-nu-rw-lo",
+      "domain": "deepmind.google",
+      "contentType": "article",
+      "source": "feed",
+      "category": "gemini",
+      "tags": [],
+      "addedAt": "2026-06-10T10:21:19.000Z",
+      "addedBy": "Google DeepMind",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-11T12:00:20.563Z"
+    },
+    {
+      "id": "i_mq9g4aj7_9wu1jp",
+      "url": "https://huggingface.co/blog/torch-mlp-fusion",
+      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-11T00:00:00.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-11T12:00:20.563Z"
+    },
+    {
       "id": "i_mq97jnae_8nw423",
       "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
       "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
@@ -11133,6 +11177,28 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mq9g4aj7_yq9w",
+      "type": "add",
+      "itemId": "i_mq9g4aj7_9wu1jp",
+      "itemTitle": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+      "itemUrl": "https://huggingface.co/blog/torch-mlp-fusion",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-11T12:00:20.563Z"
+    },
+    {
+      "id": "a_mq9g4aj7_02gp",
+      "type": "add",
+      "itemId": "i_mq9g4aj7_krtb4m",
+      "itemTitle": "Investing in multi-agent AI safety research",
+      "itemUrl": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+      "itemSource": "feed",
+      "category": "gemini",
+      "by": "AI Radar bot",
+      "at": "2026-06-11T12:00:20.563Z"
+    },
     {
       "id": "a_mq97jnae_fsvg",
       "type": "add",
