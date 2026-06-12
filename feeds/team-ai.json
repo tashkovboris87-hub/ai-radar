@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqa5u7vq_qveb6c",
+      "url": "https://fablepool.com",
+      "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
+      "description": "",
+      "image": "",
+      "domain": "fablepool.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-11T21:17:30.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-12T00:00:20.582Z"
+    },
+    {
+      "id": "i_mqa5u7vq_db6mvs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "description": "",
+      "image": "",
+      "domain": "theverge.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-11T12:05:02.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-12T00:00:20.582Z"
+    },
+    {
+      "id": "i_mqa5u7vq_3gdejt",
+      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
+      "title": "Claude Fable is relentlessly proactive",
+      "description": "After two days of experience with Claude Fable 5 I think the best way to describe it is relentlessly proactive. It knows a whole lot of tricks and it will deploy pretty much any of them to get to its goal. I'll illustrate this with an example. I was hacking on Datasette Agent today when I noticed a ",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-11T23:35:17.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-12T00:00:20.582Z"
+    },
+    {
       "id": "i_mq9x9jvf_0nty04",
       "url": "https://openai.com/index/openai-to-acquire-ona",
       "title": "OpenAI to acquire Ona",
@@ -11353,6 +11419,39 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mqa5u7vq_l16t",
+      "type": "add",
+      "itemId": "i_mqa5u7vq_3gdejt",
+      "itemTitle": "Claude Fable is relentlessly proactive",
+      "itemUrl": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-12T00:00:20.582Z"
+    },
+    {
+      "id": "a_mqa5u7vq_pmmm",
+      "type": "add",
+      "itemId": "i_mqa5u7vq_db6mvs",
+      "itemTitle": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "itemUrl": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-12T00:00:20.582Z"
+    },
+    {
+      "id": "a_mqa5u7vq_jrrr",
+      "type": "add",
+      "itemId": "i_mqa5u7vq_qveb6c",
+      "itemTitle": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
+      "itemUrl": "https://fablepool.com",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-12T00:00:20.582Z"
+    },
     {
       "id": "a_mq9x9jvf_s4bm",
       "type": "add",
