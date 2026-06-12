@@ -2,6 +2,138 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqbcqf7l_k99p0t",
+      "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+      "title": "How to setup a local coding agent on macOS",
+      "description": "",
+      "image": "",
+      "domain": "ikyle.me",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-12T17:34:55.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-12T20:01:06.945Z"
+    },
+    {
+      "id": "i_mqbcqf7l_f72xck",
+      "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+      "title": "Slightly reducing the sloppiness of AI generated front end",
+      "description": "",
+      "image": "",
+      "domain": "envs.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-12T14:48:38.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-12T20:01:06.945Z"
+    },
+    {
+      "id": "i_mqbcqf7l_qsm9yw",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "title": "New OpenAI Academy courses for the next era of work",
+      "description": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-12T10:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-12T20:01:06.945Z"
+    },
+    {
+      "id": "i_mqbcqf7l_hr7s18",
+      "url": "https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything",
+      "title": "Quoting Andrew Singleton",
+      "description": "Jenny owns a crematorium. John’s propane company gives her a $20 billion investment in return for 5 percent of her operation. Jenny throws $10 billion into the incinerator, then pays John $10 billion to buy propane to burn that money to ashes. John reports that his AI investments have generated $10 ",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-12T18:09:21.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-12T20:01:06.945Z"
+    },
+    {
+      "id": "i_mqbcqf7l_ydybov",
+      "url": "https://www.youtube.com/shorts/sV1B2_sFzU8",
+      "title": "So we're doing loops now",
+      "description": "Matthew Berman (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-12T18:14:58.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-12T20:01:06.945Z"
+    },
+    {
+      "id": "i_mqbcqf7l_2zt0mc",
+      "url": "https://www.youtube.com/watch?v=vahdFdoK6y4",
+      "title": "Nvidias New Mini Datacenter Pays You Every Month",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/vahdFdoK6y4/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-12T17:00:34.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-12T20:01:06.945Z"
+    },
+    {
       "id": "i_mqb45sea_vwikt8",
       "url": "https://huggingface.co/blog/allenai/olmo-eval",
       "title": "olmo-eval: An evaluation workbench for the model development loop",
@@ -11507,6 +11639,72 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mqbcqf7l_p62u",
+      "type": "add",
+      "itemId": "i_mqbcqf7l_2zt0mc",
+      "itemTitle": "Nvidias New Mini Datacenter Pays You Every Month",
+      "itemUrl": "https://www.youtube.com/watch?v=vahdFdoK6y4",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-12T20:01:06.945Z"
+    },
+    {
+      "id": "a_mqbcqf7l_eoba",
+      "type": "add",
+      "itemId": "i_mqbcqf7l_ydybov",
+      "itemTitle": "So we're doing loops now",
+      "itemUrl": "https://www.youtube.com/shorts/sV1B2_sFzU8",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-12T20:01:06.945Z"
+    },
+    {
+      "id": "a_mqbcqf7l_z0ue",
+      "type": "add",
+      "itemId": "i_mqbcqf7l_hr7s18",
+      "itemTitle": "Quoting Andrew Singleton",
+      "itemUrl": "https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-12T20:01:06.945Z"
+    },
+    {
+      "id": "a_mqbcqf7l_0b8n",
+      "type": "add",
+      "itemId": "i_mqbcqf7l_qsm9yw",
+      "itemTitle": "New OpenAI Academy courses for the next era of work",
+      "itemUrl": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-12T20:01:06.945Z"
+    },
+    {
+      "id": "a_mqbcqf7l_fqjj",
+      "type": "add",
+      "itemId": "i_mqbcqf7l_f72xck",
+      "itemTitle": "Slightly reducing the sloppiness of AI generated front end",
+      "itemUrl": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-12T20:01:06.945Z"
+    },
+    {
+      "id": "a_mqbcqf7l_u1ab",
+      "type": "add",
+      "itemId": "i_mqbcqf7l_k99p0t",
+      "itemTitle": "How to setup a local coding agent on macOS",
+      "itemUrl": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-12T20:01:06.945Z"
+    },
     {
       "id": "a_mqb45sea_mc8i",
       "type": "add",
