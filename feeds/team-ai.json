@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqavk8q1_r7szdp",
+      "url": "https://openai.com/index/preply",
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "description": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-12T00:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-12T12:00:25.129Z"
+    },
+    {
       "id": "i_mqamzh5c_qgz8i8",
       "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
       "title": "AI agent bankrupted their operator while trying to scan DN42",
@@ -11463,6 +11485,17 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mqavk8q1_ble8",
+      "type": "add",
+      "itemId": "i_mqavk8q1_r7szdp",
+      "itemTitle": "How Preply combines AI and human tutors to personalize learning",
+      "itemUrl": "https://openai.com/index/preply",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-12T12:00:25.129Z"
+    },
     {
       "id": "a_mqamzh5c_mtw8",
       "type": "add",
