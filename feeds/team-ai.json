@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqcs66b9_cohzl3",
+      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+      "description": "",
+      "image": "",
+      "domain": "wsj.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-13T16:57:49.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-13T20:01:02.325Z"
+    },
+    {
+      "id": "i_mqcs66b9_w6man6",
+      "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+      "title": "AI coding at home without going broke",
+      "description": "",
+      "image": "",
+      "domain": "stephen.bochinski.dev",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-13T16:45:03.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-13T20:01:02.325Z"
+    },
+    {
       "id": "i_mqcjlh0x_ak40g4",
       "url": "https://github.com/tensorzero/tensorzero",
       "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
@@ -11793,6 +11837,28 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mqcs66b9_wg8d",
+      "type": "add",
+      "itemId": "i_mqcs66b9_w6man6",
+      "itemTitle": "AI coding at home without going broke",
+      "itemUrl": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-13T20:01:02.325Z"
+    },
+    {
+      "id": "a_mqcs66b9_y5i8",
+      "type": "add",
+      "itemId": "i_mqcs66b9_cohzl3",
+      "itemTitle": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+      "itemUrl": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-13T20:01:02.325Z"
+    },
     {
       "id": "a_mqcjlh0x_t0r3",
       "type": "add",
