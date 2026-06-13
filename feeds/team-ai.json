@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqbla9wy_2hx73g",
+      "url": "https://www.youtube.com/watch?v=zjFE-dBzP_E",
+      "title": "You NEED to try these open-source AI projects RIGHT NOW",
+      "description": "Matthew Berman (YouTube)",
+      "image": "https://i.ytimg.com/vi/zjFE-dBzP_E/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-12T23:47:25.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-13T00:00:30.130Z"
+    },
+    {
       "id": "i_mqbcqf7l_k99p0t",
       "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
       "title": "How to setup a local coding agent on macOS",
@@ -11639,6 +11661,17 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mqbla9wy_9b39",
+      "type": "add",
+      "itemId": "i_mqbla9wy_2hx73g",
+      "itemTitle": "You NEED to try these open-source AI projects RIGHT NOW",
+      "itemUrl": "https://www.youtube.com/watch?v=zjFE-dBzP_E",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-13T00:00:30.130Z"
+    },
     {
       "id": "a_mqbcqf7l_p62u",
       "type": "add",
