@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqc2fppa_if6qce",
+      "url": "https://www.latent.space/p/ainews-fable-and-mythos-officially",
+      "title": "[AINews] Fable and Mythos officially too dangerous to release",
+      "description": "We are in the strangest timeline.",
+      "image": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-13T04:30:52.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-13T08:00:37.342Z"
+    },
+    {
       "id": "i_mqbtutz2_yx8d7a",
       "url": "https://opensourceaimustwin.com/?share=v2",
       "title": "Open source AI must win",
@@ -11749,6 +11771,17 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mqc2fppa_l35l",
+      "type": "add",
+      "itemId": "i_mqc2fppa_if6qce",
+      "itemTitle": "[AINews] Fable and Mythos officially too dangerous to release",
+      "itemUrl": "https://www.latent.space/p/ainews-fable-and-mythos-officially",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-13T08:00:37.342Z"
+    },
     {
       "id": "a_mqbtutz2_1srj",
       "type": "add",
