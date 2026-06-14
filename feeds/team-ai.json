@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqdz1c9f_tvgsi3",
+      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+      "title": "No, everyone is not using AI for everything",
+      "description": "",
+      "image": "",
+      "domain": "gabrielweinberg.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-14T14:44:29.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-14T16:01:00.243Z"
+    },
+    {
+      "id": "i_mqdz1c9f_aozsn8",
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "title": "Claude Fable Blocked - 11 Quiet Details on What’s Next",
+      "description": "AI Explained (YouTube)",
+      "image": "https://i.ytimg.com/vi/Qj71N0tBzRo/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-14T14:52:27.000Z",
+      "addedBy": "AI Explained",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-14T16:01:00.243Z"
+    },
+    {
+      "id": "i_mqdz1c9f_ryqdf1",
+      "url": "https://www.youtube.com/watch?v=zJvN8PDX1is",
+      "title": "NVIDIA's New Free AI - A Gift To All of Us",
+      "description": "Two Minute Papers (YouTube)",
+      "image": "https://i.ytimg.com/vi/zJvN8PDX1is/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-14T15:27:17.000Z",
+      "addedBy": "Two Minute Papers",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-14T16:01:00.243Z"
+    },
+    {
       "id": "i_mqd9begv_kxynk3",
       "url": "https://simonwillison.net/2026/Jun/13/luau-wasm/#atom-everything",
       "title": "luau-wasm 0.1a0",
@@ -11903,6 +11969,39 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mqdz1c9f_v9zu",
+      "type": "add",
+      "itemId": "i_mqdz1c9f_ryqdf1",
+      "itemTitle": "NVIDIA's New Free AI - A Gift To All of Us",
+      "itemUrl": "https://www.youtube.com/watch?v=zJvN8PDX1is",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-14T16:01:00.243Z"
+    },
+    {
+      "id": "a_mqdz1c9f_vhiz",
+      "type": "add",
+      "itemId": "i_mqdz1c9f_aozsn8",
+      "itemTitle": "Claude Fable Blocked - 11 Quiet Details on What’s Next",
+      "itemUrl": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-14T16:01:00.243Z"
+    },
+    {
+      "id": "a_mqdz1c9f_wt6g",
+      "type": "add",
+      "itemId": "i_mqdz1c9f_tvgsi3",
+      "itemTitle": "No, everyone is not using AI for everything",
+      "itemUrl": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-14T16:01:00.243Z"
+    },
     {
       "id": "a_mqd9begv_kbo5",
       "type": "add",
