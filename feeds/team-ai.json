@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqe7lz3w_g2v2vi",
+      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "description": "",
+      "image": "",
+      "domain": "github.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-14T15:37:31.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-14T20:00:59.900Z"
+    },
+    {
+      "id": "i_mqe7lz3w_ug9o3d",
+      "url": "https://www.youtube.com/watch?v=5g4QUlypsdQ",
+      "title": "This New 'Fusion' AI Beats Claude Fable 5 — Here's How To Use It (OpenRouter Fusion Tutorial)",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/5g4QUlypsdQ/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-14T19:22:24.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-14T20:00:59.900Z"
+    },
+    {
       "id": "i_mqdz1c9f_tvgsi3",
       "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
       "title": "No, everyone is not using AI for everything",
@@ -11969,6 +12013,28 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mqe7lz3w_9rfd",
+      "type": "add",
+      "itemId": "i_mqe7lz3w_ug9o3d",
+      "itemTitle": "This New 'Fusion' AI Beats Claude Fable 5 — Here's How To Use It (OpenRouter Fusion Tutorial)",
+      "itemUrl": "https://www.youtube.com/watch?v=5g4QUlypsdQ",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-14T20:00:59.900Z"
+    },
+    {
+      "id": "a_mqe7lz3w_sfu0",
+      "type": "add",
+      "itemId": "i_mqe7lz3w_g2v2vi",
+      "itemTitle": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "itemUrl": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-14T20:00:59.900Z"
+    },
     {
       "id": "a_mqdz1c9f_v9zu",
       "type": "add",
