@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqd0qqti_629hbb",
+      "url": "https://www.youtube.com/watch?v=xvfz3gXVYNI",
+      "title": "WTF is going on?!",
+      "description": "Matthew Berman (YouTube)",
+      "image": "https://i.ytimg.com/vi/xvfz3gXVYNI/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-13T20:21:41.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-14T00:00:58.950Z"
+    },
+    {
       "id": "i_mqcs66b9_cohzl3",
       "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
       "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
@@ -11837,6 +11859,17 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mqd0qqti_1ihm",
+      "type": "add",
+      "itemId": "i_mqd0qqti_629hbb",
+      "itemTitle": "WTF is going on?!",
+      "itemUrl": "https://www.youtube.com/watch?v=xvfz3gXVYNI",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-14T00:00:58.950Z"
+    },
     {
       "id": "a_mqcs66b9_wg8d",
       "type": "add",
