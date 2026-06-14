@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqd9begv_kxynk3",
+      "url": "https://simonwillison.net/2026/Jun/13/luau-wasm/#atom-everything",
+      "title": "luau-wasm 0.1a0",
+      "description": "Release: luau-wasm 0.1a0 See Publishing WASM wheels to PyPI for use with Pyodide for details. Tags: lua, webassembly, pyodide",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-13T23:14:30.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-14T04:00:59.647Z"
+    },
+    {
+      "id": "i_mqd9begv_zdwvuw",
+      "url": "https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything",
+      "title": "Mapping SQLite result columns back to their source `table.column`",
+      "description": "Research: Mapping SQLite result columns back to their source `table.column` It would be neat if arbitrary SQL queries in Datasette could be rendered with additional information based on which columns from which tables were included in the results. To build that, we would need to be able to look at a",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-13T23:05:00.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-14T04:00:59.647Z"
+    },
+    {
       "id": "i_mqd0qqti_629hbb",
       "url": "https://www.youtube.com/watch?v=xvfz3gXVYNI",
       "title": "WTF is going on?!",
@@ -11859,6 +11903,28 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mqd9begv_kbo5",
+      "type": "add",
+      "itemId": "i_mqd9begv_zdwvuw",
+      "itemTitle": "Mapping SQLite result columns back to their source `table.column`",
+      "itemUrl": "https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-14T04:00:59.647Z"
+    },
+    {
+      "id": "a_mqd9begv_rmkp",
+      "type": "add",
+      "itemId": "i_mqd9begv_kxynk3",
+      "itemTitle": "luau-wasm 0.1a0",
+      "itemUrl": "https://simonwillison.net/2026/Jun/13/luau-wasm/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-14T04:00:59.647Z"
+    },
     {
       "id": "a_mqd0qqti_1ihm",
       "type": "add",
