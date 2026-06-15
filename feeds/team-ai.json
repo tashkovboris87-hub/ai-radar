@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqeg6mri_rww4p5",
+      "url": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
+      "title": "Did Anthropic ask for this?",
+      "description": "",
+      "image": "",
+      "domain": "verysane.ai",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-14T22:23:05.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-15T00:01:00.606Z"
+    },
+    {
+      "id": "i_mqeg6mri_qfd4qh",
+      "url": "https://www.youtube.com/watch?v=i9Bq076wZj8",
+      "title": "AI Prices Are About to Shock Everyone",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/i9Bq076wZj8/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-14T23:00:37.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-15T00:01:00.606Z"
+    },
+    {
       "id": "i_mqe7lz3w_g2v2vi",
       "url": "https://github.com/nex-agi/Nex-N2/issues/4",
       "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
@@ -12013,6 +12057,28 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mqeg6mri_mcr6",
+      "type": "add",
+      "itemId": "i_mqeg6mri_qfd4qh",
+      "itemTitle": "AI Prices Are About to Shock Everyone",
+      "itemUrl": "https://www.youtube.com/watch?v=i9Bq076wZj8",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-15T00:01:00.606Z"
+    },
+    {
+      "id": "a_mqeg6mri_qxzm",
+      "type": "add",
+      "itemId": "i_mqeg6mri_rww4p5",
+      "itemTitle": "Did Anthropic ask for this?",
+      "itemUrl": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-15T00:01:00.606Z"
+    },
     {
       "id": "a_mqe7lz3w_9rfd",
       "type": "add",
