@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqeorblv_rs2z3x",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "title": "Introducing the OpenAI Partner Network",
+      "description": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-14T17:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-15T04:01:02.851Z"
+    },
+    {
+      "id": "i_mqeorblv_d7uao5",
+      "url": "https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything",
+      "title": "Quoting Julia Evans",
+      "description": "[...] Instead, I picture a specific person and I just write for them. Often this person is \"me, but 3 years ago\" or a good friend. &mdash; Julia Evans, write for 1 person Tags: writing, julia-evans",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-15T02:05:19.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-15T04:01:02.851Z"
+    },
+    {
       "id": "i_mqeg6mri_rww4p5",
       "url": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
       "title": "Did Anthropic ask for this?",
@@ -12057,6 +12101,28 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mqeorblv_fdjr",
+      "type": "add",
+      "itemId": "i_mqeorblv_d7uao5",
+      "itemTitle": "Quoting Julia Evans",
+      "itemUrl": "https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-15T04:01:02.851Z"
+    },
+    {
+      "id": "a_mqeorblv_m0fy",
+      "type": "add",
+      "itemId": "i_mqeorblv_rs2z3x",
+      "itemTitle": "Introducing the OpenAI Partner Network",
+      "itemUrl": "https://openai.com/index/introducing-openai-partner-network",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-15T04:01:02.851Z"
+    },
     {
       "id": "a_mqeg6mri_mcr6",
       "type": "add",
