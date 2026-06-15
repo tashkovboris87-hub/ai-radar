@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqfn1w8v_a62qon",
+      "url": "https://rsgm.dev/post/ai-dev-platform/",
+      "title": "My Homelab AI Dev Platform",
+      "description": "",
+      "image": "",
+      "domain": "rsgm.dev",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-15T15:09:40.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-15T20:01:03.103Z"
+    },
+    {
+      "id": "i_mqfn1w8v_dovdwh",
+      "url": "https://www.youtube.com/shorts/W53XPj4tAyE",
+      "title": "Mythos BANNED (explained)",
+      "description": "Matthew Berman (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-15T18:25:41.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-15T20:01:03.103Z"
+    },
+    {
+      "id": "i_mqfn1w8v_kggj9f",
+      "url": "https://www.youtube.com/watch?v=ey_GaPdC9zk",
+      "title": "One man just liberated Fable... and now it’s illegal",
+      "description": "Fireship (YouTube)",
+      "image": "https://i.ytimg.com/vi/ey_GaPdC9zk/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-15T18:35:58.000Z",
+      "addedBy": "Fireship",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-15T20:01:03.103Z"
+    },
+    {
       "id": "i_mqf5wmrz_opd7ga",
       "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
       "title": "Anthropic's Safety Superpower",
@@ -12145,6 +12211,39 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mqfn1w8v_znej",
+      "type": "add",
+      "itemId": "i_mqfn1w8v_kggj9f",
+      "itemTitle": "One man just liberated Fable... and now it’s illegal",
+      "itemUrl": "https://www.youtube.com/watch?v=ey_GaPdC9zk",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-15T20:01:03.103Z"
+    },
+    {
+      "id": "a_mqfn1w8v_m32p",
+      "type": "add",
+      "itemId": "i_mqfn1w8v_dovdwh",
+      "itemTitle": "Mythos BANNED (explained)",
+      "itemUrl": "https://www.youtube.com/shorts/W53XPj4tAyE",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-15T20:01:03.103Z"
+    },
+    {
+      "id": "a_mqfn1w8v_qomo",
+      "type": "add",
+      "itemId": "i_mqfn1w8v_a62qon",
+      "itemTitle": "My Homelab AI Dev Platform",
+      "itemUrl": "https://rsgm.dev/post/ai-dev-platform/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-15T20:01:03.103Z"
+    },
     {
       "id": "a_mqf5wmrz_lzb5",
       "type": "add",
