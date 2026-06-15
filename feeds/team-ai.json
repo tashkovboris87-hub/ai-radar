@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqf5wmrz_opd7ga",
+      "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
+      "title": "Anthropic's Safety Superpower",
+      "description": "",
+      "image": "",
+      "domain": "stratechery.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-15T10:06:35.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-15T12:01:04.079Z"
+    },
+    {
+      "id": "i_mqf5wmrz_no61kr",
+      "url": "https://importai.substack.com/p/import-ai-461-alignment-is-not-on",
+      "title": "Import AI 461: \"Alignment is not on track\"; FrontierCode; and synthetic research interns",
+      "description": "Where are your agents right now?",
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "domain": "importai.substack.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-15T11:30:53.000Z",
+      "addedBy": "Import AI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-15T12:01:04.079Z"
+    },
+    {
       "id": "i_mqeorblv_rs2z3x",
       "url": "https://openai.com/index/introducing-openai-partner-network",
       "title": "Introducing the OpenAI Partner Network",
@@ -12101,6 +12145,28 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mqf5wmrz_lzb5",
+      "type": "add",
+      "itemId": "i_mqf5wmrz_no61kr",
+      "itemTitle": "Import AI 461: \"Alignment is not on track\"; FrontierCode; and synthetic research interns",
+      "itemUrl": "https://importai.substack.com/p/import-ai-461-alignment-is-not-on",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-15T12:01:04.079Z"
+    },
+    {
+      "id": "a_mqf5wmrz_7d55",
+      "type": "add",
+      "itemId": "i_mqf5wmrz_opd7ga",
+      "itemTitle": "Anthropic's Safety Superpower",
+      "itemUrl": "https://stratechery.com/2026/anthropics-safety-superpower/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-15T12:01:04.079Z"
+    },
     {
       "id": "a_mqeorblv_fdjr",
       "type": "add",
