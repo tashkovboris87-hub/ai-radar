@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqfvmk28_fe8qee",
+      "url": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
+      "title": "datasette-agent 0.3a0",
+      "description": "Release: datasette-agent 0.3a0 New tool, execute_write_sql, which requests user approval and then writes to a database - taking user permissions into account. #27 I added a mechanism for asking user approval in datasette agent 0.2a0. The new execute_write_sql tool can now prompt the user for all kin",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-15T17:19:27.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-16T00:01:04.016Z"
+    },
+    {
       "id": "i_mqfn1w8v_a62qon",
       "url": "https://rsgm.dev/post/ai-dev-platform/",
       "title": "My Homelab AI Dev Platform",
@@ -12211,6 +12233,17 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mqfvmk28_lp4i",
+      "type": "add",
+      "itemId": "i_mqfvmk28_fe8qee",
+      "itemTitle": "datasette-agent 0.3a0",
+      "itemUrl": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-16T00:01:04.016Z"
+    },
     {
       "id": "a_mqfn1w8v_znej",
       "type": "add",
