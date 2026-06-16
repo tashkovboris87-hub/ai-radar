@@ -2,6 +2,138 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqh2hqde_qtudjq",
+      "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+      "title": "SpaceX to buy Cursor for $60B",
+      "description": "",
+      "image": "",
+      "domain": "reuters.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-16T10:44:24.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-16T20:01:02.402Z"
+    },
+    {
+      "id": "i_mqh2hqde_z52feu",
+      "url": "https://status.claude.com/incidents/xmhsglsz3h3w",
+      "title": "Claude: Elevated errors across many models",
+      "description": "",
+      "image": "",
+      "domain": "status.claude.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-16T17:30:30.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-16T20:01:02.402Z"
+    },
+    {
+      "id": "i_mqh2hqde_t9dz22",
+      "url": "https://openai.com/index/deployment-simulation",
+      "title": "Predicting model behavior before release by simulating deployment",
+      "description": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-16T00:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-16T20:01:02.402Z"
+    },
+    {
+      "id": "i_mqh2hqde_zhecs3",
+      "url": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
+      "title": "Quoting Georgi Gerganov",
+      "description": "I can 100% attest to the fact that Qwen3.6-27B is a very capable local model for coding tasks. Over the last month and a half I've been using it almost daily, either on my M2 Ultra or on my RTX 5090 box. I use it for small mundane tasks at ggml-org - nothing really impressive, but definitely a helpf",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-16T16:04:59.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-16T20:01:02.402Z"
+    },
+    {
+      "id": "i_mqh2hqde_yosgr3",
+      "url": "https://www.youtube.com/shorts/byr-_swPgsE",
+      "title": "Fable 5 is GONE",
+      "description": "Matthew Berman (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-16T19:48:21.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-16T20:01:02.402Z"
+    },
+    {
+      "id": "i_mqh2hqde_x2gf3x",
+      "url": "https://www.youtube.com/watch?v=l72ufA-4SzE",
+      "title": "They Looked Inside Claude’s AI's Mind. It Got Weird",
+      "description": "Two Minute Papers (YouTube)",
+      "image": "https://i.ytimg.com/vi/l72ufA-4SzE/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-16T15:53:17.000Z",
+      "addedBy": "Two Minute Papers",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-16T20:01:02.402Z"
+    },
+    {
       "id": "i_mqgcrsw4_fz2tpj",
       "url": "https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything",
       "title": "The Fable 5 Export Controls Harm US Cyber Defense",
@@ -12344,6 +12476,72 @@
   ],
   "activity": [
     {
+      "id": "a_mqh2hqde_5y53",
+      "type": "add",
+      "itemId": "i_mqh2hqde_x2gf3x",
+      "itemTitle": "They Looked Inside Claude’s AI's Mind. It Got Weird",
+      "itemUrl": "https://www.youtube.com/watch?v=l72ufA-4SzE",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-16T20:01:02.402Z"
+    },
+    {
+      "id": "a_mqh2hqde_cdpo",
+      "type": "add",
+      "itemId": "i_mqh2hqde_yosgr3",
+      "itemTitle": "Fable 5 is GONE",
+      "itemUrl": "https://www.youtube.com/shorts/byr-_swPgsE",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-16T20:01:02.402Z"
+    },
+    {
+      "id": "a_mqh2hqde_316v",
+      "type": "add",
+      "itemId": "i_mqh2hqde_zhecs3",
+      "itemTitle": "Quoting Georgi Gerganov",
+      "itemUrl": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-16T20:01:02.402Z"
+    },
+    {
+      "id": "a_mqh2hqde_gpcq",
+      "type": "add",
+      "itemId": "i_mqh2hqde_t9dz22",
+      "itemTitle": "Predicting model behavior before release by simulating deployment",
+      "itemUrl": "https://openai.com/index/deployment-simulation",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-16T20:01:02.402Z"
+    },
+    {
+      "id": "a_mqh2hqde_l9hr",
+      "type": "add",
+      "itemId": "i_mqh2hqde_z52feu",
+      "itemTitle": "Claude: Elevated errors across many models",
+      "itemUrl": "https://status.claude.com/incidents/xmhsglsz3h3w",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-16T20:01:02.402Z"
+    },
+    {
+      "id": "a_mqh2hqde_19wm",
+      "type": "add",
+      "itemId": "i_mqh2hqde_qtudjq",
+      "itemTitle": "SpaceX to buy Cursor for $60B",
+      "itemUrl": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-16T20:01:02.402Z"
+    },
+    {
       "id": "a_mqgcrsw4_bnea",
       "type": "add",
       "itemId": "i_mqgcrsw4_fz2tpj",
@@ -17774,49 +17972,6 @@
       "itemSource": "feed",
       "by": "Boris",
       "at": "2026-04-29T06:14:34.876Z"
-    },
-    {
-      "id": "a_mojnts66_gk3o",
-      "type": "delete",
-      "itemId": "i_mojh0idr_1cstvj",
-      "itemTitle": "Elon Musk appeared more petty than prepared",
-      "itemUrl": "https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one",
-      "itemSource": "feed",
-      "by": "Boris",
-      "at": "2026-04-29T06:14:24.222Z"
-    },
-    {
-      "id": "a_mojnjk8q_j7oq",
-      "type": "add",
-      "itemId": "i_mojnjk8q_ielpq0",
-      "itemTitle": "Chatgpt always giving long answers for simple questions.",
-      "itemUrl": "https://i.redd.it/cfwmea1b00yg1.jpeg",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-04-29T06:06:27.386Z"
-    },
-    {
-      "id": "a_mojnjk8q_pryw",
-      "type": "add",
-      "itemId": "i_mojnjk8q_8wejxq",
-      "itemTitle": "Built a business this weekend. I'm scared.",
-      "itemUrl": "https://www.reddit.com/r/ClaudeAI/comments/1sy31hr/built_a_business_this_weekend_im_scared/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-04-29T06:06:27.386Z"
-    },
-    {
-      "id": "a_mojnjk8q_qh11",
-      "type": "add",
-      "itemId": "i_mojnjk8q_ujv3gl",
-      "itemTitle": "Xiami mimo-v2.5 pro MIT license surpasses Opus 4.5 on arena",
-      "itemUrl": "https://www.reddit.com/r/LocalLLaMA/comments/1sylydi/xiami_mimov25_pro_mit_license_surpasses_opus_45/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-04-29T06:06:27.386Z"
     }
   ],
   "filterConfig": {
