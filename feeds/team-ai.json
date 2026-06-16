@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqgcrsw4_fz2tpj",
+      "url": "https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything",
+      "title": "The Fable 5 Export Controls Harm US Cyber Defense",
+      "description": "The Fable 5 Export Controls Harm US Cyber Defense I quoted The Atlantic quoting Kate Moussouris earlier, when I should have gone straight to the source. Here she is confirming that the \"jailbreak\" that got Claude Fable 5 banned under an export control really was \"fix this code\": The researchers took",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-16T05:20:29.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-16T08:01:02.212Z"
+    },
+    {
       "id": "i_mqg475a8_bx7sq7",
       "url": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch",
       "title": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
@@ -12321,6 +12343,17 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mqgcrsw4_bnea",
+      "type": "add",
+      "itemId": "i_mqgcrsw4_fz2tpj",
+      "itemTitle": "The Fable 5 Export Controls Harm US Cyber Defense",
+      "itemUrl": "https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-16T08:01:02.212Z"
+    },
     {
       "id": "a_mqg475a8_lj0e",
       "type": "add",
