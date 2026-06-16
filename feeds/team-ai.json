@@ -2,6 +2,94 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqg475a8_bx7sq7",
+      "url": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch",
+      "title": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
+      "description": "",
+      "image": "",
+      "domain": "runtimewire.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-16T02:47:57.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-16T04:01:01.568Z"
+    },
+    {
+      "id": "i_mqg475a8_3yglqv",
+      "url": "https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything",
+      "title": "Quoting Matteo Wong, The Atlantic",
+      "description": "Katie Moussouris, a cybersecurity expert and the CEO of Luta Security, told me that Anthropic shared with her a copy of the White House’s report on the Fable jailbreak to get her appraisal. (She said that she is not being paid by Anthropic.) The report, Moussouris said, involved IT experts asking Fa",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-16T03:07:54.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-16T04:01:01.568Z"
+    },
+    {
+      "id": "i_mqg475a8_jwc54n",
+      "url": "https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything",
+      "title": "Cloudflare CAPTCHA on at least one ampersand",
+      "description": "TIL: Cloudflare CAPTCHA on at least one ampersand I'm using Cloudflare's CAPTCHA (they call it a \"Web Application Firewall > Custom rules > Managed Challenge\" these days) to prevent crawlers from aggresively spidering my faceted search engine on this site, but I got fed up of even simple ?q=term sea",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-16T00:21:36.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-16T04:01:01.568Z"
+    },
+    {
+      "id": "i_mqg475a8_eui932",
+      "url": "https://www.latent.space/p/ainews-satya-on-loopcraft-building",
+      "title": "[AINews] Satya on Loopcraft: Building Frontier Ecosystems",
+      "description": "a quiet day lets us report on Satya's hit essay",
+      "image": "https://substackcdn.com/image/fetch/$s_!HKwp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf76265a-b9d4-4100-acf7-e262e9f15460_908x1210.png",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-16T02:29:29.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-16T04:01:01.568Z"
+    },
+    {
       "id": "i_mqfvmk28_fe8qee",
       "url": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
       "title": "datasette-agent 0.3a0",
@@ -12233,6 +12321,50 @@
     }
   ],
   "activity": [
+    {
+      "id": "a_mqg475a8_lj0e",
+      "type": "add",
+      "itemId": "i_mqg475a8_eui932",
+      "itemTitle": "[AINews] Satya on Loopcraft: Building Frontier Ecosystems",
+      "itemUrl": "https://www.latent.space/p/ainews-satya-on-loopcraft-building",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-16T04:01:01.568Z"
+    },
+    {
+      "id": "a_mqg475a8_hc0y",
+      "type": "add",
+      "itemId": "i_mqg475a8_jwc54n",
+      "itemTitle": "Cloudflare CAPTCHA on at least one ampersand",
+      "itemUrl": "https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-16T04:01:01.568Z"
+    },
+    {
+      "id": "a_mqg475a8_a2pi",
+      "type": "add",
+      "itemId": "i_mqg475a8_3yglqv",
+      "itemTitle": "Quoting Matteo Wong, The Atlantic",
+      "itemUrl": "https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-16T04:01:01.568Z"
+    },
+    {
+      "id": "a_mqg475a8_2u6f",
+      "type": "add",
+      "itemId": "i_mqg475a8_bx7sq7",
+      "itemTitle": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
+      "itemUrl": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-16T04:01:01.568Z"
+    },
     {
       "id": "a_mqfvmk28_lp4i",
       "type": "add",
