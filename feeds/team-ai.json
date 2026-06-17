@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqhjmz5z_knzv2r",
+      "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+      "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+      "description": "",
+      "image": "",
+      "domain": "writings.stephenwolfram.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-16T23:15:44.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-17T04:01:00.551Z"
+    },
+    {
+      "id": "i_mqhjmz5z_8brds7",
+      "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+      "title": "Has AI already killed self-help nonfiction books?",
+      "description": "",
+      "image": "",
+      "domain": "tim.blog",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-16T17:11:05.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-17T04:01:00.551Z"
+    },
+    {
       "id": "i_mqhb2co1_5c1v3s",
       "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
       "title": "GPT‑NL: a sovereign language model for the Netherlands",
@@ -12542,6 +12586,28 @@
   ],
   "activity": [
     {
+      "id": "a_mqhjmz5z_9iij",
+      "type": "add",
+      "itemId": "i_mqhjmz5z_8brds7",
+      "itemTitle": "Has AI already killed self-help nonfiction books?",
+      "itemUrl": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-17T04:01:00.551Z"
+    },
+    {
+      "id": "a_mqhjmz5z_jk2n",
+      "type": "add",
+      "itemId": "i_mqhjmz5z_knzv2r",
+      "itemTitle": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+      "itemUrl": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-17T04:01:00.551Z"
+    },
+    {
       "id": "a_mqhb2co1_qp9q",
       "type": "add",
       "itemId": "i_mqhb2co1_hqso9b",
@@ -18019,28 +18085,6 @@
       "at": "2026-04-29T06:19:30.815Z",
       "oldCategory": "claude",
       "newCategory": null
-    },
-    {
-      "id": "a_mojo09u2_z7x5",
-      "type": "categorize",
-      "itemId": "i_mojh0idr_cr55iv",
-      "itemTitle": "Claude Status Update : Claude.ai unavailable on 2026-04-28T17:41:55.000Z",
-      "itemUrl": "https://www.reddit.com/r/ClaudeAI/comments/1sy8k22/claude_status_update_claudeai_unavailable_on/",
-      "itemSource": "feed",
-      "by": "Boris",
-      "at": "2026-04-29T06:19:27.050Z",
-      "oldCategory": "claude",
-      "newCategory": null
-    },
-    {
-      "id": "a_mojnu9qp_xpe7",
-      "type": "delete",
-      "itemId": "i_mojh0idr_ca0kgu",
-      "itemTitle": "Elon Musk takes the stand in high-profile trial against OpenAI",
-      "itemUrl": "https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman",
-      "itemSource": "feed",
-      "by": "Boris",
-      "at": "2026-04-29T06:14:46.993Z"
     }
   ],
   "filterConfig": {
