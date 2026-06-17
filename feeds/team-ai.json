@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqhb2co1_5c1v3s",
+      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+      "title": "GPT‑NL: a sovereign language model for the Netherlands",
+      "description": "",
+      "image": "",
+      "domain": "tno.nl",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-16T17:54:02.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-17T00:01:01.345Z"
+    },
+    {
+      "id": "i_mqhb2co1_7b2cl6",
+      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "description": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+      "image": "https://lh3.googleusercontent.com/kc7RMwXGDfJAoCsgs6pUuONGMXePGbvF_q_i8i-bWBBakQ91O8VYPk8cyHfpOD1uF-lw8Mk6pd2JpXofi5n4qNoNziPol46lBMmZuxoG9NKl16CW=w528-h297-n-nu-rw-lo",
+      "domain": "deepmind.google",
+      "contentType": "article",
+      "source": "feed",
+      "category": "gemini",
+      "tags": [],
+      "addedAt": "2026-06-16T21:29:50.000Z",
+      "addedBy": "Google DeepMind",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-17T00:01:01.345Z"
+    },
+    {
+      "id": "i_mqhb2co1_hqso9b",
+      "url": "https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything",
+      "title": "datasette-tailscale 0.1a0",
+      "description": "Release: datasette-tailscale 0.1a0 A very experimental alpha plugin which lets you do this: datasette tailscale mydata.db \\ --ts-authkey tskey-auth-xxxx --ts-hostname datasette-preview This starts a localhost Datasette server with a Tailscale sidecar that connects it to your Tailnet, such that http:",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-16T16:18:20.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-17T00:01:01.345Z"
+    },
+    {
       "id": "i_mqh2hqde_qtudjq",
       "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
       "title": "SpaceX to buy Cursor for $60B",
@@ -12476,6 +12542,39 @@
   ],
   "activity": [
     {
+      "id": "a_mqhb2co1_qp9q",
+      "type": "add",
+      "itemId": "i_mqhb2co1_hqso9b",
+      "itemTitle": "datasette-tailscale 0.1a0",
+      "itemUrl": "https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-17T00:01:01.345Z"
+    },
+    {
+      "id": "a_mqhb2co1_cqm1",
+      "type": "add",
+      "itemId": "i_mqhb2co1_7b2cl6",
+      "itemTitle": "Unlocking UK house-building with AI-accelerated planning",
+      "itemUrl": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "itemSource": "feed",
+      "category": "gemini",
+      "by": "AI Radar bot",
+      "at": "2026-06-17T00:01:01.345Z"
+    },
+    {
+      "id": "a_mqhb2co1_lp4o",
+      "type": "add",
+      "itemId": "i_mqhb2co1_5c1v3s",
+      "itemTitle": "GPT‑NL: a sovereign language model for the Netherlands",
+      "itemUrl": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-17T00:01:01.345Z"
+    },
+    {
       "id": "a_mqh2hqde_5y53",
       "type": "add",
       "itemId": "i_mqh2hqde_x2gf3x",
@@ -17942,36 +18041,6 @@
       "itemSource": "feed",
       "by": "Boris",
       "at": "2026-04-29T06:14:46.993Z"
-    },
-    {
-      "id": "a_mojnu7t7_sxqm",
-      "type": "delete",
-      "itemId": "i_mojh0idr_n9ssms",
-      "itemTitle": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "itemUrl": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "itemSource": "feed",
-      "by": "Boris",
-      "at": "2026-04-29T06:14:44.491Z"
-    },
-    {
-      "id": "a_mojnu348_7zoo",
-      "type": "delete",
-      "itemId": "i_mojh0idr_ywrusi",
-      "itemTitle": "Taylor Swift is stepping up the legal war on AI copycats",
-      "itemUrl": "https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats",
-      "itemSource": "feed",
-      "by": "Boris",
-      "at": "2026-04-29T06:14:38.408Z"
-    },
-    {
-      "id": "a_mojnu0e4_o1jh",
-      "type": "delete",
-      "itemId": "i_mojh0idr_cawfst",
-      "itemTitle": "Elon Musk tells the jury that all he wants to do is save humanity",
-      "itemUrl": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity",
-      "itemSource": "feed",
-      "by": "Boris",
-      "at": "2026-04-29T06:14:34.876Z"
     }
   ],
   "filterConfig": {
