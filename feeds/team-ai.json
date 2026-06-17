@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqhs7nou_dpwjk6",
+      "url": "https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything",
+      "title": "<click-to-play> — a still that plays",
+      "description": "Tool: — a still that plays A progressive enchantment Web Component that turns this markup: Into a still frame with a click to play button which loads the GIF on demand. For when you don't want big GIFs to be loaded unless people want to play them. Here's an example that demonstrates the new row edit",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-17T03:56:10.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-17T08:01:02.382Z"
+    },
+    {
+      "id": "i_mqhs7nou_eev5g3",
+      "url": "https://simonwillison.net/2026/Jun/16/datasette/#atom-everything",
+      "title": "datasette 1.0a34",
+      "description": "Release: datasette 1.0a34 Quoting the release notes: The big feature in this alpha is tools to insert, edit and delete rows within the Datasette interface. These features are available on table pages, and edit and delete are also available as action items on the row page. The inspiration for this fe",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-16T21:31:24.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-17T08:01:02.382Z"
+    },
+    {
+      "id": "i_mqhs7nou_0tf0gy",
+      "url": "https://www.latent.space/p/ainews-glm-52-the-top-frontend-coding",
+      "title": "[AINews] GLM-5.2: the top Frontend Coding model in the world, IndexShare for Speculative Decoding",
+      "description": "We have a new top open model in the world!",
+      "image": "https://substackcdn.com/image/fetch/$s_!tOcj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c75ad4c-83e2-4317-8cf0-276d3cab6e59_1226x1830.png",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-17T05:37:40.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-17T08:01:02.382Z"
+    },
+    {
       "id": "i_mqhjmz5z_knzv2r",
       "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
       "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
@@ -12586,6 +12652,39 @@
   ],
   "activity": [
     {
+      "id": "a_mqhs7nou_4jzm",
+      "type": "add",
+      "itemId": "i_mqhs7nou_0tf0gy",
+      "itemTitle": "[AINews] GLM-5.2: the top Frontend Coding model in the world, IndexShare for Speculative Decoding",
+      "itemUrl": "https://www.latent.space/p/ainews-glm-52-the-top-frontend-coding",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-17T08:01:02.382Z"
+    },
+    {
+      "id": "a_mqhs7nou_cdm5",
+      "type": "add",
+      "itemId": "i_mqhs7nou_eev5g3",
+      "itemTitle": "datasette 1.0a34",
+      "itemUrl": "https://simonwillison.net/2026/Jun/16/datasette/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-17T08:01:02.382Z"
+    },
+    {
+      "id": "a_mqhs7nou_ngqy",
+      "type": "add",
+      "itemId": "i_mqhs7nou_dpwjk6",
+      "itemTitle": "<click-to-play> — a still that plays",
+      "itemUrl": "https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-17T08:01:02.382Z"
+    },
+    {
       "id": "a_mqhjmz5z_9iij",
       "type": "add",
       "itemId": "i_mqhjmz5z_8brds7",
@@ -18047,42 +18146,6 @@
       "itemSource": "feed",
       "by": "Boris",
       "at": "2026-04-29T06:19:47.280Z",
-      "oldCategory": "claude",
-      "newCategory": null
-    },
-    {
-      "id": "a_mojo0lp8_foyw",
-      "type": "categorize",
-      "itemId": "i_mojh0idr_lbejie",
-      "itemTitle": "Claude has made me excited to work",
-      "itemUrl": "https://www.reddit.com/r/ClaudeAI/comments/1sy1hyb/claude_has_made_me_excited_to_work/",
-      "itemSource": "feed",
-      "by": "Boris",
-      "at": "2026-04-29T06:19:42.428Z",
-      "oldCategory": "claude",
-      "newCategory": null
-    },
-    {
-      "id": "a_mojo0ge3_qnx2",
-      "type": "categorize",
-      "itemId": "i_mojh0idr_dn3sqr",
-      "itemTitle": "Claude now connects to Blender",
-      "itemUrl": "https://youtu.be/LZMWsZbZU5w",
-      "itemSource": "feed",
-      "by": "Boris",
-      "at": "2026-04-29T06:19:35.547Z",
-      "oldCategory": "claude",
-      "newCategory": null
-    },
-    {
-      "id": "a_mojo0cqn_azak",
-      "type": "categorize",
-      "itemId": "i_mojh0idr_zny9sa",
-      "itemTitle": "Talkie: a 13B LLM trained only on pre-1931 text used Claude Sonnet to help test the model and judge its output",
-      "itemUrl": "https://www.reddit.com/r/ClaudeAI/comments/1sy7rry/talkie_a_13b_llm_trained_only_on_pre1931_text/",
-      "itemSource": "feed",
-      "by": "Boris",
-      "at": "2026-04-29T06:19:30.815Z",
       "oldCategory": "claude",
       "newCategory": null
     }
