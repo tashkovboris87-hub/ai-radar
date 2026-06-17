@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqi9cyul_r7a0c6",
+      "url": "https://wpvip.com/future-of-the-web-2026/",
+      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+      "description": "",
+      "image": "",
+      "domain": "wpvip.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-17T12:11:27.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-17T16:01:03.597Z"
+    },
+    {
+      "id": "i_mqi9cyul_60xali",
+      "url": "https://huggingface.co/blog/allenai/molmomotion",
+      "title": "MolmoMotion: Language-guided 3D motion forecasting",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-17T15:26:44.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-17T16:01:03.597Z"
+    },
+    {
       "id": "i_mqi0sbuo_73043o",
       "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
       "title": "GLM-5.2: Built for Long-Horizon Tasks",
@@ -12674,6 +12718,28 @@
   ],
   "activity": [
     {
+      "id": "a_mqi9cyul_6moj",
+      "type": "add",
+      "itemId": "i_mqi9cyul_60xali",
+      "itemTitle": "MolmoMotion: Language-guided 3D motion forecasting",
+      "itemUrl": "https://huggingface.co/blog/allenai/molmomotion",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-17T16:01:03.597Z"
+    },
+    {
+      "id": "a_mqi9cyul_wux7",
+      "type": "add",
+      "itemId": "i_mqi9cyul_r7a0c6",
+      "itemTitle": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+      "itemUrl": "https://wpvip.com/future-of-the-web-2026/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-17T16:01:03.597Z"
+    },
+    {
       "id": "a_mqi0sbuo_ldtu",
       "type": "add",
       "itemId": "i_mqi0sbuo_73043o",
@@ -18147,28 +18213,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-04-29T14:32:59.210Z"
-    },
-    {
-      "id": "a_mojo0vg3_c0x5",
-      "type": "categorize",
-      "itemId": "i_mojh0idr_eusikg",
-      "itemTitle": "Claude system prompt bug wastes user money and bricks managed agents",
-      "itemUrl": "https://github.com/anthropics/claude-code/issues/49363",
-      "itemSource": "feed",
-      "by": "Boris",
-      "at": "2026-04-29T06:19:55.059Z",
-      "oldCategory": "claude",
-      "newCategory": null
-    },
-    {
-      "id": "a_mojo0sz4_3dl5",
-      "type": "delete",
-      "itemId": "i_mojh0idr_ntc5ui",
-      "itemTitle": "Opus 4.7 is just 4.6 with a stick up its butt. Give me my tokens back!",
-      "itemUrl": "https://www.reddit.com/r/ClaudeAI/comments/1syipwf/opus_47_is_just_46_with_a_stick_up_its_butt_give/",
-      "itemSource": "feed",
-      "by": "Boris",
-      "at": "2026-04-29T06:19:51.856Z"
     }
   ],
   "filterConfig": {
