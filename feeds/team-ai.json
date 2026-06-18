@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqiqi73k_k6jljv",
+      "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+      "description": "",
+      "image": "",
+      "domain": "arstechnica.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-17T21:31:35.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-18T00:01:01.040Z"
+    },
+    {
+      "id": "i_mqiqi73k_ld3eek",
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "title": "Introducing LifeSciBench",
+      "description": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-17T00:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-18T00:01:01.040Z"
+    },
+    {
       "id": "i_mqihxkkh_n56ap8",
       "url": "https://github.com/Adam-CAD/CADAM",
       "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
@@ -12872,6 +12916,28 @@
   ],
   "activity": [
     {
+      "id": "a_mqiqi73k_7ri9",
+      "type": "add",
+      "itemId": "i_mqiqi73k_ld3eek",
+      "itemTitle": "Introducing LifeSciBench",
+      "itemUrl": "https://openai.com/index/introducing-life-sci-bench",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-18T00:01:01.040Z"
+    },
+    {
+      "id": "a_mqiqi73k_tsge",
+      "type": "add",
+      "itemId": "i_mqiqi73k_k6jljv",
+      "itemTitle": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+      "itemUrl": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-18T00:01:01.040Z"
+    },
+    {
       "id": "a_mqihxkkh_zkag",
       "type": "add",
       "itemId": "i_mqihxkkh_r6baef",
@@ -18341,28 +18407,6 @@
       "itemId": "i_mok5myq2_1pcw8q",
       "itemTitle": "GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
       "itemUrl": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-04-29T14:32:59.210Z"
-    },
-    {
-      "id": "a_mok5myq2_oogi",
-      "type": "add",
-      "itemId": "i_mok5myq2_p0krv9",
-      "itemTitle": "Cybersecurity in the Intelligence Age",
-      "itemUrl": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-04-29T14:32:59.210Z"
-    },
-    {
-      "id": "a_mok5myq2_zk9f",
-      "type": "add",
-      "itemId": "i_mok5myq2_7z46db",
-      "itemTitle": "Instructions for Gemini is useless?",
-      "itemUrl": "https://www.reddit.com/gallery/1syjc2m",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
