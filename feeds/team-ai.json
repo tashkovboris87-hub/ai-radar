@@ -2,6 +2,94 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqjosswz_hv9dy8",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "description": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-18T08:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-18T16:01:02.819Z"
+    },
+    {
+      "id": "i_mqjosswz_sx5pl7",
+      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "title": "Securing the future of AI agents",
+      "description": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+      "image": "https://lh3.googleusercontent.com/X6w_t9eA7TLFiq3JMp1kXlon25qi9N6O0AxPyp7j0qOIu8oz-QDsaOP-oKz7FIuqlA3W1evDbeLYssDJM_fjkqeyscPO_fHJd0xeD0IoDlHkiUQW1w=w528-h297-n-nu-rw-lo",
+      "domain": "deepmind.google",
+      "contentType": "article",
+      "source": "feed",
+      "category": "gemini",
+      "tags": [],
+      "addedAt": "2026-06-16T15:46:31.000Z",
+      "addedBy": "Google DeepMind",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-18T16:01:02.819Z"
+    },
+    {
+      "id": "i_mqjosswz_tljf13",
+      "url": "https://huggingface.co/blog/peft-beyond-lora",
+      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-18T00:00:00.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-18T16:01:02.819Z"
+    },
+    {
+      "id": "i_mqjosswz_jda5pa",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-18T00:00:00.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-18T16:01:02.819Z"
+    },
+    {
       "id": "i_mqj7nhs9_3ytsm4",
       "url": "https://www.latent.space/p/ainews-midjourney-medical-scan-your",
       "title": "[AINews] Midjourney Medical: scan your organs like you step on a scale",
@@ -12960,6 +13048,50 @@
   ],
   "activity": [
     {
+      "id": "a_mqjosswz_j53n",
+      "type": "add",
+      "itemId": "i_mqjosswz_jda5pa",
+      "itemTitle": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "itemUrl": "https://huggingface.co/blog/is-it-agentic-enough",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-18T16:01:02.819Z"
+    },
+    {
+      "id": "a_mqjosswz_xq5t",
+      "type": "add",
+      "itemId": "i_mqjosswz_tljf13",
+      "itemTitle": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+      "itemUrl": "https://huggingface.co/blog/peft-beyond-lora",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-18T16:01:02.819Z"
+    },
+    {
+      "id": "a_mqjosswz_ct19",
+      "type": "add",
+      "itemId": "i_mqjosswz_sx5pl7",
+      "itemTitle": "Securing the future of AI agents",
+      "itemUrl": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "itemSource": "feed",
+      "category": "gemini",
+      "by": "AI Radar bot",
+      "at": "2026-06-18T16:01:02.819Z"
+    },
+    {
+      "id": "a_mqjosswz_81cw",
+      "type": "add",
+      "itemId": "i_mqjosswz_hv9dy8",
+      "itemTitle": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "itemUrl": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-18T16:01:02.819Z"
+    },
+    {
       "id": "a_mqj7nhs9_48b4",
       "type": "add",
       "itemId": "i_mqj7nhs9_3ytsm4",
@@ -18407,50 +18539,6 @@
       "itemId": "i_mok5myq2_g1boo5",
       "itemTitle": "I finally found a use case for OpenClaw…",
       "itemUrl": "https://www.youtube.com/watch?v=FM5-R4VPArw",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-04-29T14:32:59.210Z"
-    },
-    {
-      "id": "a_mok5myq2_hj5r",
-      "type": "add",
-      "itemId": "i_mok5myq2_mov4du",
-      "itemTitle": "NVIDIA's New AI Broke My Brain",
-      "itemUrl": "https://www.youtube.com/watch?v=Xf_v62TQOx4",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-04-29T14:32:59.210Z"
-    },
-    {
-      "id": "a_mok5myq2_0ujc",
-      "type": "add",
-      "itemId": "i_mok5myq2_20dbss",
-      "itemTitle": "Solved: The Bug That Haunted AI Video For Years",
-      "itemUrl": "https://www.youtube.com/watch?v=yzajLZXh9JU",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-04-29T14:32:59.210Z"
-    },
-    {
-      "id": "a_mok5myq2_q3d1",
-      "type": "add",
-      "itemId": "i_mok5myq2_of350n",
-      "itemTitle": "My Honest Thoughts about Deepseek",
-      "itemUrl": "https://www.youtube.com/watch?v=UV1WDNe4J5w",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-04-29T14:32:59.210Z"
-    },
-    {
-      "id": "a_mok5myq2_p5yc",
-      "type": "add",
-      "itemId": "i_mok5myq2_bgrsgo",
-      "itemTitle": "China Takes Over",
-      "itemUrl": "https://www.youtube.com/shorts/cVqdbXlmXqs",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
