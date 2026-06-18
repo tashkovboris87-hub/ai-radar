@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqiz2tq1_qcpyk7",
+      "url": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
+      "title": "GLM-5.2 is probably the most powerful text-only open weights LLM",
+      "description": "Chinese AI lab Z.ai released GLM-5.2 to their coding plan subscribers on June 13th, and then yesterday (June 16th) released the full open weights under an MIT license. Similar in size to their previous GLM-5 and GLM-5.1 releases, this is 753B parameter, 1.51TB monster - with 40 active parameters (Mi",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-17T23:58:39.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-18T04:01:00.409Z"
+    },
+    {
       "id": "i_mqiqi73k_k6jljv",
       "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
       "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
@@ -12916,6 +12938,17 @@
   ],
   "activity": [
     {
+      "id": "a_mqiz2tq1_0acg",
+      "type": "add",
+      "itemId": "i_mqiz2tq1_qcpyk7",
+      "itemTitle": "GLM-5.2 is probably the most powerful text-only open weights LLM",
+      "itemUrl": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-18T04:01:00.409Z"
+    },
+    {
       "id": "a_mqiqi73k_7ri9",
       "type": "add",
       "itemId": "i_mqiqi73k_ld3eek",
@@ -18396,17 +18429,6 @@
       "itemId": "i_mok5myq2_uspr53",
       "itemTitle": "Worst AI Reddit Take",
       "itemUrl": "https://www.youtube.com/watch?v=H1OsV7FnhZc",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-04-29T14:32:59.210Z"
-    },
-    {
-      "id": "a_mok5myq2_y040",
-      "type": "add",
-      "itemId": "i_mok5myq2_1pcw8q",
-      "itemTitle": "GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
-      "itemUrl": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
