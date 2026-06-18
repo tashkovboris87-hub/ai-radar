@@ -2,6 +2,182 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqjxdfm2_zmaz5t",
+      "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
+      "title": "Noam Shazeer Joins OpenAI",
+      "description": "",
+      "image": "",
+      "domain": "twitter.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-18T00:26:06.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-18T20:01:02.282Z"
+    },
+    {
+      "id": "i_mqjxdfm2_c728w9",
+      "url": "https://tester.army",
+      "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+      "description": "",
+      "image": "",
+      "domain": "tester.army",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-18T14:49:44.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-18T20:01:02.282Z"
+    },
+    {
+      "id": "i_mqjxdfm2_90llzq",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "description": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-18T17:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-18T20:01:02.282Z"
+    },
+    {
+      "id": "i_mqjxdfm2_dokhuy",
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "title": "Improving health intelligence in ChatGPT",
+      "description": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-18T11:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-18T20:01:02.282Z"
+    },
+    {
+      "id": "i_mqjxdfm2_ts70p2",
+      "url": "https://www.latent.space/p/anj",
+      "title": "The Professor of Outputmaxxing — Anjney Midha, AMP",
+      "description": "We talk about how this legendary investor went from humble beginnings in Singapore to leading rounds in Anthropic, Mistral, Black Forest Labs, and Periodic Labs... and the AMP secret master plan!",
+      "image": "",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-18T17:30:00.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-18T20:01:02.282Z"
+    },
+    {
+      "id": "i_mqjxdfm2_nqbbpv",
+      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "title": "MosaicLeaks: Can your research agent keep a secret?",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-18T18:13:13.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-18T20:01:02.282Z"
+    },
+    {
+      "id": "i_mqjxdfm2_igrk4c",
+      "url": "https://www.youtube.com/watch?v=wwfJlSF34n8",
+      "title": "I figured out the best way to vibe code",
+      "description": "Matthew Berman (YouTube)",
+      "image": "https://i.ytimg.com/vi/wwfJlSF34n8/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-18T17:44:06.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-18T20:01:02.282Z"
+    },
+    {
+      "id": "i_mqjxdfm2_bfjsei",
+      "url": "https://www.youtube.com/watch?v=uzkTAT81FxA",
+      "title": "The First Real LLM Breakthrough Is Here...  SubQ (1000x Less Compute)",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/uzkTAT81FxA/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-18T18:00:26.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-18T20:01:02.282Z"
+    },
+    {
       "id": "i_mqjosswz_hv9dy8",
       "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
       "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
@@ -13048,6 +13224,94 @@
   ],
   "activity": [
     {
+      "id": "a_mqjxdfm2_x007",
+      "type": "add",
+      "itemId": "i_mqjxdfm2_bfjsei",
+      "itemTitle": "The First Real LLM Breakthrough Is Here...  SubQ (1000x Less Compute)",
+      "itemUrl": "https://www.youtube.com/watch?v=uzkTAT81FxA",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-18T20:01:02.282Z"
+    },
+    {
+      "id": "a_mqjxdfm2_qex7",
+      "type": "add",
+      "itemId": "i_mqjxdfm2_igrk4c",
+      "itemTitle": "I figured out the best way to vibe code",
+      "itemUrl": "https://www.youtube.com/watch?v=wwfJlSF34n8",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-18T20:01:02.282Z"
+    },
+    {
+      "id": "a_mqjxdfm2_v1bl",
+      "type": "add",
+      "itemId": "i_mqjxdfm2_nqbbpv",
+      "itemTitle": "MosaicLeaks: Can your research agent keep a secret?",
+      "itemUrl": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-18T20:01:02.282Z"
+    },
+    {
+      "id": "a_mqjxdfm2_hu79",
+      "type": "add",
+      "itemId": "i_mqjxdfm2_ts70p2",
+      "itemTitle": "The Professor of Outputmaxxing — Anjney Midha, AMP",
+      "itemUrl": "https://www.latent.space/p/anj",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-18T20:01:02.282Z"
+    },
+    {
+      "id": "a_mqjxdfm2_54ud",
+      "type": "add",
+      "itemId": "i_mqjxdfm2_dokhuy",
+      "itemTitle": "Improving health intelligence in ChatGPT",
+      "itemUrl": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-18T20:01:02.282Z"
+    },
+    {
+      "id": "a_mqjxdfm2_wggu",
+      "type": "add",
+      "itemId": "i_mqjxdfm2_90llzq",
+      "itemTitle": "New usage analytics and updated spend controls for enterprises",
+      "itemUrl": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-18T20:01:02.282Z"
+    },
+    {
+      "id": "a_mqjxdfm2_fe9z",
+      "type": "add",
+      "itemId": "i_mqjxdfm2_c728w9",
+      "itemTitle": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+      "itemUrl": "https://tester.army",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-18T20:01:02.282Z"
+    },
+    {
+      "id": "a_mqjxdfm2_uxuv",
+      "type": "add",
+      "itemId": "i_mqjxdfm2_zmaz5t",
+      "itemTitle": "Noam Shazeer Joins OpenAI",
+      "itemUrl": "https://twitter.com/NoamShazeer/status/2067400851438932297",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-18T20:01:02.282Z"
+    },
+    {
       "id": "a_mqjosswz_j53n",
       "type": "add",
       "itemId": "i_mqjosswz_jda5pa",
@@ -18456,93 +18720,6 @@
       "by": "Boris",
       "at": "2026-05-07T10:46:39.363Z",
       "category": "claude"
-    },
-    {
-      "id": "a_mov5yavf_w4zd",
-      "type": "add",
-      "itemId": "i_mov5yavf_8pnsrl",
-      "itemTitle": "FULL Claude Cowork Tutorial For Beginners in 2026! (Zero to PRO)",
-      "itemUrl": "https://www.youtube.com/watch?v=JdQ_FHgP5ms&pp=0gcJCQMLAYcqIYzv",
-      "itemSource": "team",
-      "by": "Boris",
-      "at": "2026-05-07T07:27:16.107Z",
-      "category": "claude"
-    },
-    {
-      "id": "a_mor6dnl6_7n9r",
-      "type": "delete",
-      "itemId": "demo_1",
-      "itemTitle": "Anthropic releases Claude 4 with extended thinking",
-      "itemUrl": "https://anthropic.com",
-      "itemSource": "team",
-      "by": "Boris",
-      "at": "2026-05-04T12:28:07.722Z"
-    },
-    {
-      "id": "a_mor546qg_wdgx",
-      "type": "delete",
-      "itemId": "demo_1",
-      "itemTitle": "Anthropic releases Claude 4 with extended thinking",
-      "itemUrl": "https://anthropic.com",
-      "itemSource": "team",
-      "by": "Boris",
-      "at": "2026-05-04T11:52:46.360Z"
-    },
-    {
-      "id": "a_mole5l4u_v08a",
-      "type": "categorize",
-      "itemId": "i_mok5myq2_azunr8",
-      "itemTitle": "How To Use GPT 5.5 For Beginners - GPT 5.5 Tutorial",
-      "itemUrl": "https://www.youtube.com/watch?v=Tb4CkJRs9Io",
-      "itemSource": "feed",
-      "by": "Boris",
-      "at": "2026-04-30T11:19:11.167Z",
-      "oldCategory": null,
-      "newCategory": "chatgpt"
-    },
-    {
-      "id": "a_mok5myq2_z34g",
-      "type": "add",
-      "itemId": "i_mok5myq2_azunr8",
-      "itemTitle": "How To Use GPT 5.5 For Beginners - GPT 5.5 Tutorial",
-      "itemUrl": "https://www.youtube.com/watch?v=Tb4CkJRs9Io",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-04-29T14:32:59.210Z"
-    },
-    {
-      "id": "a_mok5myq2_paq6",
-      "type": "add",
-      "itemId": "i_mok5myq2_zi91k9",
-      "itemTitle": "Google Just Released The Worlds Most Powerful AI Agent And More..",
-      "itemUrl": "https://www.youtube.com/watch?v=lwjknzqtMzc",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-04-29T14:32:59.210Z"
-    },
-    {
-      "id": "a_mok5myq2_ds6q",
-      "type": "add",
-      "itemId": "i_mok5myq2_1c9mqg",
-      "itemTitle": "OpenAI’s Secret AI Smartphone Just LEAKED - The OpenAI Smartphone Explained",
-      "itemUrl": "https://www.youtube.com/watch?v=gEYF-f5LkU4",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-04-29T14:32:59.210Z"
-    },
-    {
-      "id": "a_mok5myq2_14vf",
-      "type": "add",
-      "itemId": "i_mok5myq2_g1boo5",
-      "itemTitle": "I finally found a use case for OpenClaw…",
-      "itemUrl": "https://www.youtube.com/watch?v=FM5-R4VPArw",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-04-29T14:32:59.210Z"
     }
   ],
   "filterConfig": {
