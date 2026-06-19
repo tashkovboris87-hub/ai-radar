@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqlct9e5_55srqw",
+      "url": "https://www.youtube.com/watch?v=F4a8aMLb678",
+      "title": "You NEED to try these 7 loops",
+      "description": "Matthew Berman (YouTube)",
+      "image": "https://i.ytimg.com/vi/F4a8aMLb678/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-19T17:43:19.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-19T20:01:01.133Z"
+    },
+    {
+      "id": "i_mqlct9e5_mmmxvf",
+      "url": "https://www.youtube.com/watch?v=Sntj4HmuykI",
+      "title": "The most trusted code on Earth is being rewritten in Rust",
+      "description": "Fireship (YouTube)",
+      "image": "https://i.ytimg.com/vi/Sntj4HmuykI/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-19T17:24:47.000Z",
+      "addedBy": "Fireship",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-19T20:01:01.133Z"
+    },
+    {
       "id": "i_mql48ne0_m4dfy4",
       "url": "https://www.youtube.com/watch?v=dUmT0OIGoqE",
       "title": "This is OpenClaw On Steroids",
@@ -13430,6 +13474,28 @@
   ],
   "activity": [
     {
+      "id": "a_mqlct9e5_puqg",
+      "type": "add",
+      "itemId": "i_mqlct9e5_mmmxvf",
+      "itemTitle": "The most trusted code on Earth is being rewritten in Rust",
+      "itemUrl": "https://www.youtube.com/watch?v=Sntj4HmuykI",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-19T20:01:01.133Z"
+    },
+    {
+      "id": "a_mqlct9e5_6g62",
+      "type": "add",
+      "itemId": "i_mqlct9e5_55srqw",
+      "itemTitle": "You NEED to try these 7 loops",
+      "itemUrl": "https://www.youtube.com/watch?v=F4a8aMLb678",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-19T20:01:01.133Z"
+    },
+    {
       "id": "a_mql48ne0_f0dd",
       "type": "add",
       "itemId": "i_mql48ne0_m4dfy4",
@@ -18901,28 +18967,6 @@
       "itemId": "i_mpcp47on_go3ry5",
       "itemTitle": "Claude advice for humans",
       "itemUrl": "https://i.redd.it/otw1ujfyh02h1.jpeg",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-19T13:55:49.607Z"
-    },
-    {
-      "id": "a_mpcp47on_2ugo",
-      "type": "add",
-      "itemId": "i_mpcp47on_a0mdfb",
-      "itemTitle": "Anthropic just bought the company that generates most production MCP servers",
-      "itemUrl": "https://www.reddit.com/r/ClaudeAI/comments/1thkkrb/anthropic_just_bought_the_company_that_generates/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-19T13:55:49.607Z"
-    },
-    {
-      "id": "a_mpcp47on_dlam",
-      "type": "add",
-      "itemId": "i_mpcp47on_u8lhin",
-      "itemTitle": "Excited to announce I’ve hit my daily Claude limit! This means I’m fully present for my family and fiends. Work-life balance achieved!",
-      "itemUrl": "https://i.redd.it/l9uvdhar922h1.jpeg",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
