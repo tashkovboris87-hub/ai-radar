@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqk5y1p5_0ncait",
+      "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+      "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
+      "description": "",
+      "image": "",
+      "domain": "wired.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-18T12:44:09.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-19T00:01:00.953Z"
+    },
+    {
       "id": "i_mqjxdfm2_zmaz5t",
       "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
       "title": "Noam Shazeer Joins OpenAI",
@@ -13342,6 +13364,17 @@
   ],
   "activity": [
     {
+      "id": "a_mqk5y1p5_bv03",
+      "type": "add",
+      "itemId": "i_mqk5y1p5_0ncait",
+      "itemTitle": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
+      "itemUrl": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-19T00:01:00.953Z"
+    },
+    {
       "id": "a_mqjxdfm2_x007",
       "type": "add",
       "itemId": "i_mqjxdfm2_bfjsei",
@@ -18827,17 +18860,6 @@
       "by": "Petar Peev",
       "at": "2026-05-07T15:06:22.936Z",
       "category": null
-    },
-    {
-      "id": "a_movd2ps3_fscx",
-      "type": "add",
-      "itemId": "i_movd2ps3_ixlmzx",
-      "itemTitle": "How AI agents & Claude skills work (Clearly Explained)",
-      "itemUrl": "https://www.youtube.com/watch?v=S_oN3vlzpMw",
-      "itemSource": "team",
-      "by": "Boris",
-      "at": "2026-05-07T10:46:39.363Z",
-      "category": "claude"
     }
   ],
   "filterConfig": {
