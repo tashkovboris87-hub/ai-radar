@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqkn3c73_3f4yrj",
+      "url": "https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe",
+      "title": "[AINews] GLM > GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December",
+      "description": "With GLM-5.2 passing everyone's vibe check, the open models story finally becomes a real frontier story.",
+      "image": "https://substackcdn.com/image/fetch/$s_!bxEo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96e55c58-9f9d-4573-af94-501283bf9161_814x636.png",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-19T05:53:54.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-19T08:01:01.311Z"
+    },
+    {
       "id": "i_mqkeioid_i1d29z",
       "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
       "title": "Datasette Apps: Host custom HTML applications inside Datasette",
@@ -13386,6 +13408,17 @@
   ],
   "activity": [
     {
+      "id": "a_mqkn3c73_cqm4",
+      "type": "add",
+      "itemId": "i_mqkn3c73_3f4yrj",
+      "itemTitle": "[AINews] GLM > GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December",
+      "itemUrl": "https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-19T08:01:01.311Z"
+    },
+    {
       "id": "a_mqkeioid_vf2z",
       "type": "add",
       "itemId": "i_mqkeioid_i1d29z",
@@ -18872,16 +18905,6 @@
       "by": "Boris",
       "at": "2026-05-12T06:44:17.653Z",
       "category": "claude"
-    },
-    {
-      "id": "a_mownnel2_wedb",
-      "type": "delete",
-      "itemId": "i_movmcq52_gmhdhb",
-      "itemTitle": "AI Radar — Team · Ipsos",
-      "itemUrl": "https://tashkovboris87-hub.github.io/ai-radar/",
-      "itemSource": "team",
-      "by": "Boris",
-      "at": "2026-05-08T08:30:26.967Z"
     }
   ],
   "filterConfig": {
