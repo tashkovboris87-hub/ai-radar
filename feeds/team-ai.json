@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mql48ne0_m4dfy4",
+      "url": "https://www.youtube.com/watch?v=dUmT0OIGoqE",
+      "title": "This is OpenClaw On Steroids",
+      "description": "Two Minute Papers (YouTube)",
+      "image": "https://i.ytimg.com/vi/dUmT0OIGoqE/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-19T14:06:00.000Z",
+      "addedBy": "Two Minute Papers",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-19T16:01:02.568Z"
+    },
+    {
       "id": "i_mqkn3c73_3f4yrj",
       "url": "https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe",
       "title": "[AINews] GLM > GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December",
@@ -13408,6 +13430,17 @@
   ],
   "activity": [
     {
+      "id": "a_mql48ne0_f0dd",
+      "type": "add",
+      "itemId": "i_mql48ne0_m4dfy4",
+      "itemTitle": "This is OpenClaw On Steroids",
+      "itemUrl": "https://www.youtube.com/watch?v=dUmT0OIGoqE",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-19T16:01:02.568Z"
+    },
+    {
       "id": "a_mqkn3c73_cqm4",
       "type": "add",
       "itemId": "i_mqkn3c73_3f4yrj",
@@ -18894,17 +18927,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-05-19T13:55:49.607Z"
-    },
-    {
-      "id": "a_mp29manp_y933",
-      "type": "add",
-      "itemId": "i_mp29manp_9voquk",
-      "itemTitle": "How to stop hitting Claude usage limits",
-      "itemUrl": "https://peerlist.io/whykislay/articles/how-to-stop-hitting-claude-usage-limits",
-      "itemSource": "team",
-      "by": "Boris",
-      "at": "2026-05-12T06:44:17.653Z",
-      "category": "claude"
     }
   ],
   "filterConfig": {
