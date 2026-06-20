@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqmb3ta0_cyojti",
+      "url": "https://arrowtsx.dev/bigger-models/",
+      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+      "description": "",
+      "image": "",
+      "domain": "arrowtsx.dev",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-19T16:11:25.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-20T12:01:00.408Z"
+    },
+    {
+      "id": "i_mqmb3ta0_h1zfsl",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-e7b",
+      "title": "[AINews] not much happened today",
+      "description": "a quiet day lets us promo AIE one last time",
+      "image": "https://substackcdn.com/image/fetch/$s_!XmzS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53ab5745-2cb8-4b37-b574-e6af9fa01f69_1854x1166.png",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-20T08:06:05.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-20T12:01:00.408Z"
+    },
+    {
       "id": "i_mqlldvsm_u9jq5g",
       "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
       "title": "Norway imposes near ban on AI in elementary school",
@@ -13518,6 +13562,28 @@
   ],
   "activity": [
     {
+      "id": "a_mqmb3ta0_3zeg",
+      "type": "add",
+      "itemId": "i_mqmb3ta0_h1zfsl",
+      "itemTitle": "[AINews] not much happened today",
+      "itemUrl": "https://www.latent.space/p/ainews-not-much-happened-today-e7b",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-20T12:01:00.408Z"
+    },
+    {
+      "id": "a_mqmb3ta0_racc",
+      "type": "add",
+      "itemId": "i_mqmb3ta0_cyojti",
+      "itemTitle": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+      "itemUrl": "https://arrowtsx.dev/bigger-models/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-20T12:01:00.408Z"
+    },
+    {
       "id": "a_mqlldvsm_td7j",
       "type": "add",
       "itemId": "i_mqlldvsm_jhnvep",
@@ -18989,28 +19055,6 @@
       "itemId": "i_mpcp47on_up3e45",
       "itemTitle": "ChatGPT 2022 vs 2026",
       "itemUrl": "https://v.redd.it/n7r92guhou1h1",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-19T13:55:49.607Z"
-    },
-    {
-      "id": "a_mpcp47on_lo7g",
-      "type": "add",
-      "itemId": "i_mpcp47on_omv3z7",
-      "itemTitle": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
-      "itemUrl": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-19T13:55:49.607Z"
-    },
-    {
-      "id": "a_mpcp47on_kicp",
-      "type": "add",
-      "itemId": "i_mpcp47on_mhiabz",
-      "itemTitle": "11 Claude things I wish someone had told me 12 months ago",
-      "itemUrl": "https://www.reddit.com/r/ClaudeAI/comments/1tgqnsl/11_claude_things_i_wish_someone_had_told_me_12/",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
