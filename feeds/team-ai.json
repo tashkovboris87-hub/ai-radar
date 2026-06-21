@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqn9ddcv_1p240c",
+      "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+      "title": "When I reject AI code even if it works",
+      "description": "",
+      "image": "",
+      "domain": "vinibrasil.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-21T00:58:13.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-21T04:00:13.279Z"
+    },
+    {
       "id": "i_mqms93h1_ypk4zr",
       "url": "https://www.youtube.com/watch?v=yqAxSVpoSPo",
       "title": "Google Flow Tools Tutorial - How To Use Google Flow Tools",
@@ -13584,6 +13606,17 @@
   ],
   "activity": [
     {
+      "id": "a_mqn9ddcv_cic8",
+      "type": "add",
+      "itemId": "i_mqn9ddcv_1p240c",
+      "itemTitle": "When I reject AI code even if it works",
+      "itemUrl": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-21T04:00:13.279Z"
+    },
+    {
       "id": "a_mqms93h1_6496",
       "type": "add",
       "itemId": "i_mqms93h1_ypk4zr",
@@ -19066,17 +19099,6 @@
       "itemId": "i_mpcp47on_yi3gei",
       "itemTitle": "crazy limits for pro users. An output for around 1.5 mins spends 20% of the 5-hourlimit.",
       "itemUrl": "https://i.redd.it/ftz582s6o12h1.jpeg",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-19T13:55:49.607Z"
-    },
-    {
-      "id": "a_mpcp47on_ly3a",
-      "type": "add",
-      "itemId": "i_mpcp47on_tzjvby",
-      "itemTitle": "Elon Musk loses lawsuit against OpenAI",
-      "itemUrl": "https://www.reuters.com/legal/government/elon-musk-loses-lawsuit-against-openai-2026-05-18/?utm_source=braze&amp;utm_medium=notifications&amp;utm_campaign=2025_engagement",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
