@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqo7nzrb_irsrjd",
+      "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+      "title": "Identity verification on Claude",
+      "description": "",
+      "image": "",
+      "domain": "support.claude.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-21T12:44:13.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-21T20:00:15.815Z"
+    },
+    {
+      "id": "i_mqo7nzrb_tgerwo",
+      "url": "https://www.youtube.com/watch?v=thwf0gtZ_pY",
+      "title": "AI Was Supposed to Replace Workers. It’s Not Working",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/thwf0gtZ_pY/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-21T16:15:05.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-21T20:00:15.815Z"
+    },
+    {
       "id": "i_mqnz3c98_iiljne",
       "url": "https://www.latent.space/p/exclusive-250-off-ai-engineer-tix",
       "title": "[Exclusive] $250 off AI Engineer tix til Monday",
@@ -13672,6 +13716,28 @@
   ],
   "activity": [
     {
+      "id": "a_mqo7nzrb_ncnn",
+      "type": "add",
+      "itemId": "i_mqo7nzrb_tgerwo",
+      "itemTitle": "AI Was Supposed to Replace Workers. It’s Not Working",
+      "itemUrl": "https://www.youtube.com/watch?v=thwf0gtZ_pY",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-21T20:00:15.815Z"
+    },
+    {
+      "id": "a_mqo7nzrb_sbfk",
+      "type": "add",
+      "itemId": "i_mqo7nzrb_irsrjd",
+      "itemTitle": "Identity verification on Claude",
+      "itemUrl": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-21T20:00:15.815Z"
+    },
+    {
       "id": "a_mqnz3c98_l6zg",
       "type": "add",
       "itemId": "i_mqnz3c98_iiljne",
@@ -19143,28 +19209,6 @@
       "itemId": "i_mpcp47on_eum1n6",
       "itemTitle": "How business operations teams use Codex",
       "itemUrl": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-05-19T13:55:49.607Z"
-    },
-    {
-      "id": "a_mpcp47on_pbj9",
-      "type": "add",
-      "itemId": "i_mpcp47on_fmmvh3",
-      "itemTitle": "How sales teams use Codex",
-      "itemUrl": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-05-19T13:55:49.607Z"
-    },
-    {
-      "id": "a_mpcp47on_lujz",
-      "type": "add",
-      "itemId": "i_mpcp47on_yv9vk3",
-      "itemTitle": "A new personal finance experience in ChatGPT",
-      "itemUrl": "https://openai.com/index/personal-finance-chatgpt",
       "itemSource": "feed",
       "category": "chatgpt",
       "by": "AI Radar bot",
