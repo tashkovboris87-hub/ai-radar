@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqnhy1zl_72m1bi",
+      "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+      "title": "The 100k Whys of AI",
+      "description": "",
+      "image": "",
+      "domain": "lcamtuf.substack.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-21T05:45:21.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-21T08:00:15.249Z"
+    },
+    {
+      "id": "i_mqnhy1zl_kks3ls",
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "title": "Building reliable agentic AI systems",
+      "description": "",
+      "image": "",
+      "domain": "martinfowler.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-21T04:28:39.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-21T08:00:15.249Z"
+    },
+    {
       "id": "i_mqn9ddcv_1p240c",
       "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
       "title": "When I reject AI code even if it works",
@@ -13606,6 +13650,28 @@
   ],
   "activity": [
     {
+      "id": "a_mqnhy1zl_ktph",
+      "type": "add",
+      "itemId": "i_mqnhy1zl_kks3ls",
+      "itemTitle": "Building reliable agentic AI systems",
+      "itemUrl": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-21T08:00:15.249Z"
+    },
+    {
+      "id": "a_mqnhy1zl_3vyg",
+      "type": "add",
+      "itemId": "i_mqnhy1zl_72m1bi",
+      "itemTitle": "The 100k Whys of AI",
+      "itemUrl": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-21T08:00:15.249Z"
+    },
+    {
       "id": "a_mqn9ddcv_cic8",
       "type": "add",
       "itemId": "i_mqn9ddcv_1p240c",
@@ -19079,28 +19145,6 @@
       "itemUrl": "https://openai.com/index/malta-chatgpt-plus-partnership",
       "itemSource": "feed",
       "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-05-19T13:55:49.607Z"
-    },
-    {
-      "id": "a_mpcp47on_v600",
-      "type": "add",
-      "itemId": "i_mpcp47on_a82pno",
-      "itemTitle": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-      "itemUrl": "https://openai.com/index/dell-codex-enterprise-partnership",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-05-19T13:55:49.607Z"
-    },
-    {
-      "id": "a_mpcp47on_ilus",
-      "type": "add",
-      "itemId": "i_mpcp47on_yi3gei",
-      "itemTitle": "crazy limits for pro users. An output for around 1.5 mins spends 20% of the 5-hourlimit.",
-      "itemUrl": "https://i.redd.it/ftz582s6o12h1.jpeg",
-      "itemSource": "feed",
-      "category": null,
       "by": "AI Radar bot",
       "at": "2026-05-19T13:55:49.607Z"
     }
