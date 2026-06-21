@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqnz3c98_iiljne",
+      "url": "https://www.latent.space/p/exclusive-250-off-ai-engineer-tix",
+      "title": "[Exclusive] $250 off AI Engineer tix til Monday",
+      "description": "special offer for subscribers - $250 off AI Engineer tix til Monday",
+      "image": "https://substackcdn.com/image/fetch/$s_!MovB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2eafb12-892b-44cc-b2d0-6ed07ef991cc_1494x870.png",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-21T15:01:23.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-21T16:00:15.308Z"
+    },
+    {
       "id": "i_mqnhy1zl_72m1bi",
       "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
       "title": "The 100k Whys of AI",
@@ -13650,6 +13672,17 @@
   ],
   "activity": [
     {
+      "id": "a_mqnz3c98_l6zg",
+      "type": "add",
+      "itemId": "i_mqnz3c98_iiljne",
+      "itemTitle": "[Exclusive] $250 off AI Engineer tix til Monday",
+      "itemUrl": "https://www.latent.space/p/exclusive-250-off-ai-engineer-tix",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-21T16:00:15.308Z"
+    },
+    {
       "id": "a_mqnhy1zl_ktph",
       "type": "add",
       "itemId": "i_mqnhy1zl_kks3ls",
@@ -19132,17 +19165,6 @@
       "itemId": "i_mpcp47on_yv9vk3",
       "itemTitle": "A new personal finance experience in ChatGPT",
       "itemUrl": "https://openai.com/index/personal-finance-chatgpt",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-05-19T13:55:49.607Z"
-    },
-    {
-      "id": "a_mpcp47on_hlr9",
-      "type": "add",
-      "itemId": "i_mpcp47on_blpmdx",
-      "itemTitle": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-      "itemUrl": "https://openai.com/index/malta-chatgpt-plus-partnership",
       "itemSource": "feed",
       "category": "chatgpt",
       "by": "AI Radar bot",
