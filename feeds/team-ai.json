@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqp5ykau_zy5p5f",
+      "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+      "title": "Munich 1991: The Roots of the Current AI Boom",
+      "description": "",
+      "image": "",
+      "domain": "people.idsia.ch",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-19T15:54:23.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-22T12:00:15.942Z"
+    },
+    {
       "id": "i_mqog8o2a_iq5qbu",
       "url": "https://apertvs.ai/",
       "title": "Apertus – Open Foundation Model for Sovereign AI",
@@ -13826,6 +13848,17 @@
   ],
   "activity": [
     {
+      "id": "a_mqp5ykau_17gs",
+      "type": "add",
+      "itemId": "i_mqp5ykau_zy5p5f",
+      "itemTitle": "Munich 1991: The Roots of the Current AI Boom",
+      "itemUrl": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-22T12:00:15.942Z"
+    },
+    {
       "id": "a_mqog8o2a_bb4n",
       "type": "add",
       "itemId": "i_mqog8o2a_q71d15",
@@ -19308,17 +19341,6 @@
       "itemId": "i_mpcp47on_erzob5",
       "itemTitle": "[AINews] How to land a job at a frontier lab (on Pretraining)",
       "itemUrl": "https://www.latent.space/p/ainews-how-to-land-a-job-at-a-frontier",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-19T13:55:49.607Z"
-    },
-    {
-      "id": "a_mpcp47on_npv6",
-      "type": "add",
-      "itemId": "i_mpcp47on_2eimbm",
-      "itemTitle": "Quoting Julia Evans",
-      "itemUrl": "https://simonwillison.net/2026/May/16/julia-evans/#atom-everything",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
