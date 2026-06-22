@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqpej7sj_tgdviu",
+      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+      "title": "Claude Code's \"extended thinking\" is a summary- not authentic thinking",
+      "description": "",
+      "image": "",
+      "domain": "patrickmccanna.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-22T14:22:46.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-22T16:00:16.435Z"
+    },
+    {
+      "id": "i_mqpej7sj_n5ewch",
+      "url": "https://importai.substack.com/p/import-ai-462-superpersuasion-self",
+      "title": "Import AI 462: Superpersuasion; self-sustaining AI; paths to ASI",
+      "description": "How religious are beliefs in the singularity?",
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "domain": "importai.substack.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-22T12:31:45.000Z",
+      "addedBy": "Import AI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-22T16:00:16.435Z"
+    },
+    {
+      "id": "i_mqpej7sj_grw7ya",
+      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-22T13:18:56.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-22T16:00:16.435Z"
+    },
+    {
       "id": "i_mqp5ykau_zy5p5f",
       "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
       "title": "Munich 1991: The Roots of the Current AI Boom",
@@ -13848,6 +13914,39 @@
   ],
   "activity": [
     {
+      "id": "a_mqpej7sj_u7pv",
+      "type": "add",
+      "itemId": "i_mqpej7sj_grw7ya",
+      "itemTitle": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "itemUrl": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-22T16:00:16.435Z"
+    },
+    {
+      "id": "a_mqpej7sj_n6nr",
+      "type": "add",
+      "itemId": "i_mqpej7sj_n5ewch",
+      "itemTitle": "Import AI 462: Superpersuasion; self-sustaining AI; paths to ASI",
+      "itemUrl": "https://importai.substack.com/p/import-ai-462-superpersuasion-self",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-22T16:00:16.435Z"
+    },
+    {
+      "id": "a_mqpej7sj_8xdi",
+      "type": "add",
+      "itemId": "i_mqpej7sj_tgdviu",
+      "itemTitle": "Claude Code's \"extended thinking\" is a summary- not authentic thinking",
+      "itemUrl": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-22T16:00:16.435Z"
+    },
+    {
       "id": "a_mqp5ykau_17gs",
       "type": "add",
       "itemId": "i_mqp5ykau_zy5p5f",
@@ -19308,39 +19407,6 @@
       "itemId": "i_mpcp47on_iyreht",
       "itemTitle": "[AINews] Everything is Conductor",
       "itemUrl": "https://www.latent.space/p/ainews-everything-is-conductor",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-19T13:55:49.607Z"
-    },
-    {
-      "id": "a_mpcp47on_xisi",
-      "type": "add",
-      "itemId": "i_mpcp47on_ifyes7",
-      "itemTitle": "[AINews] Cerebras' $60B IPO: Slowly, then All at Once",
-      "itemUrl": "https://www.latent.space/p/ainews-cerebras-60b-ipo-slowly-then",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-19T13:55:49.607Z"
-    },
-    {
-      "id": "a_mpcp47on_ulod",
-      "type": "add",
-      "itemId": "i_mpcp47on_ej1g3v",
-      "itemTitle": "The Next War Is Already Here. The West Isn't Ready. — Yaroslav Azhnyuk, The Fourth Law & Guest Host Noah Smith, Noahpinion",
-      "itemUrl": "https://www.latent.space/p/the-fourth-law",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-19T13:55:49.607Z"
-    },
-    {
-      "id": "a_mpcp47on_zfh8",
-      "type": "add",
-      "itemId": "i_mpcp47on_erzob5",
-      "itemTitle": "[AINews] How to land a job at a frontier lab (on Pretraining)",
-      "itemUrl": "https://www.latent.space/p/ainews-how-to-land-a-job-at-a-frontier",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
