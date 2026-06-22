@@ -2,6 +2,116 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqog8o2a_iq5qbu",
+      "url": "https://apertvs.ai/",
+      "title": "Apertus – Open Foundation Model for Sovereign AI",
+      "description": "",
+      "image": "",
+      "domain": "apertvs.ai",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-21T21:29:43.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-22T00:00:17.362Z"
+    },
+    {
+      "id": "i_mqog8o2a_au6znh",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "description": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-21T23:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-22T00:00:17.362Z"
+    },
+    {
+      "id": "i_mqog8o2a_fj91ci",
+      "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
+      "title": "sqlite-utils 4.0rc1 adds migrations and nested transactions",
+      "description": "sqlite-utils is my combined Python library and CLI tool for working with SQLite databases. It provides an extensive set of higher-level operations on top of Python's default sqlite3 package, including support for complex table transformations, automatic table creation from JSON data and a whole lot ",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-21T23:35:47.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-22T00:00:17.362Z"
+    },
+    {
+      "id": "i_mqog8o2a_j7409m",
+      "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything",
+      "title": "sqlite-utils 4.0rc1",
+      "description": "Release: sqlite-utils 4.0rc1 See sqlite-utils 4.0rc1 adds migrations and nested transactions. Tags: sqlite-utils",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-21T23:30:04.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-22T00:00:17.362Z"
+    },
+    {
+      "id": "i_mqog8o2a_q71d15",
+      "url": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
+      "title": "Temporary Cloudflare Accounts for AI agents",
+      "description": "Temporary Cloudflare Accounts for AI agents The announcement says this is \"for AI agents\" but (as is pretty common these days) the AI hook isn't really necessary, this is an interesting feature for everyone else as well. Short version: you can now create a Cloudflare Workers project and run this, wi",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-21T22:01:04.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-22T00:00:17.362Z"
+    },
+    {
       "id": "i_mqo7nzrb_irsrjd",
       "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
       "title": "Identity verification on Claude",
@@ -13716,6 +13826,61 @@
   ],
   "activity": [
     {
+      "id": "a_mqog8o2a_bb4n",
+      "type": "add",
+      "itemId": "i_mqog8o2a_q71d15",
+      "itemTitle": "Temporary Cloudflare Accounts for AI agents",
+      "itemUrl": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-22T00:00:17.362Z"
+    },
+    {
+      "id": "a_mqog8o2a_xqql",
+      "type": "add",
+      "itemId": "i_mqog8o2a_j7409m",
+      "itemTitle": "sqlite-utils 4.0rc1",
+      "itemUrl": "https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-22T00:00:17.362Z"
+    },
+    {
+      "id": "a_mqog8o2a_xkew",
+      "type": "add",
+      "itemId": "i_mqog8o2a_fj91ci",
+      "itemTitle": "sqlite-utils 4.0rc1 adds migrations and nested transactions",
+      "itemUrl": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-22T00:00:17.362Z"
+    },
+    {
+      "id": "a_mqog8o2a_1r7l",
+      "type": "add",
+      "itemId": "i_mqog8o2a_au6znh",
+      "itemTitle": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "itemUrl": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-22T00:00:17.362Z"
+    },
+    {
+      "id": "a_mqog8o2a_gdr8",
+      "type": "add",
+      "itemId": "i_mqog8o2a_iq5qbu",
+      "itemTitle": "Apertus – Open Foundation Model for Sovereign AI",
+      "itemUrl": "https://apertvs.ai/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-22T00:00:17.362Z"
+    },
+    {
       "id": "a_mqo7nzrb_ncnn",
       "type": "add",
       "itemId": "i_mqo7nzrb_tgerwo",
@@ -19156,61 +19321,6 @@
       "itemUrl": "https://simonwillison.net/2026/May/16/julia-evans/#atom-everything",
       "itemSource": "feed",
       "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-19T13:55:49.607Z"
-    },
-    {
-      "id": "a_mpcp47on_leij",
-      "type": "add",
-      "itemId": "i_mpcp47on_zwxee6",
-      "itemTitle": "Warelay -> OpenClaw",
-      "itemUrl": "https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-19T13:55:49.607Z"
-    },
-    {
-      "id": "a_mpcp47on_7rrt",
-      "type": "add",
-      "itemId": "i_mpcp47on_nl9m3i",
-      "itemTitle": "GDS weighs in on the NHS's decision to retreat from Open Source",
-      "itemUrl": "https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-19T13:55:49.607Z"
-    },
-    {
-      "id": "a_mpcp47on_zafs",
-      "type": "add",
-      "itemId": "i_mpcp47on_3z9o4t",
-      "itemTitle": "Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose",
-      "itemUrl": "https://simonwillison.net/2026/May/18/sighting-362781627/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-19T13:55:49.607Z"
-    },
-    {
-      "id": "a_mpcp47on_vaw5",
-      "type": "add",
-      "itemId": "i_mpcp47on_ye649c",
-      "itemTitle": "The last six months in LLMs in five minutes",
-      "itemUrl": "https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-19T13:55:49.607Z"
-    },
-    {
-      "id": "a_mpcp47on_zvv5",
-      "type": "add",
-      "itemId": "i_mpcp47on_eum1n6",
-      "itemTitle": "How business operations teams use Codex",
-      "itemUrl": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-      "itemSource": "feed",
-      "category": "chatgpt",
       "by": "AI Radar bot",
       "at": "2026-05-19T13:55:49.607Z"
     }
