@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqq491zz_6jr498",
+      "url": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
+      "title": "Prompt Injection as Role Confusion",
+      "description": "Prompt Injection as Role Confusion First, I absolutely love this: This is a blog-style writeup of the paper. I wish every paper would come with one of these. Academic writing is pretty dry - the impact of a paper can be so much higher if you publish a readable version to accompany the formal one. Ch",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-22T23:59:53.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-23T04:00:12.383Z"
+    },
+    {
       "id": "i_mqpvofvg_cx2135",
       "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
       "title": "Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code",
@@ -14112,6 +14134,17 @@
   ],
   "activity": [
     {
+      "id": "a_mqq491zz_b0js",
+      "type": "add",
+      "itemId": "i_mqq491zz_6jr498",
+      "itemTitle": "Prompt Injection as Role Confusion",
+      "itemUrl": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-23T04:00:12.383Z"
+    },
+    {
       "id": "a_mqpvofvg_049h",
       "type": "add",
       "itemId": "i_mqpvofvg_dyjp7u",
@@ -19594,17 +19627,6 @@
       "itemId": "i_mpcp47on_lesos4",
       "itemTitle": "$400,000 from Claude Code",
       "itemUrl": "https://www.youtube.com/shorts/5-7PJLCw8JA",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-19T13:55:49.607Z"
-    },
-    {
-      "id": "a_mpcp47on_zw4c",
-      "type": "add",
-      "itemId": "i_mpcp47on_ebipzu",
-      "itemTitle": "anthropic vs. openai",
-      "itemUrl": "https://www.youtube.com/watch?v=NksViNo3n08",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
