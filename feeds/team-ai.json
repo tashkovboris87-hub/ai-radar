@@ -2,6 +2,94 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqqctrmm_xe6zu8",
+      "url": "https://www.latent.space/p/ainews-spacex-is-already-a-28byr",
+      "title": "[AINews] SpaceX is already a $28B/yr Neocloud",
+      "description": "a quiet day lets us reflect on some numbers from Jamin Ball.",
+      "image": "https://substackcdn.com/image/fetch/$s_!0sP8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHLbX8TUaoAA9OTl.jpg",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-23T06:19:49.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-23T08:00:15.646Z"
+    },
+    {
+      "id": "i_mqqctrmm_yallu1",
+      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-23T00:00:00.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-23T08:00:15.646Z"
+    },
+    {
+      "id": "i_mqqctrmm_77o29p",
+      "url": "https://huggingface.co/blog/local-models-pr-triage",
+      "title": "We got local models to triage the OpenClaw repo for FREE!*",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-22T00:00:00.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-23T08:00:15.646Z"
+    },
+    {
+      "id": "i_mqqctrmm_akqp96",
+      "url": "https://www.youtube.com/watch?v=FwA1bcpSGiM",
+      "title": "Sakana AI's New \"Fugu Ultra\" Beats Claude Fable 5 (Sakana Fugu)",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/FwA1bcpSGiM/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-23T02:58:01.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-23T08:00:15.646Z"
+    },
+    {
       "id": "i_mqq491zz_6jr498",
       "url": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
       "title": "Prompt Injection as Role Confusion",
@@ -14134,6 +14222,50 @@
   ],
   "activity": [
     {
+      "id": "a_mqqctrmm_bbm3",
+      "type": "add",
+      "itemId": "i_mqqctrmm_akqp96",
+      "itemTitle": "Sakana AI's New \"Fugu Ultra\" Beats Claude Fable 5 (Sakana Fugu)",
+      "itemUrl": "https://www.youtube.com/watch?v=FwA1bcpSGiM",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-23T08:00:15.646Z"
+    },
+    {
+      "id": "a_mqqctrmm_pprq",
+      "type": "add",
+      "itemId": "i_mqqctrmm_77o29p",
+      "itemTitle": "We got local models to triage the OpenClaw repo for FREE!*",
+      "itemUrl": "https://huggingface.co/blog/local-models-pr-triage",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-23T08:00:15.646Z"
+    },
+    {
+      "id": "a_mqqctrmm_t19y",
+      "type": "add",
+      "itemId": "i_mqqctrmm_yallu1",
+      "itemTitle": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "itemUrl": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-23T08:00:15.646Z"
+    },
+    {
+      "id": "a_mqqctrmm_j74c",
+      "type": "add",
+      "itemId": "i_mqqctrmm_xe6zu8",
+      "itemTitle": "[AINews] SpaceX is already a $28B/yr Neocloud",
+      "itemUrl": "https://www.latent.space/p/ainews-spacex-is-already-a-28byr",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-23T08:00:15.646Z"
+    },
+    {
       "id": "a_mqq491zz_b0js",
       "type": "add",
       "itemId": "i_mqq491zz_6jr498",
@@ -19583,50 +19715,6 @@
       "itemId": "i_mpcp47on_xbz54s",
       "itemTitle": "10 Best AI Tools For Business Owners in 2026 - How To Start Your Business With AI",
       "itemUrl": "https://www.youtube.com/watch?v=sLFuHRZcYW8",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-19T13:55:49.607Z"
-    },
-    {
-      "id": "a_mpcp47on_kbj8",
-      "type": "add",
-      "itemId": "i_mpcp47on_maojd6",
-      "itemTitle": "A single PR just hijacked the NPM registry...",
-      "itemUrl": "https://www.youtube.com/watch?v=gwTQLZSIlsU",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-19T13:55:49.607Z"
-    },
-    {
-      "id": "a_mpcp47on_5nvw",
-      "type": "add",
-      "itemId": "i_mpcp47on_86bw3l",
-      "itemTitle": "I can’t believe this trial is real...",
-      "itemUrl": "https://www.youtube.com/watch?v=3tbB2dffx0s",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-19T13:55:49.607Z"
-    },
-    {
-      "id": "a_mpcp47on_ytrn",
-      "type": "add",
-      "itemId": "i_mpcp47on_sy4nfs",
-      "itemTitle": "NVIDIA New AI Is An Efficiency Monster",
-      "itemUrl": "https://www.youtube.com/watch?v=4wC8hnQawiA",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-19T13:55:49.607Z"
-    },
-    {
-      "id": "a_mpcp47on_s8df",
-      "type": "add",
-      "itemId": "i_mpcp47on_lesos4",
-      "itemTitle": "$400,000 from Claude Code",
-      "itemUrl": "https://www.youtube.com/shorts/5-7PJLCw8JA",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
