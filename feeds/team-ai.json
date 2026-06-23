@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqr2jobu_gf16oo",
+      "url": "https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything",
+      "title": "OPFS + Pyodide test harness",
+      "description": "Tool: OPFS + Pyodide test harness I've been pondering if Datasette Lite - the Python Datasette application run entirely in the browser using Pyodide and WebAssembly - might be able to edit persistent SQLite files stored on the user's computer. That's what OFPS (Origin Private File System) is for, so",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-23T18:58:54.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-23T20:00:14.826Z"
+    },
+    {
+      "id": "i_mqr2jobu_qua9e0",
+      "url": "https://huggingface.co/blog/cross-origin-storage",
+      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-23T00:00:00.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-23T20:00:14.826Z"
+    },
+    {
+      "id": "i_mqr2jobu_0e600e",
+      "url": "https://www.youtube.com/watch?v=a2i9h2ip-nY",
+      "title": "Midjourney wants to delete 30% of all death...",
+      "description": "Fireship (YouTube)",
+      "image": "https://i.ytimg.com/vi/a2i9h2ip-nY/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-23T16:46:50.000Z",
+      "addedBy": "Fireship",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-23T20:00:14.826Z"
+    },
+    {
       "id": "i_mqqtyzo4_2bosc2",
       "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
       "title": "AI's Affordability Crisis",
@@ -14332,6 +14398,39 @@
   ],
   "activity": [
     {
+      "id": "a_mqr2jobu_o4qi",
+      "type": "add",
+      "itemId": "i_mqr2jobu_0e600e",
+      "itemTitle": "Midjourney wants to delete 30% of all death...",
+      "itemUrl": "https://www.youtube.com/watch?v=a2i9h2ip-nY",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-23T20:00:14.826Z"
+    },
+    {
+      "id": "a_mqr2jobu_xvmg",
+      "type": "add",
+      "itemId": "i_mqr2jobu_qua9e0",
+      "itemTitle": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "itemUrl": "https://huggingface.co/blog/cross-origin-storage",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-23T20:00:14.826Z"
+    },
+    {
+      "id": "a_mqr2jobu_j70e",
+      "type": "add",
+      "itemId": "i_mqr2jobu_gf16oo",
+      "itemTitle": "OPFS + Pyodide test harness",
+      "itemUrl": "https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-23T20:00:14.826Z"
+    },
+    {
       "id": "a_mqqtyzo4_vmr5",
       "type": "add",
       "itemId": "i_mqqtyzo4_qbll1e",
@@ -19797,39 +19896,6 @@
       "category": "chatgpt",
       "by": "AI Radar bot",
       "at": "2026-05-19T20:01:00.630Z"
-    },
-    {
-      "id": "a_mpd25uc6_b8wq",
-      "type": "add",
-      "itemId": "i_mpd25uc6_lsu1j9",
-      "itemTitle": "Gemini 3.5 Flash",
-      "itemUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-19T20:01:00.630Z"
-    },
-    {
-      "id": "a_mpctl7js_ap0d",
-      "type": "add",
-      "itemId": "i_mpctl7js_icka1s",
-      "itemTitle": "Introducing the Ettin Reranker Family",
-      "itemUrl": "https://huggingface.co/blog/ettin-reranker",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-19T16:01:01.048Z"
-    },
-    {
-      "id": "a_mpctl7js_mxv2",
-      "type": "add",
-      "itemId": "i_mpctl7js_d5b4o5",
-      "itemTitle": "The Next War Is Already Here. The West Isn't Ready. — Yaroslav Azhnyuk, The Fourth Law & Guest Host Noah Smith, Noahpinion",
-      "itemUrl": "https://www.latent.space/p/the-fourth-law",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-19T16:01:01.048Z"
     }
   ],
   "filterConfig": {
