@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqpvofvg_cx2135",
+      "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
+      "title": "Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code",
+      "description": "This morning on Hacker News I saw Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance, describing a small but effective inpainting model - a model where you can mark regions of an image to remove and the model imagines what should fill the space. The released model requir",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-22T23:43:51.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-23T00:00:13.660Z"
+    },
+    {
+      "id": "i_mqpvofvg_91ca3w",
+      "url": "https://www.latent.space/p/gray-swan",
+      "title": "Red-Teaming after Mythos — Zico Kolter & Matt Fredrikson, Gray Swan",
+      "description": "OpenAI boardmember Zico Kolter and Gray Swan CEO Matt Fredrikson join swyx to explain why AI security is not just “cybersecurity with AI”",
+      "image": "",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-22T21:06:55.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-23T00:00:13.660Z"
+    },
+    {
+      "id": "i_mqpvofvg_dyjp7u",
+      "url": "https://www.youtube.com/shorts/xyJtjk-WZcA",
+      "title": "Use LOOPS for everything",
+      "description": "Matthew Berman (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-22T20:58:12.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-23T00:00:13.660Z"
+    },
+    {
       "id": "i_mqpn3sv3_6o2pn9",
       "url": "https://oak.space/oak/oak",
       "title": "Show HN: Oak – Git replacement designed for agents",
@@ -14046,6 +14112,39 @@
   ],
   "activity": [
     {
+      "id": "a_mqpvofvg_049h",
+      "type": "add",
+      "itemId": "i_mqpvofvg_dyjp7u",
+      "itemTitle": "Use LOOPS for everything",
+      "itemUrl": "https://www.youtube.com/shorts/xyJtjk-WZcA",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-23T00:00:13.660Z"
+    },
+    {
+      "id": "a_mqpvofvg_kbk5",
+      "type": "add",
+      "itemId": "i_mqpvofvg_91ca3w",
+      "itemTitle": "Red-Teaming after Mythos — Zico Kolter & Matt Fredrikson, Gray Swan",
+      "itemUrl": "https://www.latent.space/p/gray-swan",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-23T00:00:13.660Z"
+    },
+    {
+      "id": "a_mqpvofvg_v3fz",
+      "type": "add",
+      "itemId": "i_mqpvofvg_cx2135",
+      "itemTitle": "Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code",
+      "itemUrl": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-23T00:00:13.660Z"
+    },
+    {
       "id": "a_mqpn3sv3_o9je",
       "type": "add",
       "itemId": "i_mqpn3sv3_niiw6x",
@@ -19506,39 +19605,6 @@
       "itemId": "i_mpcp47on_ebipzu",
       "itemTitle": "anthropic vs. openai",
       "itemUrl": "https://www.youtube.com/watch?v=NksViNo3n08",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-19T13:55:49.607Z"
-    },
-    {
-      "id": "a_mpcp47on_9ote",
-      "type": "add",
-      "itemId": "i_mpcp47on_gbceoy",
-      "itemTitle": "So Anthropic is just winning now",
-      "itemUrl": "https://www.youtube.com/shorts/IMHqGNLLoxo",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-19T13:55:49.607Z"
-    },
-    {
-      "id": "a_mpcp47on_qsea",
-      "type": "add",
-      "itemId": "i_mpcp47on_rkm763",
-      "itemTitle": "Unlocking asynchronicity in continuous batching",
-      "itemUrl": "https://huggingface.co/blog/continuous_async",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-19T13:55:49.607Z"
-    },
-    {
-      "id": "a_mpcp47on_3dht",
-      "type": "add",
-      "itemId": "i_mpcp47on_bj613l",
-      "itemTitle": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
-      "itemUrl": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
