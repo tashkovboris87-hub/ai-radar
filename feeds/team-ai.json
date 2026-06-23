@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqqtyzo4_2bosc2",
+      "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+      "title": "AI's Affordability Crisis",
+      "description": "",
+      "image": "",
+      "domain": "blog.dshr.org",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-23T15:11:17.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-23T16:00:12.820Z"
+    },
+    {
+      "id": "i_mqqtyzo4_pin25m",
+      "url": "https://mistral.ai/news/ocr-4/",
+      "title": "Mistral OCR 4",
+      "description": "",
+      "image": "",
+      "domain": "mistral.ai",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-23T14:03:19.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-23T16:00:12.820Z"
+    },
+    {
+      "id": "i_mqqtyzo4_qbll1e",
+      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-23T12:51:55.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-23T16:00:12.820Z"
+    },
+    {
       "id": "i_mqqleela_975lgm",
       "url": "https://openai.com/index/omio",
       "title": "How Omio is building the future of conversational travel",
@@ -14266,6 +14332,39 @@
   ],
   "activity": [
     {
+      "id": "a_mqqtyzo4_vmr5",
+      "type": "add",
+      "itemId": "i_mqqtyzo4_qbll1e",
+      "itemTitle": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "itemUrl": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-23T16:00:12.820Z"
+    },
+    {
+      "id": "a_mqqtyzo4_2rba",
+      "type": "add",
+      "itemId": "i_mqqtyzo4_pin25m",
+      "itemTitle": "Mistral OCR 4",
+      "itemUrl": "https://mistral.ai/news/ocr-4/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-23T16:00:12.820Z"
+    },
+    {
+      "id": "a_mqqtyzo4_acna",
+      "type": "add",
+      "itemId": "i_mqqtyzo4_2bosc2",
+      "itemTitle": "AI's Affordability Crisis",
+      "itemUrl": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-23T16:00:12.820Z"
+    },
+    {
       "id": "a_mqqleela_5p1f",
       "type": "add",
       "itemId": "i_mqqleela_rgr8m2",
@@ -19731,38 +19830,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-05-19T16:01:01.048Z"
-    },
-    {
-      "id": "a_mpctl7js_emkn",
-      "type": "add",
-      "itemId": "i_mpctl7js_5s5o1o",
-      "itemTitle": "I’ve joined Anthropic",
-      "itemUrl": "https://twitter.com/karpathy/status/2056753169888334312",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-19T16:01:01.048Z"
-    },
-    {
-      "id": "a_mpcpegtk_nlm6",
-      "type": "delete",
-      "itemId": "i_mpcp47on_ej1g3v",
-      "itemTitle": "The Next War Is Already Here. The West Isn't Ready. — Yaroslav Azhnyuk, The Fourth Law & Guest Host Noah Smith, Noahpinion",
-      "itemUrl": "https://www.latent.space/p/the-fourth-law",
-      "itemSource": "feed",
-      "by": "Boris",
-      "at": "2026-05-19T14:03:48.008Z"
-    },
-    {
-      "id": "a_mpcp47on_i9bq",
-      "type": "add",
-      "itemId": "i_mpcp47on_o7kmgh",
-      "itemTitle": "Google's New Gemini Omni Just Shocked Everyone - Leaked Demo, Pricing, and what comes next",
-      "itemUrl": "https://www.youtube.com/watch?v=eCxOs-r0oow",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-19T13:55:49.607Z"
     }
   ],
   "filterConfig": {
