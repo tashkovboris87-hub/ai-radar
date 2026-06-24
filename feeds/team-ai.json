@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqrb4bw1_htedi2",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "title": "Helping build shared standards for advanced AI",
+      "description": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-23T13:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-24T00:00:15.409Z"
+    },
+    {
+      "id": "i_mqrb4bw1_zevaqi",
+      "url": "https://openai.com/index/gpt-5-immunology-mystery",
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "description": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-23T17:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-24T00:00:15.409Z"
+    },
+    {
+      "id": "i_mqrb4bw1_qmzgu8",
+      "url": "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything",
+      "title": "datasette 1.0a35",
+      "description": "Release: datasette 1.0a35 I'll write more about this one tomorrow, but it's a big release. Three highlights from the release notes: New \"Create table\" interface in the database actions menu, backed by the //-/create JSON API. It can define columns, primary keys, custom column types, NOT NULL constra",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-23T21:34:37.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-24T00:00:15.409Z"
+    },
+    {
       "id": "i_mqr2jobu_gf16oo",
       "url": "https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything",
       "title": "OPFS + Pyodide test harness",
@@ -14398,6 +14464,39 @@
   ],
   "activity": [
     {
+      "id": "a_mqrb4bw1_n9pc",
+      "type": "add",
+      "itemId": "i_mqrb4bw1_qmzgu8",
+      "itemTitle": "datasette 1.0a35",
+      "itemUrl": "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-24T00:00:15.409Z"
+    },
+    {
+      "id": "a_mqrb4bw1_szkk",
+      "type": "add",
+      "itemId": "i_mqrb4bw1_zevaqi",
+      "itemTitle": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "itemUrl": "https://openai.com/index/gpt-5-immunology-mystery",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-24T00:00:15.409Z"
+    },
+    {
+      "id": "a_mqrb4bw1_42zi",
+      "type": "add",
+      "itemId": "i_mqrb4bw1_htedi2",
+      "itemTitle": "Helping build shared standards for advanced AI",
+      "itemUrl": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-24T00:00:15.409Z"
+    },
+    {
       "id": "a_mqr2jobu_o4qi",
       "type": "add",
       "itemId": "i_mqr2jobu_0e600e",
@@ -19861,39 +19960,6 @@
       "itemUrl": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
       "itemSource": "feed",
       "category": "gemini",
-      "by": "AI Radar bot",
-      "at": "2026-05-19T20:01:00.630Z"
-    },
-    {
-      "id": "a_mpd25uc6_sm2b",
-      "type": "add",
-      "itemId": "i_mpd25uc6_b11km3",
-      "itemTitle": "Fast-tracking genetic leads to reverse cellular aging",
-      "itemUrl": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
-      "itemSource": "feed",
-      "category": "gemini",
-      "by": "AI Radar bot",
-      "at": "2026-05-19T20:01:00.630Z"
-    },
-    {
-      "id": "a_mpd25uc6_xf7z",
-      "type": "add",
-      "itemId": "i_mpd25uc6_9uznfo",
-      "itemTitle": "How data science teams use Codex",
-      "itemUrl": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-05-19T20:01:00.630Z"
-    },
-    {
-      "id": "a_mpd25uc6_vyvb",
-      "type": "add",
-      "itemId": "i_mpd25uc6_6qix3o",
-      "itemTitle": "Advancing content provenance for a safer, more transparent AI ecosystem",
-      "itemUrl": "https://openai.com/index/advancing-content-provenance",
-      "itemSource": "feed",
-      "category": "chatgpt",
       "by": "AI Radar bot",
       "at": "2026-05-19T20:01:00.630Z"
     }
