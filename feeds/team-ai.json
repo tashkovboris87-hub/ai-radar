@@ -2,6 +2,138 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqshzicr_abbesl",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "description": "",
+      "image": "",
+      "domain": "techcrunch.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-24T17:47:00.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-24T20:00:13.995Z"
+    },
+    {
+      "id": "i_mqshzicr_r9e1pc",
+      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "description": "",
+      "image": "",
+      "domain": "deepmind.google",
+      "contentType": "article",
+      "source": "feed",
+      "category": "gemini",
+      "tags": [],
+      "addedAt": "2026-06-24T16:30:01.000Z",
+      "addedBy": "Google DeepMind",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-24T20:00:13.995Z"
+    },
+    {
+      "id": "i_mqshzicr_t1xa9z",
+      "url": "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything",
+      "title": "Quoting Tom MacWright",
+      "description": "In the last few months, I've started to see [job applications] that were clearly cowritten by an LLM, link to an LLM-generated portfolio site, which then links to LLM-generated GitHub projects, with purely LLM-generated commit messages. [...] My other reaction is that I don't know anything about the",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-24T18:13:51.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-24T20:00:13.995Z"
+    },
+    {
+      "id": "i_mqshzicr_wsdzx9",
+      "url": "https://www.latent.space/p/databricks",
+      "title": "Why the Frontier Ecosystem must be Open — Matei Zaharia and Reynold Xin, Databricks",
+      "description": "In a rare double-interview, the Databricks technical leaders riff on what it will take for every company to build Agent Clouds",
+      "image": "",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-24T18:53:16.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-24T20:00:13.995Z"
+    },
+    {
+      "id": "i_mqshzicr_zdg9h6",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-24T16:00:13.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-24T20:00:13.995Z"
+    },
+    {
+      "id": "i_mqshzicr_f0temw",
+      "url": "https://huggingface.co/blog/ffasr-leaderboard",
+      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-24T00:00:00.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-24T20:00:13.995Z"
+    },
+    {
       "id": "i_mqs9ew3r_tk50o3",
       "url": "https://rubyllm.com/",
       "title": "RubyLLM: A single, beautiful Ruby framework for all major AI providers",
@@ -14618,6 +14750,72 @@
   ],
   "activity": [
     {
+      "id": "a_mqshzicr_m0cg",
+      "type": "add",
+      "itemId": "i_mqshzicr_f0temw",
+      "itemTitle": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+      "itemUrl": "https://huggingface.co/blog/ffasr-leaderboard",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-24T20:00:13.995Z"
+    },
+    {
+      "id": "a_mqshzicr_wxkd",
+      "type": "add",
+      "itemId": "i_mqshzicr_zdg9h6",
+      "itemTitle": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "itemUrl": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-24T20:00:13.995Z"
+    },
+    {
+      "id": "a_mqshzicr_epc6",
+      "type": "add",
+      "itemId": "i_mqshzicr_wsdzx9",
+      "itemTitle": "Why the Frontier Ecosystem must be Open — Matei Zaharia and Reynold Xin, Databricks",
+      "itemUrl": "https://www.latent.space/p/databricks",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-24T20:00:13.995Z"
+    },
+    {
+      "id": "a_mqshzicr_itcb",
+      "type": "add",
+      "itemId": "i_mqshzicr_t1xa9z",
+      "itemTitle": "Quoting Tom MacWright",
+      "itemUrl": "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-24T20:00:13.995Z"
+    },
+    {
+      "id": "a_mqshzicr_wn8i",
+      "type": "add",
+      "itemId": "i_mqshzicr_r9e1pc",
+      "itemTitle": "Introducing computer use in Gemini 3.5 Flash",
+      "itemUrl": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "itemSource": "feed",
+      "category": "gemini",
+      "by": "AI Radar bot",
+      "at": "2026-06-24T20:00:13.995Z"
+    },
+    {
+      "id": "a_mqshzicr_mbtd",
+      "type": "add",
+      "itemId": "i_mqshzicr_abbesl",
+      "itemTitle": "OpenAI unveils its first custom chip, built by Broadcom",
+      "itemUrl": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-24T20:00:13.995Z"
+    },
+    {
       "id": "a_mqs9ew3r_3lgi",
       "type": "add",
       "itemId": "i_mqs9ew3r_wapuhn",
@@ -20050,72 +20248,6 @@
       "itemSource": "feed",
       "by": "Boris",
       "at": "2026-05-20T03:15:11.776Z"
-    },
-    {
-      "id": "a_mpdaqhen_kusg",
-      "type": "add",
-      "itemId": "i_mpdaqhen_ftayr3",
-      "itemTitle": "datasette-llm 0.1a8",
-      "itemUrl": "https://simonwillison.net/2026/May/19/datasette-llm/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-20T00:01:00.575Z"
-    },
-    {
-      "id": "a_mpdaqhen_vzwx",
-      "type": "add",
-      "itemId": "i_mpdaqhen_keuxnn",
-      "itemTitle": "llm-gemini 0.32a0",
-      "itemUrl": "https://simonwillison.net/2026/May/19/llm-gemini/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-20T00:01:00.575Z"
-    },
-    {
-      "id": "a_mpdaqhen_kdpt",
-      "type": "add",
-      "itemId": "i_mpdaqhen_zcd8zf",
-      "itemTitle": "datasette-llm-accountant 0.1a4",
-      "itemUrl": "https://simonwillison.net/2026/May/19/datasette-llm-accountant/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-20T00:01:00.575Z"
-    },
-    {
-      "id": "a_mpdaqhen_p4rm",
-      "type": "add",
-      "itemId": "i_mpdaqhen_ze11y2",
-      "itemTitle": "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
-      "itemUrl": "https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-20T00:01:00.575Z"
-    },
-    {
-      "id": "a_mpdaqhen_pym2",
-      "type": "add",
-      "itemId": "i_mpdaqhen_d79g4l",
-      "itemTitle": "llm-gemini 0.32",
-      "itemUrl": "https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-20T00:01:00.575Z"
-    },
-    {
-      "id": "a_mpdaqhen_1k9q",
-      "type": "add",
-      "itemId": "i_mpdaqhen_cbrvdv",
-      "itemTitle": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "itemUrl": "https://openai.com/index/databricks",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-05-20T00:01:00.575Z"
     }
   ],
   "filterConfig": {
