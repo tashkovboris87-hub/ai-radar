@@ -2,6 +2,94 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqrs9kbe_4zat48",
+      "url": "https://arxiv.org/abs/2606.24597",
+      "title": "Qwen-AgentWorld: Language World Models for General Agents",
+      "description": "",
+      "image": "",
+      "domain": "arxiv.org",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-24T02:21:47.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-24T08:00:13.082Z"
+    },
+    {
+      "id": "i_mqrs9kbe_jw1c6c",
+      "url": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf",
+      "title": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
+      "description": "",
+      "image": "",
+      "domain": "gist.github.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-24T02:38:47.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-24T08:00:13.082Z"
+    },
+    {
+      "id": "i_mqrs9kbe_6nl0t1",
+      "url": "https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive",
+      "title": "[AINews] Claude Tag: Multiplayer, Proactive, Persistent Agents in Slack",
+      "description": "Claude finally gets a Slackbot upgrade",
+      "image": "https://substackcdn.com/image/fetch/$s_!q5Em!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2069465784653348866.jpg",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-24T07:14:26.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-24T08:00:13.082Z"
+    },
+    {
+      "id": "i_mqrs9kbe_iiom0d",
+      "url": "https://www.youtube.com/watch?v=2lmBj_XQq0I",
+      "title": "You NEED to try these 12 open-source AI projects RIGHT NOW",
+      "description": "Matthew Berman (YouTube)",
+      "image": "https://i.ytimg.com/vi/2lmBj_XQq0I/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-24T00:01:49.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-24T08:00:13.082Z"
+    },
+    {
       "id": "i_mqrb4bw1_htedi2",
       "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
       "title": "Helping build shared standards for advanced AI",
@@ -14464,6 +14552,50 @@
   ],
   "activity": [
     {
+      "id": "a_mqrs9kbe_k78x",
+      "type": "add",
+      "itemId": "i_mqrs9kbe_iiom0d",
+      "itemTitle": "You NEED to try these 12 open-source AI projects RIGHT NOW",
+      "itemUrl": "https://www.youtube.com/watch?v=2lmBj_XQq0I",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-24T08:00:13.082Z"
+    },
+    {
+      "id": "a_mqrs9kbe_pj7j",
+      "type": "add",
+      "itemId": "i_mqrs9kbe_6nl0t1",
+      "itemTitle": "[AINews] Claude Tag: Multiplayer, Proactive, Persistent Agents in Slack",
+      "itemUrl": "https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-24T08:00:13.082Z"
+    },
+    {
+      "id": "a_mqrs9kbe_bkru",
+      "type": "add",
+      "itemId": "i_mqrs9kbe_jw1c6c",
+      "itemTitle": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
+      "itemUrl": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-24T08:00:13.082Z"
+    },
+    {
+      "id": "a_mqrs9kbe_c3ej",
+      "type": "add",
+      "itemId": "i_mqrs9kbe_4zat48",
+      "itemTitle": "Qwen-AgentWorld: Language World Models for General Agents",
+      "itemUrl": "https://arxiv.org/abs/2606.24597",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-24T08:00:13.082Z"
+    },
+    {
       "id": "a_mqrb4bw1_n9pc",
       "type": "add",
       "itemId": "i_mqrb4bw1_qmzgu8",
@@ -19916,50 +20048,6 @@
       "itemUrl": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
       "itemSource": "feed",
       "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-19T20:01:00.630Z"
-    },
-    {
-      "id": "a_mpd25uc6_8a1l",
-      "type": "add",
-      "itemId": "i_mpd25uc6_140hu2",
-      "itemTitle": "Gemini for Science: AI experiments and tools for a new era of discovery",
-      "itemUrl": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
-      "itemSource": "feed",
-      "category": "gemini",
-      "by": "AI Radar bot",
-      "at": "2026-05-19T20:01:00.630Z"
-    },
-    {
-      "id": "a_mpd25uc6_n2wa",
-      "type": "add",
-      "itemId": "i_mpd25uc6_kiwl43",
-      "itemTitle": "Introducing Google Antigravity 2.0",
-      "itemUrl": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
-      "itemSource": "feed",
-      "category": "gemini",
-      "by": "AI Radar bot",
-      "at": "2026-05-19T20:01:00.630Z"
-    },
-    {
-      "id": "a_mpd25uc6_f8e3",
-      "type": "add",
-      "itemId": "i_mpd25uc6_ry8gbw",
-      "itemTitle": "Introducing Gemini Omni",
-      "itemUrl": "https://deepmind.google/blog/introducing-gemini-omni/",
-      "itemSource": "feed",
-      "category": "gemini",
-      "by": "AI Radar bot",
-      "at": "2026-05-19T20:01:00.630Z"
-    },
-    {
-      "id": "a_mpd25uc6_x2cx",
-      "type": "add",
-      "itemId": "i_mpd25uc6_ij9e97",
-      "itemTitle": "Simulate real-world places with Project Genie and Street View",
-      "itemUrl": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
-      "itemSource": "feed",
-      "category": "gemini",
       "by": "AI Radar bot",
       "at": "2026-05-19T20:01:00.630Z"
     }
