@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqtourwz_ze1xot",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+      "title": "Ford rehires 350 engineers after AI fails to preserve expertise or train juniors",
+      "description": "",
+      "image": "",
+      "domain": "bloomberg.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-25T14:58:50.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-25T16:00:16.595Z"
+    },
+    {
       "id": "i_mqtga479_rk9f1q",
       "url": "https://openai.com/index/how-agents-are-transforming-work",
       "title": "How agents are transforming work",
@@ -14904,6 +14926,17 @@
   ],
   "activity": [
     {
+      "id": "a_mqtourwz_z4jz",
+      "type": "add",
+      "itemId": "i_mqtourwz_ze1xot",
+      "itemTitle": "Ford rehires 350 engineers after AI fails to preserve expertise or train juniors",
+      "itemUrl": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-25T16:00:16.595Z"
+    },
+    {
       "id": "a_mqtga479_jm0e",
       "type": "add",
       "itemId": "i_mqtga479_3zfwyc",
@@ -20392,17 +20425,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-05-20T16:00:56.178Z"
-    },
-    {
-      "id": "a_mpe0gaos_07n8",
-      "type": "add",
-      "itemId": "i_mpe0gaos_osg3bj",
-      "itemTitle": "Google's New AI Update Just Shocked The AI Industry - Gemini 3.5 Pro , Gemini Omni, Gemini Spark",
-      "itemUrl": "https://www.youtube.com/watch?v=90-nxjzYt9g",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-20T12:00:55.324Z"
     }
   ],
   "filterConfig": {
