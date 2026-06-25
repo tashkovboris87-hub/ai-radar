@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqsz4vf8_g8zvvj",
+      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "description": "",
+      "image": "",
+      "domain": "reuters.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-24T19:48:01.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-25T04:00:17.684Z"
+    },
+    {
+      "id": "i_mqsz4vf8_j588qd",
+      "url": "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything",
+      "title": "simonw/browser-compat-db",
+      "description": "simonw/browser-compat-db Inspired by Mozilla's new MDN MCP service - source code here - I decided to try converting their comprehensive mdn/browser-compat-data repository full of browser compatibility data into a SQLite database. This new GitHub repo includes a Claude Code for web (Opus 4.8) generat",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-24T23:59:03.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-25T04:00:17.684Z"
+    },
+    {
+      "id": "i_mqsz4vf8_x29v31",
+      "url": "https://www.latent.space/p/ainews-its-meta-harness-summer",
+      "title": "[AINews] It's Meta-Harness Summer",
+      "description": "Move over, Harness Engineering, it is time for the harness of harnesses!",
+      "image": "https://substackcdn.com/image/fetch/$s_!LH6a!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1a3d909-a54b-4acd-aa2c-33823f9e032e_878x674.png",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-25T02:14:08.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-25T04:00:17.684Z"
+    },
+    {
       "id": "i_mqsqka8b_xd989h",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
       "title": "Computer use in Gemini 3.5 Flash",
@@ -14794,6 +14860,39 @@
   ],
   "activity": [
     {
+      "id": "a_mqsz4vf8_u3so",
+      "type": "add",
+      "itemId": "i_mqsz4vf8_x29v31",
+      "itemTitle": "[AINews] It's Meta-Harness Summer",
+      "itemUrl": "https://www.latent.space/p/ainews-its-meta-harness-summer",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-25T04:00:17.684Z"
+    },
+    {
+      "id": "a_mqsz4vf8_w6f7",
+      "type": "add",
+      "itemId": "i_mqsz4vf8_j588qd",
+      "itemTitle": "simonw/browser-compat-db",
+      "itemUrl": "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-25T04:00:17.684Z"
+    },
+    {
+      "id": "a_mqsz4vf8_ygi1",
+      "type": "add",
+      "itemId": "i_mqsz4vf8_g8zvvj",
+      "itemTitle": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "itemUrl": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-25T04:00:17.684Z"
+    },
+    {
       "id": "a_mqsqka8b_5t73",
       "type": "add",
       "itemId": "i_mqsqka8b_7bpycy",
@@ -20260,39 +20359,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-05-20T12:00:55.324Z"
-    },
-    {
-      "id": "a_mpdjb4v0_p4al",
-      "type": "add",
-      "itemId": "i_mpdjb4v0_9i4msx",
-      "itemTitle": "The Next War Is Already Here. The West Isn't Ready. — Yaroslav Azhnyuk, The Fourth Law & Guest Host Noah Smith, Noahpinion",
-      "itemUrl": "https://www.latent.space/p/the-fourth-law",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-20T04:01:01.020Z"
-    },
-    {
-      "id": "a_mpdjb4v0_l3g0",
-      "type": "add",
-      "itemId": "i_mpdjb4v0_wqu4b9",
-      "itemTitle": "[AINews] Google I/O 2026: Gemini 3.5 Flash, Omni (NanoBanana for Video), Spark (background agents), and Antigravity 2.0",
-      "itemUrl": "https://www.latent.space/p/ainews-google-io-2026-gemini-35-flash",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-20T04:01:01.020Z"
-    },
-    {
-      "id": "a_mpdjb4v0_1l2j",
-      "type": "add",
-      "itemId": "i_mpdjb4v0_6nl0k0",
-      "itemTitle": "Introducing OpenAI for Singapore",
-      "itemUrl": "https://openai.com/index/introducing-openai-for-singapore",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-05-20T04:01:01.020Z"
     }
   ],
   "filterConfig": {
