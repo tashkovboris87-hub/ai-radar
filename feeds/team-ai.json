@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqtxfccn_qefle4",
+      "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+      "title": "Which tokens does a hybrid model predict better?",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-25T16:11:42.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-25T20:00:13.127Z"
+    },
+    {
+      "id": "i_mqtxfccn_5dtdk6",
+      "url": "https://www.youtube.com/shorts/_gtQJTnWA4E",
+      "title": "AI companies are trying to take over",
+      "description": "Matthew Berman (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-25T19:25:14.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-25T20:00:13.127Z"
+    },
+    {
+      "id": "i_mqtxfccn_tddr3j",
+      "url": "https://www.youtube.com/watch?v=_qGxgZmSE4Y",
+      "title": "How To Use GLM 5.2 - GLM 5.2 Tutorial For Beginners",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/_qGxgZmSE4Y/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-25T18:15:14.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-25T20:00:13.127Z"
+    },
+    {
       "id": "i_mqtourwz_ze1xot",
       "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
       "title": "Ford rehires 350 engineers after AI fails to preserve expertise or train juniors",
@@ -14926,6 +14992,39 @@
   ],
   "activity": [
     {
+      "id": "a_mqtxfccn_y3ie",
+      "type": "add",
+      "itemId": "i_mqtxfccn_tddr3j",
+      "itemTitle": "How To Use GLM 5.2 - GLM 5.2 Tutorial For Beginners",
+      "itemUrl": "https://www.youtube.com/watch?v=_qGxgZmSE4Y",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-25T20:00:13.127Z"
+    },
+    {
+      "id": "a_mqtxfccn_1mka",
+      "type": "add",
+      "itemId": "i_mqtxfccn_5dtdk6",
+      "itemTitle": "AI companies are trying to take over",
+      "itemUrl": "https://www.youtube.com/shorts/_gtQJTnWA4E",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-25T20:00:13.127Z"
+    },
+    {
+      "id": "a_mqtxfccn_dytr",
+      "type": "add",
+      "itemId": "i_mqtxfccn_qefle4",
+      "itemTitle": "Which tokens does a hybrid model predict better?",
+      "itemUrl": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-25T20:00:13.127Z"
+    },
+    {
       "id": "a_mqtourwz_z4jz",
       "type": "add",
       "itemId": "i_mqtourwz_ze1xot",
@@ -20392,39 +20491,6 @@
       "category": "chatgpt",
       "by": "AI Radar bot",
       "at": "2026-05-20T20:00:54.612Z"
-    },
-    {
-      "id": "a_mpe90ygi_8fj0",
-      "type": "add",
-      "itemId": "i_mpe90ygi_rg2q7c",
-      "itemTitle": "Google I/O, Gemini Spark, Antigravity",
-      "itemUrl": "https://simonwillison.net/2026/May/20/google-io/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-20T16:00:56.178Z"
-    },
-    {
-      "id": "a_mpe90ygi_npgo",
-      "type": "add",
-      "itemId": "i_mpe90ygi_2jbzro",
-      "itemTitle": "Google's AI is being manipulated. The search giant is quietly fighting back",
-      "itemUrl": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-20T16:00:56.178Z"
-    },
-    {
-      "id": "a_mpe90ygi_rl36",
-      "type": "add",
-      "itemId": "i_mpe90ygi_udct8s",
-      "itemTitle": "Qwen3.7-Max: The Agent Frontier",
-      "itemUrl": "https://qwen.ai/blog?id=qwen3.7",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-20T16:00:56.178Z"
     }
   ],
   "filterConfig": {
