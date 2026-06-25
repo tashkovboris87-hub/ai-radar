@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqtga479_rk9f1q",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "title": "How agents are transforming work",
+      "description": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-25T02:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-25T12:00:15.813Z"
+    },
+    {
+      "id": "i_mqtga479_3zfwyc",
+      "url": "https://www.youtube.com/watch?v=SDyRvQlVQ5U",
+      "title": "OpenAI’s Jalapeño Chip Could Change LLMS Forever",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/SDyRvQlVQ5U/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-25T11:32:51.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-25T12:00:15.813Z"
+    },
+    {
       "id": "i_mqsz4vf8_g8zvvj",
       "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
@@ -14860,6 +14904,28 @@
   ],
   "activity": [
     {
+      "id": "a_mqtga479_jm0e",
+      "type": "add",
+      "itemId": "i_mqtga479_3zfwyc",
+      "itemTitle": "OpenAI’s Jalapeño Chip Could Change LLMS Forever",
+      "itemUrl": "https://www.youtube.com/watch?v=SDyRvQlVQ5U",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-25T12:00:15.813Z"
+    },
+    {
+      "id": "a_mqtga479_xt8j",
+      "type": "add",
+      "itemId": "i_mqtga479_rk9f1q",
+      "itemTitle": "How agents are transforming work",
+      "itemUrl": "https://openai.com/index/how-agents-are-transforming-work",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-25T12:00:15.813Z"
+    },
+    {
       "id": "a_mqsz4vf8_u3so",
       "type": "add",
       "itemId": "i_mqsz4vf8_x29v31",
@@ -20333,28 +20399,6 @@
       "itemId": "i_mpe0gaos_osg3bj",
       "itemTitle": "Google's New AI Update Just Shocked The AI Industry - Gemini 3.5 Pro , Gemini Omni, Gemini Spark",
       "itemUrl": "https://www.youtube.com/watch?v=90-nxjzYt9g",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-20T12:00:55.324Z"
-    },
-    {
-      "id": "a_mpe0gaos_1xsi",
-      "type": "add",
-      "itemId": "i_mpe0gaos_jl7x4n",
-      "itemTitle": "The next phase of OpenAI’s Education for Countries",
-      "itemUrl": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-05-20T12:00:55.324Z"
-    },
-    {
-      "id": "a_mpe0gaos_354t",
-      "type": "add",
-      "itemId": "i_mpe0gaos_rd4yvk",
-      "itemTitle": "Learnings from 100K lines of Rust with AI (2025)",
-      "itemUrl": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
