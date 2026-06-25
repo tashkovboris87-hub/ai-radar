@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqsqka8b_xd989h",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+      "title": "Computer use in Gemini 3.5 Flash",
+      "description": "",
+      "image": "",
+      "domain": "blog.google",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-24T17:21:34.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-25T00:00:20.171Z"
+    },
+    {
+      "id": "i_mqsqka8b_7bpycy",
+      "url": "https://www.youtube.com/shorts/EtxdB7gpFqY",
+      "title": "AI can run for days on its own now",
+      "description": "Matthew Berman (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-24T20:40:01.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-25T00:00:20.171Z"
+    },
+    {
       "id": "i_mqshzicr_abbesl",
       "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
       "title": "OpenAI unveils its first custom chip, built by Broadcom",
@@ -14750,6 +14794,28 @@
   ],
   "activity": [
     {
+      "id": "a_mqsqka8b_5t73",
+      "type": "add",
+      "itemId": "i_mqsqka8b_7bpycy",
+      "itemTitle": "AI can run for days on its own now",
+      "itemUrl": "https://www.youtube.com/shorts/EtxdB7gpFqY",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-25T00:00:20.171Z"
+    },
+    {
+      "id": "a_mqsqka8b_1kkh",
+      "type": "add",
+      "itemId": "i_mqsqka8b_xd989h",
+      "itemTitle": "Computer use in Gemini 3.5 Flash",
+      "itemUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-25T00:00:20.171Z"
+    },
+    {
       "id": "a_mqshzicr_m0cg",
       "type": "add",
       "itemId": "i_mqshzicr_f0temw",
@@ -20227,27 +20293,6 @@
       "category": "chatgpt",
       "by": "AI Radar bot",
       "at": "2026-05-20T04:01:01.020Z"
-    },
-    {
-      "id": "a_mpdjb4v0_y3ak",
-      "type": "add",
-      "itemId": "i_mpdjb4v0_5qpqqk",
-      "itemTitle": "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
-      "itemUrl": "https://github.com/wiltodelta/remove-ai-watermarks",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-20T04:01:01.020Z"
-    },
-    {
-      "id": "a_mpdho7j4_khha",
-      "type": "delete",
-      "itemId": "i_mpctl7js_d5b4o5",
-      "itemTitle": "The Next War Is Already Here. The West Isn't Ready. — Yaroslav Azhnyuk, The Fourth Law & Guest Host Noah Smith, Noahpinion",
-      "itemUrl": "https://www.latent.space/p/the-fourth-law",
-      "itemSource": "feed",
-      "by": "Boris",
-      "at": "2026-05-20T03:15:11.776Z"
     }
   ],
   "filterConfig": {
