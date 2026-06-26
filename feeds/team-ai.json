@@ -2,6 +2,116 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqu5zx3x_yuox62",
+      "url": "https://github.com/inkeep/open-knowledge",
+      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "description": "",
+      "image": "",
+      "domain": "github.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-25T16:04:46.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-26T00:00:10.077Z"
+    },
+    {
+      "id": "i_mqu5zx3x_znc9i3",
+      "url": "https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything",
+      "title": "AI and Liability",
+      "description": "AI and Liability Bruce Schneier on the recent German ruling that Google be held liable for errors introduced in their AI overviews: AI agents are agents of the person or organization that deploys them—and should be treated by the law as such. If a company hired human writers to write its summaries, ",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-25T22:28:46.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-26T00:00:10.077Z"
+    },
+    {
+      "id": "i_mqu5zx3x_9xprzg",
+      "url": "https://simonwillison.net/2026/Jun/25/datasette-export-database/#atom-everything",
+      "title": "datasette-export-database 0.3a2",
+      "description": "Release: datasette-export-database 0.3a2 An embarrassingly tiny release. The pyproject.toml had pinned to datasette==1.0a27, inadvertently making this plugin incompatible with all other Datasette versions. It's now datasette>=1.0a27 instead. Tags: datasette",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-25T17:21:09.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-26T00:00:10.077Z"
+    },
+    {
+      "id": "i_mqu5zx3x_6vl6zk",
+      "url": "https://huggingface.co/blog/vllm-jobs",
+      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-26T00:00:00.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-26T00:00:10.077Z"
+    },
+    {
+      "id": "i_mqu5zx3x_enahxa",
+      "url": "https://www.youtube.com/watch?v=IwKuv4LrCVk",
+      "title": "Claude Tag is not what you think...",
+      "description": "Matthew Berman (YouTube)",
+      "image": "https://i.ytimg.com/vi/IwKuv4LrCVk/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-25T23:33:11.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-26T00:00:10.077Z"
+    },
+    {
       "id": "i_mqtxfccn_qefle4",
       "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
       "title": "Which tokens does a hybrid model predict better?",
@@ -14992,6 +15102,61 @@
   ],
   "activity": [
     {
+      "id": "a_mqu5zx3x_1f7p",
+      "type": "add",
+      "itemId": "i_mqu5zx3x_enahxa",
+      "itemTitle": "Claude Tag is not what you think...",
+      "itemUrl": "https://www.youtube.com/watch?v=IwKuv4LrCVk",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-26T00:00:10.077Z"
+    },
+    {
+      "id": "a_mqu5zx3x_bk1n",
+      "type": "add",
+      "itemId": "i_mqu5zx3x_6vl6zk",
+      "itemTitle": "Run a vLLM Server on HF Jobs in One Command",
+      "itemUrl": "https://huggingface.co/blog/vllm-jobs",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-26T00:00:10.077Z"
+    },
+    {
+      "id": "a_mqu5zx3x_9uac",
+      "type": "add",
+      "itemId": "i_mqu5zx3x_9xprzg",
+      "itemTitle": "datasette-export-database 0.3a2",
+      "itemUrl": "https://simonwillison.net/2026/Jun/25/datasette-export-database/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-26T00:00:10.077Z"
+    },
+    {
+      "id": "a_mqu5zx3x_mu9o",
+      "type": "add",
+      "itemId": "i_mqu5zx3x_znc9i3",
+      "itemTitle": "AI and Liability",
+      "itemUrl": "https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-26T00:00:10.077Z"
+    },
+    {
+      "id": "a_mqu5zx3x_vfvd",
+      "type": "add",
+      "itemId": "i_mqu5zx3x_yuox62",
+      "itemTitle": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "itemUrl": "https://github.com/inkeep/open-knowledge",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-26T00:00:10.077Z"
+    },
+    {
       "id": "a_mqtxfccn_y3ie",
       "type": "add",
       "itemId": "i_mqtxfccn_tddr3j",
@@ -20436,61 +20601,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-05-21T00:00:54.266Z"
-    },
-    {
-      "id": "a_mpeq677e_l54u",
-      "type": "add",
-      "itemId": "i_mpeq677e_5y1kpb",
-      "itemTitle": "How Ramp engineers accelerate code review with Codex",
-      "itemUrl": "https://openai.com/index/ramp",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-05-21T00:00:54.266Z"
-    },
-    {
-      "id": "a_mpehlkd0_21eo",
-      "type": "add",
-      "itemId": "i_mpehlkd0_4cwa56",
-      "itemTitle": "Google CEO: Agents, Open Source, Race to AGI, Cybersecurity, Chips, China",
-      "itemUrl": "https://www.youtube.com/watch?v=IB7IW6zX-H0",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-20T20:00:54.612Z"
-    },
-    {
-      "id": "a_mpehlkd0_dqbl",
-      "type": "add",
-      "itemId": "i_mpehlkd0_00m1xz",
-      "itemTitle": "Two Rival Bets on AGI: Google I/O Highlights",
-      "itemUrl": "https://www.youtube.com/watch?v=o_av1b9rs2g",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-20T20:00:54.612Z"
-    },
-    {
-      "id": "a_mpehlkd0_yat7",
-      "type": "add",
-      "itemId": "i_mpehlkd0_uykv43",
-      "itemTitle": "How fast is 10 tokens per second really?",
-      "itemUrl": "https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-20T20:00:54.612Z"
-    },
-    {
-      "id": "a_mpehlkd0_bj50",
-      "type": "add",
-      "itemId": "i_mpehlkd0_wc6hko",
-      "itemTitle": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "itemUrl": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-05-20T20:00:54.612Z"
     }
   ],
   "filterConfig": {
