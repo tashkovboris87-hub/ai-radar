@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mquekjvd_leo8j9",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+      "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+      "description": "",
+      "image": "",
+      "domain": "bloomberg.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-25T17:38:44.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-26T04:00:09.625Z"
+    },
+    {
+      "id": "i_mquekjvd_h2bc74",
+      "url": "https://www.latent.space/p/ainews-openai-reports-median-internal",
+      "title": "[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in Engineering, and 13x in Legal since November 2025.",
+      "description": "It's happening.",
+      "image": "https://substackcdn.com/image/fetch/$s_!roAd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a48b472-a807-4211-b981-983f7a401c3a_2156x1576.png",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-26T01:12:30.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-26T04:00:09.625Z"
+    },
+    {
+      "id": "i_mquekjvd_siab9w",
+      "url": "https://www.youtube.com/shorts/oQ_aqiSTLQc",
+      "title": "GPT 5.6 is officially BANNED",
+      "description": "Matthew Berman (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-26T02:24:09.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-26T04:00:09.625Z"
+    },
+    {
       "id": "i_mqu5zx3x_yuox62",
       "url": "https://github.com/inkeep/open-knowledge",
       "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
@@ -15102,6 +15168,39 @@
   ],
   "activity": [
     {
+      "id": "a_mquekjvd_49vb",
+      "type": "add",
+      "itemId": "i_mquekjvd_siab9w",
+      "itemTitle": "GPT 5.6 is officially BANNED",
+      "itemUrl": "https://www.youtube.com/shorts/oQ_aqiSTLQc",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-26T04:00:09.625Z"
+    },
+    {
+      "id": "a_mquekjvd_2phq",
+      "type": "add",
+      "itemId": "i_mquekjvd_h2bc74",
+      "itemTitle": "[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in Engineering, and 13x in Legal since November 2025.",
+      "itemUrl": "https://www.latent.space/p/ainews-openai-reports-median-internal",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-26T04:00:09.625Z"
+    },
+    {
+      "id": "a_mquekjvd_i4nu",
+      "type": "add",
+      "itemId": "i_mquekjvd_leo8j9",
+      "itemTitle": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+      "itemUrl": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-26T04:00:09.625Z"
+    },
+    {
       "id": "a_mqu5zx3x_1f7p",
       "type": "add",
       "itemId": "i_mqu5zx3x_enahxa",
@@ -20568,39 +20667,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-05-21T08:00:58.797Z"
-    },
-    {
-      "id": "a_mpf7bkx9_wg94",
-      "type": "add",
-      "itemId": "i_mpf7bkx9_bbbqgd",
-      "itemTitle": "Anthropic is expanding to Colossus2. Will use GB200",
-      "itemUrl": "https://twitter.com/nottombrown/status/2057194829986300375",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-21T08:00:58.797Z"
-    },
-    {
-      "id": "a_mpeq677e_5xwk",
-      "type": "add",
-      "itemId": "i_mpeq677e_vpuawo",
-      "itemTitle": "Railway: The Agent-Native Cloud — Jake Cooper",
-      "itemUrl": "https://www.latent.space/p/railway",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-21T00:00:54.266Z"
-    },
-    {
-      "id": "a_mpeq677e_txwe",
-      "type": "add",
-      "itemId": "i_mpeq677e_992inv",
-      "itemTitle": "Quoting SpaceX S-1",
-      "itemUrl": "https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-21T00:00:54.266Z"
     }
   ],
   "filterConfig": {
