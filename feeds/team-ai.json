@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqun57iv_2utdx9",
+      "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+      "title": "What happened after 2k people tried to hack my AI assistant",
+      "description": "",
+      "image": "",
+      "domain": "fernandoi.cl",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-26T02:29:23.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-26T08:00:10.327Z"
+    },
+    {
       "id": "i_mquekjvd_leo8j9",
       "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
       "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
@@ -15168,6 +15190,17 @@
   ],
   "activity": [
     {
+      "id": "a_mqun57iv_ys2i",
+      "type": "add",
+      "itemId": "i_mqun57iv_2utdx9",
+      "itemTitle": "What happened after 2k people tried to hack my AI assistant",
+      "itemUrl": "https://www.fernandoi.cl/posts/hackmyclaw/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-26T08:00:10.327Z"
+    },
+    {
       "id": "a_mquekjvd_49vb",
       "type": "add",
       "itemId": "i_mquekjvd_siab9w",
@@ -20656,17 +20689,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-05-21T12:01:00.516Z"
-    },
-    {
-      "id": "a_mpf7bkx9_9c6c",
-      "type": "add",
-      "itemId": "i_mpf7bkx9_vn83yh",
-      "itemTitle": "[AINews] OpenAI GPT-next disproves 80 year old Erdős planar unit distance problem for under $1000",
-      "itemUrl": "https://www.latent.space/p/ainews-openai-gpt-next-disproves",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-21T08:00:58.797Z"
     }
   ],
   "filterConfig": {
