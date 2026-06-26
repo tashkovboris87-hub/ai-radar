@@ -2,6 +2,160 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqvcv3qb_6lpbw2",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "description": "",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-26T17:06:55.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-26T20:00:08.867Z"
+    },
+    {
+      "id": "i_mqvcv3qb_n6r9k5",
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "description": "",
+      "image": "",
+      "domain": "washingtonpost.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-26T18:23:14.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-26T20:00:08.867Z"
+    },
+    {
+      "id": "i_mqvcv3qb_qe5lfw",
+      "url": "https://github.com/workweave/router",
+      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "description": "",
+      "image": "",
+      "domain": "github.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-26T16:40:11.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-26T20:00:08.867Z"
+    },
+    {
+      "id": "i_mqvcv3qb_pa4xwp",
+      "url": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything",
+      "title": "What happened after 2,000 people tried to hack my AI assistant",
+      "description": "What happened after 2,000 people tried to hack my AI assistant Fernando Irarrázaval ran a challenge on hackmyclaw.com to see if anyone could leak secrets held by his OpenClaw test instance by sending it email. Surprisingly, after 6,000 attempts (and $500 in token spend and a Google account suspensio",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-26T18:33:14.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-26T20:00:08.867Z"
+    },
+    {
+      "id": "i_mqvcv3qb_lrxn7e",
+      "url": "https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything",
+      "title": "Incident Report: CVE-2026-LGTM",
+      "description": "Incident Report: CVE-2026-LGTM Spectacular hypothetical incident report by Andrew Nesbitt. Day 2, 16:00 UTC --- Two AI review agents from competing vendors, both attached to a downstream pull request bumping foxhole-lz4, enter a disagreement loop over whether the package is malicious. After 340 comm",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-26T17:58:54.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-26T20:00:08.867Z"
+    },
+    {
+      "id": "i_mqvcv3qb_pi54hh",
+      "url": "https://simonwillison.net/2026/Jun/26/openai/#atom-everything",
+      "title": "Quoting OpenAI",
+      "description": "We're beginning a limited preview of the GPT‑5.6 series: Sol, our flagship model; Terra, a balanced model for everyday work; and Luna, a fast and affordable model. Terra has competitive performance to GPT‑5.5 while being 2x cheaper and Luna brings strong capability at our lowest cost. [...] We belie",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-26T17:10:43.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-26T20:00:08.867Z"
+    },
+    {
+      "id": "i_mqvcv3qb_km4lvj",
+      "url": "https://www.youtube.com/shorts/rg9oHMXzLl0",
+      "title": "GPT 5.6 is officially NOT BANNED (even worse)",
+      "description": "Matthew Berman (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-26T19:06:59.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-26T20:00:08.867Z"
+    },
+    {
       "id": "i_mqv4aj1p_87wjob",
       "url": "https://www.youtube.com/shorts/DOfwOVDKSSk",
       "title": "Claude got attacked",
@@ -15212,6 +15366,83 @@
   ],
   "activity": [
     {
+      "id": "a_mqvcv3qb_3qxt",
+      "type": "add",
+      "itemId": "i_mqvcv3qb_km4lvj",
+      "itemTitle": "GPT 5.6 is officially NOT BANNED (even worse)",
+      "itemUrl": "https://www.youtube.com/shorts/rg9oHMXzLl0",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-26T20:00:08.867Z"
+    },
+    {
+      "id": "a_mqvcv3qb_64ft",
+      "type": "add",
+      "itemId": "i_mqvcv3qb_pi54hh",
+      "itemTitle": "Quoting OpenAI",
+      "itemUrl": "https://simonwillison.net/2026/Jun/26/openai/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-26T20:00:08.867Z"
+    },
+    {
+      "id": "a_mqvcv3qb_vqgq",
+      "type": "add",
+      "itemId": "i_mqvcv3qb_lrxn7e",
+      "itemTitle": "Incident Report: CVE-2026-LGTM",
+      "itemUrl": "https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-26T20:00:08.867Z"
+    },
+    {
+      "id": "a_mqvcv3qb_io7m",
+      "type": "add",
+      "itemId": "i_mqvcv3qb_pa4xwp",
+      "itemTitle": "What happened after 2,000 people tried to hack my AI assistant",
+      "itemUrl": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-26T20:00:08.867Z"
+    },
+    {
+      "id": "a_mqvcv3qb_l0y0",
+      "type": "add",
+      "itemId": "i_mqvcv3qb_qe5lfw",
+      "itemTitle": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "itemUrl": "https://github.com/workweave/router",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-26T20:00:08.867Z"
+    },
+    {
+      "id": "a_mqvcv3qb_pdc5",
+      "type": "add",
+      "itemId": "i_mqvcv3qb_n6r9k5",
+      "itemTitle": "U.S. government will decide who gets to use GPT-5.6",
+      "itemUrl": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-26T20:00:08.867Z"
+    },
+    {
+      "id": "a_mqvcv3qb_uui8",
+      "type": "add",
+      "itemId": "i_mqvcv3qb_6lpbw2",
+      "itemTitle": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "itemUrl": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-26T20:00:08.867Z"
+    },
+    {
       "id": "a_mqv4aj1p_bl09",
       "type": "add",
       "itemId": "i_mqv4aj1p_87wjob",
@@ -20634,83 +20865,6 @@
       "category": "gemini",
       "by": "AI Radar bot",
       "at": "2026-05-22T00:00:51.407Z"
-    },
-    {
-      "id": "a_mpfx1c0o_xmph",
-      "type": "add",
-      "itemId": "i_mpfx1c0o_y9vuep",
-      "itemTitle": "This is absolutely CRAZY",
-      "itemUrl": "https://www.youtube.com/watch?v=Td2TaMWNUtA",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-21T20:00:50.712Z"
-    },
-    {
-      "id": "a_mpfx1c0o_h8n5",
-      "type": "add",
-      "itemId": "i_mpfx1c0o_gfq9lw",
-      "itemTitle": "Composer 2.5 and I INTERVIEWED THE CEO OF ALPHABET",
-      "itemUrl": "https://www.youtube.com/watch?v=tk9lt-9x8mE",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-21T20:00:50.712Z"
-    },
-    {
-      "id": "a_mpfx1c0o_3v3w",
-      "type": "add",
-      "itemId": "i_mpfx1c0o_hpkhhn",
-      "itemTitle": "datasette-agent 0.1a3",
-      "itemUrl": "https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-21T20:00:50.712Z"
-    },
-    {
-      "id": "a_mpfx1c0o_nu0r",
-      "type": "add",
-      "itemId": "i_mpfx1c0o_qeszfb",
-      "itemTitle": "datasette-agent-sprites 0.1a0",
-      "itemUrl": "https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-21T20:00:50.712Z"
-    },
-    {
-      "id": "a_mpfx1c0o_by6e",
-      "type": "add",
-      "itemId": "i_mpfx1c0o_k28w5w",
-      "itemTitle": "Datasette Agent",
-      "itemUrl": "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-21T20:00:50.712Z"
-    },
-    {
-      "id": "a_mpfx1c0o_0z51",
-      "type": "add",
-      "itemId": "i_mpfx1c0o_shmauv",
-      "itemTitle": "AdventHealth advances whole-person care with OpenAI",
-      "itemUrl": "https://openai.com/index/adventhealth",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-05-21T20:00:50.712Z"
-    },
-    {
-      "id": "a_mpfogus4_v3a8",
-      "type": "add",
-      "itemId": "i_mpfogus4_xcwao1",
-      "itemTitle": "AI is just unauthorised plagiarism at a bigger scale",
-      "itemUrl": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-21T16:00:58.324Z"
     }
   ],
   "filterConfig": {
