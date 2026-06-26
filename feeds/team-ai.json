@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqv4aj1p_87wjob",
+      "url": "https://www.youtube.com/shorts/DOfwOVDKSSk",
+      "title": "Claude got attacked",
+      "description": "Matthew Berman (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-26T14:18:02.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-26T16:00:12.013Z"
+    },
+    {
       "id": "i_mqun57iv_2utdx9",
       "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
       "title": "What happened after 2k people tried to hack my AI assistant",
@@ -15190,6 +15212,17 @@
   ],
   "activity": [
     {
+      "id": "a_mqv4aj1p_bl09",
+      "type": "add",
+      "itemId": "i_mqv4aj1p_87wjob",
+      "itemTitle": "Claude got attacked",
+      "itemUrl": "https://www.youtube.com/shorts/DOfwOVDKSSk",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-26T16:00:12.013Z"
+    },
+    {
       "id": "a_mqun57iv_ys2i",
       "type": "add",
       "itemId": "i_mqun57iv_2utdx9",
@@ -20678,17 +20711,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-05-21T16:00:58.324Z"
-    },
-    {
-      "id": "a_mpffw9d0_qz78",
-      "type": "add",
-      "itemId": "i_mpffw9d0_d6mk1o",
-      "itemTitle": "Google officially announces that ads will be included in AI Mode search results",
-      "itemUrl": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-21T12:01:00.516Z"
     }
   ],
   "filterConfig": {
