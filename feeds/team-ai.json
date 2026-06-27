@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqwsbsk6_4aqau8",
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "title": "AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
+      "description": "",
+      "image": "",
+      "domain": "spectrum.ieee.org",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-24T14:02:16.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-27T20:00:47.958Z"
+    },
+    {
+      "id": "i_mqwsbsk6_wvzs5u",
+      "url": "https://www.youtube.com/shorts/fvXWEqut82c",
+      "title": "Apple just raised prices...",
+      "description": "Matthew Berman (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-27T15:00:20.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-27T20:00:47.958Z"
+    },
+    {
       "id": "i_mqwjqbbn_44tdve",
       "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
       "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
@@ -15608,6 +15652,28 @@
   ],
   "activity": [
     {
+      "id": "a_mqwsbsk6_q518",
+      "type": "add",
+      "itemId": "i_mqwsbsk6_wvzs5u",
+      "itemTitle": "Apple just raised prices...",
+      "itemUrl": "https://www.youtube.com/shorts/fvXWEqut82c",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-27T20:00:47.958Z"
+    },
+    {
+      "id": "a_mqwsbsk6_7s8u",
+      "type": "add",
+      "itemId": "i_mqwsbsk6_4aqau8",
+      "itemTitle": "AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
+      "itemUrl": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-27T20:00:47.958Z"
+    },
+    {
       "id": "a_mqwjqbbn_a8sf",
       "type": "add",
       "itemId": "i_mqwjqbbn_44tdve",
@@ -21081,28 +21147,6 @@
       "itemId": "i_mpi27ce6_x7qqrm",
       "itemTitle": "Google’s AI endgame is here… everything you missed at I/O 2026",
       "itemUrl": "https://www.youtube.com/watch?v=9OQ5vaYbGV0",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-23T08:01:01.566Z"
-    },
-    {
-      "id": "a_mpi27ce6_ssf0",
-      "type": "add",
-      "itemId": "i_mpi27ce6_bmibjv",
-      "itemTitle": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
-      "itemUrl": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-23T08:01:01.566Z"
-    },
-    {
-      "id": "a_mpi27ce6_mas6",
-      "type": "add",
-      "itemId": "i_mpi27ce6_qk8ftg",
-      "itemTitle": "[AINews] All Model Labs are now Agent Labs",
-      "itemUrl": "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
