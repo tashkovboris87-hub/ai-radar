@@ -2,6 +2,138 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqvlfs0p_leqqni",
+      "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
+      "title": "US allows Anthropic to release Mythos to 'trusted partners'",
+      "description": "",
+      "image": "",
+      "domain": "reuters.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-26T22:48:28.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-27T00:00:10.393Z"
+    },
+    {
+      "id": "i_mqvlfs0p_dbp47u",
+      "url": "https://blog.doubleword.ai/frontier-os-llm",
+      "title": "The gap between open weights LLMs and closed source LLMs",
+      "description": "",
+      "image": "",
+      "domain": "blog.doubleword.ai",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-26T21:14:47.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-27T00:00:10.393Z"
+    },
+    {
+      "id": "i_mqvlfs0p_crrujm",
+      "url": "https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything",
+      "title": "Quoting Dean W. Ball",
+      "description": "This is a bad state of affairs. Consider, in particular, some industry dynamics: Frontier models are trained at an enormous cost, and a significant fraction of that cost is recouped in the few post-release months that they are broadly available. After that period elapses, the models become sub-front",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-26T22:25:46.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-27T00:00:10.393Z"
+    },
+    {
+      "id": "i_mqvlfs0p_mex8cq",
+      "url": "https://simonwillison.net/2026/Jun/26/timothy-b-lee/#atom-everything",
+      "title": "Quoting Timothy B. Lee",
+      "description": "This is like saying there's no learning curve to being a manager because your employees will just do whatever you tell them to do. &mdash; Timothy B. Lee, on the idea that LLMs take no skill and have no learning curve Tags: llms, ai, generative-ai",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-26T21:15:09.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-27T00:00:10.393Z"
+    },
+    {
+      "id": "i_mqvlfs0p_m1eegi",
+      "url": "https://www.youtube.com/watch?v=eEdOqSmkZy0",
+      "title": "I can't believe this happened...",
+      "description": "Matthew Berman (YouTube)",
+      "image": "https://i.ytimg.com/vi/eEdOqSmkZy0/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-26T21:26:32.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-27T00:00:10.393Z"
+    },
+    {
+      "id": "i_mqvlfs0p_9cp3qc",
+      "url": "https://www.youtube.com/shorts/iG3lW8GslXs",
+      "title": "I AM SO MAD",
+      "description": "Matthew Berman (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-26T20:04:33.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-27T00:00:10.393Z"
+    },
+    {
       "id": "i_mqvcv3qb_6lpbw2",
       "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
@@ -15366,6 +15498,72 @@
   ],
   "activity": [
     {
+      "id": "a_mqvlfs0p_1nzm",
+      "type": "add",
+      "itemId": "i_mqvlfs0p_9cp3qc",
+      "itemTitle": "I AM SO MAD",
+      "itemUrl": "https://www.youtube.com/shorts/iG3lW8GslXs",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-27T00:00:10.393Z"
+    },
+    {
+      "id": "a_mqvlfs0p_wgnw",
+      "type": "add",
+      "itemId": "i_mqvlfs0p_m1eegi",
+      "itemTitle": "I can't believe this happened...",
+      "itemUrl": "https://www.youtube.com/watch?v=eEdOqSmkZy0",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-27T00:00:10.393Z"
+    },
+    {
+      "id": "a_mqvlfs0p_hnb6",
+      "type": "add",
+      "itemId": "i_mqvlfs0p_mex8cq",
+      "itemTitle": "Quoting Timothy B. Lee",
+      "itemUrl": "https://simonwillison.net/2026/Jun/26/timothy-b-lee/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-27T00:00:10.393Z"
+    },
+    {
+      "id": "a_mqvlfs0p_jjym",
+      "type": "add",
+      "itemId": "i_mqvlfs0p_crrujm",
+      "itemTitle": "Quoting Dean W. Ball",
+      "itemUrl": "https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-27T00:00:10.393Z"
+    },
+    {
+      "id": "a_mqvlfs0p_uzoc",
+      "type": "add",
+      "itemId": "i_mqvlfs0p_dbp47u",
+      "itemTitle": "The gap between open weights LLMs and closed source LLMs",
+      "itemUrl": "https://blog.doubleword.ai/frontier-os-llm",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-27T00:00:10.393Z"
+    },
+    {
+      "id": "a_mqvlfs0p_0gaw",
+      "type": "add",
+      "itemId": "i_mqvlfs0p_leqqni",
+      "itemTitle": "US allows Anthropic to release Mythos to 'trusted partners'",
+      "itemUrl": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-27T00:00:10.393Z"
+    },
+    {
       "id": "a_mqvcv3qb_3qxt",
       "type": "add",
       "itemId": "i_mqvcv3qb_km4lvj",
@@ -20799,72 +20997,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-05-22T08:00:50.806Z"
-    },
-    {
-      "id": "a_mpgmr9fa_gvu4",
-      "type": "add",
-      "itemId": "i_mpgmr9fa_fvqyab",
-      "itemTitle": "[AINews] New AI Infra unicorns: Exa, Modal, TurboPuffer",
-      "itemUrl": "https://www.latent.space/p/ainews-new-ai-infra-unicorns-exa",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-22T08:00:50.806Z"
-    },
-    {
-      "id": "a_mpgmr9fa_lrzi",
-      "type": "add",
-      "itemId": "i_mpgmr9fa_qgpuda",
-      "itemTitle": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service",
-      "itemUrl": "https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-22T08:00:50.806Z"
-    },
-    {
-      "id": "a_mpge6mde_0byi",
-      "type": "add",
-      "itemId": "i_mpge6mde_vme3k8",
-      "itemTitle": "Samsung chip workers will get an average $340k bonus as AI profits soar",
-      "itemUrl": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-22T04:00:50.882Z"
-    },
-    {
-      "id": "a_mpg5lznz_dmhv",
-      "type": "add",
-      "itemId": "i_mpg5lznz_wob2h8",
-      "itemTitle": "Giving Agents Computers — Ivan Burazin, Daytona",
-      "itemUrl": "https://www.latent.space/p/daytona",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-22T00:00:51.407Z"
-    },
-    {
-      "id": "a_mpg5lznz_3jf9",
-      "type": "add",
-      "itemId": "i_mpg5lznz_3jundq",
-      "itemTitle": "datasette-agent-charts 0.1a2",
-      "itemUrl": "https://simonwillison.net/2026/May/21/datasette-agent-charts/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-22T00:00:51.407Z"
-    },
-    {
-      "id": "a_mpg5lznz_10j4",
-      "type": "add",
-      "itemId": "i_mpg5lznz_qyfvrb",
-      "itemTitle": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
-      "itemUrl": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
-      "itemSource": "feed",
-      "category": "gemini",
-      "by": "AI Radar bot",
-      "at": "2026-05-22T00:00:51.407Z"
     }
   ],
   "filterConfig": {
