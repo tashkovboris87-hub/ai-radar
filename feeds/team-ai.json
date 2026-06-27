@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqw2l291_0p9i5m",
+      "url": "https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna",
+      "title": "[AINews] OpenAI GPT-5.6 Sol / Terra / Luna — restricted to trusted partners",
+      "description": "Oddly tiered releases to both OAI and ANT on the same day.",
+      "image": "https://substackcdn.com/image/fetch/$s_!xf8R!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2899dbdf-7aed-499f-92b9-63cc194a604e_1328x932.png",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-27T05:23:22.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-27T08:00:10.405Z"
+    },
+    {
+      "id": "i_mqw2l291_jmauga",
+      "url": "https://www.youtube.com/watch?v=x0e6IQEkV7c",
+      "title": "OpenAI Just Introduced GPT 5.6 (Beats Claude Fable 5 And Mythos)",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/x0e6IQEkV7c/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-27T06:15:07.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-27T08:00:10.405Z"
+    },
+    {
       "id": "i_mqvu0eqx_99l8vx",
       "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
       "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
@@ -15542,6 +15586,28 @@
   ],
   "activity": [
     {
+      "id": "a_mqw2l291_0wn4",
+      "type": "add",
+      "itemId": "i_mqw2l291_jmauga",
+      "itemTitle": "OpenAI Just Introduced GPT 5.6 (Beats Claude Fable 5 And Mythos)",
+      "itemUrl": "https://www.youtube.com/watch?v=x0e6IQEkV7c",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-27T08:00:10.405Z"
+    },
+    {
+      "id": "a_mqw2l291_8dmo",
+      "type": "add",
+      "itemId": "i_mqw2l291_0p9i5m",
+      "itemTitle": "[AINews] OpenAI GPT-5.6 Sol / Terra / Luna — restricted to trusted partners",
+      "itemUrl": "https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-27T08:00:10.405Z"
+    },
+    {
       "id": "a_mqvu0eqx_dm71",
       "type": "add",
       "itemId": "i_mqvu0eqx_we74pl",
@@ -21017,28 +21083,6 @@
       "itemUrl": "https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything",
       "itemSource": "feed",
       "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-23T08:01:01.566Z"
-    },
-    {
-      "id": "a_mpi27ce6_m1oi",
-      "type": "add",
-      "itemId": "i_mpi27ce6_l9i7hn",
-      "itemTitle": "How Virgin Atlantic ships faster with Codex",
-      "itemUrl": "https://openai.com/index/virgin-atlantic",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-05-23T08:01:01.566Z"
-    },
-    {
-      "id": "a_mpi27ce6_hj39",
-      "type": "add",
-      "itemId": "i_mpi27ce6_od0nk5",
-      "itemTitle": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "itemUrl": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-      "itemSource": "feed",
-      "category": "chatgpt",
       "by": "AI Radar bot",
       "at": "2026-05-23T08:01:01.566Z"
     }
