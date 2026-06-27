@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqwjqbbn_44tdve",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "description": "",
+      "image": "",
+      "domain": "github.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-27T09:18:52.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-27T16:00:08.915Z"
+    },
+    {
       "id": "i_mqw2l291_0p9i5m",
       "url": "https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna",
       "title": "[AINews] OpenAI GPT-5.6 Sol / Terra / Luna — restricted to trusted partners",
@@ -15586,6 +15608,17 @@
   ],
   "activity": [
     {
+      "id": "a_mqwjqbbn_a8sf",
+      "type": "add",
+      "itemId": "i_mqwjqbbn_44tdve",
+      "itemTitle": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "itemUrl": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-27T16:00:08.915Z"
+    },
+    {
       "id": "a_mqw2l291_0wn4",
       "type": "add",
       "itemId": "i_mqw2l291_jmauga",
@@ -21070,17 +21103,6 @@
       "itemId": "i_mpi27ce6_qk8ftg",
       "itemTitle": "[AINews] All Model Labs are now Agent Labs",
       "itemUrl": "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-23T08:01:01.566Z"
-    },
-    {
-      "id": "a_mpi27ce6_0afn",
-      "type": "add",
-      "itemId": "i_mpi27ce6_dul4az",
-      "itemTitle": "The memory shortage is causing a repricing of consumer electronics",
-      "itemUrl": "https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
