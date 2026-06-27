@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqvu0eqx_99l8vx",
+      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+      "description": "",
+      "image": "",
+      "domain": "semafor.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-26T22:48:28.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-27T04:00:09.897Z"
+    },
+    {
+      "id": "i_mqvu0eqx_we74pl",
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "title": "AI in mathematics is forcing big questions",
+      "description": "",
+      "image": "",
+      "domain": "spectrum.ieee.org",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-26T22:36:51.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-27T04:00:09.897Z"
+    },
+    {
       "id": "i_mqvlfs0p_leqqni",
       "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
       "title": "US allows Anthropic to release Mythos to 'trusted partners'",
@@ -15498,6 +15542,28 @@
   ],
   "activity": [
     {
+      "id": "a_mqvu0eqx_dm71",
+      "type": "add",
+      "itemId": "i_mqvu0eqx_we74pl",
+      "itemTitle": "AI in mathematics is forcing big questions",
+      "itemUrl": "https://spectrum.ieee.org/ai-in-mathematics",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-27T04:00:09.897Z"
+    },
+    {
+      "id": "a_mqvu0eqx_hh69",
+      "type": "add",
+      "itemId": "i_mqvu0eqx_99l8vx",
+      "itemTitle": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+      "itemUrl": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-27T04:00:09.897Z"
+    },
+    {
       "id": "a_mqvlfs0p_1nzm",
       "type": "add",
       "itemId": "i_mqvlfs0p_9cp3qc",
@@ -20975,28 +21041,6 @@
       "category": "chatgpt",
       "by": "AI Radar bot",
       "at": "2026-05-23T08:01:01.566Z"
-    },
-    {
-      "id": "a_mpi27ce6_q25b",
-      "type": "add",
-      "itemId": "i_mpi27ce6_8yd2dk",
-      "itemTitle": "Microsoft starts canceling Claude Code licenses",
-      "itemUrl": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-23T08:01:01.566Z"
-    },
-    {
-      "id": "a_mpgmr9fa_2va6",
-      "type": "add",
-      "itemId": "i_mpgmr9fa_7ggvq8",
-      "itemTitle": "DeepSeek’s New AI Is A Game Changer",
-      "itemUrl": "https://www.youtube.com/watch?v=LpXhy2iiaQE",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-22T08:00:50.806Z"
     }
   ],
   "filterConfig": {
