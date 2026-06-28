@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqxqmc29_1102w3",
+      "url": "https://github.com/itsthelore/wayfinder-router",
+      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "description": "",
+      "image": "",
+      "domain": "github.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-28T04:31:18.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-28T12:00:46.737Z"
+    },
+    {
+      "id": "i_mqxqmc29_mp1dfe",
+      "url": "https://www.youtube.com/watch?v=SbafEATbfXQ",
+      "title": "AI Access Is About To Change Forever",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/SbafEATbfXQ/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-28T10:15:24.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-28T12:00:46.737Z"
+    },
+    {
       "id": "i_mqxi1pnj_q38ivc",
       "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
       "title": "Ford hired AI and sacked humans. It backfired badly",
@@ -15696,6 +15740,28 @@
   ],
   "activity": [
     {
+      "id": "a_mqxqmc29_pz8r",
+      "type": "add",
+      "itemId": "i_mqxqmc29_mp1dfe",
+      "itemTitle": "AI Access Is About To Change Forever",
+      "itemUrl": "https://www.youtube.com/watch?v=SbafEATbfXQ",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-28T12:00:46.737Z"
+    },
+    {
+      "id": "a_mqxqmc29_laly",
+      "type": "add",
+      "itemId": "i_mqxqmc29_1102w3",
+      "itemTitle": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "itemUrl": "https://github.com/itsthelore/wayfinder-router",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-28T12:00:46.737Z"
+    },
+    {
       "id": "a_mqxi1pnj_g3rg",
       "type": "add",
       "itemId": "i_mqxi1pnj_q38ivc",
@@ -21173,28 +21239,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-05-24T20:00:45.272Z"
-    },
-    {
-      "id": "a_mpjys49v_5m0z",
-      "type": "add",
-      "itemId": "i_mpjys49v_0bwm7a",
-      "itemTitle": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-      "itemUrl": "https://esengine.github.io/DeepSeek-Reasonix/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-24T16:00:44.707Z"
-    },
-    {
-      "id": "a_mpjq7gnu_v05c",
-      "type": "add",
-      "itemId": "i_mpjq7gnu_tqm0zc",
-      "itemTitle": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
-      "itemUrl": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-24T12:00:44.058Z"
     }
   ],
   "filterConfig": {
