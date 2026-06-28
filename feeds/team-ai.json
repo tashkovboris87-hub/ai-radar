@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqxi1pnj_q38ivc",
+      "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+      "title": "Ford hired AI and sacked humans. It backfired badly",
+      "description": "",
+      "image": "",
+      "domain": "the-independent.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-28T03:09:13.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-28T08:00:47.647Z"
+    },
+    {
       "id": "i_mqx0wfjo_hjvpao",
       "url": "https://github.com/kageroumado/adrafinil",
       "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
@@ -15674,6 +15696,17 @@
   ],
   "activity": [
     {
+      "id": "a_mqxi1pnj_g3rg",
+      "type": "add",
+      "itemId": "i_mqxi1pnj_q38ivc",
+      "itemTitle": "Ford hired AI and sacked humans. It backfired badly",
+      "itemUrl": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-28T08:00:47.647Z"
+    },
+    {
       "id": "a_mqx0wfjo_fs8c",
       "type": "add",
       "itemId": "i_mqx0wfjo_hjvpao",
@@ -21162,17 +21195,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-05-24T12:00:44.058Z"
-    },
-    {
-      "id": "a_mpj0hksc_c544",
-      "type": "add",
-      "itemId": "i_mpj0hksc_2gi1rd",
-      "itemTitle": "On the <dl>",
-      "itemUrl": "https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-24T00:00:45.948Z"
     }
   ],
   "filterConfig": {
