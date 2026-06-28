@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqx0wfjo_hjvpao",
+      "url": "https://github.com/kageroumado/adrafinil",
+      "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
+      "description": "",
+      "image": "",
+      "domain": "github.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-27T20:34:53.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-28T00:00:47.796Z"
+    },
+    {
       "id": "i_mqwsbsk6_4aqau8",
       "url": "https://spectrum.ieee.org/ai-radio-chip-design",
       "title": "AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
@@ -15652,6 +15674,17 @@
   ],
   "activity": [
     {
+      "id": "a_mqx0wfjo_fs8c",
+      "type": "add",
+      "itemId": "i_mqx0wfjo_hjvpao",
+      "itemTitle": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
+      "itemUrl": "https://github.com/kageroumado/adrafinil",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-28T00:00:47.796Z"
+    },
+    {
       "id": "a_mqwsbsk6_q518",
       "type": "add",
       "itemId": "i_mqwsbsk6_wvzs5u",
@@ -21140,17 +21173,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-05-24T00:00:45.948Z"
-    },
-    {
-      "id": "a_mpi27ce6_24i8",
-      "type": "add",
-      "itemId": "i_mpi27ce6_x7qqrm",
-      "itemTitle": "Google’s AI endgame is here… everything you missed at I/O 2026",
-      "itemUrl": "https://www.youtube.com/watch?v=9OQ5vaYbGV0",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-23T08:01:01.566Z"
     }
   ],
   "filterConfig": {
