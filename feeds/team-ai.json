@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqxz6znd_xci716",
+      "url": "https://github.com/openai/codex/issues/2847",
+      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+      "description": "",
+      "image": "",
+      "domain": "github.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-28T12:27:33.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-28T16:00:47.353Z"
+    },
+    {
+      "id": "i_mqxz6znd_jrem66",
+      "url": "https://www.youtube.com/watch?v=TML-0HmxWCE",
+      "title": "HERMES SETUP IN 2 MINUTES",
+      "description": "Matthew Berman (YouTube)",
+      "image": "https://i.ytimg.com/vi/TML-0HmxWCE/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-28T14:00:35.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-28T16:00:47.353Z"
+    },
+    {
       "id": "i_mqxqmc29_1102w3",
       "url": "https://github.com/itsthelore/wayfinder-router",
       "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
@@ -15740,6 +15784,28 @@
   ],
   "activity": [
     {
+      "id": "a_mqxz6znd_ajmq",
+      "type": "add",
+      "itemId": "i_mqxz6znd_jrem66",
+      "itemTitle": "HERMES SETUP IN 2 MINUTES",
+      "itemUrl": "https://www.youtube.com/watch?v=TML-0HmxWCE",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-28T16:00:47.353Z"
+    },
+    {
+      "id": "a_mqxz6znd_rnhe",
+      "type": "add",
+      "itemId": "i_mqxz6znd_xci716",
+      "itemTitle": "A way to exclude sensitive files issue still open for OpenAI Codex",
+      "itemUrl": "https://github.com/openai/codex/issues/2847",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-28T16:00:47.353Z"
+    },
+    {
       "id": "a_mqxqmc29_pz8r",
       "type": "add",
       "itemId": "i_mqxqmc29_mp1dfe",
@@ -21213,28 +21279,6 @@
       "itemId": "i_mpk7crtk_qhs2om",
       "itemTitle": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
       "itemUrl": "https://arxiv.org/abs/2605.06445",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-24T20:00:45.272Z"
-    },
-    {
-      "id": "a_mpk7crtk_8vpk",
-      "type": "add",
-      "itemId": "i_mpk7crtk_iztogb",
-      "itemTitle": "Claude Is Not Your Architect. Stop Letting It Pretend",
-      "itemUrl": "https://www.hollandtech.net/claude-is-not-your-architect/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-24T20:00:45.272Z"
-    },
-    {
-      "id": "a_mpk7crtk_mbx9",
-      "type": "add",
-      "itemId": "i_mpk7crtk_4etqcq",
-      "itemTitle": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "itemUrl": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
