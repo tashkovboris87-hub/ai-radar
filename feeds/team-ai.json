@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqy7rmto_ounzc5",
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "description": "",
+      "image": "",
+      "domain": "antoine.fi",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-28T16:35:19.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-28T20:00:47.436Z"
+    },
+    {
       "id": "i_mqxz6znd_xci716",
       "url": "https://github.com/openai/codex/issues/2847",
       "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
@@ -15784,6 +15806,17 @@
   ],
   "activity": [
     {
+      "id": "a_mqy7rmto_kt5e",
+      "type": "add",
+      "itemId": "i_mqy7rmto_ounzc5",
+      "itemTitle": "I used Claude Code to get a second opinion on my MRI",
+      "itemUrl": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-28T20:00:47.436Z"
+    },
+    {
       "id": "a_mqxz6znd_ajmq",
       "type": "add",
       "itemId": "i_mqxz6znd_jrem66",
@@ -21268,17 +21301,6 @@
       "itemId": "i_mpk7crtk_z9hb6d",
       "itemTitle": "Quoting Armin Ronacher",
       "itemUrl": "https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-24T20:00:45.272Z"
-    },
-    {
-      "id": "a_mpk7crtk_aotv",
-      "type": "add",
-      "itemId": "i_mpk7crtk_qhs2om",
-      "itemTitle": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-      "itemUrl": "https://arxiv.org/abs/2605.06445",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
