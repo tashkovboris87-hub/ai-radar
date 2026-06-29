@@ -2,6 +2,94 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqygc9n0_rwymzl",
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "description": "",
+      "image": "",
+      "domain": "semgrep.dev",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-28T17:50:47.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-29T00:00:47.052Z"
+    },
+    {
+      "id": "i_mqygc9n0_cgs6dk",
+      "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+      "title": "Professor denounces mass AI fraud on an exam at Brown",
+      "description": "",
+      "image": "",
+      "domain": "english.elpais.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-28T16:41:12.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-29T00:00:47.052Z"
+    },
+    {
+      "id": "i_mqygc9n0_qcq8z9",
+      "url": "https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything",
+      "title": "Quoting Jon Udell",
+      "description": "Human Agent in the loop I dislike the phrase “human in the loop” because it cedes authority to the machines. Let’s flip the narrative. It’s our loop, we work the same way we always have, now we recruit agents to join the team. An agent-assisted process need not be a black box that takes in prompts a",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-28T21:57:41.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-29T00:00:47.052Z"
+    },
+    {
+      "id": "i_mqygc9n0_0uvprf",
+      "url": "https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything",
+      "title": "Hack Your Summer",
+      "description": "Hack Your Summer I learned about this initiative from DJ Patil this morning: It’s a 4-week, high-velocity production sprint for undergraduate students, graduate students, and recent graduates who want to build something real this summer. You’ll learn how to identify a project, make steady progress, ",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-28T19:26:11.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-29T00:00:47.052Z"
+    },
+    {
       "id": "i_mqy7rmto_ounzc5",
       "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
       "title": "I used Claude Code to get a second opinion on my MRI",
@@ -15806,6 +15894,50 @@
   ],
   "activity": [
     {
+      "id": "a_mqygc9n0_fgct",
+      "type": "add",
+      "itemId": "i_mqygc9n0_0uvprf",
+      "itemTitle": "Hack Your Summer",
+      "itemUrl": "https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-29T00:00:47.052Z"
+    },
+    {
+      "id": "a_mqygc9n0_esiq",
+      "type": "add",
+      "itemId": "i_mqygc9n0_qcq8z9",
+      "itemTitle": "Quoting Jon Udell",
+      "itemUrl": "https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-29T00:00:47.052Z"
+    },
+    {
+      "id": "a_mqygc9n0_fvb7",
+      "type": "add",
+      "itemId": "i_mqygc9n0_cgs6dk",
+      "itemTitle": "Professor denounces mass AI fraud on an exam at Brown",
+      "itemUrl": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-29T00:00:47.052Z"
+    },
+    {
+      "id": "a_mqygc9n0_bvwd",
+      "type": "add",
+      "itemId": "i_mqygc9n0_rwymzl",
+      "itemTitle": "GLM 5.2 beats Claude in our benchmarks",
+      "itemUrl": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-29T00:00:47.052Z"
+    },
+    {
       "id": "a_mqy7rmto_kt5e",
       "type": "add",
       "itemId": "i_mqy7rmto_ounzc5",
@@ -21261,50 +21393,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-05-25T00:00:47.249Z"
-    },
-    {
-      "id": "a_mpkfxggh_hok5",
-      "type": "add",
-      "itemId": "i_mpkfxggh_cz41cb",
-      "itemTitle": "datasette-fixtures 0.1a0",
-      "itemUrl": "https://simonwillison.net/2026/May/24/datasette-fixtures/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-25T00:00:47.249Z"
-    },
-    {
-      "id": "a_mpkfxggh_918f",
-      "type": "add",
-      "itemId": "i_mpkfxggh_46v7ot",
-      "itemTitle": "datasette-agent 0.1a4",
-      "itemUrl": "https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-25T00:00:47.249Z"
-    },
-    {
-      "id": "a_mpkfxggh_0usf",
-      "type": "add",
-      "itemId": "i_mpkfxggh_0hb6ir",
-      "itemTitle": "datasette 1.0a30",
-      "itemUrl": "https://simonwillison.net/2026/May/24/datasette/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-25T00:00:47.249Z"
-    },
-    {
-      "id": "a_mpk7crtk_32ml",
-      "type": "add",
-      "itemId": "i_mpk7crtk_z9hb6d",
-      "itemTitle": "Quoting Armin Ronacher",
-      "itemUrl": "https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-24T20:00:45.272Z"
     }
   ],
   "filterConfig": {
