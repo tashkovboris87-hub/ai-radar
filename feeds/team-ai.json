@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqzen01b_s3zt11",
+      "url": "https://tidal.com/ai-policy",
+      "title": "Tidal AI Policy",
+      "description": "",
+      "image": "",
+      "domain": "tidal.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-29T13:09:03.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-29T16:00:54.767Z"
+    },
+    {
+      "id": "i_mqzen01b_nkzmvf",
+      "url": "https://importai.substack.com/p/import-ai-463-self-improving-robots",
+      "title": "Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era",
+      "description": "What eras bookend our interregnum?",
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "domain": "importai.substack.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-29T13:03:27.000Z",
+      "addedBy": "Import AI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-29T16:00:54.767Z"
+    },
+    {
       "id": "i_mqz6275r_ny1xwx",
       "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
       "title": "Mapping Europe’s AI Workforce Opportunity",
@@ -15938,6 +15982,28 @@
   ],
   "activity": [
     {
+      "id": "a_mqzen01b_lsmz",
+      "type": "add",
+      "itemId": "i_mqzen01b_nkzmvf",
+      "itemTitle": "Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era",
+      "itemUrl": "https://importai.substack.com/p/import-ai-463-self-improving-robots",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-29T16:00:54.767Z"
+    },
+    {
+      "id": "a_mqzen01b_q5qj",
+      "type": "add",
+      "itemId": "i_mqzen01b_s3zt11",
+      "itemTitle": "Tidal AI Policy",
+      "itemUrl": "https://tidal.com/ai-policy",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-29T16:00:54.767Z"
+    },
+    {
       "id": "a_mqz6275r_sp99",
       "type": "add",
       "itemId": "i_mqz6275r_ny1xwx",
@@ -21415,28 +21481,6 @@
       "category": "chatgpt",
       "by": "AI Radar bot",
       "at": "2026-05-25T20:00:39.002Z"
-    },
-    {
-      "id": "a_mple7ubc_2qne",
-      "type": "add",
-      "itemId": "i_mple7ubc_xpzb1y",
-      "itemTitle": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
-      "itemUrl": "https://huggingface.co/blog/agent-glossary",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-25T16:00:38.712Z"
-    },
-    {
-      "id": "a_mple7ubc_rqrb",
-      "type": "add",
-      "itemId": "i_mple7ubc_fblppp",
-      "itemTitle": "Pope Leo: opaque AI run by few firms risks \"New Forms of Dehumanization\"",
-      "itemUrl": "https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-25T16:00:38.712Z"
     }
   ],
   "filterConfig": {
