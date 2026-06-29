@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqz6275r_ny1xwx",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "title": "Mapping Europe’s AI Workforce Opportunity",
+      "description": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-06-29T07:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-29T12:00:47.295Z"
+    },
+    {
       "id": "i_mqyxhk3i_uj5p1a",
       "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
       "title": "Age verification is just a precursor to automated attribution of speech",
@@ -15916,6 +15938,17 @@
   ],
   "activity": [
     {
+      "id": "a_mqz6275r_sp99",
+      "type": "add",
+      "itemId": "i_mqz6275r_ny1xwx",
+      "itemTitle": "Mapping Europe’s AI Workforce Opportunity",
+      "itemUrl": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-06-29T12:00:47.295Z"
+    },
+    {
       "id": "a_mqyxhk3i_pwzu",
       "type": "add",
       "itemId": "i_mqyxhk3i_uj5p1a",
@@ -21400,17 +21433,6 @@
       "itemId": "i_mple7ubc_fblppp",
       "itemTitle": "Pope Leo: opaque AI run by few firms risks \"New Forms of Dehumanization\"",
       "itemUrl": "https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-25T16:00:38.712Z"
-    },
-    {
-      "id": "a_mple7ubc_47hl",
-      "type": "add",
-      "itemId": "i_mple7ubc_rxh8ue",
-      "itemTitle": "Pope Leo XIV says AI must serve humanity, not the powerful few",
-      "itemUrl": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
