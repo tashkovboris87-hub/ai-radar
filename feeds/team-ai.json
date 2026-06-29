@@ -2,6 +2,116 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mqzn7i1f_to3puq",
+      "url": "https://github.com/deepreinforce-ai/Ornith-1",
+      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "description": "",
+      "image": "",
+      "domain": "github.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-29T17:16:17.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-29T20:00:48.147Z"
+    },
+    {
+      "id": "i_mqzn7i1f_qz9i59",
+      "url": "https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything",
+      "title": "Count the number of Safari tabs",
+      "description": "Tiniest TIL, using AppleScript to count the number of open browser tabs in Safari: osascript -e 'tell application \"Safari\" to count tabs of every window' Tags: safari, til, applescript",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-29T18:36:18.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-29T20:00:48.147Z"
+    },
+    {
+      "id": "i_mqzn7i1f_jk7zwy",
+      "url": "https://simonwillison.net/2026/Jun/29/ornith/#atom-everything",
+      "title": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
+      "description": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding This is an interesting new open weights (MIT licensed) model, the first model release from DeepReinforce. [...] with variants including 9B Dense, 31B Dense, 35B MoE, and 397B MoE. Built on top of pretrained Gemma 4 and Qwen 3.5, it achieves state-",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-29T16:17:59.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-29T20:00:48.147Z"
+    },
+    {
+      "id": "i_mqzn7i1f_u8zbyc",
+      "url": "https://huggingface.co/blog/allenai/discoformer",
+      "title": "DiScoFormer: One transformer for density and score, across distributions",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-29T18:02:48.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-29T20:00:48.147Z"
+    },
+    {
+      "id": "i_mqzn7i1f_fl8kv1",
+      "url": "https://www.youtube.com/watch?v=8cEeueXansY",
+      "title": "Anthropic’s Secret Model Just Leaked \"Mythos 6\"",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/8cEeueXansY/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-29T16:30:03.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-29T20:00:48.147Z"
+    },
+    {
       "id": "i_mqzen01b_s3zt11",
       "url": "https://tidal.com/ai-policy",
       "title": "Tidal AI Policy",
@@ -15982,6 +16092,61 @@
   ],
   "activity": [
     {
+      "id": "a_mqzn7i1f_tmwz",
+      "type": "add",
+      "itemId": "i_mqzn7i1f_fl8kv1",
+      "itemTitle": "Anthropic’s Secret Model Just Leaked \"Mythos 6\"",
+      "itemUrl": "https://www.youtube.com/watch?v=8cEeueXansY",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-29T20:00:48.147Z"
+    },
+    {
+      "id": "a_mqzn7i1f_mngu",
+      "type": "add",
+      "itemId": "i_mqzn7i1f_u8zbyc",
+      "itemTitle": "DiScoFormer: One transformer for density and score, across distributions",
+      "itemUrl": "https://huggingface.co/blog/allenai/discoformer",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-29T20:00:48.147Z"
+    },
+    {
+      "id": "a_mqzn7i1f_0xi9",
+      "type": "add",
+      "itemId": "i_mqzn7i1f_jk7zwy",
+      "itemTitle": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
+      "itemUrl": "https://simonwillison.net/2026/Jun/29/ornith/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-29T20:00:48.147Z"
+    },
+    {
+      "id": "a_mqzn7i1f_gq2j",
+      "type": "add",
+      "itemId": "i_mqzn7i1f_qz9i59",
+      "itemTitle": "Count the number of Safari tabs",
+      "itemUrl": "https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-29T20:00:48.147Z"
+    },
+    {
+      "id": "a_mqzn7i1f_slde",
+      "type": "add",
+      "itemId": "i_mqzn7i1f_to3puq",
+      "itemTitle": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "itemUrl": "https://github.com/deepreinforce-ai/Ornith-1",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-29T20:00:48.147Z"
+    },
+    {
       "id": "a_mqzen01b_lsmz",
       "type": "add",
       "itemId": "i_mqzen01b_nkzmvf",
@@ -21426,61 +21591,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-05-26T04:00:38.328Z"
-    },
-    {
-      "id": "a_mpm3xrco_a2gv",
-      "type": "add",
-      "itemId": "i_mpm3xrco_vhzpzq",
-      "itemTitle": "Using AI to write better code more slowly",
-      "itemUrl": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-26T04:00:38.328Z"
-    },
-    {
-      "id": "a_mplvd4hb_0sk3",
-      "type": "add",
-      "itemId": "i_mplvd4hb_8kf6s6",
-      "itemTitle": "Norway's 2 petabytes of Huawei flash storage and LLM training",
-      "itemUrl": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-26T00:00:38.639Z"
-    },
-    {
-      "id": "a_mplvd4hb_6kf4",
-      "type": "add",
-      "itemId": "i_mplvd4hb_7xu1m0",
-      "itemTitle": "Microsoft Copilot Cowork Exfiltrates Files",
-      "itemUrl": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-26T00:00:38.639Z"
-    },
-    {
-      "id": "a_mplmshne_8v6e",
-      "type": "add",
-      "itemId": "i_mplmshne_a4hxt6",
-      "itemTitle": "DeepMind’s Insane AI Breakthroughs With CEO Demis Hassabis",
-      "itemUrl": "https://www.youtube.com/watch?v=huAwz_BR8WM",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-25T20:00:39.002Z"
-    },
-    {
-      "id": "a_mplmshne_u3p8",
-      "type": "add",
-      "itemId": "i_mplmshne_zvr2sq",
-      "itemTitle": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-      "itemUrl": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-05-25T20:00:39.002Z"
     }
   ],
   "filterConfig": {
