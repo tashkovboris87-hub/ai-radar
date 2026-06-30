@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mr0cxegx_skopjx",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-07e",
+      "title": "[AINews] not much happened today",
+      "description": "a quiet day before the storm.",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/htM02KMNZnk",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-30T06:47:27.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-30T08:00:46.977Z"
+    },
+    {
+      "id": "i_mr0cxegx_61bh97",
+      "url": "https://www.youtube.com/watch?v=SDme6CQCX2E",
+      "title": "Ornith 1.0 Tutorial - How To Install and Use Ornith 1.0 (Opus Level Coding Locally)",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/SDme6CQCX2E/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-30T02:00:35.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-30T08:00:46.977Z"
+    },
+    {
       "id": "i_mr04crn6_lljyp1",
       "url": "https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything",
       "title": "HTML table extractor",
@@ -16114,6 +16158,28 @@
   ],
   "activity": [
     {
+      "id": "a_mr0cxegx_ri1f",
+      "type": "add",
+      "itemId": "i_mr0cxegx_61bh97",
+      "itemTitle": "Ornith 1.0 Tutorial - How To Install and Use Ornith 1.0 (Opus Level Coding Locally)",
+      "itemUrl": "https://www.youtube.com/watch?v=SDme6CQCX2E",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-30T08:00:46.977Z"
+    },
+    {
+      "id": "a_mr0cxegx_ps1f",
+      "type": "add",
+      "itemId": "i_mr0cxegx_skopjx",
+      "itemTitle": "[AINews] not much happened today",
+      "itemUrl": "https://www.latent.space/p/ainews-not-much-happened-today-07e",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-30T08:00:46.977Z"
+    },
+    {
       "id": "a_mr04crn6_n1v1",
       "type": "add",
       "itemId": "i_mr04crn6_lljyp1",
@@ -21591,28 +21657,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-05-26T16:00:40.329Z"
-    },
-    {
-      "id": "a_mpmtnq89_ictn",
-      "type": "add",
-      "itemId": "i_mpmtnq89_e8shfw",
-      "itemTitle": "Microsoft Copilot Cowork Exfiltrates Files",
-      "itemUrl": "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-26T16:00:40.329Z"
-    },
-    {
-      "id": "a_mpm3xrco_h94t",
-      "type": "add",
-      "itemId": "i_mpm3xrco_k9qgrf",
-      "itemTitle": "Notes on Pope Leo XIV's encyclical on AI",
-      "itemUrl": "https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-26T04:00:38.328Z"
     }
   ],
   "filterConfig": {
