@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mr04crn6_lljyp1",
+      "url": "https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything",
+      "title": "HTML table extractor",
+      "description": "Tool: HTML table extractor Yet another in my growing collection of paste-conversion tools. This one accepts pasted rich text from browsers (with embedded HTML tables) and converts every detected table into HTML, Markdown, CSV, TSV, or JSON. Try it out by selecting everything on the Wikipedia List of",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-29T23:38:21.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-30T04:00:47.346Z"
+    },
+    {
       "id": "i_mqzn7i1f_to3puq",
       "url": "https://github.com/deepreinforce-ai/Ornith-1",
       "title": "Ornith-1.0: self-improving open-source models for agentic coding",
@@ -16092,6 +16114,17 @@
   ],
   "activity": [
     {
+      "id": "a_mr04crn6_n1v1",
+      "type": "add",
+      "itemId": "i_mr04crn6_lljyp1",
+      "itemTitle": "HTML table extractor",
+      "itemUrl": "https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-30T04:00:47.346Z"
+    },
+    {
       "id": "a_mqzn7i1f_tmwz",
       "type": "add",
       "itemId": "i_mqzn7i1f_fl8kv1",
@@ -21576,17 +21609,6 @@
       "itemId": "i_mpm3xrco_k9qgrf",
       "itemTitle": "Notes on Pope Leo XIV's encyclical on AI",
       "itemUrl": "https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-26T04:00:38.328Z"
-    },
-    {
-      "id": "a_mpm3xrco_19f7",
-      "type": "add",
-      "itemId": "i_mpm3xrco_4h6diu",
-      "itemTitle": "Quoting Corey Quinn",
-      "itemUrl": "https://simonwillison.net/2026/May/26/corey-quinn/#atom-everything",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
