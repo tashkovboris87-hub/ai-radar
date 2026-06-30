@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mr0u2qh5_5pnbej",
+      "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+      "title": "Why Specialization Is Inevitable",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-30T14:39:11.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-30T16:00:49.289Z"
+    },
+    {
+      "id": "i_mr0u2qh5_j45clc",
+      "url": "https://huggingface.co/blog/eee-community-evals",
+      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-30T00:00:00.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-30T16:00:49.289Z"
+    },
+    {
+      "id": "i_mr0u2qh5_x4z6by",
+      "url": "https://www.youtube.com/watch?v=Xt5cEilo7RQ",
+      "title": "The Next AI Race Just Started - The World’s First Real Quantum Computer - Quantum Genesis",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/Xt5cEilo7RQ/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-30T12:00:30.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-06-30T16:00:49.289Z"
+    },
+    {
       "id": "i_mr0cxegx_skopjx",
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-07e",
       "title": "[AINews] not much happened today",
@@ -16158,6 +16224,39 @@
   ],
   "activity": [
     {
+      "id": "a_mr0u2qh5_5c7m",
+      "type": "add",
+      "itemId": "i_mr0u2qh5_x4z6by",
+      "itemTitle": "The Next AI Race Just Started - The World’s First Real Quantum Computer - Quantum Genesis",
+      "itemUrl": "https://www.youtube.com/watch?v=Xt5cEilo7RQ",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-30T16:00:49.289Z"
+    },
+    {
+      "id": "a_mr0u2qh5_o1l8",
+      "type": "add",
+      "itemId": "i_mr0u2qh5_j45clc",
+      "itemTitle": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "itemUrl": "https://huggingface.co/blog/eee-community-evals",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-30T16:00:49.289Z"
+    },
+    {
+      "id": "a_mr0u2qh5_pf5b",
+      "type": "add",
+      "itemId": "i_mr0u2qh5_5pnbej",
+      "itemTitle": "Why Specialization Is Inevitable",
+      "itemUrl": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-06-30T16:00:49.289Z"
+    },
+    {
       "id": "a_mr0cxegx_ri1f",
       "type": "add",
       "itemId": "i_mr0cxegx_61bh97",
@@ -21624,39 +21723,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-05-26T20:00:39.510Z"
-    },
-    {
-      "id": "a_mpmtnq89_7pgo",
-      "type": "add",
-      "itemId": "i_mpmtnq89_uvabk1",
-      "itemTitle": "Import AI 458: Reckoning with the future; and a singularity story",
-      "itemUrl": "https://importai.substack.com/p/import-ai-458-reckoning-with-the",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-26T16:00:40.329Z"
-    },
-    {
-      "id": "a_mpmtnq89_1159",
-      "type": "add",
-      "itemId": "i_mpmtnq89_zu3ef8",
-      "itemTitle": "California Brown Pelican, Snowy Egret, California Sea Lion, Harbor Seal",
-      "itemUrl": "https://simonwillison.net/2026/May/25/sighting-365297287/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-26T16:00:40.329Z"
-    },
-    {
-      "id": "a_mpmtnq89_hibi",
-      "type": "add",
-      "itemId": "i_mpmtnq89_d2j7u5",
-      "itemTitle": "Quoting Paul Graham",
-      "itemUrl": "https://simonwillison.net/2026/May/26/paul-graham/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-26T16:00:40.329Z"
     }
   ],
   "filterConfig": {
