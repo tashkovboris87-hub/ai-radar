@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mr29ijfv_iu1q4e",
+      "url": "https://www.latent.space/p/the-coolest-diffusion-research-isnt",
+      "title": "🔬 The Coolest Diffusion Research Isn't in LLMs — Evan Feinberg & Sergey Edunov, Genesis Molecular AI",
+      "description": "Why the Llama lead left Meta for drug discovery, PEARL's zero-shot OpenBind win, and what becomes possible when co-folding finally crosses the accuracy threshold.",
+      "image": "",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-01T14:42:39.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-01T16:00:47.083Z"
+    },
+    {
+      "id": "i_mr29ijfv_wo03fb",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-01T00:00:00.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-01T16:00:47.083Z"
+    },
+    {
       "id": "i_mr20xwn5_euu2qc",
       "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
       "title": "Godot will no longer accept AI-authored code contributions",
@@ -16686,6 +16730,28 @@
   ],
   "activity": [
     {
+      "id": "a_mr29ijfv_trx0",
+      "type": "add",
+      "itemId": "i_mr29ijfv_wo03fb",
+      "itemTitle": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "itemUrl": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-01T16:00:47.083Z"
+    },
+    {
+      "id": "a_mr29ijfv_dxg1",
+      "type": "add",
+      "itemId": "i_mr29ijfv_iu1q4e",
+      "itemTitle": "🔬 The Coolest Diffusion Research Isn't in LLMs — Evan Feinberg & Sergey Edunov, Genesis Molecular AI",
+      "itemUrl": "https://www.latent.space/p/the-coolest-diffusion-research-isnt",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-01T16:00:47.083Z"
+    },
+    {
       "id": "a_mr20xwn5_owxt",
       "type": "add",
       "itemId": "i_mr20xwn5_euu2qc",
@@ -22159,28 +22225,6 @@
       "itemId": "i_mpnrycyi_ht4y6t",
       "itemTitle": "Quoting Kyle Ferrana",
       "itemUrl": "https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-27T08:00:43.290Z"
-    },
-    {
-      "id": "a_mpnrycyi_0t6p",
-      "type": "add",
-      "itemId": "i_mpnrycyi_29upw3",
-      "itemTitle": "From China, I tested GPT Image 2.0 — and I’m genuinely shocked",
-      "itemUrl": "https://www.reddit.com/gallery/1tow7z5",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-27T08:00:43.290Z"
-    },
-    {
-      "id": "a_mpnrycyi_5qff",
-      "type": "add",
-      "itemId": "i_mpnrycyi_gw86k5",
-      "itemTitle": "My company started measuring our Claude Code usage - now I'm asked to rank engineers on 'AI performance.' This feels wrong...",
-      "itemUrl": "https://old.reddit.com/r/ClaudeAI/comments/1tokje7/my_company_started_measuring_our_claude_code/",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
