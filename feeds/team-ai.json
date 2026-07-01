@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mr2i3cn3_hhgr01",
+      "url": "https://zcode.z.ai/cn",
+      "title": "ZCode: Claude Code from the Makers of GLM",
+      "description": "",
+      "image": "",
+      "domain": "zcode.z.ai",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-01T19:11:38.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-01T20:00:54.975Z"
+    },
+    {
+      "id": "i_mr2i3cn3_s7750h",
+      "url": "https://www.youtube.com/watch?v=7B0ydm64cV8",
+      "title": "The weird history of the internet...",
+      "description": "Fireship (YouTube)",
+      "image": "https://i.ytimg.com/vi/7B0ydm64cV8/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-01T16:33:28.000Z",
+      "addedBy": "Fireship",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-01T20:00:54.975Z"
+    },
+    {
       "id": "i_mr29ijfv_iu1q4e",
       "url": "https://www.latent.space/p/the-coolest-diffusion-research-isnt",
       "title": "🔬 The Coolest Diffusion Research Isn't in LLMs — Evan Feinberg & Sergey Edunov, Genesis Molecular AI",
@@ -16730,6 +16774,28 @@
   ],
   "activity": [
     {
+      "id": "a_mr2i3cn3_5afm",
+      "type": "add",
+      "itemId": "i_mr2i3cn3_s7750h",
+      "itemTitle": "The weird history of the internet...",
+      "itemUrl": "https://www.youtube.com/watch?v=7B0ydm64cV8",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-01T20:00:54.975Z"
+    },
+    {
+      "id": "a_mr2i3cn3_rowa",
+      "type": "add",
+      "itemId": "i_mr2i3cn3_hhgr01",
+      "itemTitle": "ZCode: Claude Code from the Makers of GLM",
+      "itemUrl": "https://zcode.z.ai/cn",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-01T20:00:54.975Z"
+    },
+    {
       "id": "a_mr29ijfv_trx0",
       "type": "add",
       "itemId": "i_mr29ijfv_wo03fb",
@@ -22207,28 +22273,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-05-27T16:00:45.499Z"
-    },
-    {
-      "id": "a_mpo93ovv_o616",
-      "type": "add",
-      "itemId": "i_mpo93ovv_oq95xg",
-      "itemTitle": "New DeepSWE benchmark finds Claude Opus cheats",
-      "itemUrl": "https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-27T16:00:45.499Z"
-    },
-    {
-      "id": "a_mpnrycyi_10rz",
-      "type": "add",
-      "itemId": "i_mpnrycyi_ht4y6t",
-      "itemTitle": "Quoting Kyle Ferrana",
-      "itemUrl": "https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-27T08:00:43.290Z"
     }
   ],
   "filterConfig": {
