@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mr1jsmm2_riswsa",
+      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "description": "",
+      "image": "",
+      "domain": "twitter.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-30T23:55:12.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-01T04:00:47.738Z"
+    },
+    {
+      "id": "i_mr1jsmm2_eady9e",
+      "url": "https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything",
+      "title": "Quoting Anthropic",
+      "description": "We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5. We'll begin restoring access tomorrow, and will share an update soon. &mdash; Anthropic, on Twitter Tags: anthropic, claude, generative-ai, claude-mythos, ai, llms",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-30T23:58:15.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-01T04:00:47.738Z"
+    },
+    {
+      "id": "i_mr1jsmm2_505xp8",
+      "url": "https://www.latent.space/p/ainews-sonnet-5-today-and-fable-5",
+      "title": "[AINews] Sonnet 5 today, and Fable 5 tomorrow",
+      "description": "Everything is open again!",
+      "image": "https://substackcdn.com/image/fetch/$s_!V4wu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHMF3K5vakAAfUEM.png",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-01T03:01:09.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-01T04:00:47.738Z"
+    },
+    {
       "id": "i_mr1b846x_gnfpsd",
       "url": "https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything",
       "title": "Nano Banana 2 Lite",
@@ -16554,6 +16620,39 @@
   ],
   "activity": [
     {
+      "id": "a_mr1jsmm2_84po",
+      "type": "add",
+      "itemId": "i_mr1jsmm2_505xp8",
+      "itemTitle": "[AINews] Sonnet 5 today, and Fable 5 tomorrow",
+      "itemUrl": "https://www.latent.space/p/ainews-sonnet-5-today-and-fable-5",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-01T04:00:47.738Z"
+    },
+    {
+      "id": "a_mr1jsmm2_ais4",
+      "type": "add",
+      "itemId": "i_mr1jsmm2_eady9e",
+      "itemTitle": "Quoting Anthropic",
+      "itemUrl": "https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-01T04:00:47.738Z"
+    },
+    {
+      "id": "a_mr1jsmm2_6u23",
+      "type": "add",
+      "itemId": "i_mr1jsmm2_riswsa",
+      "itemTitle": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "itemUrl": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-01T04:00:47.738Z"
+    },
+    {
       "id": "a_mr1b846x_9oec",
       "type": "add",
       "itemId": "i_mr1b846x_fc5vpf",
@@ -22016,39 +22115,6 @@
       "itemId": "i_mpnjdnku_978jlz",
       "itemTitle": "Google seems to be dropping a native app Google AI studio on Android",
       "itemUrl": "https://i.redd.it/b810oyrhj93h1.jpeg",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-27T04:00:40.350Z"
-    },
-    {
-      "id": "a_mpnjdnku_sqa0",
-      "type": "add",
-      "itemId": "i_mpnjdnku_8msx5r",
-      "itemTitle": "Gemini (especially 3.5) has a specific style of hallucination that I really hate",
-      "itemUrl": "https://www.reddit.com/r/Bard/comments/1tnvzwh/gemini_especially_35_has_a_specific_style_of/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-27T04:00:40.350Z"
-    },
-    {
-      "id": "a_mpnjdnku_r2bs",
-      "type": "add",
-      "itemId": "i_mpnjdnku_aux3jj",
-      "itemTitle": "Google AI Studio can build native Android apps now!",
-      "itemUrl": "https://www.reddit.com/gallery/1tny03h",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-27T04:00:40.350Z"
-    },
-    {
-      "id": "a_mpnjdnku_b65j",
-      "type": "add",
-      "itemId": "i_mpnjdnku_b7c0rf",
-      "itemTitle": "Extra High thinking level possibly with gemini 3.5 pro soon be released",
-      "itemUrl": "https://i.redd.it/ba7f2qwznf3h1.jpeg",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
