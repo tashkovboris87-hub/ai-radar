@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mr20xwn5_euu2qc",
+      "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+      "title": "Godot will no longer accept AI-authored code contributions",
+      "description": "",
+      "image": "",
+      "domain": "pcgamer.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-01T07:43:22.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-01T12:00:47.489Z"
+    },
+    {
       "id": "i_mr1sda2d_oh73yv",
       "url": "https://www.youtube.com/watch?v=qks6dGQFd_c",
       "title": "This New AI Model Changes Everything",
@@ -16664,6 +16686,17 @@
   ],
   "activity": [
     {
+      "id": "a_mr20xwn5_owxt",
+      "type": "add",
+      "itemId": "i_mr20xwn5_euu2qc",
+      "itemTitle": "Godot will no longer accept AI-authored code contributions",
+      "itemUrl": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-01T12:00:47.489Z"
+    },
+    {
       "id": "a_mr1sda2d_etje",
       "type": "add",
       "itemId": "i_mr1sda2d_75g601",
@@ -22148,17 +22181,6 @@
       "itemId": "i_mpnrycyi_gw86k5",
       "itemTitle": "My company started measuring our Claude Code usage - now I'm asked to rank engineers on 'AI performance.' This feels wrong...",
       "itemUrl": "https://old.reddit.com/r/ClaudeAI/comments/1tokje7/my_company_started_measuring_our_claude_code/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-27T08:00:43.290Z"
-    },
-    {
-      "id": "a_mpnrycyi_wuu2",
-      "type": "add",
-      "itemId": "i_mpnrycyi_4i777f",
-      "itemTitle": "Stop traumatizing AI into loops and turn hallucinations into an honest \"I don't know!\" by being NICE to them (Proof of Concept, Research, I don't want to sell anything)",
-      "itemUrl": "https://old.reddit.com/r/LocalLLaMA/comments/1tot20j/stop_traumatizing_ai_into_loops_and_turn/",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
