@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mr1sda2d_oh73yv",
+      "url": "https://www.youtube.com/watch?v=qks6dGQFd_c",
+      "title": "This New AI Model Changes Everything",
+      "description": "Two Minute Papers (YouTube)",
+      "image": "https://i.ytimg.com/vi/qks6dGQFd_c/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-01T05:23:54.000Z",
+      "addedBy": "Two Minute Papers",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-01T08:00:48.181Z"
+    },
+    {
+      "id": "i_mr1sda2d_75g601",
+      "url": "https://www.youtube.com/watch?v=ETFSCIkDbjI",
+      "title": "Anthropic Just Released Sonnet 5 - Heres Everything You Need to know",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/ETFSCIkDbjI/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-01T00:23:37.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-01T08:00:48.181Z"
+    },
+    {
       "id": "i_mr1jsmm2_riswsa",
       "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
       "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
@@ -16620,6 +16664,28 @@
   ],
   "activity": [
     {
+      "id": "a_mr1sda2d_etje",
+      "type": "add",
+      "itemId": "i_mr1sda2d_75g601",
+      "itemTitle": "Anthropic Just Released Sonnet 5 - Heres Everything You Need to know",
+      "itemUrl": "https://www.youtube.com/watch?v=ETFSCIkDbjI",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-01T08:00:48.181Z"
+    },
+    {
+      "id": "a_mr1sda2d_04rw",
+      "type": "add",
+      "itemId": "i_mr1sda2d_oh73yv",
+      "itemTitle": "This New AI Model Changes Everything",
+      "itemUrl": "https://www.youtube.com/watch?v=qks6dGQFd_c",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-01T08:00:48.181Z"
+    },
+    {
       "id": "a_mr1jsmm2_84po",
       "type": "add",
       "itemId": "i_mr1jsmm2_505xp8",
@@ -22097,28 +22163,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-05-27T08:00:43.290Z"
-    },
-    {
-      "id": "a_mpnjdnku_plra",
-      "type": "add",
-      "itemId": "i_mpnjdnku_grdm2s",
-      "itemTitle": "[AINews] New AI Infra decacorns: Fireworks, Baseten (with OpenRouter on the way)",
-      "itemUrl": "https://www.latent.space/p/ainews-new-ai-infra-decacorns-fireworks",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-27T04:00:40.350Z"
-    },
-    {
-      "id": "a_mpnjdnku_g3ob",
-      "type": "add",
-      "itemId": "i_mpnjdnku_978jlz",
-      "itemTitle": "Google seems to be dropping a native app Google AI studio on Android",
-      "itemUrl": "https://i.redd.it/b810oyrhj93h1.jpeg",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-27T04:00:40.350Z"
     }
   ],
   "filterConfig": {
