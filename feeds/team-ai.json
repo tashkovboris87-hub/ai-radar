@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mr1b846x_gnfpsd",
+      "url": "https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything",
+      "title": "Nano Banana 2 Lite",
+      "description": "Nano Banana 2 Lite Also known as Gemini 3.1 Flash Lite Image (gemini-3.1-flash-lite-image in their API), this is the \"fastest and cheapest Gemini image model, engineered for velocity and scale\". I used AI studio to run this prompt: Do a where's Waldo style image but it's where is the raccoon holding",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-30T22:15:35.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-01T00:00:53.817Z"
+    },
+    {
+      "id": "i_mr1b846x_9hya68",
+      "url": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything",
+      "title": "What's new in Claude Sonnet 5",
+      "description": "What's new in Claude Sonnet 5 Claude Sonnet 5 came out this morning. I always head straight for the \"what's new\" developer docs because they tend to have more actionable information than the official announcement post. Anthropic say of Sonnet 5 that \"its performance is close to that of Opus 4.8, but",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-30T21:23:02.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-01T00:00:53.817Z"
+    },
+    {
+      "id": "i_mr1b846x_fc5vpf",
+      "url": "https://www.latent.space/p/ahmad-osman-local-ai",
+      "title": "Ahmad Osman on why local AI is catching up",
+      "description": "After two packed AIEWF workshops, Ahmad Osman makes the case that local AI is catching up fast — from laptops and phones to enterprise-grade infrastructure.",
+      "image": "https://substackcdn.com/image/fetch/$s_!9BC6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9842112b-570d-48b7-92f3-7cbb05681776_1280x720.jpeg",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-06-30T23:39:29.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-01T00:00:53.817Z"
+    },
+    {
       "id": "i_mr12nhsb_2ntrp1",
       "url": "https://www.anthropic.com/news/claude-sonnet-5",
       "title": "Claude Sonnet 5",
@@ -16488,6 +16554,39 @@
   ],
   "activity": [
     {
+      "id": "a_mr1b846x_9oec",
+      "type": "add",
+      "itemId": "i_mr1b846x_fc5vpf",
+      "itemTitle": "Ahmad Osman on why local AI is catching up",
+      "itemUrl": "https://www.latent.space/p/ahmad-osman-local-ai",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-01T00:00:53.817Z"
+    },
+    {
+      "id": "a_mr1b846x_6b9q",
+      "type": "add",
+      "itemId": "i_mr1b846x_9hya68",
+      "itemTitle": "What's new in Claude Sonnet 5",
+      "itemUrl": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-01T00:00:53.817Z"
+    },
+    {
+      "id": "a_mr1b846x_muzj",
+      "type": "add",
+      "itemId": "i_mr1b846x_gnfpsd",
+      "itemTitle": "Nano Banana 2 Lite",
+      "itemUrl": "https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-01T00:00:53.817Z"
+    },
+    {
       "id": "a_mr12nhsb_0ol3",
       "type": "add",
       "itemId": "i_mr12nhsb_xpdwu1",
@@ -21950,39 +22049,6 @@
       "itemId": "i_mpnjdnku_b7c0rf",
       "itemTitle": "Extra High thinking level possibly with gemini 3.5 pro soon be released",
       "itemUrl": "https://i.redd.it/ba7f2qwznf3h1.jpeg",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-27T04:00:40.350Z"
-    },
-    {
-      "id": "a_mpnjdnku_0tsc",
-      "type": "add",
-      "itemId": "i_mpnjdnku_n1y5xe",
-      "itemTitle": "AI has just solved not one, but nine novel math problems, and proved 44 new conjectures. Some of these problems had been unsolved for 50 years.",
-      "itemUrl": "https://i.redd.it/rvohbxi80h3h1.png",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-27T04:00:40.350Z"
-    },
-    {
-      "id": "a_mpnjdnku_qcvf",
-      "type": "add",
-      "itemId": "i_mpnjdnku_b8pkpq",
-      "itemTitle": "What was ChatGPT secretly doing on my computer?",
-      "itemUrl": "https://i.redd.it/gku03szodg3h1.jpeg",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-27T04:00:40.350Z"
-    },
-    {
-      "id": "a_mpnjdnku_zezm",
-      "type": "add",
-      "itemId": "i_mpnjdnku_ty7fxp",
-      "itemTitle": "ChatGPT just gave me temporary full access to a stranger’s account",
-      "itemUrl": "https://www.reddit.com/r/OpenAI/comments/1tofu5t/chatgpt_just_gave_me_temporary_full_access_to_a/",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
