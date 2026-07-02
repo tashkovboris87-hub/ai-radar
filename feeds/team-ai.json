@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mr3oxs9t_0o88e3",
+      "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
+      "description": "",
+      "image": "",
+      "domain": "japannews.yomiuri.co.jp",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-02T13:43:41.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-02T16:00:18.785Z"
+    },
+    {
+      "id": "i_mr3oxs9t_v8j7mx",
+      "url": "https://arxiv.org/abs/2607.01232",
+      "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
+      "description": "",
+      "image": "",
+      "domain": "arxiv.org",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-02T12:10:24.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-02T16:00:18.785Z"
+    },
+    {
+      "id": "i_mr3oxs9t_8136er",
+      "url": "https://www.latent.space/p/skill-engineering-design",
+      "title": "Skill engineering and the case against one-shot AI design",
+      "description": "Paul Bakaus talks to us about Impeccable, human judgment in a 'loopmaxxing' era, and why agents still need people to steer them.",
+      "image": "https://substackcdn.com/image/fetch/$s_!JOvz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c23df3d-275c-48a8-a914-994c53dcd352_1280x720.jpeg",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-02T14:36:05.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-02T16:00:18.785Z"
+    },
+    {
       "id": "i_mr37sief_3vks76",
       "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
       "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
@@ -16818,6 +16884,39 @@
   ],
   "activity": [
     {
+      "id": "a_mr3oxs9t_ewz5",
+      "type": "add",
+      "itemId": "i_mr3oxs9t_8136er",
+      "itemTitle": "Skill engineering and the case against one-shot AI design",
+      "itemUrl": "https://www.latent.space/p/skill-engineering-design",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-02T16:00:18.785Z"
+    },
+    {
+      "id": "a_mr3oxs9t_ywv4",
+      "type": "add",
+      "itemId": "i_mr3oxs9t_v8j7mx",
+      "itemTitle": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
+      "itemUrl": "https://arxiv.org/abs/2607.01232",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-02T16:00:18.785Z"
+    },
+    {
+      "id": "a_mr3oxs9t_h6kz",
+      "type": "add",
+      "itemId": "i_mr3oxs9t_0o88e3",
+      "itemTitle": "AI can't be listed as inventor on patent applications, Japan's top court rules",
+      "itemUrl": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-02T16:00:18.785Z"
+    },
+    {
       "id": "a_mr37sief_4am9",
       "type": "add",
       "itemId": "i_mr37sief_onh4g0",
@@ -22280,39 +22379,6 @@
       "itemId": "i_mpo93ovv_868gfx",
       "itemTitle": "Reachy Mini goes fully local",
       "itemUrl": "https://huggingface.co/blog/local-reachy-mini-conversation",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-27T16:00:45.499Z"
-    },
-    {
-      "id": "a_mpo93ovv_z90o",
-      "type": "add",
-      "itemId": "i_mpo93ovv_baai2g",
-      "itemTitle": "Building self-improving tax agents with Codex",
-      "itemUrl": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-05-27T16:00:45.499Z"
-    },
-    {
-      "id": "a_mpo93ovv_mlc6",
-      "type": "add",
-      "itemId": "i_mpo93ovv_tthjfg",
-      "itemTitle": "I'm Tired of Talking to AI",
-      "itemUrl": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-27T16:00:45.499Z"
-    },
-    {
-      "id": "a_mpo93ovv_hy9y",
-      "type": "add",
-      "itemId": "i_mpo93ovv_kza897",
-      "itemTitle": "AI is not for everyone",
-      "itemUrl": "https://www.reddit.com/r/LocalLLaMA/comments/1tp17tq/ai_is_not_for_everyone/",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
