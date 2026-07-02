@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mr3xif8p_q9qb4a",
+      "url": "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything",
+      "title": "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts",
+      "description": "Research: Using DSPy to evaluate and improve Datasette Agent's SQL system prompts One of this morning's AIE keynotes covered dspy, which reminded me I've been meaning to see if it could help me improve the system prompt used by Datasette Agent - so I fired off an asynchronous research task in Claude",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-02T18:25:00.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-02T20:00:18.601Z"
+    },
+    {
+      "id": "i_mr3xif8p_wpu4o8",
+      "url": "https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything",
+      "title": "Understand to participate",
+      "description": "I saw Geoffrey Litt speak at AIE yesterday, and one framing he used particularly resonated with me: Understand to participate Geoffrey was talking about the challenge of collaborating with coding agents as they construct increasingly large and sophisticated changes, and the need to avoid taking on c",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-02T17:07:14.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-02T20:00:18.601Z"
+    },
+    {
+      "id": "i_mr3xif8p_nmzddo",
+      "url": "https://www.youtube.com/watch?v=y24lF1q4SFY",
+      "title": "Fable 5 vs GPT 5.6 Sol: The Early Results",
+      "description": "AI Explained (YouTube)",
+      "image": "https://i.ytimg.com/vi/y24lF1q4SFY/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-02T16:27:26.000Z",
+      "addedBy": "AI Explained",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-02T20:00:18.601Z"
+    },
+    {
       "id": "i_mr3oxs9t_0o88e3",
       "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
       "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
@@ -16884,6 +16950,39 @@
   ],
   "activity": [
     {
+      "id": "a_mr3xif8p_ypfy",
+      "type": "add",
+      "itemId": "i_mr3xif8p_nmzddo",
+      "itemTitle": "Fable 5 vs GPT 5.6 Sol: The Early Results",
+      "itemUrl": "https://www.youtube.com/watch?v=y24lF1q4SFY",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-02T20:00:18.601Z"
+    },
+    {
+      "id": "a_mr3xif8p_8jyv",
+      "type": "add",
+      "itemId": "i_mr3xif8p_wpu4o8",
+      "itemTitle": "Understand to participate",
+      "itemUrl": "https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-02T20:00:18.601Z"
+    },
+    {
+      "id": "a_mr3xif8p_romi",
+      "type": "add",
+      "itemId": "i_mr3xif8p_q9qb4a",
+      "itemTitle": "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts",
+      "itemUrl": "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-02T20:00:18.601Z"
+    },
+    {
       "id": "a_mr3oxs9t_ewz5",
       "type": "add",
       "itemId": "i_mr3oxs9t_8136er",
@@ -22350,39 +22449,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-05-27T20:00:45.413Z"
-    },
-    {
-      "id": "a_mpo93ovv_0w0f",
-      "type": "add",
-      "itemId": "i_mpo93ovv_q5dss8",
-      "itemTitle": "How To Use Google Omni  - Google Omni Tutorial",
-      "itemUrl": "https://www.youtube.com/watch?v=xn6MQ2pUGrc",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-27T16:00:45.499Z"
-    },
-    {
-      "id": "a_mpo93ovv_0tzh",
-      "type": "add",
-      "itemId": "i_mpo93ovv_541528",
-      "itemTitle": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
-      "itemUrl": "https://huggingface.co/blog/delta-weight-sync",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-27T16:00:45.499Z"
-    },
-    {
-      "id": "a_mpo93ovv_w34o",
-      "type": "add",
-      "itemId": "i_mpo93ovv_868gfx",
-      "itemTitle": "Reachy Mini goes fully local",
-      "itemUrl": "https://huggingface.co/blog/local-reachy-mini-conversation",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-27T16:00:45.499Z"
     }
   ],
   "filterConfig": {
