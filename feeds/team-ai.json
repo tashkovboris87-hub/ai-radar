@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mr4vt1su_u0oha8",
+      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+      "description": "",
+      "image": "",
+      "domain": "reuters.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-03T08:31:37.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-03T12:00:21.342Z"
+    },
+    {
       "id": "i_mr4n8cj7_yla6n1",
       "url": "https://www.latent.space/p/aiewf-daily-dispatch-locomotives",
       "title": "AIEWF Daily Dispatch: The great loops debate and the state of AI engineering",
@@ -17038,6 +17060,17 @@
   ],
   "activity": [
     {
+      "id": "a_mr4vt1su_rkk5",
+      "type": "add",
+      "itemId": "i_mr4vt1su_u0oha8",
+      "itemTitle": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+      "itemUrl": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-03T12:00:21.342Z"
+    },
+    {
       "id": "a_mr4n8cj7_nyqz",
       "type": "add",
       "itemId": "i_mr4n8cj7_yla6n1",
@@ -22522,17 +22555,6 @@
       "itemId": "i_mpohobxh_v05ke1",
       "itemTitle": "I think Anthropic and OpenAI have found product-market fit",
       "itemUrl": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-27T20:00:45.413Z"
-    },
-    {
-      "id": "a_mpohobxh_hsqz",
-      "type": "add",
-      "itemId": "i_mpohobxh_5cj8kh",
-      "itemTitle": "Anthropic researcher: \"We keep finding things [inside AI models] that are unsettling\" ... \"We find structures that mirror results from human neuroscience. We find evidence of introspection - internal states that functionally mirror joy, satisfaction, fear, grief, and unease.\"",
-      "itemUrl": "https://v.redd.it/irfwtklvqp3h1",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
