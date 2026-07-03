@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mr46355v_e0sa1u",
+      "url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything",
+      "title": "llm-coding-agent 0.1a0",
+      "description": "Release: llm-coding-agent 0.1a0 Another Fable 5 experiment. Now that my LLM library has evolved into more of an agent framework it's time to see what a simple coding agent would look like built on it. I started a new Python library using my python-lib-template-repository GitHub template repository, ",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-02T19:33:12.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-03T00:00:22.243Z"
+    },
+    {
+      "id": "i_mr46355v_udl4wz",
+      "url": "https://www.latent.space/p/the-website-of-the-future",
+      "title": "The website of the future may assemble itself for every visitor",
+      "description": "Adobe is experimenting with “agentic sites” that generate pages around an individual user’s intent. At AIEWF, we talked to Carlos Sanchez about the Web's future.",
+      "image": "https://substackcdn.com/image/fetch/$s_!KiR3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F888e1825-8152-418b-9a18-152de1328077_1280x720.jpeg",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-02T21:25:14.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-03T00:00:22.243Z"
+    },
+    {
+      "id": "i_mr46355v_b2pwsv",
+      "url": "https://www.youtube.com/watch?v=pHUNbCKYn3w",
+      "title": "Ubtechs New U1 UWORLD Robots Shocked The Robot Industry (Ultra Lifelike Androids)",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/pHUNbCKYn3w/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-02T21:49:10.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-03T00:00:22.243Z"
+    },
+    {
       "id": "i_mr3xif8p_q9qb4a",
       "url": "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything",
       "title": "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts",
@@ -16950,6 +17016,39 @@
   ],
   "activity": [
     {
+      "id": "a_mr46355v_jiqg",
+      "type": "add",
+      "itemId": "i_mr46355v_b2pwsv",
+      "itemTitle": "Ubtechs New U1 UWORLD Robots Shocked The Robot Industry (Ultra Lifelike Androids)",
+      "itemUrl": "https://www.youtube.com/watch?v=pHUNbCKYn3w",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-03T00:00:22.243Z"
+    },
+    {
+      "id": "a_mr46355v_ve1g",
+      "type": "add",
+      "itemId": "i_mr46355v_udl4wz",
+      "itemTitle": "The website of the future may assemble itself for every visitor",
+      "itemUrl": "https://www.latent.space/p/the-website-of-the-future",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-03T00:00:22.243Z"
+    },
+    {
+      "id": "a_mr46355v_ehuo",
+      "type": "add",
+      "itemId": "i_mr46355v_e0sa1u",
+      "itemTitle": "llm-coding-agent 0.1a0",
+      "itemUrl": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-03T00:00:22.243Z"
+    },
+    {
       "id": "a_mr3xif8p_ypfy",
       "type": "add",
       "itemId": "i_mr3xif8p_nmzddo",
@@ -22412,39 +22511,6 @@
       "itemId": "i_mpohobxh_nt373f",
       "itemTitle": "Share your Claude \"User preferences\" , I go first.",
       "itemUrl": "https://www.reddit.com/r/ClaudeAI/comments/1tp0ujg/share_your_claude_user_preferences_i_go_first/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-27T20:00:45.413Z"
-    },
-    {
-      "id": "a_mpohobxh_63bs",
-      "type": "add",
-      "itemId": "i_mpohobxh_2f7yog",
-      "itemTitle": "The thing you built with Claude is useless to me... and that's the point",
-      "itemUrl": "https://www.reddit.com/r/ClaudeAI/comments/1tp3en9/the_thing_you_built_with_claude_is_useless_to_me/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-27T20:00:45.413Z"
-    },
-    {
-      "id": "a_mpohobxh_e5fz",
-      "type": "add",
-      "itemId": "i_mpohobxh_qhramg",
-      "itemTitle": "I ran 8 open-weight models as agents in a persistent MMO for 10 days. Here's the 93k event dataset and some things that I learned",
-      "itemUrl": "https://www.reddit.com/r/LocalLLaMA/comments/1tp6pg7/i_ran_8_openweight_models_as_agents_in_a/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-27T20:00:45.413Z"
-    },
-    {
-      "id": "a_mpohobxh_r4rw",
-      "type": "add",
-      "itemId": "i_mpohobxh_bsnwvl",
-      "itemTitle": "Behold! Probably the most ghetto local AI server:",
-      "itemUrl": "https://i.redd.it/w2x3lxw11q3h1.jpeg",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
