@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mr4n8cj7_yla6n1",
+      "url": "https://www.latent.space/p/aiewf-daily-dispatch-locomotives",
+      "title": "AIEWF Daily Dispatch: The great loops debate and the state of AI engineering",
+      "description": "The AI Engineer World’s Fair ended with a debate about loops, a report on the state of AI engineering, and closing keynotes focused on what to build next.",
+      "image": "https://substackcdn.com/image/fetch/$s_!M0WA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d4f7346-6688-4240-b077-16bf6f4a4a34_1280x815.jpeg",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-03T05:11:43.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-03T08:00:18.547Z"
+    },
+    {
       "id": "i_mr46355v_e0sa1u",
       "url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything",
       "title": "llm-coding-agent 0.1a0",
@@ -17016,6 +17038,17 @@
   ],
   "activity": [
     {
+      "id": "a_mr4n8cj7_nyqz",
+      "type": "add",
+      "itemId": "i_mr4n8cj7_yla6n1",
+      "itemTitle": "AIEWF Daily Dispatch: The great loops debate and the state of AI engineering",
+      "itemUrl": "https://www.latent.space/p/aiewf-daily-dispatch-locomotives",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-03T08:00:18.547Z"
+    },
+    {
       "id": "a_mr46355v_jiqg",
       "type": "add",
       "itemId": "i_mr46355v_b2pwsv",
@@ -22500,17 +22533,6 @@
       "itemId": "i_mpohobxh_5cj8kh",
       "itemTitle": "Anthropic researcher: \"We keep finding things [inside AI models] that are unsettling\" ... \"We find structures that mirror results from human neuroscience. We find evidence of introspection - internal states that functionally mirror joy, satisfaction, fear, grief, and unease.\"",
       "itemUrl": "https://v.redd.it/irfwtklvqp3h1",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-27T20:00:45.413Z"
-    },
-    {
-      "id": "a_mpohobxh_and6",
-      "type": "add",
-      "itemId": "i_mpohobxh_nt373f",
-      "itemTitle": "Share your Claude \"User preferences\" , I go first.",
-      "itemUrl": "https://www.reddit.com/r/ClaudeAI/comments/1tp0ujg/share_your_claude_user_preferences_i_go_first/",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
