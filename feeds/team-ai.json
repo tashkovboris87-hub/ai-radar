@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mr54dn1f_2q6ct9",
+      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "description": "",
+      "image": "",
+      "domain": "deepmind.google",
+      "contentType": "article",
+      "source": "feed",
+      "category": "gemini",
+      "tags": [],
+      "addedAt": "2026-07-03T14:25:43.000Z",
+      "addedBy": "Google DeepMind",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-03T16:00:18.915Z"
+    },
+    {
+      "id": "i_mr54dn1f_6con1o",
+      "url": "https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything",
+      "title": "June 2026 newsletter",
+      "description": "The June edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here. This month: Claude Fable 5, GPT-5.6, and US export restrictions GLM-5.2 is the new best open weights model Tokenmaxxing is so over Datasette Apps sqlite-ut",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-03T14:50:50.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-03T16:00:18.915Z"
+    },
+    {
       "id": "i_mr4vt1su_u0oha8",
       "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
       "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
@@ -17060,6 +17104,28 @@
   ],
   "activity": [
     {
+      "id": "a_mr54dn1f_st2l",
+      "type": "add",
+      "itemId": "i_mr54dn1f_6con1o",
+      "itemTitle": "June 2026 newsletter",
+      "itemUrl": "https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-03T16:00:18.915Z"
+    },
+    {
+      "id": "a_mr54dn1f_m1ch",
+      "type": "add",
+      "itemId": "i_mr54dn1f_2q6ct9",
+      "itemTitle": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "itemUrl": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "itemSource": "feed",
+      "category": "gemini",
+      "by": "AI Radar bot",
+      "at": "2026-07-03T16:00:18.915Z"
+    },
+    {
       "id": "a_mr4vt1su_rkk5",
       "type": "add",
       "itemId": "i_mr4vt1su_u0oha8",
@@ -22533,28 +22599,6 @@
       "itemId": "i_mpohobxh_v0bapq",
       "itemTitle": "Tech CEOs are apparently suffering from AI psychosis",
       "itemUrl": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-27T20:00:45.413Z"
-    },
-    {
-      "id": "a_mpohobxh_rsyc",
-      "type": "add",
-      "itemId": "i_mpohobxh_knjqp5",
-      "itemTitle": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "itemUrl": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-27T20:00:45.413Z"
-    },
-    {
-      "id": "a_mpohobxh_uw1j",
-      "type": "add",
-      "itemId": "i_mpohobxh_v05ke1",
-      "itemTitle": "I think Anthropic and OpenAI have found product-market fit",
-      "itemUrl": "https://simonwillison.net/2026/May/27/product-market-fit/",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
