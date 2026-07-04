@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mr5u3jmq_ezt4fx",
+      "url": "https://www.youtube.com/watch?v=7N1lkolv-78",
+      "title": "Yann Lecun Goes OFF On Elon Musks XAI \"They Are A FAILURE\"",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/7N1lkolv-78/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-04T00:01:25.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-04T04:00:17.954Z"
+    },
+    {
       "id": "i_mr5liwed_r5z0mv",
       "url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything",
       "title": "Open Source AI Gap Map",
@@ -17214,6 +17236,17 @@
   ],
   "activity": [
     {
+      "id": "a_mr5u3jmq_3g93",
+      "type": "add",
+      "itemId": "i_mr5u3jmq_ezt4fx",
+      "itemTitle": "Yann Lecun Goes OFF On Elon Musks XAI \"They Are A FAILURE\"",
+      "itemUrl": "https://www.youtube.com/watch?v=7N1lkolv-78",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-04T04:00:17.954Z"
+    },
+    {
       "id": "a_mr5liwed_vvcs",
       "type": "add",
       "itemId": "i_mr5liwed_19yc3p",
@@ -22698,17 +22731,6 @@
       "itemId": "i_mpoq915k_70vt9u",
       "itemTitle": "I called this a few months ago - enterprises are burning unsustainable amounts on Claude, and now it's showing up in the news",
       "itemUrl": "https://www.reddit.com/gallery/1tpgked",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-28T00:00:48.152Z"
-    },
-    {
-      "id": "a_mpoq915k_egv4",
-      "type": "add",
-      "itemId": "i_mpoq915k_nkcv33",
-      "itemTitle": "SWE-rebench Leaderboard (March, April and May 2026): GPT-5.5, Opus 4.7, Cursor (Composer 2.5), Kimi K2.6 and More",
-      "itemUrl": "https://swe-rebench.com/?insight=may_2026",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
