@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mr6semzr_o6jcz5",
+      "url": "https://www.youtube.com/watch?v=MuBBDDw7MR8",
+      "title": "How To Monetise AI Generated Music On Youtube   Educational Overview For Beginners 1",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/MuBBDDw7MR8/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-04T19:30:28.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-04T20:00:42.471Z"
+    },
+    {
       "id": "i_mr62o7gc_vutptv",
       "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
       "title": "Agentic coding notes from Galapagos Island",
@@ -17258,6 +17280,17 @@
   ],
   "activity": [
     {
+      "id": "a_mr6semzr_q8k7",
+      "type": "add",
+      "itemId": "i_mr6semzr_o6jcz5",
+      "itemTitle": "How To Monetise AI Generated Music On Youtube   Educational Overview For Beginners 1",
+      "itemUrl": "https://www.youtube.com/watch?v=MuBBDDw7MR8",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-04T20:00:42.471Z"
+    },
+    {
       "id": "a_mr62o7gc_4rwg",
       "type": "add",
       "itemId": "i_mr62o7gc_vutptv",
@@ -22742,17 +22775,6 @@
       "itemId": "i_mpoq915k_t6jkqe",
       "itemTitle": "Pretty cool feature. Didn't know Gemini could do this",
       "itemUrl": "https://i.redd.it/qwuzl19j3k3h1.png",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-28T00:00:48.152Z"
-    },
-    {
-      "id": "a_mpoq915k_cqwy",
-      "type": "add",
-      "itemId": "i_mpoq915k_dhu4x0",
-      "itemTitle": "Just got this email from openAI",
-      "itemUrl": "https://i.redd.it/6soxajjg2q3h1.png",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
