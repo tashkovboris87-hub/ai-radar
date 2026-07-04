@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mr5liwed_r5z0mv",
+      "url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything",
+      "title": "Open Source AI Gap Map",
+      "description": "Open Source AI Gap Map Current AI is \"a global partnership building a public option for AI\", founded as a non-profit at the AI Action Summit in Paris in February 2025 and backed by serious capital ($400m already committed). They launched their Gap Map a couple of days ago - an attempt at indexing th",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-03T22:04:31.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-04T00:00:17.797Z"
+    },
+    {
+      "id": "i_mr5liwed_19yc3p",
+      "url": "https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything",
+      "title": "Quoting Josh W. Comeau",
+      "description": "I just launched my third course, Whimsical Animations, and so far, it’s on track to sell roughly ⅓ as many copies as a typical course launch. It’s a similar story with my two existing courses. Sales are down significantly from last year. There are likely a lot of reasons for this, but I think the bi",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-03T21:25:52.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-04T00:00:17.797Z"
+    },
+    {
       "id": "i_mr5cy99v_7slfdr",
       "url": "https://github.com/jamesob/local-llm",
       "title": "Jamesob's guide to running SOTA LLMs locally",
@@ -17170,6 +17214,28 @@
   ],
   "activity": [
     {
+      "id": "a_mr5liwed_vvcs",
+      "type": "add",
+      "itemId": "i_mr5liwed_19yc3p",
+      "itemTitle": "Quoting Josh W. Comeau",
+      "itemUrl": "https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-04T00:00:17.797Z"
+    },
+    {
+      "id": "a_mr5liwed_pg4g",
+      "type": "add",
+      "itemId": "i_mr5liwed_r5z0mv",
+      "itemTitle": "Open Source AI Gap Map",
+      "itemUrl": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-04T00:00:17.797Z"
+    },
+    {
       "id": "a_mr5cy99v_i5h6",
       "type": "add",
       "itemId": "i_mr5cy99v_1nxx51",
@@ -22647,28 +22713,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-05-28T00:00:48.152Z"
-    },
-    {
-      "id": "a_mpoq915k_vavg",
-      "type": "add",
-      "itemId": "i_mpoq915k_ioajip",
-      "itemTitle": "Qwen3.6 huge quality gain from Q4 to Q6 for coding agent",
-      "itemUrl": "https://www.reddit.com/r/LocalLLaMA/comments/1tpebhw/qwen36_huge_quality_gain_from_q4_to_q6_for_coding/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-28T00:00:48.152Z"
-    },
-    {
-      "id": "a_mpohobxh_rxd0",
-      "type": "add",
-      "itemId": "i_mpohobxh_ymz8wx",
-      "itemTitle": "Finally a good benchmark (DeepSWE)",
-      "itemUrl": "https://www.youtube.com/watch?v=6LwQ8RbU9as",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-27T20:00:45.413Z"
     }
   ],
   "filterConfig": {
