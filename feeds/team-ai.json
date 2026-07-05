@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mr79jwit_ski93f",
+      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything",
+      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "description": "I wrote about the sqlite-utils 4.0rc1 release a couple of weeks ago. Since we only have Claude Fable on our Max subscriptions for a few more days, I decided to see if it could help me get to a 4.0 stable release that I felt truly comfortable about, since I try to keep to SemVer and like my incompati",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-05T01:00:48.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-05T04:00:41.573Z"
+    },
+    {
+      "id": "i_mr79jwit_9o30q2",
+      "url": "https://www.youtube.com/watch?v=0WkCQZd113Y",
+      "title": "The 9 Most INSANE Things Created by Claude Fable 5 (Fable 5 Use Cases)",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/0WkCQZd113Y/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-05T00:18:06.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-05T04:00:41.573Z"
+    },
+    {
       "id": "i_mr70z9m4_w1iab1",
       "url": "https://github.com/openai/codex/issues/30364",
       "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
@@ -17346,6 +17390,28 @@
   ],
   "activity": [
     {
+      "id": "a_mr79jwit_4i1r",
+      "type": "add",
+      "itemId": "i_mr79jwit_9o30q2",
+      "itemTitle": "The 9 Most INSANE Things Created by Claude Fable 5 (Fable 5 Use Cases)",
+      "itemUrl": "https://www.youtube.com/watch?v=0WkCQZd113Y",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-05T04:00:41.573Z"
+    },
+    {
+      "id": "a_mr79jwit_zpzf",
+      "type": "add",
+      "itemId": "i_mr79jwit_ski93f",
+      "itemTitle": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "itemUrl": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-05T04:00:41.573Z"
+    },
+    {
       "id": "a_mr70z9m4_05ef",
       "type": "add",
       "itemId": "i_mr70z9m4_aq534l",
@@ -22823,28 +22889,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-05-28T04:00:46.687Z"
-    },
-    {
-      "id": "a_mpoytn4v_l3nk",
-      "type": "add",
-      "itemId": "i_mpoytn4v_8pmxou",
-      "itemTitle": "Vulnerability found in framework used by VLLM, many MCP servers, and other LLM tools",
-      "itemUrl": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-28T04:00:46.687Z"
-    },
-    {
-      "id": "a_mpoq915k_ovmu",
-      "type": "add",
-      "itemId": "i_mpoq915k_uz2swr",
-      "itemTitle": "sqlite AGENTS.md",
-      "itemUrl": "https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-28T00:00:48.152Z"
     }
   ],
   "filterConfig": {
