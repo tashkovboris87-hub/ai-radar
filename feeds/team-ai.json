@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mr70z9m4_w1iab1",
+      "url": "https://github.com/openai/codex/issues/30364",
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "description": "",
+      "image": "",
+      "domain": "github.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-04T21:51:09.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-05T00:00:41.836Z"
+    },
+    {
+      "id": "i_mr70z9m4_8bf2oq",
+      "url": "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything",
+      "title": "Building a World Map with only 500 bytes",
+      "description": "Building a World Map with only 500 bytes Iwo Kadziela (assisted by Codex) figured out a way to generate a credible ASCII world map using 445 bytes of data: The key trick is to use deflate compression, which is then wired together using this neat snippet of JavaScript. I didn't know you could use fet",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-04T23:09:02.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-05T00:00:41.836Z"
+    },
+    {
+      "id": "i_mr70z9m4_aq534l",
+      "url": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
+      "title": "Better Models: Worse Tools",
+      "description": "Better Models: Worse Tools Armin reports on a weird problem he ran into while hacking on Pi: The short version is that newer Claude models sometimes call Pi’s edit tool with extra, invented fields in the nested edits[] array. And not Haiku or some small model: Opus 4.8. The edit itself is usually co",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-04T22:53:52.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-05T00:00:41.836Z"
+    },
+    {
       "id": "i_mr6semzr_o6jcz5",
       "url": "https://www.youtube.com/watch?v=MuBBDDw7MR8",
       "title": "How To Monetise AI Generated Music On Youtube   Educational Overview For Beginners 1",
@@ -17280,6 +17346,39 @@
   ],
   "activity": [
     {
+      "id": "a_mr70z9m4_05ef",
+      "type": "add",
+      "itemId": "i_mr70z9m4_aq534l",
+      "itemTitle": "Better Models: Worse Tools",
+      "itemUrl": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-05T00:00:41.836Z"
+    },
+    {
+      "id": "a_mr70z9m4_pzjt",
+      "type": "add",
+      "itemId": "i_mr70z9m4_8bf2oq",
+      "itemTitle": "Building a World Map with only 500 bytes",
+      "itemUrl": "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-05T00:00:41.836Z"
+    },
+    {
+      "id": "a_mr70z9m4_h7ni",
+      "type": "add",
+      "itemId": "i_mr70z9m4_w1iab1",
+      "itemTitle": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "itemUrl": "https://github.com/openai/codex/issues/30364",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-05T00:00:41.836Z"
+    },
+    {
       "id": "a_mr6semzr_q8k7",
       "type": "add",
       "itemId": "i_mr6semzr_o6jcz5",
@@ -22742,39 +22841,6 @@
       "itemId": "i_mpoq915k_uz2swr",
       "itemTitle": "sqlite AGENTS.md",
       "itemUrl": "https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-28T00:00:48.152Z"
-    },
-    {
-      "id": "a_mpoq915k_6me6",
-      "type": "add",
-      "itemId": "i_mpoq915k_w8jb0t",
-      "itemTitle": "Cisco and OpenAI redefine enterprise engineering with Codex",
-      "itemUrl": "https://openai.com/index/cisco",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-05-28T00:00:48.152Z"
-    },
-    {
-      "id": "a_mpoq915k_b2qc",
-      "type": "add",
-      "itemId": "i_mpoq915k_vkwzjs",
-      "itemTitle": "YouTube to automatically label AI-generated videos",
-      "itemUrl": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-28T00:00:48.152Z"
-    },
-    {
-      "id": "a_mpoq915k_c34f",
-      "type": "add",
-      "itemId": "i_mpoq915k_t6jkqe",
-      "itemTitle": "Pretty cool feature. Didn't know Gemini could do this",
-      "itemUrl": "https://i.redd.it/qwuzl19j3k3h1.png",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
