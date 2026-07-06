@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mr9epog1_s8m2q1",
+      "url": "https://importai.substack.com/p/import-ai-464-fables-writes-gpu-kernels",
+      "title": "Import AI 464: Fables writes GPU kernels; AI automation; and analog computation",
+      "description": "Is this the beginning of a new world?",
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "domain": "importai.substack.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-06T12:31:05.000Z",
+      "addedBy": "Import AI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-06T16:00:41.473Z"
+    },
+    {
+      "id": "i_mr9epog1_lw5rpx",
+      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "title": "PRX Part 4: Our Data Strategy",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-06T15:30:55.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-06T16:00:41.473Z"
+    },
+    {
+      "id": "i_mr9epog1_0kupt2",
+      "url": "https://www.youtube.com/watch?v=CY-FflkpXfo",
+      "title": "Metas New Ai Can Read Your Brain - (Brain2Qwertyv2)",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/CY-FflkpXfo/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-06T15:18:24.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-06T16:00:41.473Z"
+    },
+    {
       "id": "i_mr9652ed_yxqqm3",
       "url": "https://huggingface.co/blog/lerobot-release-v060",
       "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
@@ -17544,6 +17610,39 @@
   ],
   "activity": [
     {
+      "id": "a_mr9epog1_7g2s",
+      "type": "add",
+      "itemId": "i_mr9epog1_0kupt2",
+      "itemTitle": "Metas New Ai Can Read Your Brain - (Brain2Qwertyv2)",
+      "itemUrl": "https://www.youtube.com/watch?v=CY-FflkpXfo",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-06T16:00:41.473Z"
+    },
+    {
+      "id": "a_mr9epog1_sjpm",
+      "type": "add",
+      "itemId": "i_mr9epog1_lw5rpx",
+      "itemTitle": "PRX Part 4: Our Data Strategy",
+      "itemUrl": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-06T16:00:41.473Z"
+    },
+    {
+      "id": "a_mr9epog1_6sac",
+      "type": "add",
+      "itemId": "i_mr9epog1_s8m2q1",
+      "itemTitle": "Import AI 464: Fables writes GPU kernels; AI automation; and analog computation",
+      "itemUrl": "https://importai.substack.com/p/import-ai-464-fables-writes-gpu-kernels",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-06T16:00:41.473Z"
+    },
+    {
       "id": "a_mr9652ed_xt6h",
       "type": "add",
       "itemId": "i_mr9652ed_yxqqm3",
@@ -23010,39 +23109,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-05-28T16:01:05.271Z"
-    },
-    {
-      "id": "a_mppfz9a8_7ru2",
-      "type": "add",
-      "itemId": "i_mppfz9a8_fxr9i6",
-      "itemTitle": "Googles New Statement On AGI Just Stunned Everyone",
-      "itemUrl": "https://www.youtube.com/watch?v=ahhThdwhQUU",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-28T12:01:02.144Z"
-    },
-    {
-      "id": "a_mppfz9a8_0obf",
-      "type": "add",
-      "itemId": "i_mppfz9a8_1vw826",
-      "itemTitle": "A Eureka machine that thinks like nature and explores what AI cannot",
-      "itemUrl": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-28T12:01:02.144Z"
-    },
-    {
-      "id": "a_mppfz9a8_cv0b",
-      "type": "add",
-      "itemId": "i_mppfz9a8_q9hs8s",
-      "itemTitle": "Gemini omni is underrated ! Best model for editing !!",
-      "itemUrl": "https://v.redd.it/0frhzihb0t3h1",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-28T12:01:02.144Z"
     }
   ],
   "filterConfig": {
