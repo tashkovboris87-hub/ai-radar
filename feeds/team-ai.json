@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mr8xkfp2_33vp38",
+      "url": "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything",
+      "title": "sqlite-utils 4.0rc3",
+      "description": "Release: sqlite-utils 4.0rc3 I hoped to release sqlite-utils 4.0 stable this weekend, but as I worked through the backlog of issues and PRs with a combination of Claude Fable 5 and GPT-5.5 the changelog since rc2 kept getting bigger. The biggest new feature is support for introspecting and creating ",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-06T05:40:08.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-06T08:00:43.382Z"
+    },
+    {
       "id": "i_mr8ozrvb_2jz7bt",
       "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
       "title": "GPT-5.6 Sol Ultra will be in Codex",
@@ -17500,6 +17522,17 @@
   ],
   "activity": [
     {
+      "id": "a_mr8xkfp2_nb1e",
+      "type": "add",
+      "itemId": "i_mr8xkfp2_33vp38",
+      "itemTitle": "sqlite-utils 4.0rc3",
+      "itemUrl": "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-06T08:00:43.382Z"
+    },
+    {
       "id": "a_mr8ozrvb_c6e5",
       "type": "add",
       "itemId": "i_mr8ozrvb_4k537m",
@@ -22984,17 +23017,6 @@
       "itemId": "i_mppfz9a8_klzqy6",
       "itemTitle": "The Party is cancelled, pack it up",
       "itemUrl": "https://i.redd.it/gi7b3vjwpt3h1.png",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-28T12:01:02.144Z"
-    },
-    {
-      "id": "a_mppfz9a8_o3fu",
-      "type": "add",
-      "itemId": "i_mppfz9a8_s9odoz",
-      "itemTitle": "Claude Is Starting to Feel “Tired”, Trying to Avoid Work",
-      "itemUrl": "https://www.reddit.com/r/ClaudeAI/comments/1tpts8g/claude_is_starting_to_feel_tired_trying_to_avoid/",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
