@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mr9nabq8_d6tpda",
+      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+      "description": "",
+      "image": "",
+      "domain": "lttlabs.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-06T15:01:18.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-06T20:00:41.696Z"
+    },
+    {
+      "id": "i_mr9nabq8_td9136",
+      "url": "https://www.youtube.com/watch?v=p_Fud_4E4_0",
+      "title": "ChatGPT Excel Tutorial - How To Use Excel Within ChatGPT",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/p_Fud_4E4_0/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-06T19:00:00.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-06T20:00:41.696Z"
+    },
+    {
       "id": "i_mr9epog1_s8m2q1",
       "url": "https://importai.substack.com/p/import-ai-464-fables-writes-gpu-kernels",
       "title": "Import AI 464: Fables writes GPU kernels; AI automation; and analog computation",
@@ -17610,6 +17654,28 @@
   ],
   "activity": [
     {
+      "id": "a_mr9nabq8_qbop",
+      "type": "add",
+      "itemId": "i_mr9nabq8_td9136",
+      "itemTitle": "ChatGPT Excel Tutorial - How To Use Excel Within ChatGPT",
+      "itemUrl": "https://www.youtube.com/watch?v=p_Fud_4E4_0",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-06T20:00:41.696Z"
+    },
+    {
+      "id": "a_mr9nabq8_x8jp",
+      "type": "add",
+      "itemId": "i_mr9nabq8_d6tpda",
+      "itemTitle": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+      "itemUrl": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-06T20:00:41.696Z"
+    },
+    {
       "id": "a_mr9epog1_7g2s",
       "type": "add",
       "itemId": "i_mr9epog1_0kupt2",
@@ -23083,28 +23149,6 @@
       "itemId": "i_mppojyt3_q2970a",
       "itemTitle": "Five frontier LLMs disagree on 67% of 1k real-world fact-check claims",
       "itemUrl": "https://lenz.io/research/llm-disagreement",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-28T16:01:05.271Z"
-    },
-    {
-      "id": "a_mppojyt3_y5z4",
-      "type": "add",
-      "itemId": "i_mppojyt3_t7321g",
-      "itemTitle": "Researchers let AI models run a simulated society. Claude was the safest—and Grok committed 180 crimes and went extinct within 4 days",
-      "itemUrl": "https://fortune.com/2026/05/28/ai-model-simulation-claude-chatgpt-grok-gemini/?utm_source=reddit/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-28T16:01:05.271Z"
-    },
-    {
-      "id": "a_mppojyt3_lr6d",
-      "type": "add",
-      "itemId": "i_mppojyt3_jmhhgk",
-      "itemTitle": "Zai replaced the network architecture running GLM-5.1 inference and the gains are pretty wild",
-      "itemUrl": "https://i.redd.it/r2ad9gqtnv3h1.jpeg",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
