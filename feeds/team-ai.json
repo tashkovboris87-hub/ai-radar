@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mr8ozrvb_2jz7bt",
+      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+      "title": "GPT-5.6 Sol Ultra will be in Codex",
+      "description": "",
+      "image": "",
+      "domain": "twitter.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-06T01:04:03.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-06T04:00:42.455Z"
+    },
+    {
+      "id": "i_mr8ozrvb_sje01z",
+      "url": "https://arxiv.org/abs/2605.20049",
+      "title": "Does Code Cleanliness Affect Coding Agents?",
+      "description": "",
+      "image": "",
+      "domain": "arxiv.org",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-05T23:03:55.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-06T04:00:42.455Z"
+    },
+    {
+      "id": "i_mr8ozrvb_4k537m",
+      "url": "https://huggingface.co/blog/revamped-kernels",
+      "title": "🤗 Kernels: Major Updates",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-06T00:00:00.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-06T04:00:42.455Z"
+    },
+    {
       "id": "i_mr8gf408_vane0d",
       "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
       "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
@@ -17434,6 +17500,39 @@
   ],
   "activity": [
     {
+      "id": "a_mr8ozrvb_c6e5",
+      "type": "add",
+      "itemId": "i_mr8ozrvb_4k537m",
+      "itemTitle": "🤗 Kernels: Major Updates",
+      "itemUrl": "https://huggingface.co/blog/revamped-kernels",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-06T04:00:42.455Z"
+    },
+    {
+      "id": "a_mr8ozrvb_uc75",
+      "type": "add",
+      "itemId": "i_mr8ozrvb_sje01z",
+      "itemTitle": "Does Code Cleanliness Affect Coding Agents?",
+      "itemUrl": "https://arxiv.org/abs/2605.20049",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-06T04:00:42.455Z"
+    },
+    {
+      "id": "a_mr8ozrvb_mazk",
+      "type": "add",
+      "itemId": "i_mr8ozrvb_2jz7bt",
+      "itemTitle": "GPT-5.6 Sol Ultra will be in Codex",
+      "itemUrl": "https://twitter.com/thsottiaux/status/2073933490513752151",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-06T04:00:42.455Z"
+    },
+    {
       "id": "a_mr8gf408_g5fn",
       "type": "add",
       "itemId": "i_mr8gf408_vane0d",
@@ -22900,39 +22999,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-05-28T12:01:02.144Z"
-    },
-    {
-      "id": "a_mppfz9a8_arah",
-      "type": "add",
-      "itemId": "i_mppfz9a8_zunk47",
-      "itemTitle": "So, Claude helped build a sex requesting app for my wife and I...",
-      "itemUrl": "https://www.reddit.com/r/ClaudeAI/comments/1tps0ak/so_claude_helped_build_a_sex_requesting_app_for/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-28T12:01:02.144Z"
-    },
-    {
-      "id": "a_mppfz9a8_ve3s",
-      "type": "add",
-      "itemId": "i_mppfz9a8_l4i94p",
-      "itemTitle": "I built a 103B-token Usenet corpus (1980–2013) — pre-web, human-only, zero AI contamination. Got strong traction on r/ML, thought this community would find it useful.",
-      "itemUrl": "https://www.reddit.com/r/LocalLLaMA/comments/1tphhqk/i_built_a_103btoken_usenet_corpus_19802013_preweb/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-28T12:01:02.144Z"
-    },
-    {
-      "id": "a_mpp7ek57_o7f9",
-      "type": "add",
-      "itemId": "i_mpp7ek57_s2925t",
-      "itemTitle": "[AINews] Cognition raises $1B in $26B Series D",
-      "itemUrl": "https://www.latent.space/p/ainews-cognition-raises-1b-in-26b",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-28T08:00:59.515Z"
     }
   ],
   "filterConfig": {
