@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mr8gf408_vane0d",
+      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "description": "",
+      "image": "",
+      "domain": "intextbooks.science.uu.nl",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-05T18:47:43.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-06T00:00:41.480Z"
+    },
+    {
       "id": "i_mr7i4k6j_x3gxau",
       "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything",
       "title": "sqlite-utils 4.0rc2",
@@ -17412,6 +17434,17 @@
   ],
   "activity": [
     {
+      "id": "a_mr8gf408_g5fn",
+      "type": "add",
+      "itemId": "i_mr8gf408_vane0d",
+      "itemTitle": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "itemUrl": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-06T00:00:41.480Z"
+    },
+    {
       "id": "a_mr7i4k6j_5qec",
       "type": "add",
       "itemId": "i_mr7i4k6j_x3gxau",
@@ -22900,17 +22933,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-05-28T08:00:59.515Z"
-    },
-    {
-      "id": "a_mpoytn4v_f92m",
-      "type": "add",
-      "itemId": "i_mpoytn4v_6cltzg",
-      "itemTitle": "Antropic has now integrated Claude Design usage into the existing Claude usage.",
-      "itemUrl": "https://www.reddit.com/r/ClaudeAI/comments/1tpl9t9/antropic_has_now_integrated_claude_design_usage/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-28T04:00:46.687Z"
     }
   ],
   "filterConfig": {
