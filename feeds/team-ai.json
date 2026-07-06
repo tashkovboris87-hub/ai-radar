@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mr9652ed_yxqqm3",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-07T00:00:00.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-06T12:00:42.853Z"
+    },
+    {
       "id": "i_mr8xkfp2_33vp38",
       "url": "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything",
       "title": "sqlite-utils 4.0rc3",
@@ -17522,6 +17544,17 @@
   ],
   "activity": [
     {
+      "id": "a_mr9652ed_xt6h",
+      "type": "add",
+      "itemId": "i_mr9652ed_yxqqm3",
+      "itemTitle": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "itemUrl": "https://huggingface.co/blog/lerobot-release-v060",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-06T12:00:42.853Z"
+    },
+    {
       "id": "a_mr8xkfp2_nb1e",
       "type": "add",
       "itemId": "i_mr8xkfp2_33vp38",
@@ -23006,17 +23039,6 @@
       "itemId": "i_mppfz9a8_q9hs8s",
       "itemTitle": "Gemini omni is underrated ! Best model for editing !!",
       "itemUrl": "https://v.redd.it/0frhzihb0t3h1",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-28T12:01:02.144Z"
-    },
-    {
-      "id": "a_mppfz9a8_164y",
-      "type": "add",
-      "itemId": "i_mppfz9a8_klzqy6",
-      "itemTitle": "The Party is cancelled, pack it up",
-      "itemUrl": "https://i.redd.it/gi7b3vjwpt3h1.png",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
