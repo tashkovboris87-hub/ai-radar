@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mr9vuz7z_pjqjhu",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "description": "",
+      "image": "",
+      "domain": "martinalderson.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-06T20:14:55.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-07T00:00:42.191Z"
+    },
+    {
       "id": "i_mr9nabq8_d6tpda",
       "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
       "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
@@ -17654,6 +17676,17 @@
   ],
   "activity": [
     {
+      "id": "a_mr9vuz7z_xm8u",
+      "type": "add",
+      "itemId": "i_mr9vuz7z_pjqjhu",
+      "itemTitle": "GLM 5.2 and the coming AI margin collapse",
+      "itemUrl": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-07T00:00:42.191Z"
+    },
+    {
       "id": "a_mr9nabq8_qbop",
       "type": "add",
       "itemId": "i_mr9nabq8_td9136",
@@ -23142,17 +23175,6 @@
       "category": "claude",
       "by": "AI Radar bot",
       "at": "2026-05-28T20:01:07.147Z"
-    },
-    {
-      "id": "a_mppojyt3_emet",
-      "type": "add",
-      "itemId": "i_mppojyt3_q2970a",
-      "itemTitle": "Five frontier LLMs disagree on 67% of 1k real-world fact-check claims",
-      "itemUrl": "https://lenz.io/research/llm-disagreement",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-28T16:01:05.271Z"
     }
   ],
   "filterConfig": {
