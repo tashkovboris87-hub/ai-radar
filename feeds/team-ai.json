@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrad09k3_w17yul",
+      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "title": "Small AI Models Gain Traction In places with unreliable networks",
+      "description": "",
+      "image": "",
+      "domain": "spectrum.ieee.org",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-06T23:59:54.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-07T08:00:42.339Z"
+    },
+    {
+      "id": "i_mrad09k3_j5ntsa",
+      "url": "https://www.latent.space/p/ainews-the-field-guide-to-fable",
+      "title": "[AINews] The Field Guide to Fable",
+      "description": "a quiet day lets us digest the world's most significant model launch... to date.",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/9fubhllmsBU",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-07T04:44:53.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-07T08:00:42.339Z"
+    },
+    {
+      "id": "i_mrad09k3_wugada",
+      "url": "https://www.youtube.com/watch?v=1KKB_UiW6ls",
+      "title": "Cut your AI cost IN HALF (EASY)",
+      "description": "Matthew Berman (YouTube)",
+      "image": "https://i.ytimg.com/vi/1KKB_UiW6ls/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-07T00:29:07.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-07T08:00:42.339Z"
+    },
+    {
       "id": "i_mra4fma7_sc3lo7",
       "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
       "title": "Pruning RAG context down to what the answer actually needs",
@@ -17720,6 +17786,39 @@
   ],
   "activity": [
     {
+      "id": "a_mrad09k3_wdom",
+      "type": "add",
+      "itemId": "i_mrad09k3_wugada",
+      "itemTitle": "Cut your AI cost IN HALF (EASY)",
+      "itemUrl": "https://www.youtube.com/watch?v=1KKB_UiW6ls",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-07T08:00:42.339Z"
+    },
+    {
+      "id": "a_mrad09k3_1n2l",
+      "type": "add",
+      "itemId": "i_mrad09k3_j5ntsa",
+      "itemTitle": "[AINews] The Field Guide to Fable",
+      "itemUrl": "https://www.latent.space/p/ainews-the-field-guide-to-fable",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-07T08:00:42.339Z"
+    },
+    {
+      "id": "a_mrad09k3_6wty",
+      "type": "add",
+      "itemId": "i_mrad09k3_w17yul",
+      "itemTitle": "Small AI Models Gain Traction In places with unreliable networks",
+      "itemUrl": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-07T08:00:42.339Z"
+    },
+    {
       "id": "a_mra4fma7_71kp",
       "type": "add",
       "itemId": "i_mra4fma7_ygp0mb",
@@ -23182,39 +23281,6 @@
       "itemId": "i_mppx4nd7_l42k4c",
       "itemTitle": "OPUS 4.8!!! (also maybe GPT5.6??)",
       "itemUrl": "https://www.youtube.com/watch?v=4n_pxHZfTC8",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-28T20:01:07.147Z"
-    },
-    {
-      "id": "a_mppx4nd7_uxko",
-      "type": "add",
-      "itemId": "i_mppx4nd7_i1nnak",
-      "itemTitle": "The Age of Async Agents — Cognition's Walden Yan & OpenInspect's Cole Murray",
-      "itemUrl": "https://www.latent.space/p/cognition",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-28T20:01:07.147Z"
-    },
-    {
-      "id": "a_mppx4nd7_o0k5",
-      "type": "add",
-      "itemId": "i_mppx4nd7_eajzwx",
-      "itemTitle": "OpenAI’s Frontier Governance Framework",
-      "itemUrl": "https://openai.com/index/openai-frontier-governance-framework",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-05-28T20:01:07.147Z"
-    },
-    {
-      "id": "a_mppx4nd7_a24p",
-      "type": "add",
-      "itemId": "i_mppx4nd7_97avtp",
-      "itemTitle": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-      "itemUrl": "https://llmgame.scalex.dev",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
