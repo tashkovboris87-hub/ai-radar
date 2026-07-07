@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mra4fma7_sc3lo7",
+      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+      "title": "Pruning RAG context down to what the answer actually needs",
+      "description": "",
+      "image": "",
+      "domain": "kapa.ai",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-06T19:28:24.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-07T04:00:42.127Z"
+    },
+    {
+      "id": "i_mra4fma7_ygp0mb",
+      "url": "https://simonwillison.net/2026/Jul/6/hy3/#atom-everything",
+      "title": "tencent/Hy3",
+      "description": "tencent/Hy3 New Apache 2.0 licensed model from Tencent in China: Hy3 is a 295B-parameter Mixture-of-Experts (MoE) model with 21B active parameters and 3.8B MTP layer parameters, developed by the Tencent Hy Team. Following the Hy3 Preview launch in late April, we gathered feedback from 50+ products a",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-06T23:57:35.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-07T04:00:42.127Z"
+    },
+    {
       "id": "i_mr9vuz7z_pjqjhu",
       "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
       "title": "GLM 5.2 and the coming AI margin collapse",
@@ -17676,6 +17720,28 @@
   ],
   "activity": [
     {
+      "id": "a_mra4fma7_71kp",
+      "type": "add",
+      "itemId": "i_mra4fma7_ygp0mb",
+      "itemTitle": "tencent/Hy3",
+      "itemUrl": "https://simonwillison.net/2026/Jul/6/hy3/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-07T04:00:42.127Z"
+    },
+    {
+      "id": "a_mra4fma7_hkkv",
+      "type": "add",
+      "itemId": "i_mra4fma7_sc3lo7",
+      "itemTitle": "Pruning RAG context down to what the answer actually needs",
+      "itemUrl": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-07T04:00:42.127Z"
+    },
+    {
       "id": "a_mr9vuz7z_xm8u",
       "type": "add",
       "itemId": "i_mr9vuz7z_pjqjhu",
@@ -23151,28 +23217,6 @@
       "itemUrl": "https://llmgame.scalex.dev",
       "itemSource": "feed",
       "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-28T20:01:07.147Z"
-    },
-    {
-      "id": "a_mppx4nd7_ietw",
-      "type": "add",
-      "itemId": "i_mppx4nd7_zwi91e",
-      "itemTitle": "About LLMs at Zig Days",
-      "itemUrl": "https://kristoff.it/blog/llms-at-zig-days/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-28T20:01:07.147Z"
-    },
-    {
-      "id": "a_mppx4nd7_dxwe",
-      "type": "add",
-      "itemId": "i_mppx4nd7_zvuggn",
-      "itemTitle": "Claude Opus 4.8",
-      "itemUrl": "https://www.anthropic.com/news/claude-opus-4-8",
-      "itemSource": "feed",
-      "category": "claude",
       "by": "AI Radar bot",
       "at": "2026-05-28T20:01:07.147Z"
     }
