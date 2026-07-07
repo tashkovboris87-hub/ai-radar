@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrau5jma_d6ucbg",
+      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-07T15:20:06.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-07T16:00:42.130Z"
+    },
+    {
       "id": "i_mralkxnk_bsqxxt",
       "url": "https://www.youtube.com/shorts/zHWco8xg7ME",
       "title": "Cheap tricks for AI",
@@ -17808,6 +17830,17 @@
   ],
   "activity": [
     {
+      "id": "a_mrau5jma_gn4y",
+      "type": "add",
+      "itemId": "i_mrau5jma_d6ucbg",
+      "itemTitle": "Hugging Face Models on Foundry Managed Compute",
+      "itemUrl": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-07T16:00:42.130Z"
+    },
+    {
       "id": "a_mralkxnk_58ye",
       "type": "add",
       "itemId": "i_mralkxnk_bsqxxt",
@@ -23296,17 +23329,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-05-29T04:00:59.966Z"
-    },
-    {
-      "id": "a_mpq5pawx_28ta",
-      "type": "add",
-      "itemId": "i_mpq5pawx_bih5d6",
-      "itemTitle": "Various LLM Smells",
-      "itemUrl": "https://shvbsle.in/various-llm-smells/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-29T00:01:07.713Z"
     }
   ],
   "filterConfig": {
