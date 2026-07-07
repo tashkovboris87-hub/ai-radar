@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mralkxnk_bsqxxt",
+      "url": "https://www.youtube.com/shorts/zHWco8xg7ME",
+      "title": "Cheap tricks for AI",
+      "description": "Matthew Berman (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-07T10:16:48.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-07T12:00:43.616Z"
+    },
+    {
       "id": "i_mrad09k3_w17yul",
       "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
       "title": "Small AI Models Gain Traction In places with unreliable networks",
@@ -17786,6 +17808,17 @@
   ],
   "activity": [
     {
+      "id": "a_mralkxnk_58ye",
+      "type": "add",
+      "itemId": "i_mralkxnk_bsqxxt",
+      "itemTitle": "Cheap tricks for AI",
+      "itemUrl": "https://www.youtube.com/shorts/zHWco8xg7ME",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-07T12:00:43.616Z"
+    },
+    {
       "id": "a_mrad09k3_wdom",
       "type": "add",
       "itemId": "i_mrad09k3_wugada",
@@ -23274,17 +23307,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-05-29T00:01:07.713Z"
-    },
-    {
-      "id": "a_mppx4nd7_b8hh",
-      "type": "add",
-      "itemId": "i_mppx4nd7_l42k4c",
-      "itemTitle": "OPUS 4.8!!! (also maybe GPT5.6??)",
-      "itemUrl": "https://www.youtube.com/watch?v=4n_pxHZfTC8",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-28T20:01:07.147Z"
     }
   ],
   "filterConfig": {
