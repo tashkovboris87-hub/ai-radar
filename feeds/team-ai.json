@@ -2,6 +2,94 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrb2q8pe_eh19uy",
+      "url": "https://openai.com/index/australian-payments-plus",
+      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+      "description": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-07-07T00:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-07T20:00:44.690Z"
+    },
+    {
+      "id": "i_mrb2q8pe_itoyke",
+      "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything",
+      "title": "sqlite-utils 4.0, now with database schema migrations",
+      "description": "This morning I released sqlite-utils 4.0, the 124th release of that project and the first major version bump since 3.0 in November 2020. In addition to some small but significant breaking changes (described in this upgrade guide), this version introduces three major features: database migrations, ne",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-07T19:32:57.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-07T20:00:44.690Z"
+    },
+    {
+      "id": "i_mrb2q8pe_d49nso",
+      "url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-07T00:00:00.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-07T20:00:44.690Z"
+    },
+    {
+      "id": "i_mrb2q8pe_145hlr",
+      "url": "https://www.youtube.com/watch?v=1yBU41auQhw",
+      "title": "DeepSeek's New AI Speed Hack Is Amazing",
+      "description": "Two Minute Papers (YouTube)",
+      "image": "https://i.ytimg.com/vi/1yBU41auQhw/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-07T16:33:29.000Z",
+      "addedBy": "Two Minute Papers",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-07T20:00:44.690Z"
+    },
+    {
       "id": "i_mrau5jma_d6ucbg",
       "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
       "title": "Hugging Face Models on Foundry Managed Compute",
@@ -17830,6 +17918,50 @@
   ],
   "activity": [
     {
+      "id": "a_mrb2q8pe_ua09",
+      "type": "add",
+      "itemId": "i_mrb2q8pe_145hlr",
+      "itemTitle": "DeepSeek's New AI Speed Hack Is Amazing",
+      "itemUrl": "https://www.youtube.com/watch?v=1yBU41auQhw",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-07T20:00:44.690Z"
+    },
+    {
+      "id": "a_mrb2q8pe_mmyo",
+      "type": "add",
+      "itemId": "i_mrb2q8pe_d49nso",
+      "itemTitle": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "itemUrl": "https://huggingface.co/blog/skypilot-hf-storage",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-07T20:00:44.690Z"
+    },
+    {
+      "id": "a_mrb2q8pe_o2hd",
+      "type": "add",
+      "itemId": "i_mrb2q8pe_itoyke",
+      "itemTitle": "sqlite-utils 4.0, now with database schema migrations",
+      "itemUrl": "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-07T20:00:44.690Z"
+    },
+    {
+      "id": "a_mrb2q8pe_9cjr",
+      "type": "add",
+      "itemId": "i_mrb2q8pe_eh19uy",
+      "itemTitle": "Australian Payments Plus moves faster with ChatGPT and Codex",
+      "itemUrl": "https://openai.com/index/australian-payments-plus",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-07T20:00:44.690Z"
+    },
+    {
       "id": "a_mrau5jma_gn4y",
       "type": "add",
       "itemId": "i_mrau5jma_d6ucbg",
@@ -23285,50 +23417,6 @@
       "category": "chatgpt",
       "by": "AI Radar bot",
       "at": "2026-05-29T08:01:01.835Z"
-    },
-    {
-      "id": "a_mpqe9s1q_edld",
-      "type": "add",
-      "itemId": "i_mpqe9s1q_oxq7m5",
-      "itemTitle": "[AINews] Anthropic raises $965B Series H, releases Opus 4.8 and Dynamic Workflows/ultracode",
-      "itemUrl": "https://www.latent.space/p/ainews-anthropic-raises-965b-series",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-29T04:00:59.966Z"
-    },
-    {
-      "id": "a_mpqe9s1q_g9uo",
-      "type": "add",
-      "itemId": "i_mpqe9s1q_fo5jtp",
-      "itemTitle": "llm-anthropic 0.25.1",
-      "itemUrl": "https://simonwillison.net/2026/May/28/llm-anthropic/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-29T04:00:59.966Z"
-    },
-    {
-      "id": "a_mpqe9s1q_zm3e",
-      "type": "add",
-      "itemId": "i_mpqe9s1q_l1jrcu",
-      "itemTitle": "Claude Opus 4.8: \"a modest but tangible improvement\"",
-      "itemUrl": "https://simonwillison.net/2026/May/28/claude-opus-4-8/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-29T04:00:59.966Z"
-    },
-    {
-      "id": "a_mpqe9s1q_h2zc",
-      "type": "add",
-      "itemId": "i_mpqe9s1q_jnxhkw",
-      "itemTitle": "Anthropic's run-rate revenue hits $47 billion",
-      "itemUrl": "https://simonwillison.net/2026/May/29/anthropic/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-29T04:00:59.966Z"
     }
   ],
   "filterConfig": {
