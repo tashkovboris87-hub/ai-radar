@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrbjvh5s_7w8xla",
+      "url": "https://www.latent.space/p/ainews-lilian-weng-summarizes-35",
+      "title": "[AINews] Lilian Weng summarizes 35 papers on Harness Engineering for RSI",
+      "description": "a quiet day lets us read some condensed insight",
+      "image": "https://substackcdn.com/image/fetch/$s_!L_Ci!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F603a46c6-cedc-4b38-a660-2fa1d4b3f4ba_1626x1146.png",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-08T02:20:25.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-08T04:00:42.400Z"
+    },
+    {
+      "id": "i_mrbjvh5s_i5t5xa",
+      "url": "https://www.youtube.com/watch?v=bjHuGNo3spk",
+      "title": "We just figured out how AI actually works (J-Space)",
+      "description": "Matthew Berman (YouTube)",
+      "image": "https://i.ytimg.com/vi/bjHuGNo3spk/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-08T02:58:42.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-08T04:00:42.400Z"
+    },
+    {
       "id": "i_mrbbav61_s9157r",
       "url": "https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything",
       "title": "sqlite-migrate 0.2",
@@ -18050,6 +18094,28 @@
   ],
   "activity": [
     {
+      "id": "a_mrbjvh5s_ku2h",
+      "type": "add",
+      "itemId": "i_mrbjvh5s_i5t5xa",
+      "itemTitle": "We just figured out how AI actually works (J-Space)",
+      "itemUrl": "https://www.youtube.com/watch?v=bjHuGNo3spk",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-08T04:00:42.400Z"
+    },
+    {
+      "id": "a_mrbjvh5s_sy5i",
+      "type": "add",
+      "itemId": "i_mrbjvh5s_7w8xla",
+      "itemTitle": "[AINews] Lilian Weng summarizes 35 papers on Harness Engineering for RSI",
+      "itemUrl": "https://www.latent.space/p/ainews-lilian-weng-summarizes-35",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-08T04:00:42.400Z"
+    },
+    {
       "id": "a_mrbbav61_pjc0",
       "type": "add",
       "itemId": "i_mrbbav61_fycqeq",
@@ -23526,28 +23592,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-05-29T16:01:08.662Z"
-    },
-    {
-      "id": "a_mpqvf3b3_2txs",
-      "type": "add",
-      "itemId": "i_mpqvf3b3_f6c4lk",
-      "itemTitle": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
-      "itemUrl": "https://huggingface.co/blog/torch-profiler",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-29T12:01:01.311Z"
-    },
-    {
-      "id": "a_mpqvf3b3_u4pc",
-      "type": "add",
-      "itemId": "i_mpqvf3b3_vu66xm",
-      "itemTitle": "Strengthening societal resilience with Rosalind Biodefense",
-      "itemUrl": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-05-29T12:01:01.311Z"
     }
   ],
   "filterConfig": {
