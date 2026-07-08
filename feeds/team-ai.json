@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrc10s3f_tjj2x2",
+      "url": "https://www.youtube.com/shorts/9D_UxabscdI",
+      "title": "So AI is \"thinking\" for real",
+      "description": "Matthew Berman (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-08T08:13:30.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-08T12:00:43.323Z"
+    },
+    {
       "id": "i_mrbsg5k5_vbo2a7",
       "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
       "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
@@ -18138,6 +18160,17 @@
   ],
   "activity": [
     {
+      "id": "a_mrc10s3f_uq90",
+      "type": "add",
+      "itemId": "i_mrc10s3f_tjj2x2",
+      "itemTitle": "So AI is \"thinking\" for real",
+      "itemUrl": "https://www.youtube.com/shorts/9D_UxabscdI",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-08T12:00:43.323Z"
+    },
+    {
       "id": "a_mrbsg5k5_y0h3",
       "type": "add",
       "itemId": "i_mrbsg5k5_zsqpvz",
@@ -23621,17 +23654,6 @@
       "itemId": "i_mprck28h_rqxjuy",
       "itemTitle": "Liquid AI reveals 8B-A1B MoE trained on 38T",
       "itemUrl": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-29T20:00:46.673Z"
-    },
-    {
-      "id": "a_mprck28h_rdbk",
-      "type": "add",
-      "itemId": "i_mprck28h_1l3xv4",
-      "itemTitle": "Notes from the Mistral AI Now Summit in Paris",
-      "itemUrl": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
