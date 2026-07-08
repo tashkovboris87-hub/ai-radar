@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrbsg5k5_vbo2a7",
+      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+      "description": "",
+      "image": "",
+      "domain": "noma.security",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-08T05:25:35.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-08T08:00:44.069Z"
+    },
+    {
+      "id": "i_mrbsg5k5_zsqpvz",
+      "url": "https://twitter.com/OpenAI/status/2074704958419792299",
+      "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
+      "description": "",
+      "image": "",
+      "domain": "twitter.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-08T04:12:13.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-08T08:00:44.069Z"
+    },
+    {
       "id": "i_mrbjvh5s_7w8xla",
       "url": "https://www.latent.space/p/ainews-lilian-weng-summarizes-35",
       "title": "[AINews] Lilian Weng summarizes 35 papers on Harness Engineering for RSI",
@@ -18094,6 +18138,28 @@
   ],
   "activity": [
     {
+      "id": "a_mrbsg5k5_y0h3",
+      "type": "add",
+      "itemId": "i_mrbsg5k5_zsqpvz",
+      "itemTitle": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
+      "itemUrl": "https://twitter.com/OpenAI/status/2074704958419792299",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-08T08:00:44.069Z"
+    },
+    {
+      "id": "a_mrbsg5k5_fdvv",
+      "type": "add",
+      "itemId": "i_mrbsg5k5_vbo2a7",
+      "itemTitle": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+      "itemUrl": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-08T08:00:44.069Z"
+    },
+    {
       "id": "a_mrbjvh5s_ku2h",
       "type": "add",
       "itemId": "i_mrbjvh5s_i5t5xa",
@@ -23570,28 +23636,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-05-29T20:00:46.673Z"
-    },
-    {
-      "id": "a_mpr3zw3a_6ct1",
-      "type": "add",
-      "itemId": "i_mpr3zw3a_rfgu5z",
-      "itemTitle": "New Claude Opus 4.8: 15 Things You May’ve Missed",
-      "itemUrl": "https://www.youtube.com/watch?v=aJvP3nXWkwM",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-29T16:01:08.662Z"
-    },
-    {
-      "id": "a_mpr3zw3a_1uvi",
-      "type": "add",
-      "itemId": "i_mpr3zw3a_wxkiuk",
-      "itemTitle": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
-      "itemUrl": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-29T16:01:08.662Z"
     }
   ],
   "filterConfig": {
