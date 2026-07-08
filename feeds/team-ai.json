@@ -2,6 +2,138 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrci62f3_dhsdzb",
+      "url": "https://cognition.com/blog/swe-1-7",
+      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+      "description": "",
+      "image": "",
+      "domain": "cognition.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-08T16:19:36.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-08T20:00:43.455Z"
+    },
+    {
+      "id": "i_mrci62f3_08zkph",
+      "url": "https://microsoft.github.io/flint-chart/#/",
+      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "description": "",
+      "image": "",
+      "domain": "microsoft.github.io",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-08T17:46:12.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-08T20:00:43.455Z"
+    },
+    {
+      "id": "i_mrci62f3_5elkdj",
+      "url": "https://openai.com/index/introducing-gpt-live/",
+      "title": "GPT‑Live",
+      "description": "",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-07-08T17:03:19.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-08T20:00:43.455Z"
+    },
+    {
+      "id": "i_mrci62f3_zdh1nj",
+      "url": "https://openai.com/index/k-12-educators-practical-skills",
+      "title": "Helping K–12 educators build practical AI skills",
+      "description": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-07-08T10:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-08T20:00:43.455Z"
+    },
+    {
+      "id": "i_mrci62f3_7joc7r",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "title": "Data for Agents",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-08T17:16:05.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-08T20:00:43.455Z"
+    },
+    {
+      "id": "i_mrci62f3_vswjvw",
+      "url": "https://www.youtube.com/watch?v=KGtko3y2RXQ",
+      "title": "Claude is definitely not conscious…",
+      "description": "Fireship (YouTube)",
+      "image": "https://i.ytimg.com/vi/KGtko3y2RXQ/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-08T17:53:47.000Z",
+      "addedBy": "Fireship",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-08T20:00:43.455Z"
+    },
+    {
       "id": "i_mrc9lgc1_ukpsmj",
       "url": "https://mistral.ai/news/robostral-navigate/",
       "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
@@ -18204,6 +18336,72 @@
   ],
   "activity": [
     {
+      "id": "a_mrci62f3_ikh1",
+      "type": "add",
+      "itemId": "i_mrci62f3_vswjvw",
+      "itemTitle": "Claude is definitely not conscious…",
+      "itemUrl": "https://www.youtube.com/watch?v=KGtko3y2RXQ",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-08T20:00:43.455Z"
+    },
+    {
+      "id": "a_mrci62f3_52bj",
+      "type": "add",
+      "itemId": "i_mrci62f3_7joc7r",
+      "itemTitle": "Data for Agents",
+      "itemUrl": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-08T20:00:43.455Z"
+    },
+    {
+      "id": "a_mrci62f3_05bo",
+      "type": "add",
+      "itemId": "i_mrci62f3_zdh1nj",
+      "itemTitle": "Helping K–12 educators build practical AI skills",
+      "itemUrl": "https://openai.com/index/k-12-educators-practical-skills",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-08T20:00:43.455Z"
+    },
+    {
+      "id": "a_mrci62f3_m6r7",
+      "type": "add",
+      "itemId": "i_mrci62f3_5elkdj",
+      "itemTitle": "GPT‑Live",
+      "itemUrl": "https://openai.com/index/introducing-gpt-live/",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-08T20:00:43.455Z"
+    },
+    {
+      "id": "a_mrci62f3_2tf8",
+      "type": "add",
+      "itemId": "i_mrci62f3_08zkph",
+      "itemTitle": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "itemUrl": "https://microsoft.github.io/flint-chart/#/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-08T20:00:43.455Z"
+    },
+    {
+      "id": "a_mrci62f3_6y7q",
+      "type": "add",
+      "itemId": "i_mrci62f3_dhsdzb",
+      "itemTitle": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+      "itemUrl": "https://cognition.com/blog/swe-1-7",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-08T20:00:43.455Z"
+    },
+    {
       "id": "a_mrc9lgc1_p92v",
       "type": "add",
       "itemId": "i_mrc9lgc1_flop9h",
@@ -23636,72 +23834,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-05-30T16:00:43.078Z"
-    },
-    {
-      "id": "a_mprl5a07_8vxz",
-      "type": "add",
-      "itemId": "i_mprl5a07_gpwd7u",
-      "itemTitle": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
-      "itemUrl": "https://github.com/jmaczan/tiny-vllm",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-30T00:01:13.447Z"
-    },
-    {
-      "id": "a_mprck28h_k718",
-      "type": "add",
-      "itemId": "i_mprck28h_xcboij",
-      "itemTitle": "The forgotten developer who saved JavaScript...",
-      "itemUrl": "https://www.youtube.com/watch?v=JfPWbttemYE",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-29T20:00:46.673Z"
-    },
-    {
-      "id": "a_mprck28h_goe5",
-      "type": "add",
-      "itemId": "i_mprck28h_5z6e75",
-      "itemTitle": "The Pope is into AI",
-      "itemUrl": "https://www.youtube.com/watch?v=HoMvCjnpAJ8",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-29T20:00:46.673Z"
-    },
-    {
-      "id": "a_mprck28h_4iij",
-      "type": "add",
-      "itemId": "i_mprck28h_t0grij",
-      "itemTitle": "Self Improving AI actually solves everything",
-      "itemUrl": "https://www.youtube.com/shorts/IYN2jfJHJd4",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-29T20:00:46.673Z"
-    },
-    {
-      "id": "a_mprck28h_krml",
-      "type": "add",
-      "itemId": "i_mprck28h_ffki55",
-      "itemTitle": "A shared playbook for trustworthy third party evaluations",
-      "itemUrl": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-05-29T20:00:46.673Z"
-    },
-    {
-      "id": "a_mprck28h_wffp",
-      "type": "add",
-      "itemId": "i_mprck28h_kb4n0q",
-      "itemTitle": "How Braintrust turns customer requests into code with Codex",
-      "itemUrl": "https://openai.com/index/braintrust",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-05-29T20:00:46.673Z"
     }
   ],
   "filterConfig": {
