@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrd7wa4o_ejb7vp",
+      "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
+      "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
+      "description": "",
+      "image": "",
+      "domain": "databricks.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-08T21:30:09.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-09T08:00:56.904Z"
+    },
+    {
+      "id": "i_mrd7wa4o_4arkvi",
+      "url": "https://www.latent.space/p/ainews-spacexai-launches-grok-45",
+      "title": "[AINews] SpaceXAI launches Grok 4.5, first Opus-class model post Cursor acquisition",
+      "description": "SpaceXAI continues to move faster than any other frontier lab on earth.",
+      "image": "https://substackcdn.com/image/fetch/$s_!8D6O!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHMuQw2BXUAAJaQd.png",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-09T06:05:41.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-09T08:00:56.904Z"
+    },
+    {
       "id": "i_mrczbmmo_p2vfha",
       "url": "https://www.alecscollon.com/blog/llm-burnout/",
       "title": "I Think I Have LLM Burnout",
@@ -18578,6 +18622,28 @@
   ],
   "activity": [
     {
+      "id": "a_mrd7wa4o_e1yv",
+      "type": "add",
+      "itemId": "i_mrd7wa4o_4arkvi",
+      "itemTitle": "[AINews] SpaceXAI launches Grok 4.5, first Opus-class model post Cursor acquisition",
+      "itemUrl": "https://www.latent.space/p/ainews-spacexai-launches-grok-45",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-09T08:00:56.904Z"
+    },
+    {
+      "id": "a_mrd7wa4o_9gza",
+      "type": "add",
+      "itemId": "i_mrd7wa4o_ejb7vp",
+      "itemTitle": "Benchmarking coding agents on Databricks' multi-million line codebase",
+      "itemUrl": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-09T08:00:56.904Z"
+    },
+    {
       "id": "a_mrczbmmo_dtif",
       "type": "add",
       "itemId": "i_mrczbmmo_urmxkb",
@@ -24054,28 +24120,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-01T08:00:37.867Z"
-    },
-    {
-      "id": "a_mpuol142_h1k3",
-      "type": "add",
-      "itemId": "i_mpuol142_c9ywds",
-      "itemTitle": "Feynman vs. Einstein vs. Newton: Who Wins? 🧠🤔 #physics #ai #science #feynman #research",
-      "itemUrl": "https://www.youtube.com/shorts/vsKH3oPwss4",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-01T04:00:45.794Z"
-    },
-    {
-      "id": "a_mpuol142_gak6",
-      "type": "add",
-      "itemId": "i_mpuol142_7ah7tg",
-      "itemTitle": "ChatGPT for Google Sheets exfiltrates workbooks",
-      "itemUrl": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-01T04:00:45.794Z"
     }
   ],
   "filterConfig": {
