@@ -2,6 +2,138 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrcqqpm5_w020s9",
+      "url": "https://x.ai/news/grok-4-5",
+      "title": "Grok 4.5",
+      "description": "",
+      "image": "",
+      "domain": "x.ai",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-08T18:00:32.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-09T00:00:43.565Z"
+    },
+    {
+      "id": "i_mrcqqpm5_r8ot9b",
+      "url": "https://openai.com/index/government-national-security-partnerships",
+      "title": "Our approach to government and national security partnerships",
+      "description": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-07-08T13:30:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-09T00:00:43.565Z"
+    },
+    {
+      "id": "i_mrcqqpm5_tat2wa",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "title": "Separating signal from noise in coding evaluations",
+      "description": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-07-08T13:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-09T00:00:43.565Z"
+    },
+    {
+      "id": "i_mrcqqpm5_7yskin",
+      "url": "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything",
+      "title": "Introducing GPT‑Live",
+      "description": "Introducing GPT‑Live OpenAI finally upgraded the model used by ChatGPT voice mode! I've had preview access for a few weeks in the iPhone app, and the new model is very impressive. It also has the ability to spin off harder tasks to GPT-5.5: For questions that require web search, deeper reasoning, or",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-08T23:20:48.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-09T00:00:43.565Z"
+    },
+    {
+      "id": "i_mrcqqpm5_m70xwg",
+      "url": "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything",
+      "title": "Quoting Kenton Varda",
+      "description": "I just declared a moratorium against AI-written change descriptions (e.g. PR and commit messages, also issues/tickets) from my team. AI was writing change descriptions that were worse than useless to me as I tried to review PRs: outlining details of the code that could easily be seen by looking at t",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-08T20:03:34.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-09T00:00:43.565Z"
+    },
+    {
+      "id": "i_mrcqqpm5_vimmev",
+      "url": "https://www.latent.space/p/modal2026",
+      "title": "Why AI Infrastructure must evolve for Agent Experience — Akshat Bubna, Modal CTO",
+      "description": "2 years after our first coverage, we return with Modal's other cofounder to explore why Agent Experience is working now, and everything they have learned building the new agent cloud.",
+      "image": "",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-08T22:55:07.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-09T00:00:43.565Z"
+    },
+    {
       "id": "i_mrci62f3_dhsdzb",
       "url": "https://cognition.com/blog/swe-1-7",
       "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
@@ -18336,6 +18468,72 @@
   ],
   "activity": [
     {
+      "id": "a_mrcqqpm5_joee",
+      "type": "add",
+      "itemId": "i_mrcqqpm5_vimmev",
+      "itemTitle": "Why AI Infrastructure must evolve for Agent Experience — Akshat Bubna, Modal CTO",
+      "itemUrl": "https://www.latent.space/p/modal2026",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-09T00:00:43.565Z"
+    },
+    {
+      "id": "a_mrcqqpm5_5cxr",
+      "type": "add",
+      "itemId": "i_mrcqqpm5_m70xwg",
+      "itemTitle": "Quoting Kenton Varda",
+      "itemUrl": "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-09T00:00:43.565Z"
+    },
+    {
+      "id": "a_mrcqqpm5_770t",
+      "type": "add",
+      "itemId": "i_mrcqqpm5_7yskin",
+      "itemTitle": "Introducing GPT‑Live",
+      "itemUrl": "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-09T00:00:43.565Z"
+    },
+    {
+      "id": "a_mrcqqpm5_m29s",
+      "type": "add",
+      "itemId": "i_mrcqqpm5_tat2wa",
+      "itemTitle": "Separating signal from noise in coding evaluations",
+      "itemUrl": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-09T00:00:43.565Z"
+    },
+    {
+      "id": "a_mrcqqpm5_c556",
+      "type": "add",
+      "itemId": "i_mrcqqpm5_r8ot9b",
+      "itemTitle": "Our approach to government and national security partnerships",
+      "itemUrl": "https://openai.com/index/government-national-security-partnerships",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-09T00:00:43.565Z"
+    },
+    {
+      "id": "a_mrcqqpm5_suxt",
+      "type": "add",
+      "itemId": "i_mrcqqpm5_w020s9",
+      "itemTitle": "Grok 4.5",
+      "itemUrl": "https://x.ai/news/grok-4-5",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-09T00:00:43.565Z"
+    },
+    {
       "id": "a_mrci62f3_ikh1",
       "type": "add",
       "itemId": "i_mrci62f3_vswjvw",
@@ -23768,72 +23966,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-05-31T04:00:41.172Z"
-    },
-    {
-      "id": "a_mpt0kfzk_js4u",
-      "type": "add",
-      "itemId": "i_mpt0kfzk_0o4c90",
-      "itemTitle": "I Am Retiring from Tech to Live Offline",
-      "itemUrl": "https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-31T00:00:41.456Z"
-    },
-    {
-      "id": "a_mpt0kfzk_6era",
-      "type": "add",
-      "itemId": "i_mpt0kfzk_jh2mwm",
-      "itemTitle": "Running Python ASGI apps in the browser via Pyodide + a service worker",
-      "itemUrl": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-31T00:00:41.456Z"
-    },
-    {
-      "id": "a_mpt0kfzk_2vac",
-      "type": "add",
-      "itemId": "i_mpt0kfzk_k49761",
-      "itemTitle": "How we contain Claude across products",
-      "itemUrl": "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-31T00:00:41.456Z"
-    },
-    {
-      "id": "a_mpsrztuu_do1r",
-      "type": "add",
-      "itemId": "i_mpsrztuu_t2hhvv",
-      "itemTitle": "Googles New AI Glasses Will Change AI Forever",
-      "itemUrl": "https://www.youtube.com/watch?v=4ryHMCHLvG4",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-30T20:00:42.726Z"
-    },
-    {
-      "id": "a_mpsrztuu_b2ej",
-      "type": "add",
-      "itemId": "i_mpsrztuu_hhjbc5",
-      "itemTitle": "Quoting Daniel Jalkut",
-      "itemUrl": "https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-30T20:00:42.726Z"
-    },
-    {
-      "id": "a_mpsjf70m_n9kx",
-      "type": "add",
-      "itemId": "i_mpsjf70m_sjudef",
-      "itemTitle": "Anthropic surpasses OpenAI to become most valuable AI startup",
-      "itemUrl": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-30T16:00:43.078Z"
     }
   ],
   "filterConfig": {
