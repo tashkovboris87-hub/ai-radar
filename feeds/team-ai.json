@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrdggwvb_ehpe6o",
+      "url": "https://www.youtube.com/watch?v=NvrZEecpAOI",
+      "title": "Grok 4.5 Just Shocked The AI Community - SpaceXAI Grok 4.5",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/NvrZEecpAOI/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-09T11:00:20.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-09T12:00:56.423Z"
+    },
+    {
       "id": "i_mrd7wa4o_ejb7vp",
       "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
       "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
@@ -18897,6 +18919,17 @@
   ],
   "activity": [
     {
+      "id": "a_mrdggwvb_v6ci",
+      "type": "add",
+      "itemId": "i_mrdggwvb_ehpe6o",
+      "itemTitle": "Grok 4.5 Just Shocked The AI Community - SpaceXAI Grok 4.5",
+      "itemUrl": "https://www.youtube.com/watch?v=NvrZEecpAOI",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-09T12:00:56.423Z"
+    },
+    {
       "id": "a_mrd7wa4o_e1yv",
       "type": "add",
       "itemId": "i_mrd7wa4o_4arkvi",
@@ -24380,17 +24413,6 @@
       "itemId": "i_mpux5i3v_3yjy1s",
       "itemTitle": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
       "itemUrl": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-01T08:00:37.867Z"
-    },
-    {
-      "id": "a_mpux5i3v_vi6z",
-      "type": "add",
-      "itemId": "i_mpux5i3v_ycsm2i",
-      "itemTitle": "May 2026 newsletter",
-      "itemUrl": "https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
