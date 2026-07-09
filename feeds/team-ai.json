@@ -2,6 +2,116 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrczbmmo_p2vfha",
+      "url": "https://www.alecscollon.com/blog/llm-burnout/",
+      "title": "I Think I Have LLM Burnout",
+      "description": "",
+      "image": "",
+      "domain": "alecscollon.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-09T01:56:28.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-09T04:00:56.400Z"
+    },
+    {
+      "id": "i_mrczbmmo_6eizyi",
+      "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
+      "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+      "description": "",
+      "image": "",
+      "domain": "tryai.dev",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-08T23:27:14.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-09T04:00:56.400Z"
+    },
+    {
+      "id": "i_mrczbmmo_3sopex",
+      "url": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything",
+      "title": "Rewriting Bun in Rust",
+      "description": "Rewriting Bun in Rust Jarred Sumner has been promising this blog post (since May 9th) about his Zig to Rust rewrite of Bun for significantly longer than it took him to finish the rewrite. Honestly, it was worth the wait. This is a detailed description of an extremely sophisticated piece of agentic e",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-08T23:57:21.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-09T04:00:56.400Z"
+    },
+    {
+      "id": "i_mrczbmmo_043sve",
+      "url": "https://www.youtube.com/shorts/p7eQYMcmZqo",
+      "title": "Grok  just broke the trend",
+      "description": "Matthew Berman (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-09T00:02:48.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-09T04:00:56.400Z"
+    },
+    {
+      "id": "i_mrczbmmo_urmxkb",
+      "url": "https://www.youtube.com/watch?v=AwWmUhm4xYA",
+      "title": "OpenAI Just Introduced The Future Of AI Voice - GPT- Live",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/AwWmUhm4xYA/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-09T03:00:37.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-09T04:00:56.400Z"
+    },
+    {
       "id": "i_mrcqqpm5_w020s9",
       "url": "https://x.ai/news/grok-4-5",
       "title": "Grok 4.5",
@@ -18468,6 +18578,61 @@
   ],
   "activity": [
     {
+      "id": "a_mrczbmmo_dtif",
+      "type": "add",
+      "itemId": "i_mrczbmmo_urmxkb",
+      "itemTitle": "OpenAI Just Introduced The Future Of AI Voice - GPT- Live",
+      "itemUrl": "https://www.youtube.com/watch?v=AwWmUhm4xYA",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-09T04:00:56.400Z"
+    },
+    {
+      "id": "a_mrczbmmo_e6fg",
+      "type": "add",
+      "itemId": "i_mrczbmmo_043sve",
+      "itemTitle": "Grok  just broke the trend",
+      "itemUrl": "https://www.youtube.com/shorts/p7eQYMcmZqo",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-09T04:00:56.400Z"
+    },
+    {
+      "id": "a_mrczbmmo_xt42",
+      "type": "add",
+      "itemId": "i_mrczbmmo_3sopex",
+      "itemTitle": "Rewriting Bun in Rust",
+      "itemUrl": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-09T04:00:56.400Z"
+    },
+    {
+      "id": "a_mrczbmmo_lnd3",
+      "type": "add",
+      "itemId": "i_mrczbmmo_6eizyi",
+      "itemTitle": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+      "itemUrl": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-09T04:00:56.400Z"
+    },
+    {
+      "id": "a_mrczbmmo_yfb4",
+      "type": "add",
+      "itemId": "i_mrczbmmo_p2vfha",
+      "itemTitle": "I Think I Have LLM Burnout",
+      "itemUrl": "https://www.alecscollon.com/blog/llm-burnout/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-09T04:00:56.400Z"
+    },
+    {
       "id": "a_mrcqqpm5_joee",
       "type": "add",
       "itemId": "i_mrcqqpm5_vimmev",
@@ -23911,61 +24076,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-01T04:00:45.794Z"
-    },
-    {
-      "id": "a_mpug07ta_2xmb",
-      "type": "add",
-      "itemId": "i_mpug07ta_4g8hfe",
-      "itemTitle": "datasette 1.0a32",
-      "itemUrl": "https://simonwillison.net/2026/May/31/datasette/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-01T00:00:37.774Z"
-    },
-    {
-      "id": "a_mpu7flc8_dw0u",
-      "type": "add",
-      "itemId": "i_mpu7flc8_264v7j",
-      "itemTitle": "The solution might be cancelling my AI subscription",
-      "itemUrl": "https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-31T20:00:38.600Z"
-    },
-    {
-      "id": "a_mpu7flc8_zeol",
-      "type": "add",
-      "itemId": "i_mpu7flc8_nv6jns",
-      "itemTitle": "The Speed of Prototyping in the Age of AI",
-      "itemUrl": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-31T20:00:38.600Z"
-    },
-    {
-      "id": "a_mptyuxh3_m9c2",
-      "type": "add",
-      "itemId": "i_mptyuxh3_b4h5bu",
-      "itemTitle": "The solution might be cancelling my AI subscription",
-      "itemUrl": "https://thoughts.hmmz.org/2026-05-31.html",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-31T16:00:37.623Z"
-    },
-    {
-      "id": "a_mpt952vo_x5c7",
-      "type": "add",
-      "itemId": "i_mpt952vo_q3iqlh",
-      "itemTitle": "Quoting Karen Kwok for Reuters Breakingviews",
-      "itemUrl": "https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-05-31T04:00:41.172Z"
     }
   ],
   "filterConfig": {
