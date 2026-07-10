@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrenbzu6_229ak6",
+      "url": "https://www.latent.space/p/ainews-openai-launches-gpt-56-solterraluna",
+      "title": "[AINews] OpenAI launches GPT 5.6 Sol/Terra/Luna, Codex becomes ChatGPT superapp",
+      "description": "A big day for OpenAI.",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/-MPGU2a67Ls",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-10T06:19:40.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-10T08:00:50.478Z"
+    },
+    {
+      "id": "i_mrenbzu6_yg86ew",
+      "url": "https://huggingface.co/blog/torch-attention-profile",
+      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-10T00:00:00.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-10T08:00:50.478Z"
+    },
+    {
       "id": "i_mreere6d_d4rfs6",
       "url": "https://simonwillison.net/2026/Jul/10/openai/#atom-everything",
       "title": "Quoting OpenAI",
@@ -19183,6 +19227,28 @@
   ],
   "activity": [
     {
+      "id": "a_mrenbzu6_6v8t",
+      "type": "add",
+      "itemId": "i_mrenbzu6_yg86ew",
+      "itemTitle": "Profiling in PyTorch (Part 3): Attention is all you profile",
+      "itemUrl": "https://huggingface.co/blog/torch-attention-profile",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-10T08:00:50.478Z"
+    },
+    {
+      "id": "a_mrenbzu6_yg82",
+      "type": "add",
+      "itemId": "i_mrenbzu6_229ak6",
+      "itemTitle": "[AINews] OpenAI launches GPT 5.6 Sol/Terra/Luna, Codex becomes ChatGPT superapp",
+      "itemUrl": "https://www.latent.space/p/ainews-openai-launches-gpt-56-solterraluna",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-10T08:00:50.478Z"
+    },
+    {
       "id": "a_mreere6d_7u94",
       "type": "add",
       "itemId": "i_mreere6d_d4rfs6",
@@ -24659,28 +24725,6 @@
       "category": "claude",
       "by": "AI Radar bot",
       "at": "2026-06-02T08:00:44.250Z"
-    },
-    {
-      "id": "a_mpw40pxr_hxao",
-      "type": "add",
-      "itemId": "i_mpw40pxr_i68gij",
-      "itemTitle": "[AINews] NVIDIA Cosmos 3, Nemotron 3 Ultra, and RTX Spark",
-      "itemUrl": "https://www.latent.space/p/ainews-nvidia-cosmos-3-nemotron-3",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-02T04:00:38.223Z"
-    },
-    {
-      "id": "a_mpw40pxr_1lkz",
-      "type": "add",
-      "itemId": "i_mpw40pxr_cu0d7v",
-      "itemTitle": "Our views on AI policy and political advocacy",
-      "itemUrl": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-06-02T04:00:38.223Z"
     }
   ],
   "filterConfig": {
