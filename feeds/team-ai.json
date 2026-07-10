@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrfd24j8_u6cbf2",
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "description": "",
+      "image": "",
+      "domain": "cdn.openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-07-10T18:29:19.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-10T20:01:00.020Z"
+    },
+    {
+      "id": "i_mrfd24j8_r1uymi",
+      "url": "https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything",
+      "title": "Quoting Nilay Patel",
+      "description": "The reality is to make augmented reality glasses, you need to put a camera next to your eyes that is continuously recording everything you see and processing that to put information over it. There is not another way around it. And there's certainly not a chip that can fit in the stem of a glasses th",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-10T17:05:26.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-10T20:01:00.020Z"
+    },
+    {
+      "id": "i_mrfd24j8_zzj9zt",
+      "url": "https://www.youtube.com/watch?v=URKml8lgw8Y",
+      "title": "OpenAI is so back... GPT 5.6 Sol first look",
+      "description": "Fireship (YouTube)",
+      "image": "https://i.ytimg.com/vi/URKml8lgw8Y/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-10T17:25:44.000Z",
+      "addedBy": "Fireship",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-10T20:01:00.020Z"
+    },
+    {
       "id": "i_mrf4hh28_tp3em1",
       "url": "https://www.youtube.com/watch?v=mWlCituW7wo",
       "title": "A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules",
@@ -19334,6 +19400,39 @@
   ],
   "activity": [
     {
+      "id": "a_mrfd24j8_qcjx",
+      "type": "add",
+      "itemId": "i_mrfd24j8_zzj9zt",
+      "itemTitle": "OpenAI is so back... GPT 5.6 Sol first look",
+      "itemUrl": "https://www.youtube.com/watch?v=URKml8lgw8Y",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-10T20:01:00.020Z"
+    },
+    {
+      "id": "a_mrfd24j8_c5zc",
+      "type": "add",
+      "itemId": "i_mrfd24j8_r1uymi",
+      "itemTitle": "Quoting Nilay Patel",
+      "itemUrl": "https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-10T20:01:00.020Z"
+    },
+    {
+      "id": "a_mrfd24j8_pqj1",
+      "type": "add",
+      "itemId": "i_mrfd24j8_u6cbf2",
+      "itemTitle": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "itemUrl": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-10T20:01:00.020Z"
+    },
+    {
       "id": "a_mrf4hh28_ia2f",
       "type": "add",
       "itemId": "i_mrf4hh28_lstwn3",
@@ -24799,39 +24898,6 @@
       "category": "chatgpt",
       "by": "AI Radar bot",
       "at": "2026-06-02T16:00:40.211Z"
-    },
-    {
-      "id": "a_mpwtqosz_lvjq",
-      "type": "add",
-      "itemId": "i_mpwtqosz_vcl8q2",
-      "itemTitle": "Codex for every role, tool, and workflow",
-      "itemUrl": "https://openai.com/index/codex-for-every-role-tool-workflow",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-06-02T16:00:40.211Z"
-    },
-    {
-      "id": "a_mpwtqosz_usa4",
-      "type": "add",
-      "itemId": "i_mpwtqosz_27f63n",
-      "itemTitle": "Travelers deploys AI-powered claims countrywide with OpenAI",
-      "itemUrl": "https://openai.com/index/travelers",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-06-02T16:00:40.211Z"
-    },
-    {
-      "id": "a_mpwl60q9_wmtv",
-      "type": "add",
-      "itemId": "i_mpwl60q9_zafyix",
-      "itemTitle": "Nvidia Just Introduced 4 New Stunning AI Updates",
-      "itemUrl": "https://www.youtube.com/watch?v=WW2UBwWQ2M4",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-02T12:00:38.961Z"
     }
   ],
   "filterConfig": {
