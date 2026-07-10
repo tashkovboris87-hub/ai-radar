@@ -21,7 +21,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-10T12:01:07.826Z"
+      "_updatedAt": "2026-07-10T12:01:07.826Z",
+      "comments": []
     },
     {
       "id": "i_mrevx0c2_65ctne",
@@ -36,14 +37,17 @@
       "tags": [],
       "addedAt": "2026-07-10T07:00:00.000Z",
       "addedBy": "OpenAI",
-      "readBy": [],
+      "readBy": [
+        "Anna"
+      ],
       "reactions": {
         "important": [],
         "must_read": [],
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-10T12:01:07.826Z"
+      "_updatedAt": "2026-07-10T12:42:35.544Z",
+      "comments": []
     },
     {
       "id": "i_mrenbzu6_229ak6",
@@ -65,7 +69,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-10T08:00:50.478Z"
+      "_updatedAt": "2026-07-10T08:00:50.478Z",
+      "comments": []
     },
     {
       "id": "i_mrenbzu6_yg86ew",
@@ -87,7 +92,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-10T08:00:50.478Z"
+      "_updatedAt": "2026-07-10T08:00:50.478Z",
+      "comments": []
     },
     {
       "id": "i_mreere6d_d4rfs6",
@@ -109,7 +115,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-10T04:00:52.357Z"
+      "_updatedAt": "2026-07-10T04:00:52.357Z",
+      "comments": []
     },
     {
       "id": "i_mrdxm7ug_h8tbjw",
@@ -131,7 +138,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-09T20:00:57.400Z"
+      "_updatedAt": "2026-07-09T20:00:57.400Z",
+      "comments": []
     },
     {
       "id": "i_mrdxm7ug_5gmxpx",
@@ -153,7 +161,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-09T20:00:57.400Z"
+      "_updatedAt": "2026-07-09T20:00:57.400Z",
+      "comments": []
     },
     {
       "id": "i_mrdxm7ug_diotxt",
@@ -175,7 +184,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-09T20:00:57.400Z"
+      "_updatedAt": "2026-07-09T20:00:57.400Z",
+      "comments": []
     },
     {
       "id": "i_mrdxm7ug_iryrie",
@@ -197,7 +207,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-09T20:00:57.400Z"
+      "_updatedAt": "2026-07-09T20:00:57.400Z",
+      "comments": []
     },
     {
       "id": "i_mrdxm7ug_fb3mj6",
@@ -219,7 +230,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-09T20:00:57.400Z"
+      "_updatedAt": "2026-07-09T20:00:57.400Z",
+      "comments": []
     },
     {
       "id": "i_mrdxm7ug_unxtky",
@@ -241,7 +253,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-09T20:00:57.400Z"
+      "_updatedAt": "2026-07-09T20:00:57.400Z",
+      "comments": []
     },
     {
       "id": "i_mrdxm7ug_ajo53q",
@@ -263,7 +276,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-09T20:00:57.400Z"
+      "_updatedAt": "2026-07-09T20:00:57.400Z",
+      "comments": []
     },
     {
       "id": "i_mrdxm7ug_apptx1",
@@ -285,7 +299,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-09T20:00:57.400Z"
+      "_updatedAt": "2026-07-09T20:00:57.400Z",
+      "comments": []
     },
     {
       "id": "i_mrdxm7ug_wbzbhi",
@@ -307,7 +322,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-09T20:00:57.400Z"
+      "_updatedAt": "2026-07-09T20:00:57.400Z",
+      "comments": []
     },
     {
       "id": "i_mrdxm7ug_44amxt",
@@ -329,7 +345,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-09T20:00:57.400Z"
+      "_updatedAt": "2026-07-09T20:00:57.400Z",
+      "comments": []
     },
     {
       "id": "i_mrdxm7ug_0sjv2z",
@@ -351,7 +368,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-09T20:00:57.400Z"
+      "_updatedAt": "2026-07-09T20:00:57.400Z",
+      "comments": []
     },
     {
       "id": "i_mrdggwvb_ehpe6o",
@@ -373,7 +391,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-09T12:00:56.423Z"
+      "_updatedAt": "2026-07-09T12:00:56.423Z",
+      "comments": []
     },
     {
       "id": "i_mrd7wa4o_ejb7vp",
