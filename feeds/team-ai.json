@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mreere6d_d4rfs6",
+      "url": "https://simonwillison.net/2026/Jul/10/openai/#atom-everything",
+      "title": "Quoting OpenAI",
+      "description": "[...] Work on web and mobile runs in the cloud. Work in the desktop app can also use local files and desktop apps with your permission. At launch, cloud Work conversations do not appear in desktop Work; desktop Work threads and local files remain on that computer. &mdash; OpenAI, trying (unsuccessfu",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-10T01:05:57.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-10T04:00:52.357Z"
+    },
+    {
       "id": "i_mrdxm7ug_h8tbjw",
       "url": "https://openai.com/index/gpt-5-6/",
       "title": "GPT-5.6",
@@ -19161,6 +19183,17 @@
   ],
   "activity": [
     {
+      "id": "a_mreere6d_7u94",
+      "type": "add",
+      "itemId": "i_mreere6d_d4rfs6",
+      "itemTitle": "Quoting OpenAI",
+      "itemUrl": "https://simonwillison.net/2026/Jul/10/openai/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-10T04:00:52.357Z"
+    },
+    {
       "id": "a_mrdxm7ug_u6at",
       "type": "add",
       "itemId": "i_mrdxm7ug_0sjv2z",
@@ -24646,17 +24679,6 @@
       "itemUrl": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
       "itemSource": "feed",
       "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-06-02T04:00:38.223Z"
-    },
-    {
-      "id": "a_mpw40pxr_2paa",
-      "type": "add",
-      "itemId": "i_mpw40pxr_ugtcye",
-      "itemTitle": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-      "itemUrl": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-      "itemSource": "feed",
-      "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-02T04:00:38.223Z"
     }
