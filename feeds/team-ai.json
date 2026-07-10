@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrevx0c2_95juet",
+      "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
+      "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
+      "description": "",
+      "image": "",
+      "domain": "macrumors.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-06T14:59:21.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-10T12:01:07.826Z"
+    },
+    {
+      "id": "i_mrevx0c2_65ctne",
+      "url": "https://openai.com/index/deutsche-telekom",
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "description": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-07-10T07:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-10T12:01:07.826Z"
+    },
+    {
       "id": "i_mrenbzu6_229ak6",
       "url": "https://www.latent.space/p/ainews-openai-launches-gpt-56-solterraluna",
       "title": "[AINews] OpenAI launches GPT 5.6 Sol/Terra/Luna, Codex becomes ChatGPT superapp",
@@ -19227,6 +19271,28 @@
   ],
   "activity": [
     {
+      "id": "a_mrevx0c2_qfwf",
+      "type": "add",
+      "itemId": "i_mrevx0c2_65ctne",
+      "itemTitle": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "itemUrl": "https://openai.com/index/deutsche-telekom",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-10T12:01:07.826Z"
+    },
+    {
+      "id": "a_mrevx0c2_l8v2",
+      "type": "add",
+      "itemId": "i_mrevx0c2_95juet",
+      "itemTitle": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
+      "itemUrl": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-10T12:01:07.826Z"
+    },
+    {
       "id": "a_mrenbzu6_6v8t",
       "type": "add",
       "itemId": "i_mrenbzu6_yg86ew",
@@ -24703,28 +24769,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-02T12:00:38.961Z"
-    },
-    {
-      "id": "a_mpwclhp6_1h2h",
-      "type": "add",
-      "itemId": "i_mpwclhp6_pbw8xf",
-      "itemTitle": "A Second Nobel Prize for AlphaFold? 🧬🏆 #alphafold #deepmind #nobelprize #science #ai",
-      "itemUrl": "https://www.youtube.com/shorts/MOviZKtFeHM",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-02T08:00:44.250Z"
-    },
-    {
-      "id": "a_mpwclhp6_y7kh",
-      "type": "add",
-      "itemId": "i_mpwclhp6_4gak65",
-      "itemTitle": "Pasted File Editor",
-      "itemUrl": "https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything",
-      "itemSource": "feed",
-      "category": "claude",
-      "by": "AI Radar bot",
-      "at": "2026-06-02T08:00:44.250Z"
     }
   ],
   "filterConfig": {
