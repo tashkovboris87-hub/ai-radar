@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrf4hh28_tp3em1",
+      "url": "https://www.youtube.com/watch?v=mWlCituW7wo",
+      "title": "A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules",
+      "description": "AI Explained (YouTube)",
+      "image": "https://i.ytimg.com/vi/mWlCituW7wo/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-10T12:40:15.000Z",
+      "addedBy": "AI Explained",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-10T16:00:59.552Z"
+    },
+    {
+      "id": "i_mrf4hh28_lstwn3",
+      "url": "https://www.youtube.com/watch?v=I-ibd3Hki00",
+      "title": "GPT 5.6 Is Incredible - ALL New Use Cases And Secret Features",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/I-ibd3Hki00/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-10T15:41:43.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-10T16:00:59.552Z"
+    },
+    {
       "id": "i_mrevx0c2_95juet",
       "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
       "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
@@ -19290,6 +19334,28 @@
   ],
   "activity": [
     {
+      "id": "a_mrf4hh28_ia2f",
+      "type": "add",
+      "itemId": "i_mrf4hh28_lstwn3",
+      "itemTitle": "GPT 5.6 Is Incredible - ALL New Use Cases And Secret Features",
+      "itemUrl": "https://www.youtube.com/watch?v=I-ibd3Hki00",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-10T16:00:59.552Z"
+    },
+    {
+      "id": "a_mrf4hh28_7skn",
+      "type": "add",
+      "itemId": "i_mrf4hh28_tp3em1",
+      "itemTitle": "A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules",
+      "itemUrl": "https://www.youtube.com/watch?v=mWlCituW7wo",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-10T16:00:59.552Z"
+    },
+    {
       "id": "a_mrevx0c2_qfwf",
       "type": "add",
       "itemId": "i_mrevx0c2_65ctne",
@@ -24762,28 +24828,6 @@
       "itemId": "i_mpwl60q9_zafyix",
       "itemTitle": "Nvidia Just Introduced 4 New Stunning AI Updates",
       "itemUrl": "https://www.youtube.com/watch?v=WW2UBwWQ2M4",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-02T12:00:38.961Z"
-    },
-    {
-      "id": "a_mpwl60q9_zkjn",
-      "type": "add",
-      "itemId": "i_mpwl60q9_vdcxsr",
-      "itemTitle": "Codex is becoming a productivity tool for everyone",
-      "itemUrl": "https://openai.com/index/codex-for-knowledge-work",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-06-02T12:00:38.961Z"
-    },
-    {
-      "id": "a_mpwl60q9_fr4c",
-      "type": "add",
-      "itemId": "i_mpwl60q9_gua1pb",
-      "itemTitle": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
-      "itemUrl": "https://blog.adafruit.com/",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
