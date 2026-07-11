@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrg2s1dm_hybypq",
+      "url": "https://ai-2040.com/",
+      "title": "AI 2040: Plan A",
+      "description": "",
+      "image": "",
+      "domain": "ai-2040.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-09T16:21:44.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-11T08:00:59.386Z"
+    },
+    {
       "id": "i_mrfu7eq8_w3mdt7",
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-f5c",
       "title": "[AINews] not much happened today",
@@ -19444,6 +19466,17 @@
   ],
   "activity": [
     {
+      "id": "a_mrg2s1dm_89nr",
+      "type": "add",
+      "itemId": "i_mrg2s1dm_hybypq",
+      "itemTitle": "AI 2040: Plan A",
+      "itemUrl": "https://ai-2040.com/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-11T08:00:59.386Z"
+    },
+    {
       "id": "a_mrfu7eq8_f6q9",
       "type": "add",
       "itemId": "i_mrfu7eq8_w3mdt7",
@@ -24927,17 +24960,6 @@
       "itemId": "i_mpx2baw9_6ayfxt",
       "itemTitle": "Is AI actually helping?",
       "itemUrl": "https://www.youtube.com/watch?v=gyXjvzMDV7s",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-02T20:00:38.889Z"
-    },
-    {
-      "id": "a_mpx2baw9_gt9j",
-      "type": "add",
-      "itemId": "i_mpx2baw9_a114vp",
-      "itemTitle": "GitHub's plan for Agents — Kyle Daigle, GitHub",
-      "itemUrl": "https://www.latent.space/p/github",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
