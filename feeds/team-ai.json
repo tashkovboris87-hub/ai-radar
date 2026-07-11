@@ -21,7 +21,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-11T08:00:59.386Z"
+      "_updatedAt": "2026-07-11T08:00:59.386Z",
+      "comments": []
     },
     {
       "id": "i_mrfu7eq8_w3mdt7",
@@ -43,7 +44,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-11T04:00:59.984Z"
+      "_updatedAt": "2026-07-11T04:00:59.984Z",
+      "comments": []
     },
     {
       "id": "i_mrflmrwj_t2v6o4",
@@ -65,7 +67,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-11T00:01:00.355Z"
+      "_updatedAt": "2026-07-11T00:01:00.355Z",
+      "comments": []
     },
     {
       "id": "i_mrfd24j8_u6cbf2",
@@ -87,7 +90,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-10T20:01:00.020Z"
+      "_updatedAt": "2026-07-10T20:01:00.020Z",
+      "comments": []
     },
     {
       "id": "i_mrfd24j8_r1uymi",
@@ -109,7 +113,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-10T20:01:00.020Z"
+      "_updatedAt": "2026-07-10T20:01:00.020Z",
+      "comments": []
     },
     {
       "id": "i_mrfd24j8_zzj9zt",
@@ -131,7 +136,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-10T20:01:00.020Z"
+      "_updatedAt": "2026-07-10T20:01:00.020Z",
+      "comments": []
     },
     {
       "id": "i_mrf4hh28_tp3em1",
@@ -153,7 +159,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-10T16:00:59.552Z"
+      "_updatedAt": "2026-07-10T16:00:59.552Z",
+      "comments": []
     },
     {
       "id": "i_mrf4hh28_lstwn3",
@@ -175,7 +182,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-10T16:00:59.552Z"
+      "_updatedAt": "2026-07-10T16:00:59.552Z",
+      "comments": []
     },
     {
       "id": "i_mrevx0c2_95juet",
@@ -6312,14 +6320,16 @@
       "tags": [],
       "addedAt": "2026-06-16T15:46:31.000Z",
       "addedBy": "Google DeepMind",
-      "readBy": [],
+      "readBy": [
+        "Boris"
+      ],
       "reactions": {
         "important": [],
         "must_read": [],
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-06-18T16:01:02.819Z",
+      "_updatedAt": "2026-07-11T14:20:08.790Z",
       "comments": []
     },
     {
