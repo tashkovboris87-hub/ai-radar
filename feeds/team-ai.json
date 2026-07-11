@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrfu7eq8_w3mdt7",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-f5c",
+      "title": "[AINews] not much happened today",
+      "description": "a quiet day after a week of nonstop model releases",
+      "image": "https://substackcdn.com/image/fetch/$s_!7odD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa462b771-b4e5-4d7a-b815-ac4ca35903f4_1328x982.png",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-11T02:53:08.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-11T04:00:59.984Z"
+    },
+    {
       "id": "i_mrflmrwj_t2v6o4",
       "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
       "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
@@ -19422,6 +19444,17 @@
   ],
   "activity": [
     {
+      "id": "a_mrfu7eq8_f6q9",
+      "type": "add",
+      "itemId": "i_mrfu7eq8_w3mdt7",
+      "itemTitle": "[AINews] not much happened today",
+      "itemUrl": "https://www.latent.space/p/ainews-not-much-happened-today-f5c",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-11T04:00:59.984Z"
+    },
+    {
       "id": "a_mrflmrwj_iqfy",
       "type": "add",
       "itemId": "i_mrflmrwj_t2v6o4",
@@ -24909,17 +24942,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-02T20:00:38.889Z"
-    },
-    {
-      "id": "a_mpwtqosz_5b98",
-      "type": "add",
-      "itemId": "i_mpwtqosz_pndnib",
-      "itemTitle": "Holo3.1: Fast & Local Computer Use Agents",
-      "itemUrl": "https://huggingface.co/blog/Hcompany/holo31",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-02T16:00:40.211Z"
     }
   ],
   "filterConfig": {
