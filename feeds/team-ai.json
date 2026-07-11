@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrflmrwj_t2v6o4",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "description": "",
+      "image": "",
+      "domain": "9to5mac.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-10T20:47:09.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-11T00:01:00.355Z"
+    },
+    {
       "id": "i_mrfd24j8_u6cbf2",
       "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
       "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
@@ -19400,6 +19422,17 @@
   ],
   "activity": [
     {
+      "id": "a_mrflmrwj_iqfy",
+      "type": "add",
+      "itemId": "i_mrflmrwj_t2v6o4",
+      "itemTitle": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "itemUrl": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-11T00:01:00.355Z"
+    },
+    {
       "id": "a_mrfd24j8_qcjx",
       "type": "add",
       "itemId": "i_mrfd24j8_zzj9zt",
@@ -24885,17 +24918,6 @@
       "itemUrl": "https://huggingface.co/blog/Hcompany/holo31",
       "itemSource": "feed",
       "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-02T16:00:40.211Z"
-    },
-    {
-      "id": "a_mpwtqosz_mmfl",
-      "type": "add",
-      "itemId": "i_mpwtqosz_hvhapf",
-      "itemTitle": "Advancing youth safety and opportunity through global leadership",
-      "itemUrl": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-      "itemSource": "feed",
-      "category": "chatgpt",
       "by": "AI Radar bot",
       "at": "2026-06-02T16:00:40.211Z"
     }
