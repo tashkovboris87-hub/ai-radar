@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrhi7skq_wkko3j",
+      "url": "https://thebeach.dev/posts/lisp-agent/",
+      "title": "An agent in 100 lines of Lisp",
+      "description": "",
+      "image": "",
+      "domain": "thebeach.dev",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-07T21:21:09.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-12T08:00:54.890Z"
+    },
+    {
       "id": "i_mrh9n5fk_tiiu5p",
       "url": "https://www.iroh.computer/blog/mesh-llm",
       "title": "Mesh LLM: distributed AI computing on iroh",
@@ -19542,6 +19564,17 @@
   ],
   "activity": [
     {
+      "id": "a_mrhi7skq_ms14",
+      "type": "add",
+      "itemId": "i_mrhi7skq_wkko3j",
+      "itemTitle": "An agent in 100 lines of Lisp",
+      "itemUrl": "https://thebeach.dev/posts/lisp-agent/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-12T08:00:54.890Z"
+    },
+    {
       "id": "a_mrh9n5fk_cbuw",
       "type": "add",
       "itemId": "i_mrh9n5fk_5k1yv9",
@@ -25025,17 +25058,6 @@
       "itemId": "i_mpxavy74_0wysel",
       "itemTitle": "California Brown Pelican",
       "itemUrl": "https://simonwillison.net/2026/Jun/2/sighting-367841339/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-03T00:00:39.136Z"
-    },
-    {
-      "id": "a_mpxavy74_g4jz",
-      "type": "add",
-      "itemId": "i_mpxavy74_64buql",
-      "itemTitle": "Microsoft's new MAI models",
-      "itemUrl": "https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
