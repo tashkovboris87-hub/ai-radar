@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrh9n5fk_tiiu5p",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "description": "",
+      "image": "",
+      "domain": "iroh.computer",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-11T22:38:57.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-12T04:00:54.848Z"
+    },
+    {
+      "id": "i_mrh9n5fk_5k1yv9",
+      "url": "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything",
+      "title": "sqlite-utils 4.1",
+      "description": "Release: sqlite-utils 4.1 The first dot-release since 4.0 a few days ago, introducing a number of minor new features. sqlite-utils insert and sqlite-utils upsert now accept a --code option for providing a block of Python code (or a path to a .py file) that defines a rows() function or rows iterable ",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-11T23:50:20.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-12T04:00:54.848Z"
+    },
+    {
       "id": "i_mrgjxbiq_1nq84z",
       "url": "https://www.youtube.com/watch?v=IBR4eSVxN7U",
       "title": "Gemini 3.5 Might Shock The AI World  - All Gemini 3.5 Pro Leaks Explained",
@@ -19498,6 +19542,28 @@
   ],
   "activity": [
     {
+      "id": "a_mrh9n5fk_cbuw",
+      "type": "add",
+      "itemId": "i_mrh9n5fk_5k1yv9",
+      "itemTitle": "sqlite-utils 4.1",
+      "itemUrl": "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-12T04:00:54.848Z"
+    },
+    {
+      "id": "a_mrh9n5fk_ee3c",
+      "type": "add",
+      "itemId": "i_mrh9n5fk_tiiu5p",
+      "itemTitle": "Mesh LLM: distributed AI computing on iroh",
+      "itemUrl": "https://www.iroh.computer/blog/mesh-llm",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-12T04:00:54.848Z"
+    },
+    {
       "id": "a_mrgjxbiq_ryeb",
       "type": "add",
       "itemId": "i_mrgjxbiq_1nq84z",
@@ -24970,28 +25036,6 @@
       "itemId": "i_mpxavy74_64buql",
       "itemTitle": "Microsoft's new MAI models",
       "itemUrl": "https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-03T00:00:39.136Z"
-    },
-    {
-      "id": "a_mpxavy74_nn3t",
-      "type": "add",
-      "itemId": "i_mpxavy74_48ndyk",
-      "itemTitle": "How we index images for RAG",
-      "itemUrl": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-03T00:00:39.136Z"
-    },
-    {
-      "id": "a_mpxavy74_zkgv",
-      "type": "add",
-      "itemId": "i_mpxavy74_bs561g",
-      "itemTitle": "California’s university system went all in on AI, now it's tearing itself apart",
-      "itemUrl": "https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
