@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mri7xpnh_5agxwl",
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "description": "",
+      "image": "",
+      "domain": "systima.ai",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-12T18:25:51.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-12T20:00:54.557Z"
+    },
+    {
+      "id": "i_mri7xpnh_c98xyy",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "title": "I love LLMs, I hate hype",
+      "description": "",
+      "image": "",
+      "domain": "geohot.github.io",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-12T18:31:56.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-12T20:00:54.557Z"
+    },
+    {
       "id": "i_mrhzd3wq_ps0j7p",
       "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
       "title": "Old and new apps, via modern coding agents by Terry Tao",
@@ -19652,6 +19696,28 @@
   ],
   "activity": [
     {
+      "id": "a_mri7xpnh_3pz9",
+      "type": "add",
+      "itemId": "i_mri7xpnh_c98xyy",
+      "itemTitle": "I love LLMs, I hate hype",
+      "itemUrl": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-12T20:00:54.557Z"
+    },
+    {
+      "id": "a_mri7xpnh_mf99",
+      "type": "add",
+      "itemId": "i_mri7xpnh_5agxwl",
+      "itemTitle": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "itemUrl": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-12T20:00:54.557Z"
+    },
+    {
       "id": "a_mrhzd3wq_apub",
       "type": "add",
       "itemId": "i_mrhzd3wq_qwyrqi",
@@ -25128,28 +25194,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-03T16:00:44.519Z"
-    },
-    {
-      "id": "a_mpxs17av_5tkn",
-      "type": "add",
-      "itemId": "i_mpxs17av_zjctq1",
-      "itemTitle": "[AINews] Microsoft Build: MAI-Thinking-1 and MAI Family models",
-      "itemUrl": "https://www.latent.space/p/ainews-microsoft-build-mai-thinking",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-03T08:00:37.687Z"
-    },
-    {
-      "id": "a_mpxs17av_w7pt",
-      "type": "add",
-      "itemId": "i_mpxs17av_vtzef0",
-      "itemTitle": "AI outperforms law professors in Stanford Law study",
-      "itemUrl": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-03T08:00:37.687Z"
     }
   ],
   "filterConfig": {
