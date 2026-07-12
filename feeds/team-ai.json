@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrhzd3wq_ps0j7p",
+      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+      "title": "Old and new apps, via modern coding agents by Terry Tao",
+      "description": "",
+      "image": "",
+      "domain": "terrytao.wordpress.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-12T11:09:42.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-12T16:00:56.330Z"
+    },
+    {
+      "id": "i_mrhzd3wq_zl2d2r",
+      "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+      "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
+      "description": "",
+      "image": "",
+      "domain": "spectrum.ieee.org",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-12T13:26:13.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-12T16:00:56.330Z"
+    },
+    {
+      "id": "i_mrhzd3wq_qwyrqi",
+      "url": "https://www.youtube.com/watch?v=Ae9q7KsRbuI",
+      "title": "New AI Just Reinvented Minecraft Worlds",
+      "description": "Two Minute Papers (YouTube)",
+      "image": "https://i.ytimg.com/vi/Ae9q7KsRbuI/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-12T15:48:43.000Z",
+      "addedBy": "Two Minute Papers",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-12T16:00:56.330Z"
+    },
+    {
       "id": "i_mrhqsf4l_m3cct4",
       "url": "https://github.com/cosmtrek/mindwalk",
       "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
@@ -19586,6 +19652,39 @@
   ],
   "activity": [
     {
+      "id": "a_mrhzd3wq_apub",
+      "type": "add",
+      "itemId": "i_mrhzd3wq_qwyrqi",
+      "itemTitle": "New AI Just Reinvented Minecraft Worlds",
+      "itemUrl": "https://www.youtube.com/watch?v=Ae9q7KsRbuI",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-12T16:00:56.330Z"
+    },
+    {
+      "id": "a_mrhzd3wq_6itu",
+      "type": "add",
+      "itemId": "i_mrhzd3wq_zl2d2r",
+      "itemTitle": "AI Boosts Research Careers but Flattens Scientific Discovery",
+      "itemUrl": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-12T16:00:56.330Z"
+    },
+    {
+      "id": "a_mrhzd3wq_8bev",
+      "type": "add",
+      "itemId": "i_mrhzd3wq_ps0j7p",
+      "itemTitle": "Old and new apps, via modern coding agents by Terry Tao",
+      "itemUrl": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-12T16:00:56.330Z"
+    },
+    {
       "id": "a_mrhqsf4l_buz3",
       "type": "add",
       "itemId": "i_mrhqsf4l_m3cct4",
@@ -25051,39 +25150,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-03T08:00:37.687Z"
-    },
-    {
-      "id": "a_mpxjgkfw_noi0",
-      "type": "add",
-      "itemId": "i_mpxjgkfw_g2e14d",
-      "itemTitle": "micropython-wasm 0.1a1",
-      "itemUrl": "https://simonwillison.net/2026/Jun/2/micropython-wasm/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-03T04:00:38.012Z"
-    },
-    {
-      "id": "a_mpxjgkfw_9z2e",
-      "type": "add",
-      "itemId": "i_mpxjgkfw_iaustz",
-      "itemTitle": "datasette-agent-micropython 0.1a0",
-      "itemUrl": "https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-03T04:00:38.012Z"
-    },
-    {
-      "id": "a_mpxavy74_d0eu",
-      "type": "add",
-      "itemId": "i_mpxavy74_8w3x17",
-      "itemTitle": "Everyone's holding their laptops open",
-      "itemUrl": "https://www.youtube.com/shorts/fdkwkmZrpEU",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-03T00:00:39.136Z"
     }
   ],
   "filterConfig": {
