@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrj67kh1_lciwyr",
+      "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+      "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+      "description": "",
+      "image": "",
+      "domain": "raymyers.org",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-13T08:39:39.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-13T12:00:21.349Z"
+    },
+    {
       "id": "i_mrixmvxy_ar0da7",
       "url": "https://www.youtube.com/shorts/mlc9JSTQoxc",
       "title": "Codex is GONE",
@@ -19828,6 +19850,17 @@
   ],
   "activity": [
     {
+      "id": "a_mrj67kh1_f3zf",
+      "type": "add",
+      "itemId": "i_mrj67kh1_lciwyr",
+      "itemTitle": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+      "itemUrl": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-13T12:00:21.349Z"
+    },
+    {
       "id": "a_mrixmvxy_83gu",
       "type": "add",
       "itemId": "i_mrixmvxy_ar0da7",
@@ -25311,17 +25344,6 @@
       "itemId": "i_mpyhrccj_d4fd7o",
       "itemTitle": "⚡️Satya Nadella: No Priors x Latent Space Crossover Special at Microsoft Build",
       "itemUrl": "https://www.latent.space/p/satya-2026",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-03T20:00:47.683Z"
-    },
-    {
-      "id": "a_mpyhrccj_n1rt",
-      "type": "add",
-      "itemId": "i_mpyhrccj_gkfq4k",
-      "itemTitle": "🔬Scaling Past Informal AI - Carina Hong, Axiom Math",
-      "itemUrl": "https://www.latent.space/p/axiom",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
