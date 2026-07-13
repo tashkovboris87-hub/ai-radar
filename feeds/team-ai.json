@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrip24gf_51mayc",
+      "url": "https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything",
+      "title": "Directly Responsible Individuals (DRI)",
+      "description": "Directly Responsible Individuals (DRI) I went looking for a definition of \"Directly Responsible Individuals\" and the best I found was in the GitLab handbook. Apparently the term originated at Apple, where it's used to describe the person who is \"ultimately accountable for the success or failure of a",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-12T23:57:14.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-13T04:00:13.839Z"
+    },
+    {
+      "id": "i_mrip24gf_whdl44",
+      "url": "https://simonwillison.net/2026/Jul/12/shot-scraper/#atom-everything",
+      "title": "shot-scraper 1.11",
+      "description": "Release: shot-scraper 1.11 Some minor improvements, mainly around command option consistency and making the server: mechanism used by both shot-scraper video and shot-scraper multi work if the server takes longer than a second to start serving traffic. server: processes used by shot-scraper multi an",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-12T23:46:52.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-13T04:00:13.839Z"
+    },
+    {
       "id": "i_mrighj7c_ycbi89",
       "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
       "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
@@ -19762,6 +19806,28 @@
   ],
   "activity": [
     {
+      "id": "a_mrip24gf_6ysi",
+      "type": "add",
+      "itemId": "i_mrip24gf_whdl44",
+      "itemTitle": "shot-scraper 1.11",
+      "itemUrl": "https://simonwillison.net/2026/Jul/12/shot-scraper/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-13T04:00:13.839Z"
+    },
+    {
+      "id": "a_mrip24gf_5233",
+      "type": "add",
+      "itemId": "i_mrip24gf_51mayc",
+      "itemTitle": "Directly Responsible Individuals (DRI)",
+      "itemUrl": "https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-13T04:00:13.839Z"
+    },
+    {
       "id": "a_mrighj7c_oqmp",
       "type": "add",
       "itemId": "i_mrighj7c_80e1ju",
@@ -25238,28 +25304,6 @@
       "category": "chatgpt",
       "by": "AI Radar bot",
       "at": "2026-06-03T20:00:47.683Z"
-    },
-    {
-      "id": "a_mpyhrccj_ac5v",
-      "type": "add",
-      "itemId": "i_mpyhrccj_ub9t5a",
-      "itemTitle": "OpenAI public policy agenda",
-      "itemUrl": "https://openai.com/index/public-policy-agenda",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-06-03T20:00:47.683Z"
-    },
-    {
-      "id": "a_mpy96msn_hus1",
-      "type": "add",
-      "itemId": "i_mpy96msn_f7dpan",
-      "itemTitle": "Claude Opus 4.8: Lying Machine No More?",
-      "itemUrl": "https://www.youtube.com/watch?v=ypL7kUiw_LM",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-03T16:00:44.519Z"
     }
   ],
   "filterConfig": {
