@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrighj7c_ycbi89",
+      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "description": "",
+      "image": "",
+      "domain": "ploy.ai",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-12T17:13:07.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-13T00:00:16.248Z"
+    },
+    {
+      "id": "i_mrighj7c_gxvdlo",
+      "url": "https://simonwillison.net/2026/Jul/12/bump/#atom-everything",
+      "title": "Fable gets another bump",
+      "description": "One of the consequences of GPT-5.6 Sol being clearly a Fable/Mythos class model is that Anthropic have, once again, bumped the date that Fable stops being available in their Claude Max plans: We're extending Claude Fable 5 access on all paid plans, as well as keeping Claude Code’s weekly rate limits",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-12T21:20:07.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-13T00:00:16.248Z"
+    },
+    {
+      "id": "i_mrighj7c_80e1ju",
+      "url": "https://simonwillison.net/2026/Jul/12/sqlite-utils/#atom-everything",
+      "title": "sqlite-utils 4.1.1",
+      "description": "Release: sqlite-utils 4.1.1 Mainly a fix for an edge case that regular Claude chat spotted while experimenting with the 4.1 release to answer a question about ON DELETE. table.transform() now raises a TransactionError if called while a transaction is open with PRAGMA foreign_keys enabled and the tab",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-12T20:55:30.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-13T00:00:16.248Z"
+    },
+    {
       "id": "i_mri7xpnh_5agxwl",
       "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
       "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
@@ -19696,6 +19762,39 @@
   ],
   "activity": [
     {
+      "id": "a_mrighj7c_oqmp",
+      "type": "add",
+      "itemId": "i_mrighj7c_80e1ju",
+      "itemTitle": "sqlite-utils 4.1.1",
+      "itemUrl": "https://simonwillison.net/2026/Jul/12/sqlite-utils/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-13T00:00:16.248Z"
+    },
+    {
+      "id": "a_mrighj7c_bah2",
+      "type": "add",
+      "itemId": "i_mrighj7c_gxvdlo",
+      "itemTitle": "Fable gets another bump",
+      "itemUrl": "https://simonwillison.net/2026/Jul/12/bump/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-13T00:00:16.248Z"
+    },
+    {
+      "id": "a_mrighj7c_jvff",
+      "type": "add",
+      "itemId": "i_mrighj7c_ycbi89",
+      "itemTitle": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "itemUrl": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-13T00:00:16.248Z"
+    },
+    {
       "id": "a_mri7xpnh_3pz9",
       "type": "add",
       "itemId": "i_mri7xpnh_c98xyy",
@@ -25157,39 +25256,6 @@
       "itemId": "i_mpy96msn_f7dpan",
       "itemTitle": "Claude Opus 4.8: Lying Machine No More?",
       "itemUrl": "https://www.youtube.com/watch?v=ypL7kUiw_LM",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-03T16:00:44.519Z"
-    },
-    {
-      "id": "a_mpy96msn_kzmk",
-      "type": "add",
-      "itemId": "i_mpy96msn_p5i4sl",
-      "itemTitle": "Adding MCP Tools to Reachy Mini",
-      "itemUrl": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-03T16:00:44.519Z"
-    },
-    {
-      "id": "a_mpy96msn_qe5j",
-      "type": "add",
-      "itemId": "i_mpy96msn_ww4xsf",
-      "itemTitle": "Direct Preference Optimization Beyond Chatbots",
-      "itemUrl": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-03T16:00:44.519Z"
-    },
-    {
-      "id": "a_mpy96msn_vmf2",
-      "type": "add",
-      "itemId": "i_mpy96msn_k5hsmp",
-      "itemTitle": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs",
-      "itemUrl": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
