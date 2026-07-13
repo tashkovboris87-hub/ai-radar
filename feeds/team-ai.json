@@ -2,6 +2,94 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrjes4fj_wn7r1i",
+      "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+      "title": "Grok uploaded my user directory to xAI's servers",
+      "description": "",
+      "image": "",
+      "domain": "twitter.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-13T13:39:59.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-13T16:00:17.263Z"
+    },
+    {
+      "id": "i_mrjes4fj_af4phc",
+      "url": "https://twitter.com/i/status/2076598897779020159",
+      "title": "Grok CLI uploaded the whole home directory to GCS",
+      "description": "",
+      "image": "",
+      "domain": "twitter.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-13T13:35:32.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-13T16:00:17.263Z"
+    },
+    {
+      "id": "i_mrjes4fj_du88hn",
+      "url": "https://blog.cloudflare.com/introducing-precursor/",
+      "title": "Precursor",
+      "description": "",
+      "image": "",
+      "domain": "blog.cloudflare.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-13T14:39:38.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-13T16:00:17.263Z"
+    },
+    {
+      "id": "i_mrjes4fj_dz0a62",
+      "url": "https://openai.com/academy/getting-started",
+      "title": "Getting started with ChatGPT",
+      "description": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-07-10T00:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-13T16:00:17.263Z"
+    },
+    {
       "id": "i_mrj67kh1_lciwyr",
       "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
       "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
@@ -19850,6 +19938,50 @@
   ],
   "activity": [
     {
+      "id": "a_mrjes4fj_q7mv",
+      "type": "add",
+      "itemId": "i_mrjes4fj_dz0a62",
+      "itemTitle": "Getting started with ChatGPT",
+      "itemUrl": "https://openai.com/academy/getting-started",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-13T16:00:17.263Z"
+    },
+    {
+      "id": "a_mrjes4fj_fm1g",
+      "type": "add",
+      "itemId": "i_mrjes4fj_du88hn",
+      "itemTitle": "Precursor",
+      "itemUrl": "https://blog.cloudflare.com/introducing-precursor/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-13T16:00:17.263Z"
+    },
+    {
+      "id": "a_mrjes4fj_0yuz",
+      "type": "add",
+      "itemId": "i_mrjes4fj_af4phc",
+      "itemTitle": "Grok CLI uploaded the whole home directory to GCS",
+      "itemUrl": "https://twitter.com/i/status/2076598897779020159",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-13T16:00:17.263Z"
+    },
+    {
+      "id": "a_mrjes4fj_yczv",
+      "type": "add",
+      "itemId": "i_mrjes4fj_wn7r1i",
+      "itemTitle": "Grok uploaded my user directory to xAI's servers",
+      "itemUrl": "https://twitter.com/a_green_being/status/2076598897779020159",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-13T16:00:17.263Z"
+    },
+    {
       "id": "a_mrj67kh1_f3zf",
       "type": "add",
       "itemId": "i_mrj67kh1_lciwyr",
@@ -25304,50 +25436,6 @@
       "category": "chatgpt",
       "by": "AI Radar bot",
       "at": "2026-06-04T00:00:44.497Z"
-    },
-    {
-      "id": "a_mpyqbx01_rzcr",
-      "type": "add",
-      "itemId": "i_mpyqbx01_236kck",
-      "itemTitle": "Artificial intelligence is not conscious – Ted Chiang",
-      "itemUrl": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-04T00:00:44.497Z"
-    },
-    {
-      "id": "a_mpyhrccj_i70t",
-      "type": "add",
-      "itemId": "i_mpyhrccj_idyjhz",
-      "itemTitle": "Microsofts New Quantum Breakthrough is 1000X BETTER! - Majorana 2 Explained",
-      "itemUrl": "https://www.youtube.com/watch?v=7NN6XbI3-lo",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-03T20:00:47.683Z"
-    },
-    {
-      "id": "a_mpyhrccj_ad79",
-      "type": "add",
-      "itemId": "i_mpyhrccj_cs3ynx",
-      "itemTitle": "Meet the AI \"Co-Scientist\" Changing Everything 🤖🧪 #ai",
-      "itemUrl": "https://www.youtube.com/shorts/iz7elwbqZVI",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-03T20:00:47.683Z"
-    },
-    {
-      "id": "a_mpyhrccj_8j91",
-      "type": "add",
-      "itemId": "i_mpyhrccj_d4fd7o",
-      "itemTitle": "⚡️Satya Nadella: No Priors x Latent Space Crossover Special at Microsoft Build",
-      "itemUrl": "https://www.latent.space/p/satya-2026",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-03T20:00:47.683Z"
     }
   ],
   "filterConfig": {
