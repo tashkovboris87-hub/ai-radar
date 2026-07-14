@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrl2sqnf_fq9s5c",
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "title": "How to manage AI investments in the agentic era",
+      "description": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-07-14T10:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-14T20:00:23.019Z"
+    },
+    {
+      "id": "i_mrl2sqnf_0vdpcx",
+      "url": "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything",
+      "title": "lobste.rs is now running on SQLite",
+      "description": "lobste.rs is now running on SQLite Community site Lobsters has been planning a migration away from MariaDB since August 2018 - originally targeting PostgreSQL, but last year they decided to investigate SQLite instead. This weekend they completed the migration, and now consider it stable enough that ",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-14T19:44:11.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-14T20:00:23.019Z"
+    },
+    {
+      "id": "i_mrl2sqnf_jd5719",
+      "url": "https://www.youtube.com/watch?v=etduwo9Lu3M",
+      "title": "You aren't using Codex like me...",
+      "description": "Matthew Berman (YouTube)",
+      "image": "https://i.ytimg.com/vi/etduwo9Lu3M/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-14T16:15:00.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-14T20:00:23.019Z"
+    },
+    {
       "id": "i_mrku83jn_a7et9k",
       "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
       "title": "Are we offloading too much of our thinking to AI?",
@@ -20232,6 +20298,39 @@
   ],
   "activity": [
     {
+      "id": "a_mrl2sqnf_srlw",
+      "type": "add",
+      "itemId": "i_mrl2sqnf_jd5719",
+      "itemTitle": "You aren't using Codex like me...",
+      "itemUrl": "https://www.youtube.com/watch?v=etduwo9Lu3M",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-14T20:00:23.019Z"
+    },
+    {
+      "id": "a_mrl2sqnf_jlxr",
+      "type": "add",
+      "itemId": "i_mrl2sqnf_0vdpcx",
+      "itemTitle": "lobste.rs is now running on SQLite",
+      "itemUrl": "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-14T20:00:23.019Z"
+    },
+    {
+      "id": "a_mrl2sqnf_2g63",
+      "type": "add",
+      "itemId": "i_mrl2sqnf_fq9s5c",
+      "itemTitle": "How to manage AI investments in the agentic era",
+      "itemUrl": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-14T20:00:23.019Z"
+    },
+    {
       "id": "a_mrku83jn_sek5",
       "type": "add",
       "itemId": "i_mrku83jn_tl3taj",
@@ -25697,39 +25796,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-05T00:00:28.759Z"
-    },
-    {
-      "id": "a_mpzx6sew_5r5d",
-      "type": "add",
-      "itemId": "i_mpzx6sew_rbccax",
-      "itemTitle": "Anthopic did a thing...",
-      "itemUrl": "https://www.youtube.com/watch?v=a56T6OQtwEg",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-04T20:00:28.760Z"
-    },
-    {
-      "id": "a_mpzx6sew_nbrs",
-      "type": "add",
-      "itemId": "i_mpzx6sew_ewkcor",
-      "itemTitle": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-      "itemUrl": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-04T20:00:28.760Z"
-    },
-    {
-      "id": "a_mpzx6sew_11jh",
-      "type": "add",
-      "itemId": "i_mpzx6sew_axew3s",
-      "itemTitle": "Quoting Emanuel Maiberg, 404 Media",
-      "itemUrl": "https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-04T20:00:28.760Z"
     }
   ],
   "filterConfig": {
