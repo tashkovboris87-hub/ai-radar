@@ -2,6 +2,94 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrku83jn_a7et9k",
+      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+      "title": "Are we offloading too much of our thinking to AI?",
+      "description": "",
+      "image": "",
+      "domain": "artfish.ai",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-14T15:18:13.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-14T16:00:23.027Z"
+    },
+    {
+      "id": "i_mrku83jn_pu66q6",
+      "url": "https://github.com/juggler-ai/juggler",
+      "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
+      "description": "",
+      "image": "",
+      "domain": "github.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-12T18:28:15.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-14T16:00:23.027Z"
+    },
+    {
+      "id": "i_mrku83jn_dqylho",
+      "url": "https://twitter.com/demishassabis/status/2076957440109625718",
+      "title": "Demis Hassabis has a plan to harness AI safely",
+      "description": "",
+      "image": "",
+      "domain": "twitter.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-14T09:20:07.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-14T16:00:23.027Z"
+    },
+    {
+      "id": "i_mrku83jn_tl3taj",
+      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+      "title": "How to stop Claude from saying load-bearing",
+      "description": "",
+      "image": "",
+      "domain": "jola.dev",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-14T11:46:02.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-14T16:00:23.027Z"
+    },
+    {
       "id": "i_mrklngcu_bz1gyl",
       "url": "https://github.com/openai/codex/issues/28058",
       "title": "Codex starts encrypting prompts, uses ciphertext for inference instead",
@@ -20144,6 +20232,50 @@
   ],
   "activity": [
     {
+      "id": "a_mrku83jn_sek5",
+      "type": "add",
+      "itemId": "i_mrku83jn_tl3taj",
+      "itemTitle": "How to stop Claude from saying load-bearing",
+      "itemUrl": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-14T16:00:23.027Z"
+    },
+    {
+      "id": "a_mrku83jn_g6in",
+      "type": "add",
+      "itemId": "i_mrku83jn_dqylho",
+      "itemTitle": "Demis Hassabis has a plan to harness AI safely",
+      "itemUrl": "https://twitter.com/demishassabis/status/2076957440109625718",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-14T16:00:23.027Z"
+    },
+    {
+      "id": "a_mrku83jn_lcte",
+      "type": "add",
+      "itemId": "i_mrku83jn_pu66q6",
+      "itemTitle": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
+      "itemUrl": "https://github.com/juggler-ai/juggler",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-14T16:00:23.027Z"
+    },
+    {
+      "id": "a_mrku83jn_d88w",
+      "type": "add",
+      "itemId": "i_mrku83jn_a7et9k",
+      "itemTitle": "Are we offloading too much of our thinking to AI?",
+      "itemUrl": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-14T16:00:23.027Z"
+    },
+    {
       "id": "a_mrklngcu_rxez",
       "type": "add",
       "itemId": "i_mrklngcu_bz1gyl",
@@ -25598,50 +25730,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-04T20:00:28.760Z"
-    },
-    {
-      "id": "a_mpzx6sew_3ne8",
-      "type": "add",
-      "itemId": "i_mpzx6sew_ikodbg",
-      "itemTitle": "Dreaming: Better memory for a more helpful ChatGPT",
-      "itemUrl": "https://openai.com/index/chatgpt-memory-dreaming",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-06-04T20:00:28.760Z"
-    },
-    {
-      "id": "a_mpzom5l5_1amn",
-      "type": "add",
-      "itemId": "i_mpzom5l5_lxfwp0",
-      "itemTitle": "Designing the hf CLI as an agent-optimized way to work with the Hub",
-      "itemUrl": "https://huggingface.co/blog/hf-cli-for-agents",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-04T16:00:29.129Z"
-    },
-    {
-      "id": "a_mpzom5l5_zo2h",
-      "type": "add",
-      "itemId": "i_mpzom5l5_1veunh",
-      "itemTitle": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
-      "itemUrl": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-04T16:00:29.129Z"
-    },
-    {
-      "id": "a_mpzom5l5_9uzr",
-      "type": "add",
-      "itemId": "i_mpzom5l5_nzr6s5",
-      "itemTitle": "How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent",
-      "itemUrl": "https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-04T16:00:29.129Z"
     }
   ],
   "filterConfig": {
