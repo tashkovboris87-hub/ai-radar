@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrk4hzv0_ylwtyl",
+      "url": "https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything",
+      "title": "Using uvx in GitHub Actions in a cache-friendly way",
+      "description": "TIL: Using uvx in GitHub Actions in a cache-friendly way I finally found a cache-friendly recipe for using uvx tool-name in GitHub Actions workflows that I like. The trick is setting a UV_EXCLUDE_NEWER: \"2026-07-12\" environment variable at the start of the workflow and then using that as part of the",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-14T00:56:20.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-14T04:00:14.796Z"
+    },
+    {
+      "id": "i_mrk4hzv0_0l2jum",
+      "url": "https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months",
+      "title": "[AINews] Codex usage up >10x in 6 months to 7M users, +1M in the past ~day; did Codex overtake Claude Code??",
+      "description": "a quiet day lets us fact check some numbers against the sound of silence of Claude Code reporting...",
+      "image": "https://substackcdn.com/image/fetch/$s_!cqvt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09c078c3-d47d-4ab1-91e5-b09ad5d082dd_1388x902.png",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-14T01:22:27.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-14T04:00:14.796Z"
+    },
+    {
       "id": "i_mrjvxedu_s86pyr",
       "url": "https://github.com/thephw/claude-meseeks",
       "title": "Claude is just Mr. Meeseeks",
@@ -20026,6 +20070,28 @@
   ],
   "activity": [
     {
+      "id": "a_mrk4hzv0_wsbx",
+      "type": "add",
+      "itemId": "i_mrk4hzv0_0l2jum",
+      "itemTitle": "[AINews] Codex usage up >10x in 6 months to 7M users, +1M in the past ~day; did Codex overtake Claude Code??",
+      "itemUrl": "https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-14T04:00:14.796Z"
+    },
+    {
+      "id": "a_mrk4hzv0_6ald",
+      "type": "add",
+      "itemId": "i_mrk4hzv0_ylwtyl",
+      "itemTitle": "Using uvx in GitHub Actions in a cache-friendly way",
+      "itemUrl": "https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-14T04:00:14.796Z"
+    },
+    {
       "id": "a_mrjvxedu_0r6c",
       "type": "add",
       "itemId": "i_mrjvxedu_ujy9u7",
@@ -25502,28 +25568,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-04T08:00:28.837Z"
-    },
-    {
-      "id": "a_mpyywe06_ingv",
-      "type": "add",
-      "itemId": "i_mpyywe06_3uzesy",
-      "itemTitle": "[AINews] Reve 2 and Ideogram 4: Layouts in Imagegen",
-      "itemUrl": "https://www.latent.space/p/ainews-reve-2-and-ideogram-4-layouts",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-04T04:00:36.582Z"
-    },
-    {
-      "id": "a_mpyywe06_dlji",
-      "type": "add",
-      "itemId": "i_mpyywe06_k6oi0o",
-      "itemTitle": "The ways we contain Claude across products",
-      "itemUrl": "https://www.anthropic.com/engineering/how-we-contain-claude",
-      "itemSource": "feed",
-      "category": "claude",
-      "by": "AI Radar bot",
-      "at": "2026-06-04T04:00:36.582Z"
     }
   ],
   "filterConfig": {
