@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrklngcu_bz1gyl",
+      "url": "https://github.com/openai/codex/issues/28058",
+      "title": "Codex starts encrypting prompts, uses ciphertext for inference instead",
+      "description": "",
+      "image": "",
+      "domain": "github.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-14T11:21:32.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-14T12:00:22.926Z"
+    },
+    {
       "id": "i_mrkd2ncd_2cgxyz",
       "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
       "title": "Empowering India’s next generation of innovators with ATL Saathi",
@@ -20092,6 +20114,17 @@
   ],
   "activity": [
     {
+      "id": "a_mrklngcu_rxez",
+      "type": "add",
+      "itemId": "i_mrklngcu_bz1gyl",
+      "itemTitle": "Codex starts encrypting prompts, uses ciphertext for inference instead",
+      "itemUrl": "https://github.com/openai/codex/issues/28058",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-14T12:00:22.926Z"
+    },
+    {
       "id": "a_mrkd2ncd_fkzy",
       "type": "add",
       "itemId": "i_mrkd2ncd_2cgxyz",
@@ -25579,17 +25612,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-04T16:00:29.129Z"
-    },
-    {
-      "id": "a_mpzg1j6k_72f3",
-      "type": "add",
-      "itemId": "i_mpzg1j6k_iklhfp",
-      "itemTitle": "Task-Seeded Synthetic Q&A Generation for Nemotron Pretraining",
-      "itemUrl": "https://huggingface.co/blog/nvidia/task-seeded-sdg",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-04T12:00:30.044Z"
     }
   ],
   "filterConfig": {
