@@ -2,6 +2,94 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrjvxedu_s86pyr",
+      "url": "https://github.com/thephw/claude-meseeks",
+      "title": "Claude is just Mr. Meeseeks",
+      "description": "",
+      "image": "",
+      "domain": "github.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-13T22:03:54.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-14T00:00:16.914Z"
+    },
+    {
+      "id": "i_mrjvxedu_81wipg",
+      "url": "https://simonwillison.net/2026/Jul/13/doomql/#atom-everything",
+      "title": "DOOMQL",
+      "description": "DOOMQL Peter Gostev built this using GPT-5.6 Sol. This is a lot of fun: DOOMQL started with a deliberately unreasonable question: what if SQLite were the game engine, not merely the place where a game stores data? The result is a small, original Doom-like game in which SQL owns movement, collision, ",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-13T22:34:41.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-14T00:00:16.914Z"
+    },
+    {
+      "id": "i_mrjvxedu_b2jqy0",
+      "url": "https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything",
+      "title": "datasette code-frequency chart on GitHub",
+      "description": "datasette code-frequency chart on GitHub Out of curiosity I decided to see if I could find a useful illustration of the impact of coding agents and Opus 4.5 class models on my own output. The best I've found so far is this GitHub chart of frequency of code changes to my Datasette open source project",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-13T21:45:27.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-14T00:00:16.914Z"
+    },
+    {
+      "id": "i_mrjvxedu_ujy9u7",
+      "url": "https://www.youtube.com/watch?v=jXGgNb0DLNg",
+      "title": "Google Just Revealed The Timeline From AGI To ASI",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/jXGgNb0DLNg/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-13T21:47:53.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-14T00:00:16.914Z"
+    },
+    {
       "id": "i_mrjes4fj_wn7r1i",
       "url": "https://twitter.com/a_green_being/status/2076598897779020159",
       "title": "Grok uploaded my user directory to xAI's servers",
@@ -19938,6 +20026,50 @@
   ],
   "activity": [
     {
+      "id": "a_mrjvxedu_0r6c",
+      "type": "add",
+      "itemId": "i_mrjvxedu_ujy9u7",
+      "itemTitle": "Google Just Revealed The Timeline From AGI To ASI",
+      "itemUrl": "https://www.youtube.com/watch?v=jXGgNb0DLNg",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-14T00:00:16.914Z"
+    },
+    {
+      "id": "a_mrjvxedu_8mj0",
+      "type": "add",
+      "itemId": "i_mrjvxedu_b2jqy0",
+      "itemTitle": "datasette code-frequency chart on GitHub",
+      "itemUrl": "https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-14T00:00:16.914Z"
+    },
+    {
+      "id": "a_mrjvxedu_iybc",
+      "type": "add",
+      "itemId": "i_mrjvxedu_81wipg",
+      "itemTitle": "DOOMQL",
+      "itemUrl": "https://simonwillison.net/2026/Jul/13/doomql/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-14T00:00:16.914Z"
+    },
+    {
+      "id": "a_mrjvxedu_f006",
+      "type": "add",
+      "itemId": "i_mrjvxedu_s86pyr",
+      "itemTitle": "Claude is just Mr. Meeseeks",
+      "itemUrl": "https://github.com/thephw/claude-meseeks",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-14T00:00:16.914Z"
+    },
+    {
       "id": "a_mrjes4fj_q7mv",
       "type": "add",
       "itemId": "i_mrjes4fj_dz0a62",
@@ -25392,50 +25524,6 @@
       "category": "claude",
       "by": "AI Radar bot",
       "at": "2026-06-04T04:00:36.582Z"
-    },
-    {
-      "id": "a_mpyywe06_92ym",
-      "type": "add",
-      "itemId": "i_mpyywe06_pg1idp",
-      "itemTitle": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-      "itemUrl": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-04T04:00:36.582Z"
-    },
-    {
-      "id": "a_mpyywe06_bp7y",
-      "type": "add",
-      "itemId": "i_mpyywe06_xyf448",
-      "itemTitle": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
-      "itemUrl": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-04T04:00:36.582Z"
-    },
-    {
-      "id": "a_mpyqbx01_t097",
-      "type": "add",
-      "itemId": "i_mpyqbx01_0bjcxb",
-      "itemTitle": "How Wasmer used Codex to build a Node.js runtime for the edge",
-      "itemUrl": "https://openai.com/index/wasmer",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-06-04T00:00:44.497Z"
-    },
-    {
-      "id": "a_mpyqbx01_36cw",
-      "type": "add",
-      "itemId": "i_mpyqbx01_nf6rj4",
-      "itemTitle": "Introducing new capabilities to GPT-Rosalind",
-      "itemUrl": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-06-04T00:00:44.497Z"
     }
   ],
   "filterConfig": {
