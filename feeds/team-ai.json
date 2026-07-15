@@ -14,14 +14,17 @@
       "tags": [],
       "addedAt": "2026-07-15T06:28:00.000Z",
       "addedBy": "HackerNews",
-      "readBy": [],
+      "readBy": [
+        "Boris"
+      ],
       "reactions": {
         "important": [],
         "must_read": [],
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-15T08:00:20.814Z"
+      "_updatedAt": "2026-07-15T10:59:25.224Z",
+      "comments": []
     },
     {
       "id": "i_mrlsima6_cftoq6",
@@ -43,7 +46,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-15T08:00:20.814Z"
+      "_updatedAt": "2026-07-15T08:00:20.814Z",
+      "comments": []
     },
     {
       "id": "i_mrlsima6_6qkv6u",
@@ -65,7 +69,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-15T08:00:20.814Z"
+      "_updatedAt": "2026-07-15T08:00:20.814Z",
+      "comments": []
     },
     {
       "id": "i_mrlbdeer_m2q7yx",
@@ -87,7 +92,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-15T00:00:23.859Z"
+      "_updatedAt": "2026-07-15T00:00:23.859Z",
+      "comments": []
     },
     {
       "id": "i_mrlbdeer_fg3n4g",
@@ -109,7 +115,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-15T00:00:23.859Z"
+      "_updatedAt": "2026-07-15T00:00:23.859Z",
+      "comments": []
     },
     {
       "id": "i_mrlbdeer_glo1ql",
@@ -131,7 +138,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-15T00:00:23.859Z"
+      "_updatedAt": "2026-07-15T00:00:23.859Z",
+      "comments": []
     },
     {
       "id": "i_mrlbdeer_svn8jx",
@@ -153,7 +161,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-15T00:00:23.859Z"
+      "_updatedAt": "2026-07-15T00:00:23.859Z",
+      "comments": []
     },
     {
       "id": "i_mrlbdeer_sqagxh",
@@ -175,7 +184,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-15T00:00:23.859Z"
+      "_updatedAt": "2026-07-15T00:00:23.859Z",
+      "comments": []
     },
     {
       "id": "i_mrlbdeer_a54p3k",
@@ -197,7 +207,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-15T00:00:23.859Z"
+      "_updatedAt": "2026-07-15T00:00:23.859Z",
+      "comments": []
     },
     {
       "id": "i_mrlbdeer_3drcmn",
@@ -219,7 +230,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-15T00:00:23.859Z"
+      "_updatedAt": "2026-07-15T00:00:23.859Z",
+      "comments": []
     },
     {
       "id": "i_mrl2sqnf_fq9s5c",
@@ -241,7 +253,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-14T20:00:23.019Z"
+      "_updatedAt": "2026-07-14T20:00:23.019Z",
+      "comments": []
     },
     {
       "id": "i_mrl2sqnf_0vdpcx",
@@ -263,7 +276,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-14T20:00:23.019Z"
+      "_updatedAt": "2026-07-14T20:00:23.019Z",
+      "comments": []
     },
     {
       "id": "i_mrl2sqnf_jd5719",
@@ -285,7 +299,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-14T20:00:23.019Z"
+      "_updatedAt": "2026-07-14T20:00:23.019Z",
+      "comments": []
     },
     {
       "id": "i_mrku83jn_a7et9k",
@@ -307,7 +322,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-14T16:00:23.027Z"
+      "_updatedAt": "2026-07-14T16:00:23.027Z",
+      "comments": []
     },
     {
       "id": "i_mrku83jn_pu66q6",
@@ -329,7 +345,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-14T16:00:23.027Z"
+      "_updatedAt": "2026-07-14T16:00:23.027Z",
+      "comments": []
     },
     {
       "id": "i_mrku83jn_dqylho",
@@ -351,7 +368,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-14T16:00:23.027Z"
+      "_updatedAt": "2026-07-14T16:00:23.027Z",
+      "comments": []
     },
     {
       "id": "i_mrku83jn_tl3taj",
@@ -373,7 +391,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-14T16:00:23.027Z"
+      "_updatedAt": "2026-07-14T16:00:23.027Z",
+      "comments": []
     },
     {
       "id": "i_mrklngcu_bz1gyl",
