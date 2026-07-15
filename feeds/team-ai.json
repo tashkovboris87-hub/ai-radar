@@ -2,6 +2,160 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrlbdeer_m2q7yx",
+      "url": "https://www.bis.org/publ/bisbull120.pdf",
+      "title": "Financing the AI boom: from cash flows to debt [pdf]",
+      "description": "",
+      "image": "",
+      "domain": "bis.org",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-14T21:58:36.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-15T00:00:23.859Z"
+    },
+    {
+      "id": "i_mrlbdeer_fg3n4g",
+      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+      "description": "",
+      "image": "",
+      "domain": "mindgard.ai",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-14T17:58:35.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-15T00:00:23.859Z"
+    },
+    {
+      "id": "i_mrlbdeer_glo1ql",
+      "url": "https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything",
+      "title": "Quoting GitHub Changeling",
+      "description": "Dependabot now waits until a new release has been available on its registry for at least three days before opening a version update pull request. This cooldown is now the default and requires no configuration. &mdash; GitHub Changeling, embracing dependency cooldowns Tags: dependency-cooldowns, pack",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-14T22:43:35.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-15T00:00:23.859Z"
+    },
+    {
+      "id": "i_mrlbdeer_svn8jx",
+      "url": "https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything",
+      "title": "simonw/pedalican",
+      "description": "simonw/pedalican Clearly I wasn't paying attention when these were first announced back in May, but today I accidentally activated a \"pet\" in Codex Desktop - a little animated robot, reminiscent of Clippy - and then learned you can create your own. So I did, and now I have a cute little pelican on a",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-14T22:29:45.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-15T00:00:23.859Z"
+    },
+    {
+      "id": "i_mrlbdeer_sqagxh",
+      "url": "https://simonwillison.net/2026/Jul/14/datasette/#atom-everything",
+      "title": "datasette 1.0a37",
+      "description": "Release: datasette 1.0a37 A minor release. Performance and documentation improvements to the permissions system, plus I reverted a cosmetic API change which caused almost every existing plugin test suite to break. Tags: datasette",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-14T16:31:41.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-15T00:00:23.859Z"
+    },
+    {
+      "id": "i_mrlbdeer_a54p3k",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-c72",
+      "title": "[AINews] not much happened today",
+      "description": "a continuation: Codex adding 1M users a day now.",
+      "image": "https://substackcdn.com/image/fetch/$s_!uoZg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHNOP2m2bAAAC2k7.jpg",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-14T23:54:07.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-15T00:00:23.859Z"
+    },
+    {
+      "id": "i_mrlbdeer_3drcmn",
+      "url": "https://www.latent.space/p/aiewf26trends",
+      "title": "5 Trends That Defined AI Engineering at World’s Fair 2026",
+      "description": "At this year's AIE World’s Fair, AI engineering entered a new phase: building systems around agents, rather than just building with agents.",
+      "image": "https://substackcdn.com/image/fetch/$s_!3Be9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4e070d1-3be3-48a9-a86b-ceaf34f4577b_1672x941.png",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-14T23:21:21.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-15T00:00:23.859Z"
+    },
+    {
       "id": "i_mrl2sqnf_fq9s5c",
       "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
       "title": "How to manage AI investments in the agentic era",
@@ -20298,6 +20452,83 @@
   ],
   "activity": [
     {
+      "id": "a_mrlbdeer_4jwi",
+      "type": "add",
+      "itemId": "i_mrlbdeer_3drcmn",
+      "itemTitle": "5 Trends That Defined AI Engineering at World’s Fair 2026",
+      "itemUrl": "https://www.latent.space/p/aiewf26trends",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-15T00:00:23.859Z"
+    },
+    {
+      "id": "a_mrlbdeer_4l3b",
+      "type": "add",
+      "itemId": "i_mrlbdeer_a54p3k",
+      "itemTitle": "[AINews] not much happened today",
+      "itemUrl": "https://www.latent.space/p/ainews-not-much-happened-today-c72",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-15T00:00:23.859Z"
+    },
+    {
+      "id": "a_mrlbdeer_q5lh",
+      "type": "add",
+      "itemId": "i_mrlbdeer_sqagxh",
+      "itemTitle": "datasette 1.0a37",
+      "itemUrl": "https://simonwillison.net/2026/Jul/14/datasette/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-15T00:00:23.859Z"
+    },
+    {
+      "id": "a_mrlbdeer_ukq0",
+      "type": "add",
+      "itemId": "i_mrlbdeer_svn8jx",
+      "itemTitle": "simonw/pedalican",
+      "itemUrl": "https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-15T00:00:23.859Z"
+    },
+    {
+      "id": "a_mrlbdeer_w6ft",
+      "type": "add",
+      "itemId": "i_mrlbdeer_glo1ql",
+      "itemTitle": "Quoting GitHub Changeling",
+      "itemUrl": "https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-15T00:00:23.859Z"
+    },
+    {
+      "id": "a_mrlbdeer_tu0r",
+      "type": "add",
+      "itemId": "i_mrlbdeer_fg3n4g",
+      "itemTitle": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+      "itemUrl": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-15T00:00:23.859Z"
+    },
+    {
+      "id": "a_mrlbdeer_oa4a",
+      "type": "add",
+      "itemId": "i_mrlbdeer_m2q7yx",
+      "itemTitle": "Financing the AI boom: from cash flows to debt [pdf]",
+      "itemUrl": "https://www.bis.org/publ/bisbull120.pdf",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-15T00:00:23.859Z"
+    },
+    {
       "id": "a_mrl2sqnf_srlw",
       "type": "add",
       "itemId": "i_mrl2sqnf_jd5719",
@@ -25719,83 +25950,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-05T08:00:30.084Z"
-    },
-    {
-      "id": "a_mq0ec8vf_0v1v",
-      "type": "add",
-      "itemId": "i_mq0ec8vf_fnq0lq",
-      "itemTitle": "Open Code Review – An AI-powered code review CLI tool",
-      "itemUrl": "https://github.com/alibaba/open-code-review",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-05T04:00:36.843Z"
-    },
-    {
-      "id": "a_mq0ec8vf_80wx",
-      "type": "add",
-      "itemId": "i_mq0ec8vf_j7ly6z",
-      "itemTitle": "Do transformers need three projections? Systematic study of QKV variants",
-      "itemUrl": "https://arxiv.org/abs/2606.04032",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-05T04:00:36.843Z"
-    },
-    {
-      "id": "a_mq05rfiv_sgxt",
-      "type": "add",
-      "itemId": "i_mq05rfiv_scjzqu",
-      "itemTitle": "Meta’s New AI Pendant Is Coming - Metas AI Pendant Explained",
-      "itemUrl": "https://www.youtube.com/watch?v=FIKzx8ZvlG0",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-05T00:00:28.759Z"
-    },
-    {
-      "id": "a_mq05rfiv_5f3p",
-      "type": "add",
-      "itemId": "i_mq05rfiv_pvp566",
-      "itemTitle": "It's like AI insurance",
-      "itemUrl": "https://www.youtube.com/shorts/RGh9kL8hVgQ",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-05T00:00:28.759Z"
-    },
-    {
-      "id": "a_mq05rfiv_aie8",
-      "type": "add",
-      "itemId": "i_mq05rfiv_rgayod",
-      "itemTitle": "Reality: The Final Eval — Lukas Petersson and Axel Backlund of Andon Labs",
-      "itemUrl": "https://www.latent.space/p/andon",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-05T00:00:28.759Z"
-    },
-    {
-      "id": "a_mq05rfiv_hxv6",
-      "type": "add",
-      "itemId": "i_mq05rfiv_73dvq8",
-      "itemTitle": "Biodefense in the Intelligence Age",
-      "itemUrl": "https://openai.com/index/biodefense-in-the-intelligence-age",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-06-05T00:00:28.759Z"
-    },
-    {
-      "id": "a_mq05rfiv_z4dv",
-      "type": "add",
-      "itemId": "i_mq05rfiv_emypgo",
-      "itemTitle": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "itemUrl": "https://github.com/anthropics/defending-code-reference-harness",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-05T00:00:28.759Z"
     }
   ],
   "filterConfig": {
