@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrlsima6_vjw418",
+      "url": "https://www.ayush.digital/blog/the-memory-heist",
+      "title": "I tricked Claude into leaking your deepest, darkest secrets",
+      "description": "",
+      "image": "",
+      "domain": "ayush.digital",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-15T06:28:00.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-15T08:00:20.814Z"
+    },
+    {
+      "id": "i_mrlsima6_cftoq6",
+      "url": "https://www.youtube.com/shorts/R2kkm87o_XM",
+      "title": "China's making their own chips now",
+      "description": "Matthew Berman (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-15T03:05:45.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-15T08:00:20.814Z"
+    },
+    {
+      "id": "i_mrlsima6_6qkv6u",
+      "url": "https://www.youtube.com/watch?v=DXfBzcokJNQ",
+      "title": "How To Use Fable 5 For 50% Cheaper - Fable 5 Updated Guide",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/DXfBzcokJNQ/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-15T02:59:16.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-15T08:00:20.814Z"
+    },
+    {
       "id": "i_mrlbdeer_m2q7yx",
       "url": "https://www.bis.org/publ/bisbull120.pdf",
       "title": "Financing the AI boom: from cash flows to debt [pdf]",
@@ -20452,6 +20518,39 @@
   ],
   "activity": [
     {
+      "id": "a_mrlsima6_m5de",
+      "type": "add",
+      "itemId": "i_mrlsima6_6qkv6u",
+      "itemTitle": "How To Use Fable 5 For 50% Cheaper - Fable 5 Updated Guide",
+      "itemUrl": "https://www.youtube.com/watch?v=DXfBzcokJNQ",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-15T08:00:20.814Z"
+    },
+    {
+      "id": "a_mrlsima6_18rx",
+      "type": "add",
+      "itemId": "i_mrlsima6_cftoq6",
+      "itemTitle": "China's making their own chips now",
+      "itemUrl": "https://www.youtube.com/shorts/R2kkm87o_XM",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-15T08:00:20.814Z"
+    },
+    {
+      "id": "a_mrlsima6_746f",
+      "type": "add",
+      "itemId": "i_mrlsima6_vjw418",
+      "itemTitle": "I tricked Claude into leaking your deepest, darkest secrets",
+      "itemUrl": "https://www.ayush.digital/blog/the-memory-heist",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-15T08:00:20.814Z"
+    },
+    {
       "id": "a_mrlbdeer_4jwi",
       "type": "add",
       "itemId": "i_mrlbdeer_3drcmn",
@@ -25917,39 +26016,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-05T16:00:32.142Z"
-    },
-    {
-      "id": "a_mq0vhe8y_ryv5",
-      "type": "add",
-      "itemId": "i_mq0vhe8y_mfu73e",
-      "itemTitle": "Quoting Andreas Kling",
-      "itemUrl": "https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-05T12:00:30.562Z"
-    },
-    {
-      "id": "a_mq0vhe8y_2pm5",
-      "type": "add",
-      "itemId": "i_mq0vhe8y_4x3mqh",
-      "itemTitle": "Fine-tuning an LLM to write docs like it's 1995",
-      "itemUrl": "https://passo.uno/fine-tuning-docs-llm/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-05T12:00:30.562Z"
-    },
-    {
-      "id": "a_mq0mwqro_pyq9",
-      "type": "add",
-      "itemId": "i_mq0mwqro_w9stmo",
-      "itemTitle": "[AINews] not much happened today",
-      "itemUrl": "https://www.latent.space/p/ainews-not-much-happened-today-7a8",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-05T08:00:30.084Z"
     }
   ],
   "filterConfig": {
