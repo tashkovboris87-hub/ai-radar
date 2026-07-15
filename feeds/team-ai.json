@@ -2,6 +2,116 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrm9nwbe_6i7o4c",
+      "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
+      "title": "OpenAI loses trademark dispute at EU court",
+      "description": "",
+      "image": "",
+      "domain": "dpa-international.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-15T14:32:36.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-15T16:00:20.570Z"
+    },
+    {
+      "id": "i_mrm9nwbe_198d16",
+      "url": "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything",
+      "title": "How I tricked Claude into leaking your deepest, darkest secrets",
+      "description": "How I tricked Claude into leaking your deepest, darkest secrets I've been impressed by the way the Claude web_fetch tool is designed to avoid data exfiltration attacks. Ayush Paul found a hole in that design. To recap: regular Claude chat is at risk of lethal trifecta attacks, because it has access ",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-15T14:21:54.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-15T16:00:20.570Z"
+    },
+    {
+      "id": "i_mrm9nwbe_5lkxo9",
+      "url": "https://huggingface.co/blog/real-world-voiceeq",
+      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-15T00:00:00.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-15T16:00:20.570Z"
+    },
+    {
+      "id": "i_mrm9nwbe_nzz3p7",
+      "url": "https://www.youtube.com/shorts/M2WtYYR_Dk0",
+      "title": "Deepseek ban?",
+      "description": "Matthew Berman (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-15T13:00:27.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-15T16:00:20.570Z"
+    },
+    {
+      "id": "i_mrm9nwbe_l0sahy",
+      "url": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
+      "title": "Claude's Brain Has A Secret... And Scientists Found It",
+      "description": "Two Minute Papers (YouTube)",
+      "image": "https://i.ytimg.com/vi/0CqLVnx-2UM/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-15T13:58:27.000Z",
+      "addedBy": "Two Minute Papers",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-15T16:00:20.570Z"
+    },
+    {
       "id": "i_mrlsima6_vjw418",
       "url": "https://www.ayush.digital/blog/the-memory-heist",
       "title": "I tricked Claude into leaking your deepest, darkest secrets",
@@ -20537,6 +20647,61 @@
   ],
   "activity": [
     {
+      "id": "a_mrm9nwbe_fwav",
+      "type": "add",
+      "itemId": "i_mrm9nwbe_l0sahy",
+      "itemTitle": "Claude's Brain Has A Secret... And Scientists Found It",
+      "itemUrl": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-15T16:00:20.570Z"
+    },
+    {
+      "id": "a_mrm9nwbe_6fy9",
+      "type": "add",
+      "itemId": "i_mrm9nwbe_nzz3p7",
+      "itemTitle": "Deepseek ban?",
+      "itemUrl": "https://www.youtube.com/shorts/M2WtYYR_Dk0",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-15T16:00:20.570Z"
+    },
+    {
+      "id": "a_mrm9nwbe_c5ys",
+      "type": "add",
+      "itemId": "i_mrm9nwbe_5lkxo9",
+      "itemTitle": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "itemUrl": "https://huggingface.co/blog/real-world-voiceeq",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-15T16:00:20.570Z"
+    },
+    {
+      "id": "a_mrm9nwbe_7hc1",
+      "type": "add",
+      "itemId": "i_mrm9nwbe_198d16",
+      "itemTitle": "How I tricked Claude into leaking your deepest, darkest secrets",
+      "itemUrl": "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-15T16:00:20.570Z"
+    },
+    {
+      "id": "a_mrm9nwbe_wi2s",
+      "type": "add",
+      "itemId": "i_mrm9nwbe_6i7o4c",
+      "itemTitle": "OpenAI loses trademark dispute at EU court",
+      "itemUrl": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-15T16:00:20.570Z"
+    },
+    {
       "id": "a_mrlsima6_m5de",
       "type": "add",
       "itemId": "i_mrlsima6_6qkv6u",
@@ -25980,61 +26145,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-06T00:00:36.510Z"
-    },
-    {
-      "id": "a_mq1l7g66_lfs2",
-      "type": "add",
-      "itemId": "i_mq1l7g66_iktccq",
-      "itemTitle": "Microsoft wants users to be addicted to Scout, their AI personal assistant",
-      "itemUrl": "https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-06T00:00:36.510Z"
-    },
-    {
-      "id": "a_mq1cmt36_xpx7",
-      "type": "add",
-      "itemId": "i_mq1cmt36_zxogn3",
-      "itemTitle": "DeepMind’s New AI Found A Strange New Way To Think",
-      "itemUrl": "https://www.youtube.com/watch?v=Dkqzqw8rxXI",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-05T20:00:36.546Z"
-    },
-    {
-      "id": "a_mq1cmt36_3b94",
-      "type": "add",
-      "itemId": "i_mq1cmt36_ln1uqh",
-      "itemTitle": "$1,300,000 in TOKENS",
-      "itemUrl": "https://www.youtube.com/shorts/ny6g0zyTuzY",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-05T20:00:36.546Z"
-    },
-    {
-      "id": "a_mq1cmt36_xwb5",
-      "type": "add",
-      "itemId": "i_mq1cmt36_qaqyto",
-      "itemTitle": "How to Stop Shipping Low-Quality RL Environments (with Examples)",
-      "itemUrl": "https://www.latent.space/p/bad-envs",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-05T20:00:36.546Z"
-    },
-    {
-      "id": "a_mq1422ku_jg7y",
-      "type": "add",
-      "itemId": "i_mq1422ku_kf5sgc",
-      "itemTitle": "It’s starting…",
-      "itemUrl": "https://www.youtube.com/watch?v=XzUB8_gj6xM",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-05T16:00:32.142Z"
     }
   ],
   "filterConfig": {
