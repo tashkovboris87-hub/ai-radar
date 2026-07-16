@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrmzek29_d8v1ye",
+      "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything",
+      "title": "Mermaid to Unicode box art (grok-mermaid)",
+      "description": "Tool: Mermaid to Unicode box art (grok-mermaid) While exploring the codebase for the newly open-sourced Grok CLI coding agent I came across xai-grok-markdown/src/mermaid.rs, a \"self-contained terminal renderer for Mermaid diagrams\" written in Rust. I figured it would be fun to try that out in a brow",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-16T00:33:18.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-16T04:00:54.801Z"
+    },
+    {
+      "id": "i_mrmzek29_qq1kuq",
+      "url": "https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything",
+      "title": "xai-org/grok-build, now open source",
+      "description": "xai-org/grok-build, now open source xAI's grok CLI tool faced severe community backlash yesterday when it became apparent that running the command in a directory could upload that entire directory to xAI's Google Cloud buckets. One user reported running it in their home directory and seeing it uploa",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-15T23:59:30.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-16T04:00:54.801Z"
+    },
+    {
       "id": "i_mrmqt77c_3ifk7j",
       "url": "https://github.com/xai-org/grok-build",
       "title": "Grok Build is open source",
@@ -20889,6 +20933,28 @@
   ],
   "activity": [
     {
+      "id": "a_mrmzek29_1br0",
+      "type": "add",
+      "itemId": "i_mrmzek29_qq1kuq",
+      "itemTitle": "xai-org/grok-build, now open source",
+      "itemUrl": "https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-16T04:00:54.801Z"
+    },
+    {
+      "id": "a_mrmzek29_tc86",
+      "type": "add",
+      "itemId": "i_mrmzek29_d8v1ye",
+      "itemTitle": "Mermaid to Unicode box art (grok-mermaid)",
+      "itemUrl": "https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-16T04:00:54.801Z"
+    },
+    {
       "id": "a_mrmqt77c_cog4",
       "type": "add",
       "itemId": "i_mrmqt77c_jriexc",
@@ -26365,28 +26431,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-06T20:00:14.816Z"
-    },
-    {
-      "id": "a_mq2s26zk_fky2",
-      "type": "add",
-      "itemId": "i_mq2s26zk_jczw35",
-      "itemTitle": "Five labs, five minds: building a multi-model finance drama on small models",
-      "itemUrl": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-06T20:00:14.816Z"
-    },
-    {
-      "id": "a_mq2jhlat_9rrv",
-      "type": "add",
-      "itemId": "i_mq2jhlat_2lh5sp",
-      "itemTitle": "Job Searcher",
-      "itemUrl": "https://huggingface.co/blog/build-small-hackathon/job-search-blog",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-06T16:00:16.661Z"
     }
   ],
   "filterConfig": {
