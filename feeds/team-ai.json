@@ -2,6 +2,160 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrnxp4m4_z4nthp",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "title": "NotebookLM is now Gemini Notebook",
+      "description": "",
+      "image": "",
+      "domain": "blog.google",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-16T16:08:13.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-16T20:00:54.940Z"
+    },
+    {
+      "id": "i_mrnxp4m4_tn5t6c",
+      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+      "description": "",
+      "image": "",
+      "domain": "blog.lyc8503.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-16T16:41:37.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-16T20:00:54.940Z"
+    },
+    {
+      "id": "i_mrnxp4m4_cpu50r",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "title": "Why teens deserve access to safe AI",
+      "description": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-07-16T16:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-16T20:00:54.940Z"
+    },
+    {
+      "id": "i_mrnxp4m4_erkej0",
+      "url": "https://openai.com/index/cars24",
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "description": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-07-16T00:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-16T20:00:54.940Z"
+    },
+    {
+      "id": "i_mrnxp4m4_8tv4rt",
+      "url": "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything",
+      "title": "Quoting Thibault Sottiaux",
+      "description": "On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files. What we have found is that this most commonly occurs when: Full access mode is enabled and codex is run without sandboxing protections, including without auto review being enabled The model attempts ",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-16T17:45:59.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-16T20:00:54.940Z"
+    },
+    {
+      "id": "i_mrnxp4m4_6zzmjy",
+      "url": "https://www.latent.space/p/the-lab-of-the-future-should-feel",
+      "title": "🔬 The Lab of the Future Should Feel Like a Data Center — Andy Beam & Rafa Gómez-Bombarelli, Lila Sciences",
+      "description": "Lila is betting that science, not the internet, is the last untapped source of training data. We went to find out what that actually looks like in a room full of robots.",
+      "image": "",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-16T13:30:44.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-16T20:00:54.940Z"
+    },
+    {
+      "id": "i_mrnxp4m4_m8tyur",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-16T16:01:21.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-16T20:00:54.940Z"
+    },
+    {
       "id": "i_mrnp4hbf_59aszg",
       "url": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
       "title": "Inkling: Our open-weights model",
@@ -21138,6 +21292,83 @@
   ],
   "activity": [
     {
+      "id": "a_mrnxp4m4_ms85",
+      "type": "add",
+      "itemId": "i_mrnxp4m4_m8tyur",
+      "itemTitle": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+      "itemUrl": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-16T20:00:54.940Z"
+    },
+    {
+      "id": "a_mrnxp4m4_6kyb",
+      "type": "add",
+      "itemId": "i_mrnxp4m4_6zzmjy",
+      "itemTitle": "🔬 The Lab of the Future Should Feel Like a Data Center — Andy Beam & Rafa Gómez-Bombarelli, Lila Sciences",
+      "itemUrl": "https://www.latent.space/p/the-lab-of-the-future-should-feel",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-16T20:00:54.940Z"
+    },
+    {
+      "id": "a_mrnxp4m4_3f2a",
+      "type": "add",
+      "itemId": "i_mrnxp4m4_8tv4rt",
+      "itemTitle": "Quoting Thibault Sottiaux",
+      "itemUrl": "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-16T20:00:54.940Z"
+    },
+    {
+      "id": "a_mrnxp4m4_qgai",
+      "type": "add",
+      "itemId": "i_mrnxp4m4_erkej0",
+      "itemTitle": "How Cars24 scales conversations and builds faster with OpenAI",
+      "itemUrl": "https://openai.com/index/cars24",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-16T20:00:54.940Z"
+    },
+    {
+      "id": "a_mrnxp4m4_kdkv",
+      "type": "add",
+      "itemId": "i_mrnxp4m4_cpu50r",
+      "itemTitle": "Why teens deserve access to safe AI",
+      "itemUrl": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-16T20:00:54.940Z"
+    },
+    {
+      "id": "a_mrnxp4m4_9chc",
+      "type": "add",
+      "itemId": "i_mrnxp4m4_tn5t6c",
+      "itemTitle": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+      "itemUrl": "https://blog.lyc8503.net/en/post/llm-classifier/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-16T20:00:54.940Z"
+    },
+    {
+      "id": "a_mrnxp4m4_lq6t",
+      "type": "add",
+      "itemId": "i_mrnxp4m4_z4nthp",
+      "itemTitle": "NotebookLM is now Gemini Notebook",
+      "itemUrl": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-16T20:00:54.940Z"
+    },
+    {
       "id": "a_mrnp4hbf_xlkt",
       "type": "add",
       "itemId": "i_mrnp4hbf_uhl2wj",
@@ -26559,83 +26790,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-08T16:00:26.277Z"
-    },
-    {
-      "id": "a_mq5edi1x_a7e8",
-      "type": "add",
-      "itemId": "i_mq5edi1x_grv812",
-      "itemTitle": "The crash that vanished: control and emergence in a five-model economy",
-      "itemUrl": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v3",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-08T16:00:26.277Z"
-    },
-    {
-      "id": "a_mq55swb4_cpiu",
-      "type": "add",
-      "itemId": "i_mq55swb4_auyjvs",
-      "itemTitle": "Building Pakistan Notice Helper: A Small AI Tool for a Very Local Safety Problem",
-      "itemUrl": "https://huggingface.co/blog/build-small-hackathon/building-pakistan-notice-helper",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-08T12:00:28.048Z"
-    },
-    {
-      "id": "a_mq4ongb4_0yf1",
-      "type": "add",
-      "itemId": "i_mq4ongb4_f1etqf",
-      "itemTitle": "datasette-agent-edit 0.1a0",
-      "itemUrl": "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-08T04:00:20.560Z"
-    },
-    {
-      "id": "a_mq4ongb4_0hoc",
-      "type": "add",
-      "itemId": "i_mq4ongb4_wbgtvy",
-      "itemTitle": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-      "itemUrl": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-08T04:00:20.560Z"
-    },
-    {
-      "id": "a_mq47i44x_jzgc",
-      "type": "add",
-      "itemId": "i_mq47i44x_qnil5s",
-      "itemTitle": "Don't Use Chatbots Anymore! Skywork 3.0 Tutorial & Guide",
-      "itemUrl": "https://www.youtube.com/watch?v=RKGvCDExJvo",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-07T20:00:18.033Z"
-    },
-    {
-      "id": "a_mq47i44x_nwdq",
-      "type": "add",
-      "itemId": "i_mq47i44x_2dvh9d",
-      "itemTitle": "Amazing Digital Dentures (a failed project)",
-      "itemUrl": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-07T20:00:18.033Z"
-    },
-    {
-      "id": "a_mq3yxmu7_y4n7",
-      "type": "add",
-      "itemId": "i_mq3yxmu7_vltsou",
-      "itemTitle": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
-      "itemUrl": "https://github.com/devenjarvis/lathe",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-07T16:00:25.567Z"
     }
   ],
   "filterConfig": {
