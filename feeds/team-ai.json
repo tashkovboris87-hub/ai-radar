@@ -21,7 +21,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-16T12:00:54.801Z"
+      "_updatedAt": "2026-07-16T12:00:54.801Z",
+      "comments": []
     },
     {
       "id": "i_mrngjua9_1gs3ju",
@@ -43,7 +44,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-16T12:00:54.801Z"
+      "_updatedAt": "2026-07-16T12:00:54.801Z",
+      "comments": []
     },
     {
       "id": "i_mrngjua9_go3mh3",
@@ -58,14 +60,17 @@
       "tags": [],
       "addedAt": "2026-07-16T11:49:48.000Z",
       "addedBy": "Hugging Face",
-      "readBy": [],
+      "readBy": [
+        "Boris"
+      ],
       "reactions": {
         "important": [],
         "must_read": [],
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-16T12:00:54.801Z"
+      "_updatedAt": "2026-07-16T13:10:47.737Z",
+      "comments": []
     },
     {
       "id": "i_mrngjua9_f3gmbz",
@@ -87,7 +92,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-16T12:00:54.801Z"
+      "_updatedAt": "2026-07-16T12:00:54.801Z",
+      "comments": []
     },
     {
       "id": "i_mrn7zubk_aqv3l1",
@@ -109,7 +115,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-16T08:01:24.800Z"
+      "_updatedAt": "2026-07-16T08:01:24.800Z",
+      "comments": []
     },
     {
       "id": "i_mrmzek29_d8v1ye",
@@ -131,7 +138,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-16T04:00:54.801Z"
+      "_updatedAt": "2026-07-16T04:00:54.801Z",
+      "comments": []
     },
     {
       "id": "i_mrmzek29_qq1kuq",
@@ -153,7 +161,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-16T04:00:54.801Z"
+      "_updatedAt": "2026-07-16T04:00:54.801Z",
+      "comments": []
     },
     {
       "id": "i_mrmqt77c_3ifk7j",
@@ -175,7 +184,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-16T00:00:21.432Z"
+      "_updatedAt": "2026-07-16T00:00:21.432Z",
+      "comments": []
     },
     {
       "id": "i_mrmqt77c_jriexc",
@@ -197,7 +207,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-16T00:00:21.432Z"
+      "_updatedAt": "2026-07-16T00:00:21.432Z",
+      "comments": []
     },
     {
       "id": "i_mrmi8lga_ygu2cq",
@@ -219,7 +230,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-15T20:00:23.194Z"
+      "_updatedAt": "2026-07-15T20:00:23.194Z",
+      "comments": []
     },
     {
       "id": "i_mrmi8lga_9ahy8n",
@@ -241,7 +253,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-15T20:00:23.194Z"
+      "_updatedAt": "2026-07-15T20:00:23.194Z",
+      "comments": []
     },
     {
       "id": "i_mrmi8lga_cwjq3w",
@@ -263,7 +276,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-15T20:00:23.194Z"
+      "_updatedAt": "2026-07-15T20:00:23.194Z",
+      "comments": []
     },
     {
       "id": "i_mrmi8lga_ka7mzj",
@@ -285,7 +299,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-15T20:00:23.194Z"
+      "_updatedAt": "2026-07-15T20:00:23.194Z",
+      "comments": []
     },
     {
       "id": "i_mrmi8lga_vh4i29",
@@ -307,7 +322,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-15T20:00:23.194Z"
+      "_updatedAt": "2026-07-15T20:00:23.194Z",
+      "comments": []
     },
     {
       "id": "i_mrmi8lga_he61wu",
@@ -329,7 +345,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-15T20:00:23.194Z"
+      "_updatedAt": "2026-07-15T20:00:23.194Z",
+      "comments": []
     },
     {
       "id": "i_mrmi8lga_t42w1e",
@@ -351,7 +368,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-15T20:00:23.194Z"
+      "_updatedAt": "2026-07-15T20:00:23.194Z",
+      "comments": []
     },
     {
       "id": "i_mrmi8lga_g92i2g",
@@ -373,7 +391,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-15T20:00:23.194Z"
+      "_updatedAt": "2026-07-15T20:00:23.194Z",
+      "comments": []
     },
     {
       "id": "i_mrmi8lga_jmhsxx",
@@ -395,7 +414,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-15T20:00:23.194Z"
+      "_updatedAt": "2026-07-15T20:00:23.194Z",
+      "comments": []
     },
     {
       "id": "i_mrm9nwbe_6i7o4c",
@@ -417,7 +437,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-15T16:00:20.570Z"
+      "_updatedAt": "2026-07-15T16:00:20.570Z",
+      "comments": []
     },
     {
       "id": "i_mrm9nwbe_198d16",
@@ -439,7 +460,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-15T16:00:20.570Z"
+      "_updatedAt": "2026-07-15T16:00:20.570Z",
+      "comments": []
     },
     {
       "id": "i_mrm9nwbe_5lkxo9",
@@ -461,7 +483,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-15T16:00:20.570Z"
+      "_updatedAt": "2026-07-15T16:00:20.570Z",
+      "comments": []
     },
     {
       "id": "i_mrm9nwbe_nzz3p7",
@@ -483,7 +506,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-15T16:00:20.570Z"
+      "_updatedAt": "2026-07-15T16:00:20.570Z",
+      "comments": []
     },
     {
       "id": "i_mrm9nwbe_l0sahy",
@@ -505,7 +529,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-15T16:00:20.570Z"
+      "_updatedAt": "2026-07-15T16:00:20.570Z",
+      "comments": []
     },
     {
       "id": "i_mrlsima6_vjw418",
