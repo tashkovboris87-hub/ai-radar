@@ -386,14 +386,16 @@
       "tags": [],
       "addedAt": "2026-07-15T17:31:52.000Z",
       "addedBy": "Matthew Berman",
-      "readBy": [],
+      "readBy": [
+        "Boris"
+      ],
       "reactions": {
         "important": [],
         "must_read": [],
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-15T20:00:23.194Z",
+      "_updatedAt": "2026-07-16T13:11:40.145Z",
       "comments": []
     },
     {
