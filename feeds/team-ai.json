@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrnp4hbf_59aszg",
+      "url": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
+      "title": "Inkling: Our open-weights model",
+      "description": "Inkling: Our open-weights model Mira Murati's Thinking Machines Lab just released their first open-weights model. Inkling is \"a Mixture-of-Experts transformer with 975B total parameters, 41B active\" - an Apache-2.0 licensed multimodal model trained on 45 trillion tokens of text, images, audio and vi",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-16T15:35:25.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-16T16:00:54.699Z"
+    },
+    {
+      "id": "i_mrnp4hbf_cz6k0x",
+      "url": "https://simonwillison.net/2026/Jul/16/linus-torvalds/#atom-everything",
+      "title": "Quoting Linus Torvalds",
+      "description": "I realize that some people really dislike AI, but this is an area where I'm willing to absolutely put my foot down as the top-level maintainer. Linux is not one of those anti-AI projects, and if somebody has issues with that, they can do the open-source thing and fork it. Or just walk away. AI is a ",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-16T13:26:10.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-16T16:00:54.699Z"
+    },
+    {
+      "id": "i_mrnp4hbf_uhl2wj",
+      "url": "https://www.youtube.com/watch?v=axOcn--n_lM",
+      "title": "AI Helped Them Code Faster… But At A Cost",
+      "description": "Two Minute Papers (YouTube)",
+      "image": "https://i.ytimg.com/vi/axOcn--n_lM/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-16T15:39:17.000Z",
+      "addedBy": "Two Minute Papers",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-16T16:00:54.699Z"
+    },
+    {
       "id": "i_mrngjua9_drtj5y",
       "url": "https://joinedanthropic.com",
       "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
@@ -21072,6 +21138,39 @@
   ],
   "activity": [
     {
+      "id": "a_mrnp4hbf_xlkt",
+      "type": "add",
+      "itemId": "i_mrnp4hbf_uhl2wj",
+      "itemTitle": "AI Helped Them Code Faster… But At A Cost",
+      "itemUrl": "https://www.youtube.com/watch?v=axOcn--n_lM",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-16T16:00:54.699Z"
+    },
+    {
+      "id": "a_mrnp4hbf_79t1",
+      "type": "add",
+      "itemId": "i_mrnp4hbf_cz6k0x",
+      "itemTitle": "Quoting Linus Torvalds",
+      "itemUrl": "https://simonwillison.net/2026/Jul/16/linus-torvalds/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-16T16:00:54.699Z"
+    },
+    {
+      "id": "a_mrnp4hbf_ehoq",
+      "type": "add",
+      "itemId": "i_mrnp4hbf_59aszg",
+      "itemTitle": "Inkling: Our open-weights model",
+      "itemUrl": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-16T16:00:54.699Z"
+    },
+    {
       "id": "a_mrngjua9_tolq",
       "type": "add",
       "itemId": "i_mrngjua9_f3gmbz",
@@ -26537,39 +26636,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-07T16:00:25.567Z"
-    },
-    {
-      "id": "a_mq3yxmu7_em13",
-      "type": "add",
-      "itemId": "i_mq3yxmu7_outp3b",
-      "itemTitle": "Anthropic, please ship an official Claude Desktop for Linux",
-      "itemUrl": "https://github.com/anthropics/claude-code/issues/65697",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-07T16:00:25.567Z"
-    },
-    {
-      "id": "a_mq3yxmu7_5mw2",
-      "type": "add",
-      "itemId": "i_mq3yxmu7_yix4ms",
-      "itemTitle": "The OnlyFans Economy of American AI",
-      "itemUrl": "https://leoveanu.com/2026-06-06-qwen3.7max/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-07T16:00:25.567Z"
-    },
-    {
-      "id": "a_mq3qd2o7_iy2g",
-      "type": "add",
-      "itemId": "i_mq3qd2o7_3x424u",
-      "itemTitle": "Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange",
-      "itemUrl": "https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-07T12:00:29.383Z"
     }
   ],
   "filterConfig": {
