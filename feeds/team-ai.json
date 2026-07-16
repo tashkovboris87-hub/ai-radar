@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrn7zubk_aqv3l1",
+      "url": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
+      "title": "[AINews] Thinky's Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)",
+      "description": "Thinky's first full LLM release is a banger and bonus: it's open weights!",
+      "image": "https://substackcdn.com/image/fetch/$s_!AvrX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90048da3-a87f-44d8-8ad4-e954031d2721_2540x1692.png",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-16T06:18:05.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-16T08:01:24.800Z"
+    },
+    {
       "id": "i_mrmzek29_d8v1ye",
       "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything",
       "title": "Mermaid to Unicode box art (grok-mermaid)",
@@ -20933,6 +20955,17 @@
   ],
   "activity": [
     {
+      "id": "a_mrn7zubk_hkyk",
+      "type": "add",
+      "itemId": "i_mrn7zubk_aqv3l1",
+      "itemTitle": "[AINews] Thinky's Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)",
+      "itemUrl": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-16T08:01:24.800Z"
+    },
+    {
       "id": "a_mrmzek29_1br0",
       "type": "add",
       "itemId": "i_mrmzek29_qq1kuq",
@@ -26416,17 +26449,6 @@
       "itemId": "i_mq2s26zk_nn3aa5",
       "itemTitle": "How To Use ChatGPT Memory (Updated Memory Guide)",
       "itemUrl": "https://www.youtube.com/watch?v=w9SAwahZUGQ",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-06T20:00:14.816Z"
-    },
-    {
-      "id": "a_mq2s26zk_c5ff",
-      "type": "add",
-      "itemId": "i_mq2s26zk_3s1ofi",
-      "itemTitle": "I didn't think this was possible...",
-      "itemUrl": "https://www.youtube.com/watch?v=udS9osDCJKo",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
