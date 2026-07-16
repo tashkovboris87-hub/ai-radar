@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrmqt77c_3ifk7j",
+      "url": "https://github.com/xai-org/grok-build",
+      "title": "Grok Build is open source",
+      "description": "",
+      "image": "",
+      "domain": "github.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-15T20:24:58.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-16T00:00:21.432Z"
+    },
+    {
+      "id": "i_mrmqt77c_jriexc",
+      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "description": "",
+      "image": "",
+      "domain": "siegelendowment.org",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-15T21:16:36.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-16T00:00:21.432Z"
+    },
+    {
       "id": "i_mrmi8lga_ygu2cq",
       "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
       "title": "The US is advancing AI safety through state and federal action",
@@ -20845,6 +20889,28 @@
   ],
   "activity": [
     {
+      "id": "a_mrmqt77c_cog4",
+      "type": "add",
+      "itemId": "i_mrmqt77c_jriexc",
+      "itemTitle": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "itemUrl": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-16T00:00:21.432Z"
+    },
+    {
+      "id": "a_mrmqt77c_g9zw",
+      "type": "add",
+      "itemId": "i_mrmqt77c_3ifk7j",
+      "itemTitle": "Grok Build is open source",
+      "itemUrl": "https://github.com/xai-org/grok-build",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-16T00:00:21.432Z"
+    },
+    {
       "id": "a_mrmi8lga_9poq",
       "type": "add",
       "itemId": "i_mrmi8lga_jmhsxx",
@@ -26321,28 +26387,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-06T16:00:16.661Z"
-    },
-    {
-      "id": "a_mq22cvnl_3bna",
-      "type": "add",
-      "itemId": "i_mq22cvnl_pqowr2",
-      "itemTitle": "AI Agents as \"Games Masters\"? 🎮🔥",
-      "itemUrl": "https://www.youtube.com/shorts/82m7YqosdgU",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-06T08:00:43.329Z"
-    },
-    {
-      "id": "a_mq22cvnl_v467",
-      "type": "add",
-      "itemId": "i_mq22cvnl_02mz8r",
-      "itemTitle": "[AINews] not much happened today",
-      "itemUrl": "https://www.latent.space/p/ainews-not-much-happened-today-6b8",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-06T08:00:43.329Z"
     }
   ],
   "filterConfig": {
