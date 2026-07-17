@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrpd4zai_6vty1y",
+      "url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything",
+      "title": "LLM cliché highlighter",
+      "description": "Tool: LLM cliché highlighter I got frustrated reading yet another article that was crammed with the clichés of LLM-generated writing - \"no fluff, no filler, no jargon\" type stuff - so I had Fable 5 vibe code up this app for highlighting ten common patterns that show up in that sort of writing. Tags:",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-17T12:11:11.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-17T20:00:54.954Z"
+    },
+    {
+      "id": "i_mrpd4zai_fs5f6f",
+      "url": "https://www.youtube.com/watch?v=5D4Zqp9GLSc",
+      "title": "OpenAI is being sued for stealing, again…",
+      "description": "Fireship (YouTube)",
+      "image": "https://i.ytimg.com/vi/5D4Zqp9GLSc/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-17T17:56:42.000Z",
+      "addedBy": "Fireship",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-17T20:00:54.954Z"
+    },
+    {
       "id": "i_mrp4kdey_7o85kc",
       "url": "https://stateofopensource.ai/",
       "title": "Mozilla: The state of open source AI",
@@ -21642,6 +21686,28 @@
   ],
   "activity": [
     {
+      "id": "a_mrpd4zai_bv9c",
+      "type": "add",
+      "itemId": "i_mrpd4zai_fs5f6f",
+      "itemTitle": "OpenAI is being sued for stealing, again…",
+      "itemUrl": "https://www.youtube.com/watch?v=5D4Zqp9GLSc",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-17T20:00:54.954Z"
+    },
+    {
+      "id": "a_mrpd4zai_a8m9",
+      "type": "add",
+      "itemId": "i_mrpd4zai_6vty1y",
+      "itemTitle": "LLM cliché highlighter",
+      "itemUrl": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-17T20:00:54.954Z"
+    },
+    {
       "id": "a_mrp4kdey_sar7",
       "type": "add",
       "itemId": "i_mrp4kdey_gbzm3t",
@@ -27114,28 +27180,6 @@
       "itemId": "i_mq6tt5ch_it3xx6",
       "itemTitle": "Measuring the impact of learning with AI in Sierra Leone and beyond",
       "itemUrl": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
-      "itemSource": "feed",
-      "category": "gemini",
-      "by": "AI Radar bot",
-      "at": "2026-06-09T16:00:16.721Z"
-    },
-    {
-      "id": "a_mq6tt5ch_3imq",
-      "type": "add",
-      "itemId": "i_mq6tt5ch_adqbs5",
-      "itemTitle": "Powering the future of robotics in Europe",
-      "itemUrl": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
-      "itemSource": "feed",
-      "category": "gemini",
-      "by": "AI Radar bot",
-      "at": "2026-06-09T16:00:16.721Z"
-    },
-    {
-      "id": "a_mq6tt5ch_q0gn",
-      "type": "add",
-      "itemId": "i_mq6tt5ch_luc26d",
-      "itemTitle": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
-      "itemUrl": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
       "itemSource": "feed",
       "category": "gemini",
       "by": "AI Radar bot",
