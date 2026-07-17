@@ -2,6 +2,94 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mro69rcs_ejln35",
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "description": "",
+      "image": "",
+      "domain": "lmstudio.ai",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-16T20:18:15.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-17T00:00:54.460Z"
+    },
+    {
+      "id": "i_mro69rcs_uyo0f9",
+      "url": "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything",
+      "title": "Firefox in WebAssembly",
+      "description": "Firefox in WebAssembly This is absurdly cool: Puter compiled Firefox to WebAssembly such that the whole browser runs in another browser. Here's my blog, running in Firefox, running in WebAssembly, running in Chrome: They chose Firefox/Gecko because it has strong single-process support. The project t",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-16T23:34:16.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-17T00:00:54.460Z"
+    },
+    {
+      "id": "i_mro69rcs_bxudvh",
+      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything",
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "description": "Chinese AI lab Moonshot AI announced Kimi K3 this morning, describing it as their \"most capable model to date, with 2.8 trillion parameters\". It's currently available via their website and API, but an open weight release is promised \"by July 27, 2026\". Moonshot are calling this the first \"open 3T-cl",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-16T20:19:30.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-17T00:00:54.460Z"
+    },
+    {
+      "id": "i_mro69rcs_6hy07k",
+      "url": "https://simonwillison.net/2026/Jul/16/mermaid-ascii/#atom-everything",
+      "title": "Mermaid to ASCII art (mermaid-ascii)",
+      "description": "Tool: Mermaid to ASCII art (mermaid-ascii) After building the Mermaid to ASCII tool based on Grok Build's Rust code I learned that there's an older, more fully-featured Go library called AlexanderGrooff/mermaid-ascii that implements a similar pattern, so I had Claude Fable 5 compile that one to WebA",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-16T14:57:39.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-17T00:00:54.460Z"
+    },
+    {
       "id": "i_mrnxp4m4_z4nthp",
       "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
       "title": "NotebookLM is now Gemini Notebook",
@@ -21292,6 +21380,50 @@
   ],
   "activity": [
     {
+      "id": "a_mro69rcs_pqtf",
+      "type": "add",
+      "itemId": "i_mro69rcs_6hy07k",
+      "itemTitle": "Mermaid to ASCII art (mermaid-ascii)",
+      "itemUrl": "https://simonwillison.net/2026/Jul/16/mermaid-ascii/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-17T00:00:54.460Z"
+    },
+    {
+      "id": "a_mro69rcs_whoa",
+      "type": "add",
+      "itemId": "i_mro69rcs_bxudvh",
+      "itemTitle": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "itemUrl": "https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-17T00:00:54.460Z"
+    },
+    {
+      "id": "a_mro69rcs_rh74",
+      "type": "add",
+      "itemId": "i_mro69rcs_uyo0f9",
+      "itemTitle": "Firefox in WebAssembly",
+      "itemUrl": "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-17T00:00:54.460Z"
+    },
+    {
+      "id": "a_mro69rcs_6cbs",
+      "type": "add",
+      "itemId": "i_mro69rcs_ejln35",
+      "itemTitle": "LM Studio Bionic: the AI agent for open models",
+      "itemUrl": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-17T00:00:54.460Z"
+    },
+    {
       "id": "a_mrnxp4m4_ms85",
       "type": "add",
       "itemId": "i_mrnxp4m4_m8tyur",
@@ -26746,50 +26878,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-09T00:00:27.732Z"
-    },
-    {
-      "id": "a_mq5vitec_b4q0",
-      "type": "add",
-      "itemId": "i_mq5vitec_6blgay",
-      "itemTitle": "OpenAI Submits S-1 Draft to SEC",
-      "itemUrl": "https://openai.com/index/openai-submits-confidential-s-1/",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-06-09T00:00:27.732Z"
-    },
-    {
-      "id": "a_mq5mxwij_xqc5",
-      "type": "add",
-      "itemId": "i_mq5mxwij_nu36p0",
-      "itemTitle": "Introducing the OpenAI Economic Research Exchange",
-      "itemUrl": "https://openai.com/index/economic-research-exchange",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-06-08T20:00:15.067Z"
-    },
-    {
-      "id": "a_mq5mxwij_q05v",
-      "type": "add",
-      "itemId": "i_mq5mxwij_x7xr3t",
-      "itemTitle": "xAI is looking more like a datacentre REIT than a frontier lab",
-      "itemUrl": "https://martinalderson.com/posts/xais-new-rental-business/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-08T20:00:15.067Z"
-    },
-    {
-      "id": "a_mq5edi1x_sn7w",
-      "type": "add",
-      "itemId": "i_mq5edi1x_qc95m0",
-      "itemTitle": "The Open Source Community is backing OpenEnv for Agentic RL",
-      "itemUrl": "https://huggingface.co/blog/openenv-agentic-rl",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-08T16:00:26.277Z"
     }
   ],
   "filterConfig": {
