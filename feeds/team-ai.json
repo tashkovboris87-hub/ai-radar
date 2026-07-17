@@ -2,6 +2,116 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrp4kdey_7o85kc",
+      "url": "https://stateofopensource.ai/",
+      "title": "Mozilla: The state of open source AI",
+      "description": "",
+      "image": "",
+      "domain": "stateofopensource.ai",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-17T14:31:10.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-17T16:00:56.554Z"
+    },
+    {
+      "id": "i_mrp4kdey_r1j03h",
+      "url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
+      "title": "Claude Code: Anatomy of a Misfeature",
+      "description": "",
+      "image": "",
+      "domain": "olafalders.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-17T14:26:58.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-17T16:00:56.554Z"
+    },
+    {
+      "id": "i_mrp4kdey_jy7y9m",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "title": "A scorecard for the AI age",
+      "description": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-07-17T10:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-17T16:00:56.554Z"
+    },
+    {
+      "id": "i_mrp4kdey_4i97uk",
+      "url": "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything",
+      "title": "Quoting Kimi K3",
+      "description": "Is there something I can actually help you with today? &mdash; Kimi K3, after refusing to leak its system prompt Tags: kimi, ai-personality, generative-ai, ai, llms",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-17T13:43:53.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-17T16:00:56.554Z"
+    },
+    {
+      "id": "i_mrp4kdey_gbzm3t",
+      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-17T15:57:54.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-17T16:00:56.554Z"
+    },
+    {
       "id": "i_mrovzqjm_0taphe",
       "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
       "title": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
@@ -21532,6 +21642,61 @@
   ],
   "activity": [
     {
+      "id": "a_mrp4kdey_sar7",
+      "type": "add",
+      "itemId": "i_mrp4kdey_gbzm3t",
+      "itemTitle": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "itemUrl": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-17T16:00:56.554Z"
+    },
+    {
+      "id": "a_mrp4kdey_uzpa",
+      "type": "add",
+      "itemId": "i_mrp4kdey_4i97uk",
+      "itemTitle": "Quoting Kimi K3",
+      "itemUrl": "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-17T16:00:56.554Z"
+    },
+    {
+      "id": "a_mrp4kdey_etdz",
+      "type": "add",
+      "itemId": "i_mrp4kdey_jy7y9m",
+      "itemTitle": "A scorecard for the AI age",
+      "itemUrl": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-17T16:00:56.554Z"
+    },
+    {
+      "id": "a_mrp4kdey_9yl2",
+      "type": "add",
+      "itemId": "i_mrp4kdey_r1j03h",
+      "itemTitle": "Claude Code: Anatomy of a Misfeature",
+      "itemUrl": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-17T16:00:56.554Z"
+    },
+    {
+      "id": "a_mrp4kdey_ye4i",
+      "type": "add",
+      "itemId": "i_mrp4kdey_7o85kc",
+      "itemTitle": "Mozilla: The state of open source AI",
+      "itemUrl": "https://stateofopensource.ai/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-17T16:00:56.554Z"
+    },
+    {
       "id": "a_mrovzqjm_qaco",
       "type": "add",
       "itemId": "i_mrovzqjm_zxytql",
@@ -26975,61 +27140,6 @@
       "category": "gemini",
       "by": "AI Radar bot",
       "at": "2026-06-09T16:00:16.721Z"
-    },
-    {
-      "id": "a_mq6tt5ch_85kx",
-      "type": "add",
-      "itemId": "i_mq6tt5ch_myf8bt",
-      "itemTitle": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
-      "itemUrl": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
-      "itemSource": "feed",
-      "category": "gemini",
-      "by": "AI Radar bot",
-      "at": "2026-06-09T16:00:16.721Z"
-    },
-    {
-      "id": "a_mq6tt5ch_eue1",
-      "type": "add",
-      "itemId": "i_mq6tt5ch_oqyxf5",
-      "itemTitle": "Cleaning up after AI rockstar developers",
-      "itemUrl": "https://www.codingwithjesse.com/blog/rockstar-developers/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-09T16:00:16.721Z"
-    },
-    {
-      "id": "a_mq6ldjso_puiy",
-      "type": "add",
-      "itemId": "i_mq6ldjso_23d9b2",
-      "itemTitle": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-      "itemUrl": "https://huggingface.co/blog/mishig/spaces-agents-md",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-09T12:04:12.024Z"
-    },
-    {
-      "id": "a_mq6ldjso_ng6c",
-      "type": "add",
-      "itemId": "i_mq6ldjso_jji07n",
-      "itemTitle": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-      "itemUrl": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-09T12:04:12.024Z"
-    },
-    {
-      "id": "a_mq6cnv2u_lego",
-      "type": "add",
-      "itemId": "i_mq6cnv2u_y62d9v",
-      "itemTitle": "[AINews] FrontierCode: Benchmarking for Code Quality over Slop",
-      "itemUrl": "https://www.latent.space/p/ainews-frontiercode-benchmarking",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-09T08:00:16.662Z"
     }
   ],
   "filterConfig": {
