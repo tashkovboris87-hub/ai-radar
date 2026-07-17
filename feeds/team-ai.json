@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mronf2hl_uyppnf",
+      "url": "https://www.youtube.com/watch?v=DAKnynuGyy4",
+      "title": "Kimi K3 Just Revealed The Worlds Most Powerful AI (Beats Fable 5 and GPT-5.6)",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/DAKnynuGyy4/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-17T02:00:26.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-17T08:00:55.641Z"
+    },
+    {
       "id": "i_mroeues3_q8xu2w",
       "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
       "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
@@ -21446,6 +21468,17 @@
   ],
   "activity": [
     {
+      "id": "a_mronf2hl_4mot",
+      "type": "add",
+      "itemId": "i_mronf2hl_uyppnf",
+      "itemTitle": "Kimi K3 Just Revealed The Worlds Most Powerful AI (Beats Fable 5 and GPT-5.6)",
+      "itemUrl": "https://www.youtube.com/watch?v=DAKnynuGyy4",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-17T08:00:55.641Z"
+    },
+    {
       "id": "a_mroeues3_4k6e",
       "type": "add",
       "itemId": "i_mroeues3_wds2dk",
@@ -26933,17 +26966,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-09T04:00:15.451Z"
-    },
-    {
-      "id": "a_mq5vitec_403k",
-      "type": "add",
-      "itemId": "i_mq5vitec_uoicnx",
-      "itemTitle": "Siri AI at WWDC 2026",
-      "itemUrl": "https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-09T00:00:27.732Z"
     }
   ],
   "filterConfig": {
