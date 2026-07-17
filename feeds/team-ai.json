@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrovzqjm_0taphe",
+      "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
+      "title": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
+      "description": "",
+      "image": "",
+      "domain": "kaggle.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-17T11:30:00.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-17T12:00:56.866Z"
+    },
+    {
+      "id": "i_mrovzqjm_zxytql",
+      "url": "https://www.youtube.com/shorts/jsR_2hMPewY",
+      "title": "Kimi K3 just beat FABLE.",
+      "description": "Matthew Berman (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-17T09:09:19.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-17T12:00:56.866Z"
+    },
+    {
       "id": "i_mronf2hl_uyppnf",
       "url": "https://www.youtube.com/watch?v=DAKnynuGyy4",
       "title": "Kimi K3 Just Revealed The Worlds Most Powerful AI (Beats Fable 5 and GPT-5.6)",
@@ -21488,6 +21532,28 @@
   ],
   "activity": [
     {
+      "id": "a_mrovzqjm_qaco",
+      "type": "add",
+      "itemId": "i_mrovzqjm_zxytql",
+      "itemTitle": "Kimi K3 just beat FABLE.",
+      "itemUrl": "https://www.youtube.com/shorts/jsR_2hMPewY",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-17T12:00:56.866Z"
+    },
+    {
+      "id": "a_mrovzqjm_ocbu",
+      "type": "add",
+      "itemId": "i_mrovzqjm_0taphe",
+      "itemTitle": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
+      "itemUrl": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-17T12:00:56.866Z"
+    },
+    {
       "id": "a_mronf2hl_4mot",
       "type": "add",
       "itemId": "i_mronf2hl_uyppnf",
@@ -26964,28 +27030,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-09T08:00:16.662Z"
-    },
-    {
-      "id": "a_mq643717_7uml",
-      "type": "add",
-      "itemId": "i_mq643717_k0siwt",
-      "itemTitle": "Only the best are using them...",
-      "itemUrl": "https://www.youtube.com/watch?v=dMrm2jAyrKM",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-09T04:00:15.451Z"
-    },
-    {
-      "id": "a_mq643717_djd5",
-      "type": "add",
-      "itemId": "i_mq643717_28q5j7",
-      "itemTitle": "Apple reveals new AI architecture built around Google Gemini models",
-      "itemUrl": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-09T04:00:15.451Z"
     }
   ],
   "filterConfig": {
