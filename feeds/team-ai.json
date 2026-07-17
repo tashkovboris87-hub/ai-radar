@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mroeues3_q8xu2w",
+      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "description": "",
+      "image": "",
+      "domain": "tryai.dev",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-16T20:03:23.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-17T04:00:54.867Z"
+    },
+    {
+      "id": "i_mroeues3_y0xc1e",
+      "url": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything",
+      "title": "Spot birds not golf",
+      "description": "Suggestion for hyperscalers feeling pressure over data center water use: Buy up a few exclusive country clubs, convert the golf courses into public parks, pay for guides and binoculars to get the previous members into birdwatching - help them embrace a more sustainable hobby! Google used 10.9 billio",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-17T02:58:07.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-17T04:00:54.867Z"
+    },
+    {
+      "id": "i_mroeues3_wds2dk",
+      "url": "https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest",
+      "title": "[AINews] Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing",
+      "description": "a great week for open models continues.",
+      "image": "https://substackcdn.com/image/fetch/$s_!xVk0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d22c3fe-fde7-4c91-9e50-83b1597fe747_1958x1160.png",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-17T01:46:36.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-17T04:00:54.867Z"
+    },
+    {
       "id": "i_mro69rcs_ejln35",
       "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
       "title": "LM Studio Bionic: the AI agent for open models",
@@ -21380,6 +21446,39 @@
   ],
   "activity": [
     {
+      "id": "a_mroeues3_4k6e",
+      "type": "add",
+      "itemId": "i_mroeues3_wds2dk",
+      "itemTitle": "[AINews] Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing",
+      "itemUrl": "https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-17T04:00:54.867Z"
+    },
+    {
+      "id": "a_mroeues3_2j0s",
+      "type": "add",
+      "itemId": "i_mroeues3_y0xc1e",
+      "itemTitle": "Spot birds not golf",
+      "itemUrl": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-17T04:00:54.867Z"
+    },
+    {
+      "id": "a_mroeues3_cm9d",
+      "type": "add",
+      "itemId": "i_mroeues3_q8xu2w",
+      "itemTitle": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "itemUrl": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-17T04:00:54.867Z"
+    },
+    {
       "id": "a_mro69rcs_pqtf",
       "type": "add",
       "itemId": "i_mro69rcs_6hy07k",
@@ -26841,39 +26940,6 @@
       "itemId": "i_mq5vitec_uoicnx",
       "itemTitle": "Siri AI at WWDC 2026",
       "itemUrl": "https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-09T00:00:27.732Z"
-    },
-    {
-      "id": "a_mq5vitec_kut8",
-      "type": "add",
-      "itemId": "i_mq5vitec_vrc996",
-      "itemTitle": "Built to benefit everyone: our plan",
-      "itemUrl": "https://openai.com/index/built-to-benefit-everyone-our-plan",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-06-09T00:00:27.732Z"
-    },
-    {
-      "id": "a_mq5vitec_q3j7",
-      "type": "add",
-      "itemId": "i_mq5vitec_fukzjx",
-      "itemTitle": "Apple Core AI Framework",
-      "itemUrl": "https://developer.apple.com/documentation/coreai/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-09T00:00:27.732Z"
-    },
-    {
-      "id": "a_mq5vitec_pp3y",
-      "type": "add",
-      "itemId": "i_mq5vitec_kcsd7d",
-      "itemTitle": "Siri AI",
-      "itemUrl": "https://www.apple.com/apple-intelligence/",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
