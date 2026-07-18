@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrplpm45_b1qtaq",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "description": "",
+      "image": "",
+      "domain": "localnewsmatters.org",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-17T22:26:30.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-18T00:00:54.581Z"
+    },
+    {
       "id": "i_mrpd4zai_6vty1y",
       "url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything",
       "title": "LLM cliché highlighter",
@@ -21686,6 +21708,17 @@
   ],
   "activity": [
     {
+      "id": "a_mrplpm45_3t6g",
+      "type": "add",
+      "itemId": "i_mrplpm45_b1qtaq",
+      "itemTitle": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "itemUrl": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-18T00:00:54.581Z"
+    },
+    {
       "id": "a_mrpd4zai_bv9c",
       "type": "add",
       "itemId": "i_mrpd4zai_fs5f6f",
@@ -27171,17 +27204,6 @@
       "itemUrl": "https://www.youtube.com/shorts/GaiZvDn_Viw",
       "itemSource": "feed",
       "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-09T16:00:16.721Z"
-    },
-    {
-      "id": "a_mq6tt5ch_cpzu",
-      "type": "add",
-      "itemId": "i_mq6tt5ch_it3xx6",
-      "itemTitle": "Measuring the impact of learning with AI in Sierra Leone and beyond",
-      "itemUrl": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
-      "itemSource": "feed",
-      "category": "gemini",
       "by": "AI Radar bot",
       "at": "2026-06-09T16:00:16.721Z"
     }
