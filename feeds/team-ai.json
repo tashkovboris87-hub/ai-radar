@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrqskv4o_bjw23n",
+      "url": "https://ykdojo.github.io/claude-controls-mac/",
+      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+      "description": "",
+      "image": "",
+      "domain": "ykdojo.github.io",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-18T16:12:08.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-18T20:00:56.472Z"
+    },
+    {
       "id": "i_mrqk0855_d99ujr",
       "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
       "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
@@ -21926,6 +21948,17 @@
   ],
   "activity": [
     {
+      "id": "a_mrqskv4o_llmt",
+      "type": "add",
+      "itemId": "i_mrqskv4o_bjw23n",
+      "itemTitle": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+      "itemUrl": "https://ykdojo.github.io/claude-controls-mac/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-18T20:00:56.472Z"
+    },
+    {
       "id": "a_mrqk0855_irzn",
       "type": "add",
       "itemId": "i_mrqk0855_354zbu",
@@ -27409,17 +27442,6 @@
       "itemId": "i_mq7aygj6_0qj4og",
       "itemTitle": "Introducing North Mini Code: Cohere’s First Model For Developers",
       "itemUrl": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-10T00:00:17.970Z"
-    },
-    {
-      "id": "a_mq7aygj6_y1qh",
-      "type": "add",
-      "itemId": "i_mq7aygj6_av09tg",
-      "itemTitle": "Setting a custom price for a model in AgentsView",
-      "itemUrl": "https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price/#atom-everything",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
