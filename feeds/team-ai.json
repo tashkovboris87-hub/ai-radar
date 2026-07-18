@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrqk0855_d99ujr",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "description": "",
+      "image": "",
+      "domain": "old.reddit.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-18T13:00:52.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-18T16:00:56.633Z"
+    },
+    {
+      "id": "i_mrqk0855_zkljcj",
+      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+      "description": "",
+      "image": "",
+      "domain": "charlesazam.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-18T11:00:29.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-18T16:00:56.633Z"
+    },
+    {
+      "id": "i_mrqk0855_354zbu",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+      "title": "What AI did to stackoverflow in a graph",
+      "description": "",
+      "image": "",
+      "domain": "data.stackexchange.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-18T11:12:46.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-18T16:00:56.633Z"
+    },
+    {
       "id": "i_mrqbfl4e_16hbrh",
       "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
       "title": "Why do AI company logos look like buttholes?",
@@ -21840,6 +21906,39 @@
   ],
   "activity": [
     {
+      "id": "a_mrqk0855_irzn",
+      "type": "add",
+      "itemId": "i_mrqk0855_354zbu",
+      "itemTitle": "What AI did to stackoverflow in a graph",
+      "itemUrl": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-18T16:00:56.633Z"
+    },
+    {
+      "id": "a_mrqk0855_gikr",
+      "type": "add",
+      "itemId": "i_mrqk0855_zkljcj",
+      "itemTitle": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+      "itemUrl": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-18T16:00:56.633Z"
+    },
+    {
+      "id": "a_mrqk0855_se88",
+      "type": "add",
+      "itemId": "i_mrqk0855_d99ujr",
+      "itemTitle": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "itemUrl": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-18T16:00:56.633Z"
+    },
+    {
       "id": "a_mrqbfl4e_m2g9",
       "type": "add",
       "itemId": "i_mrqbfl4e_16hbrh",
@@ -27301,39 +27400,6 @@
       "itemId": "i_mq7aygj6_av09tg",
       "itemTitle": "Setting a custom price for a model in AgentsView",
       "itemUrl": "https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-10T00:00:17.970Z"
-    },
-    {
-      "id": "a_mq7aygj6_8i26",
-      "type": "add",
-      "itemId": "i_mq7aygj6_rqhcrm",
-      "itemTitle": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
-      "itemUrl": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-10T00:00:17.970Z"
-    },
-    {
-      "id": "a_mq7aygj6_ow99",
-      "type": "add",
-      "itemId": "i_mq7aygj6_3kx07y",
-      "itemTitle": "Grit: Rewriting Git in Rust with Agents",
-      "itemUrl": "https://blog.gitbutler.com/true-grit",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-10T00:00:17.970Z"
-    },
-    {
-      "id": "a_mq7aygj6_g904",
-      "type": "add",
-      "itemId": "i_mq7aygj6_3weetr",
-      "itemTitle": "If Claude Fable stops helping you, you'll never know",
-      "itemUrl": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
