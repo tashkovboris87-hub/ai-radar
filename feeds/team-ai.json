@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrqbfl4e_16hbrh",
+      "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+      "title": "Why do AI company logos look like buttholes?",
+      "description": "",
+      "image": "",
+      "domain": "velvetshark.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-18T11:06:50.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-18T12:00:56.750Z"
+    },
+    {
       "id": "i_mrq2uw5j_wm55ql",
       "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
       "title": "Claude make Fable 5 permanent",
@@ -21818,6 +21840,17 @@
   ],
   "activity": [
     {
+      "id": "a_mrqbfl4e_m2g9",
+      "type": "add",
+      "itemId": "i_mrqbfl4e_16hbrh",
+      "itemTitle": "Why do AI company logos look like buttholes?",
+      "itemUrl": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-18T12:00:56.750Z"
+    },
+    {
       "id": "a_mrq2uw5j_txly",
       "type": "add",
       "itemId": "i_mrq2uw5j_dgn70a",
@@ -27305,17 +27338,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-10T00:00:17.970Z"
-    },
-    {
-      "id": "a_mq72dqqn_blt5",
-      "type": "add",
-      "itemId": "i_mq72dqqn_9p4nyd",
-      "itemTitle": "Anthropic is starting to panic…",
-      "itemUrl": "https://www.youtube.com/watch?v=0pgCBV8CTZY",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-09T20:00:14.495Z"
     }
   ],
   "filterConfig": {
