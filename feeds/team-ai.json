@@ -2,6 +2,116 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrq2uw5j_wm55ql",
+      "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
+      "title": "Claude make Fable 5 permanent",
+      "description": "Claude make Fable 5 permanent An update from the @claudeai account on Twitter: Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits. Pro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-18T06:00:13.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-18T08:00:54.343Z"
+    },
+    {
+      "id": "i_mrq2uw5j_72ihzq",
+      "url": "https://simonwillison.net/2026/Jul/18/quixote/#atom-everything",
+      "title": "nascheme/quixote",
+      "description": "nascheme/quixote A certain vintage if Python web nerd might be delighted to learn that the most recent commit to the Quixote web framework was six hours ago. The oldest commit in that repo is from 21 years ago, and that was the initial import of Quixote 2.4 from Subversion into Git. Tags: computer-h",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-18T05:27:49.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-18T08:00:54.343Z"
+    },
+    {
+      "id": "i_mrq2uw5j_3camhn",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-830",
+      "title": "[AINews] not much happened today",
+      "description": "a quiet day",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/OqM67QG_Ikk",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-18T04:30:21.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-18T08:00:54.343Z"
+    },
+    {
+      "id": "i_mrq2uw5j_7hfa6g",
+      "url": "https://www.youtube.com/watch?v=JrVPIy9AdfQ",
+      "title": "Did Kimi K3 really beat Fable?",
+      "description": "Matthew Berman (YouTube)",
+      "image": "https://i.ytimg.com/vi/JrVPIy9AdfQ/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-18T06:14:32.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-18T08:00:54.343Z"
+    },
+    {
+      "id": "i_mrq2uw5j_dgn70a",
+      "url": "https://www.youtube.com/watch?v=0eXdjlTXkaw",
+      "title": "The 15 Most INSANE Things Created by KIMI K3 ( KIMI K3 Use Cases)",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/0eXdjlTXkaw/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-18T06:56:53.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-18T08:00:54.343Z"
+    },
+    {
       "id": "i_mrplpm45_b1qtaq",
       "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
       "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
@@ -21708,6 +21818,61 @@
   ],
   "activity": [
     {
+      "id": "a_mrq2uw5j_txly",
+      "type": "add",
+      "itemId": "i_mrq2uw5j_dgn70a",
+      "itemTitle": "The 15 Most INSANE Things Created by KIMI K3 ( KIMI K3 Use Cases)",
+      "itemUrl": "https://www.youtube.com/watch?v=0eXdjlTXkaw",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-18T08:00:54.343Z"
+    },
+    {
+      "id": "a_mrq2uw5j_kn9z",
+      "type": "add",
+      "itemId": "i_mrq2uw5j_7hfa6g",
+      "itemTitle": "Did Kimi K3 really beat Fable?",
+      "itemUrl": "https://www.youtube.com/watch?v=JrVPIy9AdfQ",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-18T08:00:54.343Z"
+    },
+    {
+      "id": "a_mrq2uw5j_up7j",
+      "type": "add",
+      "itemId": "i_mrq2uw5j_3camhn",
+      "itemTitle": "[AINews] not much happened today",
+      "itemUrl": "https://www.latent.space/p/ainews-not-much-happened-today-830",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-18T08:00:54.343Z"
+    },
+    {
+      "id": "a_mrq2uw5j_7u2v",
+      "type": "add",
+      "itemId": "i_mrq2uw5j_72ihzq",
+      "itemTitle": "nascheme/quixote",
+      "itemUrl": "https://simonwillison.net/2026/Jul/18/quixote/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-18T08:00:54.343Z"
+    },
+    {
+      "id": "a_mrq2uw5j_ec8a",
+      "type": "add",
+      "itemId": "i_mrq2uw5j_wm55ql",
+      "itemTitle": "Claude make Fable 5 permanent",
+      "itemUrl": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-18T08:00:54.343Z"
+    },
+    {
       "id": "a_mrplpm45_3t6g",
       "type": "add",
       "itemId": "i_mrplpm45_b1qtaq",
@@ -27151,61 +27316,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-09T20:00:14.495Z"
-    },
-    {
-      "id": "a_mq72dqqn_629d",
-      "type": "add",
-      "itemId": "i_mq72dqqn_vbm9m9",
-      "itemTitle": "MYTHOS is LIVE!!!!",
-      "itemUrl": "https://www.youtube.com/watch?v=e-4xG1U7M70",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-09T20:00:14.495Z"
-    },
-    {
-      "id": "a_mq72dqqn_83ms",
-      "type": "add",
-      "itemId": "i_mq72dqqn_ph56e1",
-      "itemTitle": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
-      "itemUrl": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-09T20:00:14.495Z"
-    },
-    {
-      "id": "a_mq72dqqn_hnfg",
-      "type": "add",
-      "itemId": "i_mq72dqqn_kjlk7x",
-      "itemTitle": "GPT-2: Too Dangerous To Release (2019)",
-      "itemUrl": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-09T20:00:14.495Z"
-    },
-    {
-      "id": "a_mq72dqqn_kr10",
-      "type": "add",
-      "itemId": "i_mq72dqqn_qjqwc2",
-      "itemTitle": "Claude Fable 5",
-      "itemUrl": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "itemSource": "feed",
-      "category": "claude",
-      "by": "AI Radar bot",
-      "at": "2026-06-09T20:00:14.495Z"
-    },
-    {
-      "id": "a_mq6tt5ch_tbc1",
-      "type": "add",
-      "itemId": "i_mq6tt5ch_y22sbx",
-      "itemTitle": "Every time I think I've caught up with the AI news...",
-      "itemUrl": "https://www.youtube.com/shorts/GaiZvDn_Viw",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-09T16:00:16.721Z"
     }
   ],
   "filterConfig": {
