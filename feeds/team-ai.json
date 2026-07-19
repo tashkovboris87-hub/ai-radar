@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrriasjh_y3l8qa",
+      "url": "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything",
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "description": "AI Mania Is Eviscerating Global Decision-Making Here's an entertaining perspective from Nik Suresh on the AI mania that is overwhelming the large companies that he consults with. It's crammed with spicy anecdotes from anonymous sources. In one extreme case, I have seen an executive confess that they",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-19T05:06:21.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-19T08:00:56.573Z"
+    },
+    {
+      "id": "i_mrriasjh_p1ewip",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything",
+      "title": "Claude Code uses Bun written in Rust now",
+      "description": "In Rewriting Bun in Rust Jarred Sumner made the following claim: Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone noticed. Boring is good. I decided to have a poke at my own Claude Code installation to see if I",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-19T03:54:09.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-19T08:00:56.573Z"
+    },
+    {
       "id": "i_mrr9q5gr_rtgja0",
       "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
       "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
@@ -21992,6 +22036,28 @@
   ],
   "activity": [
     {
+      "id": "a_mrriasjh_7c8t",
+      "type": "add",
+      "itemId": "i_mrriasjh_p1ewip",
+      "itemTitle": "Claude Code uses Bun written in Rust now",
+      "itemUrl": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-19T08:00:56.573Z"
+    },
+    {
+      "id": "a_mrriasjh_dm5j",
+      "type": "add",
+      "itemId": "i_mrriasjh_y3l8qa",
+      "itemTitle": "AI Mania Is Eviscerating Global Decision-Making",
+      "itemUrl": "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-19T08:00:56.573Z"
+    },
+    {
       "id": "a_mrr9q5gr_4tgx",
       "type": "add",
       "itemId": "i_mrr9q5gr_rtgja0",
@@ -27464,28 +27530,6 @@
       "itemId": "i_mq7aygj6_fw1tpa",
       "itemTitle": "How To Use Claude Fable 5 - Tips And Tricks Most People Miss",
       "itemUrl": "https://www.youtube.com/watch?v=mWLpNY_jpdo",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-10T00:00:17.970Z"
-    },
-    {
-      "id": "a_mq7aygj6_tk5z",
-      "type": "add",
-      "itemId": "i_mq7aygj6_r25ynz",
-      "itemTitle": "Mythos is officially here.",
-      "itemUrl": "https://www.youtube.com/shorts/naOUMQt-8pU",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-10T00:00:17.970Z"
-    },
-    {
-      "id": "a_mq7aygj6_8qqy",
-      "type": "add",
-      "itemId": "i_mq7aygj6_5pha19",
-      "itemTitle": "MYTHOS MYTHOS MYTHOS",
-      "itemUrl": "https://www.youtube.com/watch?v=Ou-0vjl6FZo",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
