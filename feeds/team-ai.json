@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrrzg2ur_p7cktr",
+      "url": "https://github.com/openai/codex/pull/33972/files",
+      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+      "description": "",
+      "image": "",
+      "domain": "github.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-19T07:54:39.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-19T16:00:56.691Z"
+    },
+    {
       "id": "i_mrriasjh_y3l8qa",
       "url": "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything",
       "title": "AI Mania Is Eviscerating Global Decision-Making",
@@ -22036,6 +22058,17 @@
   ],
   "activity": [
     {
+      "id": "a_mrrzg2ur_8oo8",
+      "type": "add",
+      "itemId": "i_mrrzg2ur_p7cktr",
+      "itemTitle": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+      "itemUrl": "https://github.com/openai/codex/pull/33972/files",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-19T16:00:56.691Z"
+    },
+    {
       "id": "a_mrriasjh_7c8t",
       "type": "add",
       "itemId": "i_mrriasjh_p1ewip",
@@ -27523,17 +27556,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-10T02:53:24.923Z"
-    },
-    {
-      "id": "a_mq7aygj6_8ynl",
-      "type": "add",
-      "itemId": "i_mq7aygj6_fw1tpa",
-      "itemTitle": "How To Use Claude Fable 5 - Tips And Tricks Most People Miss",
-      "itemUrl": "https://www.youtube.com/watch?v=mWLpNY_jpdo",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-10T00:00:17.970Z"
     }
   ],
   "filterConfig": {
