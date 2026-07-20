@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrsp5bj5_p2hc5a",
+      "url": "https://www.youtube.com/watch?v=xJplWSRHvBg",
+      "title": "Google CEO Reveals How AGI Will Rollout",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/xJplWSRHvBg/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-20T00:32:43.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-20T04:00:24.737Z"
+    },
+    {
       "id": "i_mrsgkod1_uyuiip",
       "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
       "title": "AI advice made people 3x less accurate but 2x confident, researchers found",
@@ -22102,6 +22124,17 @@
   ],
   "activity": [
     {
+      "id": "a_mrsp5bj5_xu00",
+      "type": "add",
+      "itemId": "i_mrsp5bj5_p2hc5a",
+      "itemTitle": "Google CEO Reveals How AGI Will Rollout",
+      "itemUrl": "https://www.youtube.com/watch?v=xJplWSRHvBg",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-20T04:00:24.737Z"
+    },
+    {
       "id": "a_mrsgkod1_4zws",
       "type": "add",
       "itemId": "i_mrsgkod1_5f6zm9",
@@ -27585,17 +27618,6 @@
       "itemId": "i_mq7h535n_87l76d",
       "itemTitle": "Industrial policy for the Intelligence Age",
       "itemUrl": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-06-10T02:53:24.923Z"
-    },
-    {
-      "id": "a_mq7h535n_2zz8",
-      "type": "add",
-      "itemId": "i_mq7h535n_q1aj1h",
-      "itemTitle": "What Codex unlocks for Notion",
-      "itemUrl": "https://openai.com/index/notion",
       "itemSource": "feed",
       "category": "chatgpt",
       "by": "AI Radar bot",
