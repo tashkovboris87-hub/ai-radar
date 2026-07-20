@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrsgkod1_uyuiip",
+      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+      "title": "AI advice made people 3x less accurate but 2x confident, researchers found",
+      "description": "",
+      "image": "",
+      "domain": "thenextweb.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-19T21:18:10.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-20T00:00:24.661Z"
+    },
+    {
+      "id": "i_mrsgkod1_5f6zm9",
+      "url": "https://www.youtube.com/shorts/6ugVjmFsDmc",
+      "title": "Anthropic messed up",
+      "description": "Matthew Berman (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-19T23:48:45.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-20T00:00:24.661Z"
+    },
+    {
       "id": "i_mrrzg2ur_p7cktr",
       "url": "https://github.com/openai/codex/pull/33972/files",
       "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
@@ -22058,6 +22102,28 @@
   ],
   "activity": [
     {
+      "id": "a_mrsgkod1_4zws",
+      "type": "add",
+      "itemId": "i_mrsgkod1_5f6zm9",
+      "itemTitle": "Anthropic messed up",
+      "itemUrl": "https://www.youtube.com/shorts/6ugVjmFsDmc",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-20T00:00:24.661Z"
+    },
+    {
+      "id": "a_mrsgkod1_u54n",
+      "type": "add",
+      "itemId": "i_mrsgkod1_uyuiip",
+      "itemTitle": "AI advice made people 3x less accurate but 2x confident, researchers found",
+      "itemUrl": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-20T00:00:24.661Z"
+    },
+    {
       "id": "a_mrrzg2ur_8oo8",
       "type": "add",
       "itemId": "i_mrrzg2ur_p7cktr",
@@ -27532,28 +27598,6 @@
       "itemUrl": "https://openai.com/index/notion",
       "itemSource": "feed",
       "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-06-10T02:53:24.923Z"
-    },
-    {
-      "id": "a_mq7h535n_c4uz",
-      "type": "add",
-      "itemId": "i_mq7h535n_0wfyft",
-      "itemTitle": "How engineers at Nextdoor use Codex to build without limits",
-      "itemUrl": "https://openai.com/index/nextdoor",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-06-10T02:53:24.923Z"
-    },
-    {
-      "id": "a_mq7h535n_ncq2",
-      "type": "add",
-      "itemId": "i_mq7h535n_exyeae",
-      "itemTitle": "German ruling declares Google liable for false answers in AI Overviews",
-      "itemUrl": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
-      "itemSource": "feed",
-      "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-10T02:53:24.923Z"
     }
