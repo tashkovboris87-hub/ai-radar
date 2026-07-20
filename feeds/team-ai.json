@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrtev954_u0cto6",
+      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "title": "American AI is locked down and proprietary. It's losing",
+      "description": "",
+      "image": "",
+      "domain": "werd.io",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-20T14:21:47.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-20T16:00:25.096Z"
+    },
+    {
+      "id": "i_mrtev954_23gef3",
+      "url": "https://importai.substack.com/p/import-ai-465-open-vs-closed-gaps",
+      "title": "Import AI 465: Open vs closed gaps; Kimi K3; Demis' big policy plan",
+      "description": "The singularity will be seen in hindsight as an interregnum",
+      "image": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
+      "domain": "importai.substack.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-20T12:31:45.000Z",
+      "addedBy": "Import AI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-20T16:00:25.096Z"
+    },
+    {
+      "id": "i_mrtev954_n8rk9y",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "title": "Introducing Cosmos 3 Edge",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-20T15:58:51.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-20T16:00:25.096Z"
+    },
+    {
       "id": "i_mrsp5bj5_p2hc5a",
       "url": "https://www.youtube.com/watch?v=xJplWSRHvBg",
       "title": "Google CEO Reveals How AGI Will Rollout",
@@ -22124,6 +22190,39 @@
   ],
   "activity": [
     {
+      "id": "a_mrtev954_3upb",
+      "type": "add",
+      "itemId": "i_mrtev954_n8rk9y",
+      "itemTitle": "Introducing Cosmos 3 Edge",
+      "itemUrl": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-20T16:00:25.096Z"
+    },
+    {
+      "id": "a_mrtev954_av9a",
+      "type": "add",
+      "itemId": "i_mrtev954_23gef3",
+      "itemTitle": "Import AI 465: Open vs closed gaps; Kimi K3; Demis' big policy plan",
+      "itemUrl": "https://importai.substack.com/p/import-ai-465-open-vs-closed-gaps",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-20T16:00:25.096Z"
+    },
+    {
+      "id": "a_mrtev954_7rck",
+      "type": "add",
+      "itemId": "i_mrtev954_u0cto6",
+      "itemTitle": "American AI is locked down and proprietary. It's losing",
+      "itemUrl": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-20T16:00:25.096Z"
+    },
+    {
       "id": "a_mrsp5bj5_xu00",
       "type": "add",
       "itemId": "i_mrsp5bj5_p2hc5a",
@@ -27587,39 +27686,6 @@
       "itemUrl": "https://simonwillison.net/2026/Jun/9/llm/#atom-everything",
       "itemSource": "feed",
       "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-10T02:53:24.923Z"
-    },
-    {
-      "id": "a_mq7h535n_kyp6",
-      "type": "add",
-      "itemId": "i_mq7h535n_dvwbfo",
-      "itemTitle": "Initial impressions of Claude Fable 5",
-      "itemUrl": "https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-10T02:53:24.923Z"
-    },
-    {
-      "id": "a_mq7h535n_gala",
-      "type": "add",
-      "itemId": "i_mq7h535n_reqt78",
-      "itemTitle": "If Claude Fable stops helping you, you'll never know",
-      "itemUrl": "https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-10T02:53:24.923Z"
-    },
-    {
-      "id": "a_mq7h535n_t4k9",
-      "type": "add",
-      "itemId": "i_mq7h535n_87l76d",
-      "itemTitle": "Industrial policy for the Intelligence Age",
-      "itemUrl": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-      "itemSource": "feed",
-      "category": "chatgpt",
       "by": "AI Radar bot",
       "at": "2026-06-10T02:53:24.923Z"
     }
