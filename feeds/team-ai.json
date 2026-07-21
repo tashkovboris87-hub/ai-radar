@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrulqhas_5n5wkc",
+      "url": "https://huggingface.co/blog/grabette",
+      "title": "Grabette: an open system to record robot-manipulation data",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-21T00:00:00.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-21T12:00:25.876Z"
+    },
+    {
       "id": "i_mrud5tve_onhbpm",
       "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
       "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
@@ -22344,6 +22366,17 @@
   ],
   "activity": [
     {
+      "id": "a_mrulqhas_hi75",
+      "type": "add",
+      "itemId": "i_mrulqhas_5n5wkc",
+      "itemTitle": "Grabette: an open system to record robot-manipulation data",
+      "itemUrl": "https://huggingface.co/blog/grabette",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-21T12:00:25.876Z"
+    },
+    {
       "id": "a_mrud5tve_07z6",
       "type": "add",
       "itemId": "i_mrud5tve_onhbpm",
@@ -27829,17 +27862,6 @@
       "itemUrl": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
       "itemSource": "feed",
       "category": "gemini",
-      "by": "AI Radar bot",
-      "at": "2026-06-10T20:00:20.931Z"
-    },
-    {
-      "id": "a_mq8htqdf_yx3m",
-      "type": "add",
-      "itemId": "i_mq8htqdf_c2jzi8",
-      "itemTitle": "Policy on the AI Exponential",
-      "itemUrl": "https://darioamodei.com/post/policy-on-the-ai-exponential",
-      "itemSource": "feed",
-      "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-10T20:00:20.931Z"
     }
