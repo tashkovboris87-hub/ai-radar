@@ -2,6 +2,116 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mruub3q3_ymany8",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "description": "",
+      "image": "",
+      "domain": "blog.google",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-21T15:17:16.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-21T16:00:24.987Z"
+    },
+    {
+      "id": "i_mruub3q3_6r3bwg",
+      "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "description": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+      "image": "",
+      "domain": "deepmind.google",
+      "contentType": "article",
+      "source": "feed",
+      "category": "gemini",
+      "tags": [],
+      "addedAt": "2026-07-21T15:16:30.000Z",
+      "addedBy": "Google DeepMind",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-21T16:00:24.987Z"
+    },
+    {
+      "id": "i_mruub3q3_7b3zke",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+      "title": "Introducing Gemini 3.5 Flash Cyber",
+      "description": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
+      "image": "https://lh3.googleusercontent.com/esSD0-kSrZ8K07XxNkSKL3OGlcx1Cf3M-qiQut0q_vArHMiK2L1CpUIGVkjuQrhu_m0g8UMVflVQpDp7VFAJSubDdCjSXsPJPDeK-PUtaPbqA8W1=w528-h297-n-nu-rw-lo",
+      "domain": "deepmind.google",
+      "contentType": "article",
+      "source": "feed",
+      "category": "gemini",
+      "tags": [],
+      "addedAt": "2026-07-17T15:00:11.000Z",
+      "addedBy": "Google DeepMind",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-21T16:00:24.987Z"
+    },
+    {
+      "id": "i_mruub3q3_7rsbzi",
+      "url": "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything",
+      "title": "Nativ: Run AI models locally on your Mac",
+      "description": "Nativ: Run AI models locally on your Mac Prince Canuma is the developer behind the excellent MLX-VLM Python library for running vision-LLMs using MLX on a Mac. I'm really excited about his new project, which wraps MLX in a full macOS desktop application. It's similar in shape to LM Studio, providing",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-21T14:22:27.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-21T16:00:24.987Z"
+    },
+    {
+      "id": "i_mruub3q3_3ydpqs",
+      "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything",
+      "title": "A Fireside Chat with Cat and Thariq from the Claude Code team",
+      "description": "Earlier this month I hosted a fireside chat session at the AI Engineer World's Fair with Cat Wu and Thariq Shihipar from Anthropic's Claude Code team. We talked about Claude Code, Claude Tag, Fable, coding agent security, evals, tool design, and how Anthropic use these tools themselves. The full vid",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-21T12:54:02.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-21T16:00:24.987Z"
+    },
+    {
       "id": "i_mrulqhas_5n5wkc",
       "url": "https://huggingface.co/blog/grabette",
       "title": "Grabette: an open system to record robot-manipulation data",
@@ -22388,6 +22498,61 @@
   ],
   "activity": [
     {
+      "id": "a_mruub3q3_cmtb",
+      "type": "add",
+      "itemId": "i_mruub3q3_3ydpqs",
+      "itemTitle": "A Fireside Chat with Cat and Thariq from the Claude Code team",
+      "itemUrl": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-21T16:00:24.987Z"
+    },
+    {
+      "id": "a_mruub3q3_o06t",
+      "type": "add",
+      "itemId": "i_mruub3q3_7rsbzi",
+      "itemTitle": "Nativ: Run AI models locally on your Mac",
+      "itemUrl": "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-21T16:00:24.987Z"
+    },
+    {
+      "id": "a_mruub3q3_6ghz",
+      "type": "add",
+      "itemId": "i_mruub3q3_7b3zke",
+      "itemTitle": "Introducing Gemini 3.5 Flash Cyber",
+      "itemUrl": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+      "itemSource": "feed",
+      "category": "gemini",
+      "by": "AI Radar bot",
+      "at": "2026-07-21T16:00:24.987Z"
+    },
+    {
+      "id": "a_mruub3q3_ro6v",
+      "type": "add",
+      "itemId": "i_mruub3q3_6r3bwg",
+      "itemTitle": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "itemUrl": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+      "itemSource": "feed",
+      "category": "gemini",
+      "by": "AI Radar bot",
+      "at": "2026-07-21T16:00:24.987Z"
+    },
+    {
+      "id": "a_mruub3q3_tuvv",
+      "type": "add",
+      "itemId": "i_mruub3q3_ymany8",
+      "itemTitle": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "itemUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-21T16:00:24.987Z"
+    },
+    {
       "id": "a_mrulqhas_hi75",
       "type": "add",
       "itemId": "i_mrulqhas_5n5wkc",
@@ -27831,61 +27996,6 @@
       "category": "chatgpt",
       "by": "AI Radar bot",
       "at": "2026-06-11T00:00:23.155Z"
-    },
-    {
-      "id": "a_mq8qef77_8yp8",
-      "type": "add",
-      "itemId": "i_mq8qef77_wnth5n",
-      "itemTitle": "Anthropic requires 30 day data retention for Fable and Mythos",
-      "itemUrl": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-11T00:00:23.155Z"
-    },
-    {
-      "id": "a_mq8qef77_w9t0",
-      "type": "add",
-      "itemId": "i_mq8qef77_9q8och",
-      "itemTitle": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-      "itemUrl": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-11T00:00:23.155Z"
-    },
-    {
-      "id": "a_mq8htqdf_nkqk",
-      "type": "add",
-      "itemId": "i_mq8htqdf_mpnraf",
-      "itemTitle": "Supercomputer is the next level of AI video generation",
-      "itemUrl": "https://www.youtube.com/shorts/GclDWye2kgk",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-10T20:00:20.931Z"
-    },
-    {
-      "id": "a_mq8htqdf_iaop",
-      "type": "add",
-      "itemId": "i_mq8htqdf_6c29s2",
-      "itemTitle": "Claude Fable 5 - Full 319 page Breakdown",
-      "itemUrl": "https://www.youtube.com/watch?v=haK1KoQWm18",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-10T20:00:20.931Z"
-    },
-    {
-      "id": "a_mq8htqdf_5ui7",
-      "type": "add",
-      "itemId": "i_mq8htqdf_gb5ap0",
-      "itemTitle": "DiffusionGemma: 4x faster text generation",
-      "itemUrl": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
-      "itemSource": "feed",
-      "category": "gemini",
-      "by": "AI Radar bot",
-      "at": "2026-06-10T20:00:20.931Z"
     }
   ],
   "filterConfig": {
