@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrud5tve_onhbpm",
+      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+      "description": "",
+      "image": "",
+      "domain": "asia.nikkei.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-21T03:56:03.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-21T08:00:25.466Z"
+    },
+    {
       "id": "i_mru4l5hf_p0v5et",
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-173",
       "title": "[AINews] not much happened today",
@@ -22322,6 +22344,17 @@
   ],
   "activity": [
     {
+      "id": "a_mrud5tve_07z6",
+      "type": "add",
+      "itemId": "i_mrud5tve_onhbpm",
+      "itemTitle": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+      "itemUrl": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-21T08:00:25.466Z"
+    },
+    {
       "id": "a_mru4l5hf_mz15",
       "type": "add",
       "itemId": "i_mru4l5hf_p0v5et",
@@ -27805,17 +27838,6 @@
       "itemId": "i_mq8htqdf_c2jzi8",
       "itemTitle": "Policy on the AI Exponential",
       "itemUrl": "https://darioamodei.com/post/policy-on-the-ai-exponential",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-10T20:00:20.931Z"
-    },
-    {
-      "id": "a_mq8htqdf_iiz7",
-      "type": "add",
-      "itemId": "i_mq8htqdf_6676ym",
-      "itemTitle": "Anthropic's Model Naming, Extrapolated",
-      "itemUrl": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
