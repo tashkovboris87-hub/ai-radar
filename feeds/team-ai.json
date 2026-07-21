@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrv2vsw3_6bgybk",
+      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+      "description": "",
+      "image": "",
+      "domain": "runtimewire.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-21T17:14:06.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-21T20:00:27.651Z"
+    },
+    {
+      "id": "i_mrv2vsw3_lftlce",
+      "url": "https://www.latent.space/p/xaira",
+      "title": "Causal Models Need Causal Data - Xaira’s X-Cell model for Drug Discovery (Bo Wang & Ci Chu, Chief Discovery Officer & Chief AI Scientist)",
+      "description": "Xaira Therapeutics is all in on data generation for model building! We talk with Bo Wang and Ci Chu about how and why.",
+      "image": "",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-21T19:34:06.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-21T20:00:27.651Z"
+    },
+    {
+      "id": "i_mrv2vsw3_b94tzb",
+      "url": "https://www.youtube.com/watch?v=6BtIQIGqGJc",
+      "title": "The Most Important Conversation in AI Right Now",
+      "description": "Matthew Berman (YouTube)",
+      "image": "https://i.ytimg.com/vi/6BtIQIGqGJc/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-21T19:57:45.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-21T20:00:27.651Z"
+    },
+    {
       "id": "i_mruub3q3_ymany8",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
       "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
@@ -22498,6 +22564,39 @@
   ],
   "activity": [
     {
+      "id": "a_mrv2vsw3_c5gw",
+      "type": "add",
+      "itemId": "i_mrv2vsw3_b94tzb",
+      "itemTitle": "The Most Important Conversation in AI Right Now",
+      "itemUrl": "https://www.youtube.com/watch?v=6BtIQIGqGJc",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-21T20:00:27.651Z"
+    },
+    {
+      "id": "a_mrv2vsw3_apuj",
+      "type": "add",
+      "itemId": "i_mrv2vsw3_lftlce",
+      "itemTitle": "Causal Models Need Causal Data - Xaira’s X-Cell model for Drug Discovery (Bo Wang & Ci Chu, Chief Discovery Officer & Chief AI Scientist)",
+      "itemUrl": "https://www.latent.space/p/xaira",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-21T20:00:27.651Z"
+    },
+    {
+      "id": "a_mrv2vsw3_gpee",
+      "type": "add",
+      "itemId": "i_mrv2vsw3_6bgybk",
+      "itemTitle": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+      "itemUrl": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-21T20:00:27.651Z"
+    },
+    {
       "id": "a_mruub3q3_cmtb",
       "type": "add",
       "itemId": "i_mruub3q3_3ydpqs",
@@ -27961,39 +28060,6 @@
       "itemUrl": "https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything",
       "itemSource": "feed",
       "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-11T00:00:23.155Z"
-    },
-    {
-      "id": "a_mq8qef77_8fnd",
-      "type": "add",
-      "itemId": "i_mq8qef77_id7cja",
-      "itemTitle": "PRC-linked influence operations are targeting AI debates in the US",
-      "itemUrl": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-06-11T00:00:23.155Z"
-    },
-    {
-      "id": "a_mq8qef77_hvbw",
-      "type": "add",
-      "itemId": "i_mq8qef77_wil2g0",
-      "itemTitle": "Access OpenAI models and Codex through your Oracle cloud commitment",
-      "itemUrl": "https://openai.com/index/openai-on-oracle-cloud",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-06-11T00:00:23.155Z"
-    },
-    {
-      "id": "a_mq8qef77_s8ee",
-      "type": "add",
-      "itemId": "i_mq8qef77_grwo1m",
-      "itemTitle": "How an astrophysicist uses Codex to help simulate black holes",
-      "itemUrl": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "itemSource": "feed",
-      "category": "chatgpt",
       "by": "AI Radar bot",
       "at": "2026-06-11T00:00:23.155Z"
     }
