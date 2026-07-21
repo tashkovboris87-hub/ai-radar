@@ -21,7 +21,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-21T12:00:25.876Z"
+      "_updatedAt": "2026-07-21T12:00:25.876Z",
+      "comments": []
     },
     {
       "id": "i_mrud5tve_onhbpm",
@@ -43,7 +44,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-21T08:00:25.466Z"
+      "_updatedAt": "2026-07-21T08:00:25.466Z",
+      "comments": []
     },
     {
       "id": "i_mru4l5hf_p0v5et",
@@ -65,7 +67,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-21T04:00:23.811Z"
+      "_updatedAt": "2026-07-21T04:00:23.811Z",
+      "comments": []
     },
     {
       "id": "i_mrtnfw6c_h4uw5g",
@@ -87,7 +90,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-20T20:00:24.996Z"
+      "_updatedAt": "2026-07-20T20:00:24.996Z",
+      "comments": []
     },
     {
       "id": "i_mrtnfw6c_pseoye",
@@ -109,7 +113,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-20T20:00:24.996Z"
+      "_updatedAt": "2026-07-20T20:00:24.996Z",
+      "comments": []
     },
     {
       "id": "i_mrtnfw6c_crclfg",
@@ -131,7 +136,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-20T20:00:24.996Z"
+      "_updatedAt": "2026-07-20T20:00:24.996Z",
+      "comments": []
     },
     {
       "id": "i_mrtnfw6c_ijaaqh",
@@ -153,7 +159,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-20T20:00:24.996Z"
+      "_updatedAt": "2026-07-20T20:00:24.996Z",
+      "comments": []
     },
     {
       "id": "i_mrtnfw6c_32mk1a",
@@ -175,7 +182,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-20T20:00:24.996Z"
+      "_updatedAt": "2026-07-20T20:00:24.996Z",
+      "comments": []
     },
     {
       "id": "i_mrtev954_u0cto6",
@@ -197,7 +205,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-20T16:00:25.096Z"
+      "_updatedAt": "2026-07-20T16:00:25.096Z",
+      "comments": []
     },
     {
       "id": "i_mrtev954_23gef3",
@@ -212,14 +221,17 @@
       "tags": [],
       "addedAt": "2026-07-20T12:31:45.000Z",
       "addedBy": "Import AI",
-      "readBy": [],
+      "readBy": [
+        "Boris"
+      ],
       "reactions": {
         "important": [],
         "must_read": [],
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-20T16:00:25.096Z"
+      "_updatedAt": "2026-07-21T13:10:09.515Z",
+      "comments": []
     },
     {
       "id": "i_mrtev954_n8rk9y",
@@ -241,7 +253,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-20T16:00:25.096Z"
+      "_updatedAt": "2026-07-20T16:00:25.096Z",
+      "comments": []
     },
     {
       "id": "i_mrsp5bj5_p2hc5a",
@@ -263,7 +276,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-20T04:00:24.737Z"
+      "_updatedAt": "2026-07-20T04:00:24.737Z",
+      "comments": []
     },
     {
       "id": "i_mrsgkod1_uyuiip",
@@ -285,7 +299,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-20T00:00:24.661Z"
+      "_updatedAt": "2026-07-20T00:00:24.661Z",
+      "comments": []
     },
     {
       "id": "i_mrsgkod1_5f6zm9",
@@ -307,7 +322,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-20T00:00:24.661Z"
+      "_updatedAt": "2026-07-20T00:00:24.661Z",
+      "comments": []
     },
     {
       "id": "i_mrrzg2ur_p7cktr",
@@ -329,7 +345,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-19T16:00:56.691Z"
+      "_updatedAt": "2026-07-19T16:00:56.691Z",
+      "comments": []
     },
     {
       "id": "i_mrriasjh_y3l8qa",
@@ -351,7 +368,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-19T08:00:56.573Z"
+      "_updatedAt": "2026-07-19T08:00:56.573Z",
+      "comments": []
     },
     {
       "id": "i_mrriasjh_p1ewip",
@@ -373,7 +391,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-19T08:00:56.573Z"
+      "_updatedAt": "2026-07-19T08:00:56.573Z",
+      "comments": []
     },
     {
       "id": "i_mrr9q5gr_rtgja0",
@@ -395,7 +414,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-19T04:00:56.619Z"
+      "_updatedAt": "2026-07-19T04:00:56.619Z",
+      "comments": []
     },
     {
       "id": "i_mrr15idi_u3ald9",
@@ -417,7 +437,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-19T00:00:56.646Z"
+      "_updatedAt": "2026-07-19T00:00:56.646Z",
+      "comments": []
     },
     {
       "id": "i_mrqskv4o_bjw23n",
@@ -439,7 +460,8 @@
         "watch_later": [],
         "tried": []
       },
-      "_updatedAt": "2026-07-18T20:00:56.472Z"
+      "_updatedAt": "2026-07-18T20:00:56.472Z",
+      "comments": []
     },
     {
       "id": "i_mrqk0855_d99ujr",
