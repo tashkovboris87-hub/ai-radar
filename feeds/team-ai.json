@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrvk10lx_zkmo27",
+      "url": "https://ads.openai.com/",
+      "title": "Advertise in ChatGPT",
+      "description": "",
+      "image": "",
+      "domain": "ads.openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-07-21T18:58:44.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-22T04:00:24.405Z"
+    },
+    {
+      "id": "i_mrvk10lx_7v6rgh",
+      "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+      "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+      "description": "",
+      "image": "",
+      "domain": "apnews.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-21T19:04:39.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-22T04:00:24.405Z"
+    },
+    {
+      "id": "i_mrvk10lx_5csuxo",
+      "url": "https://www.latent.space/p/ainews-ai-cybersecurity-becomes-top",
+      "title": "[AINews] AI Cybersecurity becomes top of mind",
+      "description": "Several new Cyber headlines make us observe a trend",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/1lgFGaHoGq8",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-22T03:27:29.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-22T04:00:24.405Z"
+    },
+    {
       "id": "i_mrvbgf9y_yh46ge",
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
       "title": "OpenAI and Hugging Face address security incident during model evaluation",
@@ -22674,6 +22740,39 @@
   ],
   "activity": [
     {
+      "id": "a_mrvk10lx_n2ug",
+      "type": "add",
+      "itemId": "i_mrvk10lx_5csuxo",
+      "itemTitle": "[AINews] AI Cybersecurity becomes top of mind",
+      "itemUrl": "https://www.latent.space/p/ainews-ai-cybersecurity-becomes-top",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-22T04:00:24.405Z"
+    },
+    {
+      "id": "a_mrvk10lx_ob6l",
+      "type": "add",
+      "itemId": "i_mrvk10lx_7v6rgh",
+      "itemTitle": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+      "itemUrl": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-22T04:00:24.405Z"
+    },
+    {
+      "id": "a_mrvk10lx_djo2",
+      "type": "add",
+      "itemId": "i_mrvk10lx_zkmo27",
+      "itemTitle": "Advertise in ChatGPT",
+      "itemUrl": "https://ads.openai.com/",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-22T04:00:24.405Z"
+    },
+    {
       "id": "a_mrvbgf9y_hv6q",
       "type": "add",
       "itemId": "i_mrvbgf9y_ubluaa",
@@ -28139,39 +28238,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-11T16:00:19.832Z"
-    },
-    {
-      "id": "a_mq9g4aj7_yq9w",
-      "type": "add",
-      "itemId": "i_mq9g4aj7_9wu1jp",
-      "itemTitle": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-      "itemUrl": "https://huggingface.co/blog/torch-mlp-fusion",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-11T12:00:20.563Z"
-    },
-    {
-      "id": "a_mq9g4aj7_02gp",
-      "type": "add",
-      "itemId": "i_mq9g4aj7_krtb4m",
-      "itemTitle": "Investing in multi-agent AI safety research",
-      "itemUrl": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
-      "itemSource": "feed",
-      "category": "gemini",
-      "by": "AI Radar bot",
-      "at": "2026-06-11T12:00:20.563Z"
-    },
-    {
-      "id": "a_mq97jnae_fsvg",
-      "type": "add",
-      "itemId": "i_mq97jnae_8nw423",
-      "itemTitle": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "itemUrl": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-06-11T08:00:20.390Z"
     }
   ],
   "filterConfig": {
