@@ -2,6 +2,138 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrwibl9w_ac3t3w",
+      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+      "description": "",
+      "image": "",
+      "domain": "chatgpt.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-07-22T17:30:40.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-22T20:00:24.692Z"
+    },
+    {
+      "id": "i_mrwibl9w_amwyou",
+      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+      "title": "Are AI Labs Pelicanmaxxing?",
+      "description": "",
+      "image": "",
+      "domain": "dylancastillo.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-22T17:17:54.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-22T20:00:24.692Z"
+    },
+    {
+      "id": "i_mrwibl9w_zrnkv4",
+      "url": "https://cruciblebench.ai/",
+      "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
+      "description": "",
+      "image": "",
+      "domain": "cruciblebench.ai",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-22T15:39:01.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-22T20:00:24.692Z"
+    },
+    {
+      "id": "i_mrwibl9w_taeett",
+      "url": "https://www.youtube.com/watch?v=wzY2fV4Mp3U",
+      "title": "GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype",
+      "description": "AI Explained (YouTube)",
+      "image": "https://i.ytimg.com/vi/wzY2fV4Mp3U/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-22T16:36:53.000Z",
+      "addedBy": "AI Explained",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-22T20:00:24.692Z"
+    },
+    {
+      "id": "i_mrwibl9w_vljush",
+      "url": "https://www.youtube.com/watch?v=r4H7rx5nn1A",
+      "title": "It Begins: An AI Tried to Escape the Lab",
+      "description": "Matthew Berman (YouTube)",
+      "image": "https://i.ytimg.com/vi/r4H7rx5nn1A/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-22T18:14:09.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-22T20:00:24.692Z"
+    },
+    {
+      "id": "i_mrwibl9w_eo7vci",
+      "url": "https://www.youtube.com/watch?v=YP73B9D20V4",
+      "title": "Open-weight AI just hit 2.8 trillion parameters…",
+      "description": "Fireship (YouTube)",
+      "image": "https://i.ytimg.com/vi/YP73B9D20V4/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-22T17:43:52.000Z",
+      "addedBy": "Fireship",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-22T20:00:24.692Z"
+    },
+    {
       "id": "i_mrw9r0r9_5kv8om",
       "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
       "title": "Building AI infrastructure with the Effingham County community",
@@ -22828,6 +22960,72 @@
   ],
   "activity": [
     {
+      "id": "a_mrwibl9w_0szl",
+      "type": "add",
+      "itemId": "i_mrwibl9w_eo7vci",
+      "itemTitle": "Open-weight AI just hit 2.8 trillion parameters…",
+      "itemUrl": "https://www.youtube.com/watch?v=YP73B9D20V4",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-22T20:00:24.692Z"
+    },
+    {
+      "id": "a_mrwibl9w_7tya",
+      "type": "add",
+      "itemId": "i_mrwibl9w_vljush",
+      "itemTitle": "It Begins: An AI Tried to Escape the Lab",
+      "itemUrl": "https://www.youtube.com/watch?v=r4H7rx5nn1A",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-22T20:00:24.692Z"
+    },
+    {
+      "id": "a_mrwibl9w_k9pq",
+      "type": "add",
+      "itemId": "i_mrwibl9w_taeett",
+      "itemTitle": "GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype",
+      "itemUrl": "https://www.youtube.com/watch?v=wzY2fV4Mp3U",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-22T20:00:24.692Z"
+    },
+    {
+      "id": "a_mrwibl9w_jstg",
+      "type": "add",
+      "itemId": "i_mrwibl9w_zrnkv4",
+      "itemTitle": "Can a MUD evaluate LLMs? A $99 proof of concept",
+      "itemUrl": "https://cruciblebench.ai/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-22T20:00:24.692Z"
+    },
+    {
+      "id": "a_mrwibl9w_6tok",
+      "type": "add",
+      "itemId": "i_mrwibl9w_amwyou",
+      "itemTitle": "Are AI Labs Pelicanmaxxing?",
+      "itemUrl": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-22T20:00:24.692Z"
+    },
+    {
+      "id": "a_mrwibl9w_qbaf",
+      "type": "add",
+      "itemId": "i_mrwibl9w_ac3t3w",
+      "itemTitle": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+      "itemUrl": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-22T20:00:24.692Z"
+    },
+    {
       "id": "a_mrw9r0r9_gco7",
       "type": "add",
       "itemId": "i_mrw9r0r9_oy0nav",
@@ -28260,72 +28458,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-12T00:00:20.582Z"
-    },
-    {
-      "id": "a_mqa5u7vq_pmmm",
-      "type": "add",
-      "itemId": "i_mqa5u7vq_db6mvs",
-      "itemTitle": "Anthropic apologizes for invisible Claude Fable guardrails",
-      "itemUrl": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-12T00:00:20.582Z"
-    },
-    {
-      "id": "a_mqa5u7vq_jrrr",
-      "type": "add",
-      "itemId": "i_mqa5u7vq_qveb6c",
-      "itemTitle": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
-      "itemUrl": "https://fablepool.com",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-12T00:00:20.582Z"
-    },
-    {
-      "id": "a_mq9x9jvf_s4bm",
-      "type": "add",
-      "itemId": "i_mq9x9jvf_dnttqv",
-      "itemTitle": "LMS Are About to Hit a wall - The AI Scaling Law Might Be Breaking...",
-      "itemUrl": "https://www.youtube.com/watch?v=y6pfgiTjHXQ",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-11T20:00:19.419Z"
-    },
-    {
-      "id": "a_mq9x9jvf_ph9m",
-      "type": "add",
-      "itemId": "i_mq9x9jvf_5h7864",
-      "itemTitle": "Anthropic begged the world to stop AI… then shipped this",
-      "itemUrl": "https://www.youtube.com/watch?v=1PBRhm5ZnjU",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-11T20:00:19.419Z"
-    },
-    {
-      "id": "a_mq9x9jvf_fc8u",
-      "type": "add",
-      "itemId": "i_mq9x9jvf_bajcxb",
-      "itemTitle": "asyncinject 0.7",
-      "itemUrl": "https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-11T20:00:19.419Z"
-    },
-    {
-      "id": "a_mq9x9jvf_k2jj",
-      "type": "add",
-      "itemId": "i_mq9x9jvf_5z67x7",
-      "itemTitle": "datasette 1.0a33",
-      "itemUrl": "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-11T20:00:19.419Z"
     }
   ],
   "filterConfig": {
