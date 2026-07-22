@@ -2,6 +2,116 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrvbgf9y_yh46ge",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "title": "OpenAI and Hugging Face address security incident during model evaluation",
+      "description": "",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-07-21T20:09:52.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-22T00:00:26.710Z"
+    },
+    {
+      "id": "i_mrvbgf9y_iufxhw",
+      "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "description": "",
+      "image": "",
+      "domain": "tryai.dev",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-21T21:13:20.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-22T00:00:26.710Z"
+    },
+    {
+      "id": "i_mrvbgf9y_5qrotz",
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "title": "Introducing the ChatGPT for small business program",
+      "description": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-07-21T17:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-22T00:00:26.710Z"
+    },
+    {
+      "id": "i_mrvbgf9y_nrj4ua",
+      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "description": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-07-21T00:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-22T00:00:26.710Z"
+    },
+    {
+      "id": "i_mrvbgf9y_ubluaa",
+      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "title": "The State of Simulation for Physical AI: An Overview",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-21T20:00:27.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-22T00:00:26.710Z"
+    },
+    {
       "id": "i_mrv2vsw3_6bgybk",
       "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
       "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
@@ -22564,6 +22674,61 @@
   ],
   "activity": [
     {
+      "id": "a_mrvbgf9y_hv6q",
+      "type": "add",
+      "itemId": "i_mrvbgf9y_ubluaa",
+      "itemTitle": "The State of Simulation for Physical AI: An Overview",
+      "itemUrl": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-22T00:00:26.710Z"
+    },
+    {
+      "id": "a_mrvbgf9y_ag97",
+      "type": "add",
+      "itemId": "i_mrvbgf9y_nrj4ua",
+      "itemTitle": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "itemUrl": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-22T00:00:26.710Z"
+    },
+    {
+      "id": "a_mrvbgf9y_r864",
+      "type": "add",
+      "itemId": "i_mrvbgf9y_5qrotz",
+      "itemTitle": "Introducing the ChatGPT for small business program",
+      "itemUrl": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-22T00:00:26.710Z"
+    },
+    {
+      "id": "a_mrvbgf9y_icd5",
+      "type": "add",
+      "itemId": "i_mrvbgf9y_iufxhw",
+      "itemTitle": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "itemUrl": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-22T00:00:26.710Z"
+    },
+    {
+      "id": "a_mrvbgf9y_m67x",
+      "type": "add",
+      "itemId": "i_mrvbgf9y_yh46ge",
+      "itemTitle": "OpenAI and Hugging Face address security incident during model evaluation",
+      "itemUrl": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-22T00:00:26.710Z"
+    },
+    {
       "id": "a_mrv2vsw3_c5gw",
       "type": "add",
       "itemId": "i_mrv2vsw3_b94tzb",
@@ -28007,61 +28172,6 @@
       "category": "chatgpt",
       "by": "AI Radar bot",
       "at": "2026-06-11T08:00:20.390Z"
-    },
-    {
-      "id": "a_mq8yz19f_vd00",
-      "type": "add",
-      "itemId": "i_mq8yz19f_xzapfl",
-      "itemTitle": "[AINews] Open Models, Model Labs vs Agent Labs, and What's Untrainable — Sarah Guo",
-      "itemUrl": "https://www.latent.space/p/ainews-open-models-model-labs-vs",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-11T04:00:21.795Z"
-    },
-    {
-      "id": "a_mq8yz19f_l8i6",
-      "type": "add",
-      "itemId": "i_mq8yz19f_7jg2xw",
-      "itemTitle": "datasette-agent 0.2a0",
-      "itemUrl": "https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-11T04:00:21.795Z"
-    },
-    {
-      "id": "a_mq8yz19f_c1ng",
-      "type": "add",
-      "itemId": "i_mq8yz19f_ryopfx",
-      "itemTitle": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
-      "itemUrl": "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-11T04:00:21.795Z"
-    },
-    {
-      "id": "a_mq8yz19f_aejh",
-      "type": "add",
-      "itemId": "i_mq8yz19f_cfrhhq",
-      "itemTitle": "AI agent runs amok in Fedora and elsewhere",
-      "itemUrl": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-11T04:00:21.795Z"
-    },
-    {
-      "id": "a_mq8qef77_9cmr",
-      "type": "add",
-      "itemId": "i_mq8qef77_hmr722",
-      "itemTitle": "DiffusionGemma",
-      "itemUrl": "https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-11T00:00:23.155Z"
     }
   ],
   "filterConfig": {
