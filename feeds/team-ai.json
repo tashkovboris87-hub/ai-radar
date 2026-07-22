@@ -2,6 +2,94 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrw9r0r9_5kv8om",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "title": "Building AI infrastructure with the Effingham County community",
+      "description": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-07-22T13:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-22T16:00:28.053Z"
+    },
+    {
+      "id": "i_mrw9r0r9_vv3diu",
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "title": "Advancing the next era of national science",
+      "description": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-07-22T12:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-22T16:00:28.053Z"
+    },
+    {
+      "id": "i_mrw9r0r9_5g6a03",
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "title": "Introducing OpenAI Presence",
+      "description": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-07-22T05:30:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-22T16:00:28.053Z"
+    },
+    {
+      "id": "i_mrw9r0r9_oy0nav",
+      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "description": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+      "image": "",
+      "domain": "deepmind.google",
+      "contentType": "article",
+      "source": "feed",
+      "category": "gemini",
+      "tags": [],
+      "addedAt": "2026-07-22T13:38:54.000Z",
+      "addedBy": "Google DeepMind",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-22T16:00:28.053Z"
+    },
+    {
       "id": "i_mrvk10lx_zkmo27",
       "url": "https://ads.openai.com/",
       "title": "Advertise in ChatGPT",
@@ -22740,6 +22828,50 @@
   ],
   "activity": [
     {
+      "id": "a_mrw9r0r9_gco7",
+      "type": "add",
+      "itemId": "i_mrw9r0r9_oy0nav",
+      "itemTitle": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "itemUrl": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "itemSource": "feed",
+      "category": "gemini",
+      "by": "AI Radar bot",
+      "at": "2026-07-22T16:00:28.053Z"
+    },
+    {
+      "id": "a_mrw9r0r9_6h6m",
+      "type": "add",
+      "itemId": "i_mrw9r0r9_5g6a03",
+      "itemTitle": "Introducing OpenAI Presence",
+      "itemUrl": "https://openai.com/index/introducing-openai-presence",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-22T16:00:28.053Z"
+    },
+    {
+      "id": "a_mrw9r0r9_txiv",
+      "type": "add",
+      "itemId": "i_mrw9r0r9_vv3diu",
+      "itemTitle": "Advancing the next era of national science",
+      "itemUrl": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-22T16:00:28.053Z"
+    },
+    {
+      "id": "a_mrw9r0r9_avx5",
+      "type": "add",
+      "itemId": "i_mrw9r0r9_5kv8om",
+      "itemTitle": "Building AI infrastructure with the Effingham County community",
+      "itemUrl": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-22T16:00:28.053Z"
+    },
+    {
       "id": "a_mrvk10lx_n2ug",
       "type": "add",
       "itemId": "i_mrvk10lx_5csuxo",
@@ -28194,50 +28326,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-11T20:00:19.419Z"
-    },
-    {
-      "id": "a_mq9x9jvf_lvwz",
-      "type": "add",
-      "itemId": "i_mq9x9jvf_z3xcjm",
-      "itemTitle": "BBVA puts AI at the core of banking with OpenAI",
-      "itemUrl": "https://openai.com/index/bbva",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-06-11T20:00:19.419Z"
-    },
-    {
-      "id": "a_mq9x9jvf_vcfm",
-      "type": "add",
-      "itemId": "i_mq9x9jvf_0nty04",
-      "itemTitle": "OpenAI to acquire Ona",
-      "itemUrl": "https://openai.com/index/openai-to-acquire-ona",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-06-11T20:00:19.419Z"
-    },
-    {
-      "id": "a_mq9oox2w_51sv",
-      "type": "add",
-      "itemId": "i_mq9oox2w_avdq9f",
-      "itemTitle": "I'm making a tamagotchi for my son!",
-      "itemUrl": "https://www.youtube.com/shorts/ibnHNoxQOSQ",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-11T16:00:19.832Z"
-    },
-    {
-      "id": "a_mq9oox2w_q4rt",
-      "type": "add",
-      "itemId": "i_mq9oox2w_8di9ny",
-      "itemTitle": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
-      "itemUrl": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-11T16:00:19.832Z"
     }
   ],
   "filterConfig": {
