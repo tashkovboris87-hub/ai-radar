@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrwzgwf6_0cvyzp",
+      "url": "https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything",
+      "title": "Quoting Thomas Ptacek",
+      "description": "I genuinely believe that if you took an open weights model from 2025 and built a pentest harness for it, it could do this kind of sandbox escape and scan/hack in most networks. This is only surprising because you assume OpenAI has sounder sandboxes. &mdash; Thomas Ptacek, doesn't think this even nee",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-22T23:59:01.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-23T04:00:25.890Z"
+    },
+    {
+      "id": "i_mrwzgwf6_ok5oxb",
+      "url": "https://simonwillison.net/2026/Jul/22/all-the-orchestrions/#atom-everything",
+      "title": "Orchestrions",
+      "description": "San Francisco tip: it only costs around $15 ($10 in quarters plus a $5 bill for the self-playing violin) to activate every single Orchestrion in Musée Mécanique. And because most people are bad at allocating their funds you may well be the ONLY person activating the Orchestrions, which means you get",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-22T14:48:52.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-23T04:00:25.890Z"
+    },
+    {
+      "id": "i_mrwzgwf6_ep05em",
+      "url": "https://simonwillison.net/2026/Jul/21/sighting-383713864/#atom-everything",
+      "title": "California Sea Lion",
+      "description": "California Sea Lion, in San Francisco County, US, CAWe took some visiting family to Pier 39 to see the sea lions. They're somehow always even fun than I remember them being last time. Tags: san-francisco, wildlife",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-21T19:51:03.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-23T04:00:25.890Z"
+    },
+    {
       "id": "i_mrwqwat0_qpi1hd",
       "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
       "title": "Quality non-fiction books are the antithesis of AI slop",
@@ -23092,6 +23158,39 @@
   ],
   "activity": [
     {
+      "id": "a_mrwzgwf6_qg52",
+      "type": "add",
+      "itemId": "i_mrwzgwf6_ep05em",
+      "itemTitle": "California Sea Lion",
+      "itemUrl": "https://simonwillison.net/2026/Jul/21/sighting-383713864/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-23T04:00:25.890Z"
+    },
+    {
+      "id": "a_mrwzgwf6_pvqy",
+      "type": "add",
+      "itemId": "i_mrwzgwf6_ok5oxb",
+      "itemTitle": "Orchestrions",
+      "itemUrl": "https://simonwillison.net/2026/Jul/22/all-the-orchestrions/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-23T04:00:25.890Z"
+    },
+    {
+      "id": "a_mrwzgwf6_uw0x",
+      "type": "add",
+      "itemId": "i_mrwzgwf6_0cvyzp",
+      "itemTitle": "Quoting Thomas Ptacek",
+      "itemUrl": "https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-23T04:00:25.890Z"
+    },
+    {
       "id": "a_mrwqwat0_5gxh",
       "type": "add",
       "itemId": "i_mrwqwat0_a0smwc",
@@ -28553,39 +28652,6 @@
       "itemId": "i_mqbcqf7l_ydybov",
       "itemTitle": "So we're doing loops now",
       "itemUrl": "https://www.youtube.com/shorts/sV1B2_sFzU8",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-12T20:01:06.945Z"
-    },
-    {
-      "id": "a_mqbcqf7l_z0ue",
-      "type": "add",
-      "itemId": "i_mqbcqf7l_hr7s18",
-      "itemTitle": "Quoting Andrew Singleton",
-      "itemUrl": "https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-12T20:01:06.945Z"
-    },
-    {
-      "id": "a_mqbcqf7l_0b8n",
-      "type": "add",
-      "itemId": "i_mqbcqf7l_qsm9yw",
-      "itemTitle": "New OpenAI Academy courses for the next era of work",
-      "itemUrl": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-06-12T20:01:06.945Z"
-    },
-    {
-      "id": "a_mqbcqf7l_fqjj",
-      "type": "add",
-      "itemId": "i_mqbcqf7l_f72xck",
-      "itemTitle": "Slightly reducing the sloppiness of AI generated front end",
-      "itemUrl": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
