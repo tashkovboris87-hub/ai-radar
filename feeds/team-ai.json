@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrxxrf59_0z6f0s",
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "description": "",
+      "image": "",
+      "domain": "politico.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-23T15:18:40.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-23T20:00:23.661Z"
+    },
+    {
+      "id": "i_mrxxrf59_tve2ni",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "title": "Launching Health in ChatGPT",
+      "description": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-07-23T00:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-23T20:00:23.661Z"
+    },
+    {
+      "id": "i_mrxxrf59_spne3d",
+      "url": "https://www.youtube.com/watch?v=KOpTWx1Eou4",
+      "title": "The most interesting \"hack\" in history...",
+      "description": "Fireship (YouTube)",
+      "image": "https://i.ytimg.com/vi/KOpTWx1Eou4/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-23T16:53:37.000Z",
+      "addedBy": "Fireship",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-23T20:00:23.661Z"
+    },
+    {
       "id": "i_mrxp6tcp_jdo6rx",
       "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
       "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
@@ -23290,6 +23356,39 @@
   ],
   "activity": [
     {
+      "id": "a_mrxxrf59_lyll",
+      "type": "add",
+      "itemId": "i_mrxxrf59_spne3d",
+      "itemTitle": "The most interesting \"hack\" in history...",
+      "itemUrl": "https://www.youtube.com/watch?v=KOpTWx1Eou4",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-23T20:00:23.661Z"
+    },
+    {
+      "id": "a_mrxxrf59_xcy9",
+      "type": "add",
+      "itemId": "i_mrxxrf59_tve2ni",
+      "itemTitle": "Launching Health in ChatGPT",
+      "itemUrl": "https://openai.com/index/health-in-chatgpt",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-23T20:00:23.661Z"
+    },
+    {
+      "id": "a_mrxxrf59_tj1x",
+      "type": "add",
+      "itemId": "i_mrxxrf59_0z6f0s",
+      "itemTitle": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "itemUrl": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-23T20:00:23.661Z"
+    },
+    {
       "id": "a_mrxp6tcp_6pyp",
       "type": "add",
       "itemId": "i_mrxp6tcp_wne2ko",
@@ -28755,39 +28854,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-13T20:01:02.325Z"
-    },
-    {
-      "id": "a_mqcjlh0x_t0r3",
-      "type": "add",
-      "itemId": "i_mqcjlh0x_ak40g4",
-      "itemTitle": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-      "itemUrl": "https://github.com/tensorzero/tensorzero",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-13T16:00:59.505Z"
-    },
-    {
-      "id": "a_mqc2fppa_l35l",
-      "type": "add",
-      "itemId": "i_mqc2fppa_if6qce",
-      "itemTitle": "[AINews] Fable and Mythos officially too dangerous to release",
-      "itemUrl": "https://www.latent.space/p/ainews-fable-and-mythos-officially",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-13T08:00:37.342Z"
-    },
-    {
-      "id": "a_mqbtutz2_1srj",
-      "type": "add",
-      "itemId": "i_mqbtutz2_zhl3re",
-      "itemTitle": "OpenAI WebRTC Audio Session, now with document context",
-      "itemUrl": "https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-13T04:00:26.174Z"
     }
   ],
   "filterConfig": {
