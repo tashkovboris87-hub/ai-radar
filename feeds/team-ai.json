@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrxgm6mt_ng2ge5",
+      "url": "https://www.youtube.com/shorts/Bf-f2XK4Qv0",
+      "title": "Negotiated my ENTIRE return",
+      "description": "Matthew Berman (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-23T09:31:18.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-23T12:00:25.877Z"
+    },
+    {
       "id": "i_mrx81jjo_5gbbd5",
       "url": "https://www.latent.space/p/ainews-laguna-s-21-released-cheaper",
       "title": "[AINews] \"Laguna S 2.1 Released: Cheaper than Deepseek v4 Flash, Better than V4 Pro\"",
@@ -23224,6 +23246,17 @@
   ],
   "activity": [
     {
+      "id": "a_mrxgm6mt_b60b",
+      "type": "add",
+      "itemId": "i_mrxgm6mt_ng2ge5",
+      "itemTitle": "Negotiated my ENTIRE return",
+      "itemUrl": "https://www.youtube.com/shorts/Bf-f2XK4Qv0",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-23T12:00:25.877Z"
+    },
+    {
       "id": "a_mrx81jjo_vhl4",
       "type": "add",
       "itemId": "i_mrx81jjo_ff67g7",
@@ -28707,17 +28740,6 @@
       "itemId": "i_mqbtutz2_6j5al5",
       "itemTitle": "We've suspended access to Claude Mythos 5 and Claude Fable 5",
       "itemUrl": "https://status.claude.com/incidents/s9w82lp9dcn9",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-13T04:00:26.174Z"
-    },
-    {
-      "id": "a_mqbtutz2_ph9g",
-      "type": "add",
-      "itemId": "i_mqbtutz2_yx8d7a",
-      "itemTitle": "Open source AI must win",
-      "itemUrl": "https://opensourceaimustwin.com/?share=v2",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
