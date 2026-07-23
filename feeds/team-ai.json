@@ -2,6 +2,138 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrwqwat0_qpi1hd",
+      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "description": "",
+      "image": "",
+      "domain": "resobscura.substack.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-22T14:18:05.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-23T00:00:27.828Z"
+    },
+    {
+      "id": "i_mrwqwat0_4bsske",
+      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "title": "How news organizations are using AI to advance their vital missions",
+      "description": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-07-22T13:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-23T00:00:27.828Z"
+    },
+    {
+      "id": "i_mrwqwat0_gkx490",
+      "url": "https://openai.com/index/ntt-data",
+      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "description": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-07-22T00:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-23T00:00:27.828Z"
+    },
+    {
+      "id": "i_mrwqwat0_94gdc6",
+      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything",
+      "title": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
+      "description": "This story is wild. The short version: OpenAI were running a cybersecurity test against an unreleased model, with the model's guardrail features turned off. Rather than solve the test, the model broke its way out of OpenAI's sandbox, then found exploits to break in to Hugging Face, all so it could c",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-22T23:51:33.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-23T00:00:27.828Z"
+    },
+    {
+      "id": "i_mrwqwat0_7po5gi",
+      "url": "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything",
+      "title": "Are AI labs pelicanmaxxing?",
+      "description": "Are AI labs pelicanmaxxing? Excellent piece of work by Dylan Castillo, who took a deep-dive into the frequently pondered question of whether the AI labs have been deliberately training models to draw pelicans riding bicycles in response to my deeply unscientific benchmark. I've been randomly spot-ch",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-22T23:01:00.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-23T00:00:27.828Z"
+    },
+    {
+      "id": "i_mrwqwat0_a0smwc",
+      "url": "https://www.youtube.com/shorts/_X0kRfqGsx8",
+      "title": "WORST AI Mistakes by Companies",
+      "description": "Matthew Berman (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-22T23:00:36.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-23T00:00:27.828Z"
+    },
+    {
       "id": "i_mrwibl9w_ac3t3w",
       "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
       "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
@@ -22960,6 +23092,72 @@
   ],
   "activity": [
     {
+      "id": "a_mrwqwat0_5gxh",
+      "type": "add",
+      "itemId": "i_mrwqwat0_a0smwc",
+      "itemTitle": "WORST AI Mistakes by Companies",
+      "itemUrl": "https://www.youtube.com/shorts/_X0kRfqGsx8",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-23T00:00:27.828Z"
+    },
+    {
+      "id": "a_mrwqwat0_wjl5",
+      "type": "add",
+      "itemId": "i_mrwqwat0_7po5gi",
+      "itemTitle": "Are AI labs pelicanmaxxing?",
+      "itemUrl": "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-23T00:00:27.828Z"
+    },
+    {
+      "id": "a_mrwqwat0_dh71",
+      "type": "add",
+      "itemId": "i_mrwqwat0_94gdc6",
+      "itemTitle": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
+      "itemUrl": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-23T00:00:27.828Z"
+    },
+    {
+      "id": "a_mrwqwat0_kch3",
+      "type": "add",
+      "itemId": "i_mrwqwat0_gkx490",
+      "itemTitle": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "itemUrl": "https://openai.com/index/ntt-data",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-23T00:00:27.828Z"
+    },
+    {
+      "id": "a_mrwqwat0_62lf",
+      "type": "add",
+      "itemId": "i_mrwqwat0_4bsske",
+      "itemTitle": "How news organizations are using AI to advance their vital missions",
+      "itemUrl": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-23T00:00:27.828Z"
+    },
+    {
+      "id": "a_mrwqwat0_zgzc",
+      "type": "add",
+      "itemId": "i_mrwqwat0_qpi1hd",
+      "itemTitle": "Quality non-fiction books are the antithesis of AI slop",
+      "itemUrl": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-23T00:00:27.828Z"
+    },
+    {
       "id": "a_mrwibl9w_0szl",
       "type": "add",
       "itemId": "i_mrwibl9w_eo7vci",
@@ -28392,72 +28590,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-12T20:01:06.945Z"
-    },
-    {
-      "id": "a_mqbcqf7l_u1ab",
-      "type": "add",
-      "itemId": "i_mqbcqf7l_k99p0t",
-      "itemTitle": "How to setup a local coding agent on macOS",
-      "itemUrl": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-12T20:01:06.945Z"
-    },
-    {
-      "id": "a_mqb45sea_mc8i",
-      "type": "add",
-      "itemId": "i_mqb45sea_vwikt8",
-      "itemTitle": "olmo-eval: An evaluation workbench for the model development loop",
-      "itemUrl": "https://huggingface.co/blog/allenai/olmo-eval",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-12T16:01:07.330Z"
-    },
-    {
-      "id": "a_mqavk8q1_ble8",
-      "type": "add",
-      "itemId": "i_mqavk8q1_r7szdp",
-      "itemTitle": "How Preply combines AI and human tutors to personalize learning",
-      "itemUrl": "https://openai.com/index/preply",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-06-12T12:00:25.129Z"
-    },
-    {
-      "id": "a_mqamzh5c_mtw8",
-      "type": "add",
-      "itemId": "i_mqamzh5c_98esky",
-      "itemTitle": "[AINews] Loopcraft: The Art of Stacking Loops",
-      "itemUrl": "https://www.latent.space/p/ainews-loopcraft-the-art-of-stacking",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-12T08:00:19.344Z"
-    },
-    {
-      "id": "a_mqamzh5c_gcqm",
-      "type": "add",
-      "itemId": "i_mqamzh5c_qgz8i8",
-      "itemTitle": "AI agent bankrupted their operator while trying to scan DN42",
-      "itemUrl": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-12T08:00:19.344Z"
-    },
-    {
-      "id": "a_mqa5u7vq_l16t",
-      "type": "add",
-      "itemId": "i_mqa5u7vq_3gdejt",
-      "itemTitle": "Claude Fable is relentlessly proactive",
-      "itemUrl": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-12T00:00:20.582Z"
     }
   ],
   "filterConfig": {
