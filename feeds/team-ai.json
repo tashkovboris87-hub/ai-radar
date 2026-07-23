@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrxp6tcp_jdo6rx",
+      "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+      "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+      "description": "",
+      "image": "",
+      "domain": "futurism.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-23T13:09:10.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-23T16:00:25.369Z"
+    },
+    {
+      "id": "i_mrxp6tcp_wne2ko",
+      "url": "https://www.youtube.com/watch?v=b8tCZFj0SFY",
+      "title": "GPT-6 Escaped. This Is Worse Than You Think",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/b8tCZFj0SFY/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-23T12:00:39.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-23T16:00:25.369Z"
+    },
+    {
       "id": "i_mrxgm6mt_ng2ge5",
       "url": "https://www.youtube.com/shorts/Bf-f2XK4Qv0",
       "title": "Negotiated my ENTIRE return",
@@ -23246,6 +23290,28 @@
   ],
   "activity": [
     {
+      "id": "a_mrxp6tcp_6pyp",
+      "type": "add",
+      "itemId": "i_mrxp6tcp_wne2ko",
+      "itemTitle": "GPT-6 Escaped. This Is Worse Than You Think",
+      "itemUrl": "https://www.youtube.com/watch?v=b8tCZFj0SFY",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-23T16:00:25.369Z"
+    },
+    {
+      "id": "a_mrxp6tcp_izql",
+      "type": "add",
+      "itemId": "i_mrxp6tcp_jdo6rx",
+      "itemTitle": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+      "itemUrl": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-23T16:00:25.369Z"
+    },
+    {
       "id": "a_mrxgm6mt_b60b",
       "type": "add",
       "itemId": "i_mrxgm6mt_ng2ge5",
@@ -28718,28 +28784,6 @@
       "itemId": "i_mqbtutz2_zhl3re",
       "itemTitle": "OpenAI WebRTC Audio Session, now with document context",
       "itemUrl": "https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-13T04:00:26.174Z"
-    },
-    {
-      "id": "a_mqbtutz2_n4ku",
-      "type": "add",
-      "itemId": "i_mqbtutz2_hzztrc",
-      "itemTitle": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
-      "itemUrl": "https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-13T04:00:26.174Z"
-    },
-    {
-      "id": "a_mqbtutz2_475a",
-      "type": "add",
-      "itemId": "i_mqbtutz2_6j5al5",
-      "itemTitle": "We've suspended access to Claude Mythos 5 and Claude Fable 5",
-      "itemUrl": "https://status.claude.com/incidents/s9w82lp9dcn9",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
