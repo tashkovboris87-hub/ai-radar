@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrx81jjo_5gbbd5",
+      "url": "https://www.latent.space/p/ainews-laguna-s-21-released-cheaper",
+      "title": "[AINews] \"Laguna S 2.1 Released: Cheaper than Deepseek v4 Flash, Better than V4 Pro\"",
+      "description": "a quiet day lets us highlight a new neolab win.",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/9_0hs2sxHHo",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-23T05:18:47.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-23T08:00:25.908Z"
+    },
+    {
+      "id": "i_mrx81jjo_mdp1jd",
+      "url": "https://www.latent.space/p/poolside",
+      "title": "Inside the Model Factory — Eiso Kant, Poolside AI",
+      "description": "Poolside's co-CEO on how his small team of top researchers built a model factory capable of training Laguna S - a 118B MOE beating Thinky's ~1T open weights model... and this is just the beginning.",
+      "image": "",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-23T05:09:14.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-23T08:00:25.908Z"
+    },
+    {
+      "id": "i_mrx81jjo_ff67g7",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-23T00:00:00.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-23T08:00:25.908Z"
+    },
+    {
       "id": "i_mrwzgwf6_0cvyzp",
       "url": "https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything",
       "title": "Quoting Thomas Ptacek",
@@ -23158,6 +23224,39 @@
   ],
   "activity": [
     {
+      "id": "a_mrx81jjo_vhl4",
+      "type": "add",
+      "itemId": "i_mrx81jjo_ff67g7",
+      "itemTitle": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "itemUrl": "https://huggingface.co/blog/nunchaku-diffusers",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-23T08:00:25.908Z"
+    },
+    {
+      "id": "a_mrx81jjo_6a8q",
+      "type": "add",
+      "itemId": "i_mrx81jjo_mdp1jd",
+      "itemTitle": "Inside the Model Factory — Eiso Kant, Poolside AI",
+      "itemUrl": "https://www.latent.space/p/poolside",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-23T08:00:25.908Z"
+    },
+    {
+      "id": "a_mrx81jjo_x7c3",
+      "type": "add",
+      "itemId": "i_mrx81jjo_5gbbd5",
+      "itemTitle": "[AINews] \"Laguna S 2.1 Released: Cheaper than Deepseek v4 Flash, Better than V4 Pro\"",
+      "itemUrl": "https://www.latent.space/p/ainews-laguna-s-21-released-cheaper",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-23T08:00:25.908Z"
+    },
+    {
       "id": "a_mrwzgwf6_qg52",
       "type": "add",
       "itemId": "i_mrwzgwf6_ep05em",
@@ -28623,39 +28722,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-13T04:00:26.174Z"
-    },
-    {
-      "id": "a_mqbla9wy_9b39",
-      "type": "add",
-      "itemId": "i_mqbla9wy_2hx73g",
-      "itemTitle": "You NEED to try these open-source AI projects RIGHT NOW",
-      "itemUrl": "https://www.youtube.com/watch?v=zjFE-dBzP_E",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-13T00:00:30.130Z"
-    },
-    {
-      "id": "a_mqbcqf7l_p62u",
-      "type": "add",
-      "itemId": "i_mqbcqf7l_2zt0mc",
-      "itemTitle": "Nvidias New Mini Datacenter Pays You Every Month",
-      "itemUrl": "https://www.youtube.com/watch?v=vahdFdoK6y4",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-12T20:01:06.945Z"
-    },
-    {
-      "id": "a_mqbcqf7l_eoba",
-      "type": "add",
-      "itemId": "i_mqbcqf7l_ydybov",
-      "itemTitle": "So we're doing loops now",
-      "itemUrl": "https://www.youtube.com/shorts/sV1B2_sFzU8",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-12T20:01:06.945Z"
     }
   ],
   "filterConfig": {
