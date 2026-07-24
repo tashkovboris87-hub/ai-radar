@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mryw20ph_ivawz8",
+      "url": "https://platform.claude.com/cookbook/",
+      "title": "Claude Cookbook",
+      "description": "",
+      "image": "",
+      "domain": "platform.claude.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-24T05:09:15.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-24T12:00:25.109Z"
+    },
+    {
       "id": "i_mrynhet5_okaqow",
       "url": "https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal",
       "title": "[AINews] Black Forest Labs FLUX 3 - Multimodal Flow Models that beat Seedance 2.0, Gemini Omni and Grok Imagine, and FLUX-mimic video-action robotics model",
@@ -23422,6 +23444,17 @@
   ],
   "activity": [
     {
+      "id": "a_mryw20ph_3stg",
+      "type": "add",
+      "itemId": "i_mryw20ph_ivawz8",
+      "itemTitle": "Claude Cookbook",
+      "itemUrl": "https://platform.claude.com/cookbook/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-24T12:00:25.109Z"
+    },
+    {
       "id": "a_mrynhet5_jvwq",
       "type": "add",
       "itemId": "i_mrynhet5_okaqow",
@@ -28905,17 +28938,6 @@
       "itemId": "i_mqd9begv_zdwvuw",
       "itemTitle": "Mapping SQLite result columns back to their source `table.column`",
       "itemUrl": "https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-14T04:00:59.647Z"
-    },
-    {
-      "id": "a_mqd9begv_rmkp",
-      "type": "add",
-      "itemId": "i_mqd9begv_kxynk3",
-      "itemTitle": "luau-wasm 0.1a0",
-      "itemUrl": "https://simonwillison.net/2026/Jun/13/luau-wasm/#atom-everything",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
