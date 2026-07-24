@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mry6c5tf_qq8kw2",
+      "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything",
+      "title": "The first known runaway AI agent - or a very bad marketing stunt?",
+      "description": "The first known runaway AI agent - or a very bad marketing stunt? Martin Alderson's commentary on the OpenAI accidental cyberattack against Hugging Face includes a couple of details I hadn't considered. First, Hugging Face offers a truly rich target if you're trying to find potential vulnerabilities",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-23T22:53:08.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-24T00:00:28.275Z"
+    },
+    {
+      "id": "i_mry6c5tf_xnuq6l",
+      "url": "https://www.youtube.com/watch?v=QNEo_tl-nhw",
+      "title": "You're probably wasting tokens",
+      "description": "Matthew Berman (YouTube)",
+      "image": "https://i.ytimg.com/vi/QNEo_tl-nhw/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-23T21:01:48.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-24T00:00:28.275Z"
+    },
+    {
       "id": "i_mrxxrf59_0z6f0s",
       "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
       "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
@@ -23356,6 +23400,28 @@
   ],
   "activity": [
     {
+      "id": "a_mry6c5tf_o2g1",
+      "type": "add",
+      "itemId": "i_mry6c5tf_xnuq6l",
+      "itemTitle": "You're probably wasting tokens",
+      "itemUrl": "https://www.youtube.com/watch?v=QNEo_tl-nhw",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-24T00:00:28.275Z"
+    },
+    {
+      "id": "a_mry6c5tf_imhm",
+      "type": "add",
+      "itemId": "i_mry6c5tf_qq8kw2",
+      "itemTitle": "The first known runaway AI agent - or a very bad marketing stunt?",
+      "itemUrl": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-24T00:00:28.275Z"
+    },
+    {
       "id": "a_mrxxrf59_lyll",
       "type": "add",
       "itemId": "i_mrxxrf59_spne3d",
@@ -28832,28 +28898,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-14T00:00:58.950Z"
-    },
-    {
-      "id": "a_mqcs66b9_wg8d",
-      "type": "add",
-      "itemId": "i_mqcs66b9_w6man6",
-      "itemTitle": "AI coding at home without going broke",
-      "itemUrl": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-13T20:01:02.325Z"
-    },
-    {
-      "id": "a_mqcs66b9_y5i8",
-      "type": "add",
-      "itemId": "i_mqcs66b9_cohzl3",
-      "itemTitle": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
-      "itemUrl": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-13T20:01:02.325Z"
     }
   ],
   "filterConfig": {
