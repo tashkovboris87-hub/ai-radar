@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrynhet5_okaqow",
+      "url": "https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal",
+      "title": "[AINews] Black Forest Labs FLUX 3 - Multimodal Flow Models that beat Seedance 2.0, Gemini Omni and Grok Imagine, and FLUX-mimic video-action robotics model",
+      "description": "A HUGE win for BFL!",
+      "image": "https://substackcdn.com/image/fetch/$s_!3n0x!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2080308957898481664.jpg",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-24T04:30:12.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-24T08:00:26.681Z"
+    },
+    {
       "id": "i_mry6c5tf_qq8kw2",
       "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything",
       "title": "The first known runaway AI agent - or a very bad marketing stunt?",
@@ -23400,6 +23422,17 @@
   ],
   "activity": [
     {
+      "id": "a_mrynhet5_jvwq",
+      "type": "add",
+      "itemId": "i_mrynhet5_okaqow",
+      "itemTitle": "[AINews] Black Forest Labs FLUX 3 - Multimodal Flow Models that beat Seedance 2.0, Gemini Omni and Grok Imagine, and FLUX-mimic video-action robotics model",
+      "itemUrl": "https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-24T08:00:26.681Z"
+    },
+    {
       "id": "a_mry6c5tf_o2g1",
       "type": "add",
       "itemId": "i_mry6c5tf_xnuq6l",
@@ -28887,17 +28920,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-14T04:00:59.647Z"
-    },
-    {
-      "id": "a_mqd0qqti_1ihm",
-      "type": "add",
-      "itemId": "i_mqd0qqti_629hbb",
-      "itemTitle": "WTF is going on?!",
-      "itemUrl": "https://www.youtube.com/watch?v=xvfz3gXVYNI",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-14T00:00:58.950Z"
     }
   ],
   "filterConfig": {
