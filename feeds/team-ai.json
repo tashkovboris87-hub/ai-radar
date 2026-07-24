@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrzd7945_jgzdku",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "title": "Claude Opus 5",
+      "description": "",
+      "image": "",
+      "domain": "anthropic.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "claude",
+      "tags": [],
+      "addedAt": "2026-07-24T16:57:41.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-24T20:00:22.757Z"
+    },
+    {
+      "id": "i_mrzd7945_u5pryc",
+      "url": "https://www.youtube.com/watch?v=1Q7CkLh9GwU",
+      "title": "OPUS 5 CLICK NOW",
+      "description": "Matthew Berman (YouTube)",
+      "image": "https://i.ytimg.com/vi/1Q7CkLh9GwU/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-24T17:56:14.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-24T20:00:22.757Z"
+    },
+    {
       "id": "i_mryw20ph_ivawz8",
       "url": "https://platform.claude.com/cookbook/",
       "title": "Claude Cookbook",
@@ -23444,6 +23488,28 @@
   ],
   "activity": [
     {
+      "id": "a_mrzd7945_ixl0",
+      "type": "add",
+      "itemId": "i_mrzd7945_u5pryc",
+      "itemTitle": "OPUS 5 CLICK NOW",
+      "itemUrl": "https://www.youtube.com/watch?v=1Q7CkLh9GwU",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-24T20:00:22.757Z"
+    },
+    {
+      "id": "a_mrzd7945_plw4",
+      "type": "add",
+      "itemId": "i_mrzd7945_jgzdku",
+      "itemTitle": "Claude Opus 5",
+      "itemUrl": "https://www.anthropic.com/news/claude-opus-5",
+      "itemSource": "feed",
+      "category": "claude",
+      "by": "AI Radar bot",
+      "at": "2026-07-24T20:00:22.757Z"
+    },
+    {
       "id": "a_mryw20ph_3stg",
       "type": "add",
       "itemId": "i_mryw20ph_ivawz8",
@@ -28920,28 +28986,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-14T16:01:00.243Z"
-    },
-    {
-      "id": "a_mqdz1c9f_wt6g",
-      "type": "add",
-      "itemId": "i_mqdz1c9f_tvgsi3",
-      "itemTitle": "No, everyone is not using AI for everything",
-      "itemUrl": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-14T16:01:00.243Z"
-    },
-    {
-      "id": "a_mqd9begv_kbo5",
-      "type": "add",
-      "itemId": "i_mqd9begv_zdwvuw",
-      "itemTitle": "Mapping SQLite result columns back to their source `table.column`",
-      "itemUrl": "https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-14T04:00:59.647Z"
     }
   ],
   "filterConfig": {
