@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_ms0snxke_lbctwf",
+      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+      "title": "Open-weight AI is having its Kubernetes moment",
+      "description": "",
+      "image": "",
+      "domain": "tobi.knaup.me",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-25T14:49:49.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-25T20:01:01.358Z"
+    },
+    {
       "id": "i_ms0bimwf_98itte",
       "url": "https://www.youtube.com/watch?v=4MJW3x9VbSI",
       "title": "Anthropic Just Revealed Opus 5 The Worlds Most Powerful AI (Beats Fable 5 )",
@@ -23598,6 +23620,17 @@
   ],
   "activity": [
     {
+      "id": "a_ms0snxke_736c",
+      "type": "add",
+      "itemId": "i_ms0snxke_lbctwf",
+      "itemTitle": "Open-weight AI is having its Kubernetes moment",
+      "itemUrl": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-25T20:01:01.358Z"
+    },
+    {
       "id": "a_ms0bimwf_u288",
       "type": "add",
       "itemId": "i_ms0bimwf_98itte",
@@ -29085,17 +29118,6 @@
       "category": "chatgpt",
       "by": "AI Radar bot",
       "at": "2026-06-15T04:01:02.851Z"
-    },
-    {
-      "id": "a_mqeg6mri_mcr6",
-      "type": "add",
-      "itemId": "i_mqeg6mri_qfd4qh",
-      "itemTitle": "AI Prices Are About to Shock Everyone",
-      "itemUrl": "https://www.youtube.com/watch?v=i9Bq076wZj8",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-15T00:01:00.606Z"
     }
   ],
   "filterConfig": {
