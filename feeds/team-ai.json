@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_ms0bimwf_98itte",
+      "url": "https://www.youtube.com/watch?v=4MJW3x9VbSI",
+      "title": "Anthropic Just Revealed Opus 5 The Worlds Most Powerful AI (Beats Fable 5 )",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/4MJW3x9VbSI/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-25T10:30:35.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-25T12:01:00.783Z"
+    },
+    {
       "id": "i_ms02xzyd_ueure8",
       "url": "https://www.latent.space/p/ainews-claude-opus-5-fable-level",
       "title": "[AINews] Claude Opus 5: Fable-level performance at Opus price (half Fable)",
@@ -23576,6 +23598,17 @@
   ],
   "activity": [
     {
+      "id": "a_ms0bimwf_u288",
+      "type": "add",
+      "itemId": "i_ms0bimwf_98itte",
+      "itemTitle": "Anthropic Just Revealed Opus 5 The Worlds Most Powerful AI (Beats Fable 5 )",
+      "itemUrl": "https://www.youtube.com/watch?v=4MJW3x9VbSI",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-25T12:01:00.783Z"
+    },
+    {
       "id": "a_ms02xzyd_m017",
       "type": "add",
       "itemId": "i_ms02xzyd_ueure8",
@@ -29059,17 +29092,6 @@
       "itemId": "i_mqeg6mri_qfd4qh",
       "itemTitle": "AI Prices Are About to Shock Everyone",
       "itemUrl": "https://www.youtube.com/watch?v=i9Bq076wZj8",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-15T00:01:00.606Z"
-    },
-    {
-      "id": "a_mqeg6mri_qxzm",
-      "type": "add",
-      "itemId": "i_mqeg6mri_rww4p5",
-      "itemTitle": "Did Anthropic ask for this?",
-      "itemUrl": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
