@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrzlrwst_l4zlf0",
+      "url": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything",
+      "title": "Introducing Claude Opus 5",
+      "description": "Introducing Claude Opus 5 I've been offline kayaking with sea otters for much of today so I haven't had a chance to put Anthropic's new model Claude Opus 5 through its paces yet. The buzz is positive, and Anthropic's description of it as a \"thoughtful and proactive model that comes close to the fron",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-24T23:48:50.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-25T00:00:23.501Z"
+    },
+    {
+      "id": "i_mrzlrwst_2unnnd",
+      "url": "https://www.youtube.com/watch?v=tHQ34j8_toI",
+      "title": "What did Anthropic do?! (Opus 5)",
+      "description": "Matthew Berman (YouTube)",
+      "image": "https://i.ytimg.com/vi/tHQ34j8_toI/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-24T21:47:58.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-25T00:00:23.501Z"
+    },
+    {
       "id": "i_mrzd7945_jgzdku",
       "url": "https://www.anthropic.com/news/claude-opus-5",
       "title": "Claude Opus 5",
@@ -23488,6 +23532,28 @@
   ],
   "activity": [
     {
+      "id": "a_mrzlrwst_0edi",
+      "type": "add",
+      "itemId": "i_mrzlrwst_2unnnd",
+      "itemTitle": "What did Anthropic do?! (Opus 5)",
+      "itemUrl": "https://www.youtube.com/watch?v=tHQ34j8_toI",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-25T00:00:23.501Z"
+    },
+    {
+      "id": "a_mrzlrwst_4yxd",
+      "type": "add",
+      "itemId": "i_mrzlrwst_l4zlf0",
+      "itemTitle": "Introducing Claude Opus 5",
+      "itemUrl": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-25T00:00:23.501Z"
+    },
+    {
       "id": "a_mrzd7945_ixl0",
       "type": "add",
       "itemId": "i_mrzd7945_u5pryc",
@@ -28964,28 +29030,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-14T20:00:59.900Z"
-    },
-    {
-      "id": "a_mqdz1c9f_v9zu",
-      "type": "add",
-      "itemId": "i_mqdz1c9f_ryqdf1",
-      "itemTitle": "NVIDIA's New Free AI - A Gift To All of Us",
-      "itemUrl": "https://www.youtube.com/watch?v=zJvN8PDX1is",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-14T16:01:00.243Z"
-    },
-    {
-      "id": "a_mqdz1c9f_vhiz",
-      "type": "add",
-      "itemId": "i_mqdz1c9f_aozsn8",
-      "itemTitle": "Claude Fable Blocked - 11 Quiet Details on What’s Next",
-      "itemUrl": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-14T16:01:00.243Z"
     }
   ],
   "filterConfig": {
