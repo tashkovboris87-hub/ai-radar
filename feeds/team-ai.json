@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_mrzuck2w_zus02b",
+      "url": "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything",
+      "title": "Quoting Boris Cherny",
+      "description": "More than any of these eval scores, what is most exciting to me is something else: Opus 5 is our least prompt injectable model yet. It is a bit buried in the system card, but across PI evals and red teaming, Opus 5 is very hard to prompt inject successfully. &mdash; Boris Cherny, here's that System ",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-25T00:42:59.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-25T04:00:23.720Z"
+    },
+    {
       "id": "i_mrzlrwst_l4zlf0",
       "url": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything",
       "title": "Introducing Claude Opus 5",
@@ -23532,6 +23554,17 @@
   ],
   "activity": [
     {
+      "id": "a_mrzuck2w_f1v1",
+      "type": "add",
+      "itemId": "i_mrzuck2w_zus02b",
+      "itemTitle": "Quoting Boris Cherny",
+      "itemUrl": "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-25T04:00:23.720Z"
+    },
+    {
       "id": "a_mrzlrwst_0edi",
       "type": "add",
       "itemId": "i_mrzlrwst_2unnnd",
@@ -29015,17 +29048,6 @@
       "itemId": "i_mqe7lz3w_ug9o3d",
       "itemTitle": "This New 'Fusion' AI Beats Claude Fable 5 — Here's How To Use It (OpenRouter Fusion Tutorial)",
       "itemUrl": "https://www.youtube.com/watch?v=5g4QUlypsdQ",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-14T20:00:59.900Z"
-    },
-    {
-      "id": "a_mqe7lz3w_sfu0",
-      "type": "add",
-      "itemId": "i_mqe7lz3w_g2v2vi",
-      "itemTitle": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "itemUrl": "https://github.com/nex-agi/Nex-N2/issues/4",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
