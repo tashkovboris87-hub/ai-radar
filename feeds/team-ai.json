@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_ms118kfl_35s108",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "description": "",
+      "image": "",
+      "domain": "claude.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-25T20:42:35.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-26T00:01:01.041Z"
+    },
+    {
+      "id": "i_ms118kfl_u4pks0",
+      "url": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
+      "title": "Ruff v0.16.0",
+      "description": "Ruff v0.16.0 Astral shipped a significant new version of their Ruff Python linting tool a few days ago on July 23rd. I noticed today because my various CI jobs all started failing thanks to new default Ruff checks and my unpinned \"ruff\" dev dependency. From Brent Westbrook's announcement post: Ruff ",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-25T22:44:05.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-26T00:01:01.041Z"
+    },
+    {
       "id": "i_ms0snxke_lbctwf",
       "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
       "title": "Open-weight AI is having its Kubernetes moment",
@@ -23620,6 +23664,28 @@
   ],
   "activity": [
     {
+      "id": "a_ms118kfl_qwtf",
+      "type": "add",
+      "itemId": "i_ms118kfl_u4pks0",
+      "itemTitle": "Ruff v0.16.0",
+      "itemUrl": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-26T00:01:01.041Z"
+    },
+    {
+      "id": "a_ms118kfl_gejb",
+      "type": "add",
+      "itemId": "i_ms118kfl_35s108",
+      "itemTitle": "The new rules of context engineering for Claude 5 generation models",
+      "itemUrl": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-26T00:01:01.041Z"
+    },
+    {
       "id": "a_ms0snxke_736c",
       "type": "add",
       "itemId": "i_ms0snxke_lbctwf",
@@ -29096,28 +29162,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-15T12:01:04.079Z"
-    },
-    {
-      "id": "a_mqeorblv_fdjr",
-      "type": "add",
-      "itemId": "i_mqeorblv_d7uao5",
-      "itemTitle": "Quoting Julia Evans",
-      "itemUrl": "https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-15T04:01:02.851Z"
-    },
-    {
-      "id": "a_mqeorblv_m0fy",
-      "type": "add",
-      "itemId": "i_mqeorblv_rs2z3x",
-      "itemTitle": "Introducing the OpenAI Partner Network",
-      "itemUrl": "https://openai.com/index/introducing-openai-partner-network",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-06-15T04:01:02.851Z"
     }
   ],
   "filterConfig": {
