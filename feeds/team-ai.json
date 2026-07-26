@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_ms19t7ln_5a7t4a",
+      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "title": "Cloudflare's new AI traffic options for customers",
+      "description": "",
+      "image": "",
+      "domain": "blog.cloudflare.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-25T22:50:49.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-26T04:01:01.115Z"
+    },
+    {
       "id": "i_ms118kfl_35s108",
       "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
       "title": "The new rules of context engineering for Claude 5 generation models",
@@ -23664,6 +23686,17 @@
   ],
   "activity": [
     {
+      "id": "a_ms19t7ln_j2v8",
+      "type": "add",
+      "itemId": "i_ms19t7ln_5a7t4a",
+      "itemTitle": "Cloudflare's new AI traffic options for customers",
+      "itemUrl": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-26T04:01:01.115Z"
+    },
+    {
       "id": "a_ms118kfl_qwtf",
       "type": "add",
       "itemId": "i_ms118kfl_u4pks0",
@@ -29147,17 +29180,6 @@
       "itemId": "i_mqf5wmrz_no61kr",
       "itemTitle": "Import AI 461: \"Alignment is not on track\"; FrontierCode; and synthetic research interns",
       "itemUrl": "https://importai.substack.com/p/import-ai-461-alignment-is-not-on",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-15T12:01:04.079Z"
-    },
-    {
-      "id": "a_mqf5wmrz_7d55",
-      "type": "add",
-      "itemId": "i_mqf5wmrz_opd7ga",
-      "itemTitle": "Anthropic's Safety Superpower",
-      "itemUrl": "https://stratechery.com/2026/anthropics-safety-superpower/",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
