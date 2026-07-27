@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_ms36d9y6_8jld1z",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "title": "How AI is expanding what people do at work",
+      "description": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-07-27T03:30:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-27T12:00:11.166Z"
+    },
+    {
+      "id": "i_ms36d9y6_cic0i4",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "description": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+      "image": "",
+      "domain": "deepmind.google",
+      "contentType": "article",
+      "source": "feed",
+      "category": "gemini",
+      "tags": [],
+      "addedAt": "2026-07-21T15:16:30.000Z",
+      "addedBy": "Google DeepMind",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-27T12:00:11.166Z"
+    },
+    {
+      "id": "i_ms36d9y6_6anr3y",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-27T09:32:20.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-27T12:00:11.166Z"
+    },
+    {
       "id": "i_ms282oo6_5a10m5",
       "url": "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything",
       "title": "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
@@ -23752,6 +23818,39 @@
   ],
   "activity": [
     {
+      "id": "a_ms36d9y6_8asr",
+      "type": "add",
+      "itemId": "i_ms36d9y6_6anr3y",
+      "itemTitle": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "itemUrl": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-27T12:00:11.166Z"
+    },
+    {
+      "id": "a_ms36d9y6_4360",
+      "type": "add",
+      "itemId": "i_ms36d9y6_cic0i4",
+      "itemTitle": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "itemUrl": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+      "itemSource": "feed",
+      "category": "gemini",
+      "by": "AI Radar bot",
+      "at": "2026-07-27T12:00:11.166Z"
+    },
+    {
+      "id": "a_ms36d9y6_9j2g",
+      "type": "add",
+      "itemId": "i_ms36d9y6_8jld1z",
+      "itemTitle": "How AI is expanding what people do at work",
+      "itemUrl": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-27T12:00:11.166Z"
+    },
+    {
       "id": "a_ms282oo6_rzod",
       "type": "add",
       "itemId": "i_ms282oo6_5a10m5",
@@ -29217,39 +29316,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-16T04:01:01.568Z"
-    },
-    {
-      "id": "a_mqg475a8_2u6f",
-      "type": "add",
-      "itemId": "i_mqg475a8_bx7sq7",
-      "itemTitle": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
-      "itemUrl": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-16T04:01:01.568Z"
-    },
-    {
-      "id": "a_mqfvmk28_lp4i",
-      "type": "add",
-      "itemId": "i_mqfvmk28_fe8qee",
-      "itemTitle": "datasette-agent 0.3a0",
-      "itemUrl": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-16T00:01:04.016Z"
-    },
-    {
-      "id": "a_mqfn1w8v_znej",
-      "type": "add",
-      "itemId": "i_mqfn1w8v_kggj9f",
-      "itemTitle": "One man just liberated Fable... and now it’s illegal",
-      "itemUrl": "https://www.youtube.com/watch?v=ey_GaPdC9zk",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-15T20:01:03.103Z"
     }
   ],
   "filterConfig": {
