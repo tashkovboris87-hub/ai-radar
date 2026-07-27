@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_ms3exxbz_vtn2ht",
+      "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/",
+      "title": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+      "description": "",
+      "image": "",
+      "domain": "macrumors.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-27T14:42:41.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-27T16:00:11.519Z"
+    },
+    {
       "id": "i_ms36d9y6_8jld1z",
       "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
       "title": "How AI is expanding what people do at work",
@@ -23818,6 +23840,17 @@
   ],
   "activity": [
     {
+      "id": "a_ms3exxbz_uhsm",
+      "type": "add",
+      "itemId": "i_ms3exxbz_vtn2ht",
+      "itemTitle": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
+      "itemUrl": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-27T16:00:11.519Z"
+    },
+    {
       "id": "a_ms36d9y6_8asr",
       "type": "add",
       "itemId": "i_ms36d9y6_6anr3y",
@@ -29301,17 +29334,6 @@
       "itemId": "i_mqg475a8_jwc54n",
       "itemTitle": "Cloudflare CAPTCHA on at least one ampersand",
       "itemUrl": "https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-16T04:01:01.568Z"
-    },
-    {
-      "id": "a_mqg475a8_a2pi",
-      "type": "add",
-      "itemId": "i_mqg475a8_3yglqv",
-      "itemTitle": "Quoting Matteo Wong, The Atlantic",
-      "itemUrl": "https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
