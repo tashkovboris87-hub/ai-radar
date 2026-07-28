@@ -2,6 +2,116 @@
   "version": 1,
   "items": [
     {
+      "id": "i_ms52yey6_7xfikj",
+      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "title": "Discovering Cryptographic Weaknesses with Claude",
+      "description": "",
+      "image": "",
+      "domain": "anthropic.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "claude",
+      "tags": [],
+      "addedAt": "2026-07-28T17:22:16.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-28T20:00:11.310Z"
+    },
+    {
+      "id": "i_ms52yey6_3s1ijc",
+      "url": "https://www.latent.space/p/chatgpt-work",
+      "title": "Codex from 0 to 10M Users: Building ChatGPT Work — Akshay Nathan, OpenAI",
+      "description": "OpenAI's core product engineering lead on how they are building ChatGPT Work to make AGI accessible to all of humanity: Sites, OpenClaw, Memory, Subagents, Finance, No-Code and advice.",
+      "image": "",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-28T15:26:30.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-28T20:00:11.310Z"
+    },
+    {
+      "id": "i_ms52yey6_4lghrs",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-28T16:27:42.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-28T20:00:11.310Z"
+    },
+    {
+      "id": "i_ms52yey6_v5cftq",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-28T15:01:45.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-28T20:00:11.310Z"
+    },
+    {
+      "id": "i_ms52yey6_ezuz7y",
+      "url": "https://www.youtube.com/shorts/_fKCXHH6e74",
+      "title": "I Tested an AI Brain vs My Actual Brain #secondbrain #aishorts #test",
+      "description": "Matthew Berman (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-28T17:29:28.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-28T20:00:11.310Z"
+    },
+    {
       "id": "i_ms4lt45s_fsmtdc",
       "url": "https://www.youtube.com/watch?v=2P4loyzA6To",
       "title": "10 INSANE Things Created With Claude Opus 5 (Opus 5 Use Cases)",
@@ -23950,6 +24060,61 @@
   ],
   "activity": [
     {
+      "id": "a_ms52yey6_8nuj",
+      "type": "add",
+      "itemId": "i_ms52yey6_ezuz7y",
+      "itemTitle": "I Tested an AI Brain vs My Actual Brain #secondbrain #aishorts #test",
+      "itemUrl": "https://www.youtube.com/shorts/_fKCXHH6e74",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-28T20:00:11.310Z"
+    },
+    {
+      "id": "a_ms52yey6_720n",
+      "type": "add",
+      "itemId": "i_ms52yey6_v5cftq",
+      "itemTitle": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "itemUrl": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-28T20:00:11.310Z"
+    },
+    {
+      "id": "a_ms52yey6_mjiv",
+      "type": "add",
+      "itemId": "i_ms52yey6_4lghrs",
+      "itemTitle": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "itemUrl": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-28T20:00:11.310Z"
+    },
+    {
+      "id": "a_ms52yey6_7jv3",
+      "type": "add",
+      "itemId": "i_ms52yey6_3s1ijc",
+      "itemTitle": "Codex from 0 to 10M Users: Building ChatGPT Work — Akshay Nathan, OpenAI",
+      "itemUrl": "https://www.latent.space/p/chatgpt-work",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-28T20:00:11.310Z"
+    },
+    {
+      "id": "a_ms52yey6_5hmj",
+      "type": "add",
+      "itemId": "i_ms52yey6_7xfikj",
+      "itemTitle": "Discovering Cryptographic Weaknesses with Claude",
+      "itemUrl": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "itemSource": "feed",
+      "category": "claude",
+      "by": "AI Radar bot",
+      "at": "2026-07-28T20:00:11.310Z"
+    },
+    {
       "id": "a_ms4lt45s_4fg0",
       "type": "add",
       "itemId": "i_ms4lt45s_fsmtdc",
@@ -29393,61 +29558,6 @@
       "category": "gemini",
       "by": "AI Radar bot",
       "at": "2026-06-17T00:01:01.345Z"
-    },
-    {
-      "id": "a_mqhb2co1_lp4o",
-      "type": "add",
-      "itemId": "i_mqhb2co1_5c1v3s",
-      "itemTitle": "GPT‑NL: a sovereign language model for the Netherlands",
-      "itemUrl": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-17T00:01:01.345Z"
-    },
-    {
-      "id": "a_mqh2hqde_5y53",
-      "type": "add",
-      "itemId": "i_mqh2hqde_x2gf3x",
-      "itemTitle": "They Looked Inside Claude’s AI's Mind. It Got Weird",
-      "itemUrl": "https://www.youtube.com/watch?v=l72ufA-4SzE",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-16T20:01:02.402Z"
-    },
-    {
-      "id": "a_mqh2hqde_cdpo",
-      "type": "add",
-      "itemId": "i_mqh2hqde_yosgr3",
-      "itemTitle": "Fable 5 is GONE",
-      "itemUrl": "https://www.youtube.com/shorts/byr-_swPgsE",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-16T20:01:02.402Z"
-    },
-    {
-      "id": "a_mqh2hqde_316v",
-      "type": "add",
-      "itemId": "i_mqh2hqde_zhecs3",
-      "itemTitle": "Quoting Georgi Gerganov",
-      "itemUrl": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-16T20:01:02.402Z"
-    },
-    {
-      "id": "a_mqh2hqde_gpcq",
-      "type": "add",
-      "itemId": "i_mqh2hqde_t9dz22",
-      "itemTitle": "Predicting model behavior before release by simulating deployment",
-      "itemUrl": "https://openai.com/index/deployment-simulation",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-06-16T20:01:02.402Z"
     }
   ],
   "filterConfig": {
