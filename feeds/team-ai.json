@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_ms3w36wq_69v1hu",
+      "url": "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything",
+      "title": "moonshotai/Kimi-K3",
+      "description": "moonshotai/Kimi-K3 As promised earlier this month, Moonshot have released the weights for their excellent 2.8 trillion parameter Kimi K3. They're a hefty 1.56TB on Hugging Face. Kimi introduced their own janky modified version of the MIT license with K2 back in July 2025. That license just added thi",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-27T23:39:04.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-28T00:00:10.682Z"
+    },
+    {
+      "id": "i_ms3w36wq_j9799t",
+      "url": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything",
+      "title": "An opinionated guide to which AI to use to do stuff",
+      "description": "An opinionated guide to which AI to use to do stuff It's interesting watching the evolution of Ethan Mollick's guide over time. A year ago it was still all about chat - ChatGPT, Claude, Gemini - with o3, Claude 4 Opus, and Gemini 2.5 Pro as the models and Deep Research as a useful alternative mode. ",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-27T21:55:53.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-28T00:00:10.682Z"
+    },
+    {
+      "id": "i_ms3w36wq_lg1ibh",
+      "url": "https://www.youtube.com/shorts/w9cCOUD-qDM",
+      "title": "AI can't READ this",
+      "description": "Matthew Berman (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-27T21:17:57.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-28T00:00:10.682Z"
+    },
+    {
       "id": "i_ms3exxbz_vtn2ht",
       "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/",
       "title": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
@@ -23840,6 +23906,39 @@
   ],
   "activity": [
     {
+      "id": "a_ms3w36wq_zm6t",
+      "type": "add",
+      "itemId": "i_ms3w36wq_lg1ibh",
+      "itemTitle": "AI can't READ this",
+      "itemUrl": "https://www.youtube.com/shorts/w9cCOUD-qDM",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-28T00:00:10.682Z"
+    },
+    {
+      "id": "a_ms3w36wq_g4vc",
+      "type": "add",
+      "itemId": "i_ms3w36wq_j9799t",
+      "itemTitle": "An opinionated guide to which AI to use to do stuff",
+      "itemUrl": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-28T00:00:10.682Z"
+    },
+    {
+      "id": "a_ms3w36wq_2b08",
+      "type": "add",
+      "itemId": "i_ms3w36wq_69v1hu",
+      "itemTitle": "moonshotai/Kimi-K3",
+      "itemUrl": "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-28T00:00:10.682Z"
+    },
+    {
       "id": "a_ms3exxbz_uhsm",
       "type": "add",
       "itemId": "i_ms3exxbz_vtn2ht",
@@ -29305,39 +29404,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-16T20:01:02.402Z"
-    },
-    {
-      "id": "a_mqgcrsw4_bnea",
-      "type": "add",
-      "itemId": "i_mqgcrsw4_fz2tpj",
-      "itemTitle": "The Fable 5 Export Controls Harm US Cyber Defense",
-      "itemUrl": "https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-16T08:01:02.212Z"
-    },
-    {
-      "id": "a_mqg475a8_lj0e",
-      "type": "add",
-      "itemId": "i_mqg475a8_eui932",
-      "itemTitle": "[AINews] Satya on Loopcraft: Building Frontier Ecosystems",
-      "itemUrl": "https://www.latent.space/p/ainews-satya-on-loopcraft-building",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-16T04:01:01.568Z"
-    },
-    {
-      "id": "a_mqg475a8_hc0y",
-      "type": "add",
-      "itemId": "i_mqg475a8_jwc54n",
-      "itemTitle": "Cloudflare CAPTCHA on at least one ampersand",
-      "itemUrl": "https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-16T04:01:01.568Z"
     }
   ],
   "filterConfig": {
