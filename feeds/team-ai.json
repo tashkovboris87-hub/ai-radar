@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_ms5k3hu6_woiucd",
+      "url": "https://learnvector.ai/",
+      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+      "description": "",
+      "image": "",
+      "domain": "learnvector.ai",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-29T01:49:19.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-29T04:00:01.806Z"
+    },
+    {
+      "id": "i_ms5k3hu6_12ldld",
+      "url": "https://www.hubble.md/",
+      "title": "Hubble: Open-source notetaking app for you and your agents",
+      "description": "",
+      "image": "",
+      "domain": "hubble.md",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-29T00:11:23.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-29T04:00:01.806Z"
+    },
+    {
+      "id": "i_ms5k3hu6_04oayd",
+      "url": "https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
+      "title": "[AINews] Fearing RSI: OpenAI, Anthropic, GDM, Meta, Thinky cosign letter to \"Pace\" AI development, as HuggingFace details Machine-Speed Offensive Cyberattack",
+      "description": "The Big Pause is coming.",
+      "image": "https://substackcdn.com/image/fetch/$s_!u8gQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87c30d45-da74-47aa-80c6-77903e4c9cbf_2094x1890.png",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-29T00:46:52.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-29T04:00:01.806Z"
+    },
+    {
       "id": "i_ms5bj26w_0dme4q",
       "url": "https://github.com/anthropics/cryptography-research-demo",
       "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
@@ -24170,6 +24236,39 @@
   ],
   "activity": [
     {
+      "id": "a_ms5k3hu6_w8za",
+      "type": "add",
+      "itemId": "i_ms5k3hu6_04oayd",
+      "itemTitle": "[AINews] Fearing RSI: OpenAI, Anthropic, GDM, Meta, Thinky cosign letter to \"Pace\" AI development, as HuggingFace details Machine-Speed Offensive Cyberattack",
+      "itemUrl": "https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-29T04:00:01.806Z"
+    },
+    {
+      "id": "a_ms5k3hu6_f8c6",
+      "type": "add",
+      "itemId": "i_ms5k3hu6_12ldld",
+      "itemTitle": "Hubble: Open-source notetaking app for you and your agents",
+      "itemUrl": "https://www.hubble.md/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-29T04:00:01.806Z"
+    },
+    {
+      "id": "a_ms5k3hu6_2ngf",
+      "type": "add",
+      "itemId": "i_ms5k3hu6_woiucd",
+      "itemTitle": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+      "itemUrl": "https://learnvector.ai/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-29T04:00:01.806Z"
+    },
+    {
       "id": "a_ms5bj26w_0ved",
       "type": "add",
       "itemId": "i_ms5bj26w_6fme35",
@@ -29635,39 +29734,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-17T16:01:03.597Z"
-    },
-    {
-      "id": "a_mqi0sbuo_ldtu",
-      "type": "add",
-      "itemId": "i_mqi0sbuo_73043o",
-      "itemTitle": "GLM-5.2: Built for Long-Horizon Tasks",
-      "itemUrl": "https://huggingface.co/blog/zai-org/glm-52-blog",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-17T12:01:03.744Z"
-    },
-    {
-      "id": "a_mqhs7nou_4jzm",
-      "type": "add",
-      "itemId": "i_mqhs7nou_0tf0gy",
-      "itemTitle": "[AINews] GLM-5.2: the top Frontend Coding model in the world, IndexShare for Speculative Decoding",
-      "itemUrl": "https://www.latent.space/p/ainews-glm-52-the-top-frontend-coding",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-17T08:01:02.382Z"
-    },
-    {
-      "id": "a_mqhs7nou_cdm5",
-      "type": "add",
-      "itemId": "i_mqhs7nou_eev5g3",
-      "itemTitle": "datasette 1.0a34",
-      "itemUrl": "https://simonwillison.net/2026/Jun/16/datasette/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-17T08:01:02.382Z"
     }
   ],
   "filterConfig": {
