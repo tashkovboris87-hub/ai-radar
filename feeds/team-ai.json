@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_ms618shn_yf02kr",
+      "url": "https://www.youtube.com/watch?v=eRQTfzuthDE",
+      "title": "Ilya Sutskever Just Found Something New In AI",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/eRQTfzuthDE/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-29T11:48:50.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-29T12:00:02.363Z"
+    },
+    {
       "id": "i_ms5k3hu6_woiucd",
       "url": "https://learnvector.ai/",
       "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
@@ -24236,6 +24258,17 @@
   ],
   "activity": [
     {
+      "id": "a_ms618shn_ie3h",
+      "type": "add",
+      "itemId": "i_ms618shn_yf02kr",
+      "itemTitle": "Ilya Sutskever Just Found Something New In AI",
+      "itemUrl": "https://www.youtube.com/watch?v=eRQTfzuthDE",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-29T12:00:02.363Z"
+    },
+    {
       "id": "a_ms5k3hu6_w8za",
       "type": "add",
       "itemId": "i_ms5k3hu6_04oayd",
@@ -29719,17 +29752,6 @@
       "itemId": "i_mqi9cyul_60xali",
       "itemTitle": "MolmoMotion: Language-guided 3D motion forecasting",
       "itemUrl": "https://huggingface.co/blog/allenai/molmomotion",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-17T16:01:03.597Z"
-    },
-    {
-      "id": "a_mqi9cyul_wux7",
-      "type": "add",
-      "itemId": "i_mqi9cyul_r7a0c6",
-      "itemTitle": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-      "itemUrl": "https://wpvip.com/future-of-the-web-2026/",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
