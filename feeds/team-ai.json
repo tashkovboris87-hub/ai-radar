@@ -2,6 +2,182 @@
   "version": 1,
   "items": [
     {
+      "id": "i_ms6ie4o9_zhv08s",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "description": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-07-29T10:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-29T20:00:04.905Z"
+    },
+    {
+      "id": "i_ms6ie4o9_dejqo7",
+      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "description": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-07-29T00:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-29T20:00:04.905Z"
+    },
+    {
+      "id": "i_ms6ie4o9_lhbh4s",
+      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+      "description": "",
+      "image": "",
+      "domain": "deepmind.google",
+      "contentType": "article",
+      "source": "feed",
+      "category": "gemini",
+      "tags": [],
+      "addedAt": "2026-07-29T16:02:10.000Z",
+      "addedBy": "Google DeepMind",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-29T20:00:04.905Z"
+    },
+    {
+      "id": "i_ms6ie4o9_xrz9ak",
+      "url": "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything",
+      "title": "AI Worming through Word",
+      "description": "AI Worming through Word Neat new prompt injection variant by Håkon Måløy, who found a way to upgrade prompt injection attacks against Microsoft Word to full self-replicating worms: An attacker places hidden instructions in a document that is later used as source material in Copilot for Word. Copilot",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-29T18:43:03.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-29T20:00:04.905Z"
+    },
+    {
+      "id": "i_ms6ie4o9_kz8lnk",
+      "url": "https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything",
+      "title": "Quoting Matthew Green",
+      "description": "Right now we’re in the midst of a historic transition from traditional public-key algorithms based on EC-based cryptography and RSA, moving over to new post-quantum algorithms based on novel problems. This is why there are so many standards like HAWK being considered. If there was ever a perfect tim",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-29T18:18:15.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-29T20:00:04.905Z"
+    },
+    {
+      "id": "i_ms6ie4o9_gdxmkh",
+      "url": "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything",
+      "title": "Adding a custom MCP server to Claude and ChatGPT",
+      "description": "TIL: Adding a custom MCP server to Claude and ChatGPT Connecting a custom MCP server to Claude and ChatGPT's standard chat interfaces is possible, but can take quite a few steps. Tags: ai, generative-ai, chatgpt, llms, claude, model-context-protocol",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-29T00:13:18.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-29T20:00:04.905Z"
+    },
+    {
+      "id": "i_ms6ie4o9_d97ghp",
+      "url": "https://www.youtube.com/watch?v=N80TzPCHbNg",
+      "title": "This letter could change EVERYTHING",
+      "description": "Matthew Berman (YouTube)",
+      "image": "https://i.ytimg.com/vi/N80TzPCHbNg/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-29T17:52:41.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-29T20:00:04.905Z"
+    },
+    {
+      "id": "i_ms6ie4o9_72yuxq",
+      "url": "https://www.youtube.com/watch?v=jxGJT1weu4w",
+      "title": "Did Anthropic just kill the indie hacker...?",
+      "description": "Fireship (YouTube)",
+      "image": "https://i.ytimg.com/vi/jxGJT1weu4w/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-29T16:33:51.000Z",
+      "addedBy": "Fireship",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-29T20:00:04.905Z"
+    },
+    {
       "id": "i_ms69thph_jmm0hp",
       "url": "https://arxiv.org/abs/2607.25398",
       "title": "Handbook.md shows that long policy documents do not reliably govern agents",
@@ -24324,6 +24500,94 @@
   ],
   "activity": [
     {
+      "id": "a_ms6ie4o9_jks9",
+      "type": "add",
+      "itemId": "i_ms6ie4o9_72yuxq",
+      "itemTitle": "Did Anthropic just kill the indie hacker...?",
+      "itemUrl": "https://www.youtube.com/watch?v=jxGJT1weu4w",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-29T20:00:04.905Z"
+    },
+    {
+      "id": "a_ms6ie4o9_ttt5",
+      "type": "add",
+      "itemId": "i_ms6ie4o9_d97ghp",
+      "itemTitle": "This letter could change EVERYTHING",
+      "itemUrl": "https://www.youtube.com/watch?v=N80TzPCHbNg",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-29T20:00:04.905Z"
+    },
+    {
+      "id": "a_ms6ie4o9_4ubz",
+      "type": "add",
+      "itemId": "i_ms6ie4o9_gdxmkh",
+      "itemTitle": "Adding a custom MCP server to Claude and ChatGPT",
+      "itemUrl": "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-29T20:00:04.905Z"
+    },
+    {
+      "id": "a_ms6ie4o9_fa6y",
+      "type": "add",
+      "itemId": "i_ms6ie4o9_kz8lnk",
+      "itemTitle": "Quoting Matthew Green",
+      "itemUrl": "https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-29T20:00:04.905Z"
+    },
+    {
+      "id": "a_ms6ie4o9_6iwv",
+      "type": "add",
+      "itemId": "i_ms6ie4o9_xrz9ak",
+      "itemTitle": "AI Worming through Word",
+      "itemUrl": "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-29T20:00:04.905Z"
+    },
+    {
+      "id": "a_ms6ie4o9_mi4z",
+      "type": "add",
+      "itemId": "i_ms6ie4o9_lhbh4s",
+      "itemTitle": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+      "itemUrl": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+      "itemSource": "feed",
+      "category": "gemini",
+      "by": "AI Radar bot",
+      "at": "2026-07-29T20:00:04.905Z"
+    },
+    {
+      "id": "a_ms6ie4o9_mk0i",
+      "type": "add",
+      "itemId": "i_ms6ie4o9_dejqo7",
+      "itemTitle": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "itemUrl": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-29T20:00:04.905Z"
+    },
+    {
+      "id": "a_ms6ie4o9_oghw",
+      "type": "add",
+      "itemId": "i_ms6ie4o9_zhv08s",
+      "itemTitle": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "itemUrl": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-29T20:00:04.905Z"
+    },
+    {
       "id": "a_ms69thph_ynxu",
       "type": "add",
       "itemId": "i_ms69thph_8w9agt",
@@ -29734,94 +29998,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-18T08:01:01.641Z"
-    },
-    {
-      "id": "a_mqiz2tq1_0acg",
-      "type": "add",
-      "itemId": "i_mqiz2tq1_qcpyk7",
-      "itemTitle": "GLM-5.2 is probably the most powerful text-only open weights LLM",
-      "itemUrl": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-18T04:01:00.409Z"
-    },
-    {
-      "id": "a_mqiqi73k_7ri9",
-      "type": "add",
-      "itemId": "i_mqiqi73k_ld3eek",
-      "itemTitle": "Introducing LifeSciBench",
-      "itemUrl": "https://openai.com/index/introducing-life-sci-bench",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-06-18T00:01:01.040Z"
-    },
-    {
-      "id": "a_mqiqi73k_tsge",
-      "type": "add",
-      "itemId": "i_mqiqi73k_k6jljv",
-      "itemTitle": "Leaked financial docs show OpenAI is losing billions of dollars a year",
-      "itemUrl": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-18T00:01:01.040Z"
-    },
-    {
-      "id": "a_mqihxkkh_zkag",
-      "type": "add",
-      "itemId": "i_mqihxkkh_r6baef",
-      "itemTitle": "How to Use Apple Intelligence on iPhone: Apple Intelligence ALL Features Full Tutorial 2026",
-      "itemUrl": "https://www.youtube.com/watch?v=bw-Q4Y6wqWs",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-17T20:01:01.793Z"
-    },
-    {
-      "id": "a_mqihxkkh_l0iu",
-      "type": "add",
-      "itemId": "i_mqihxkkh_se2fp5",
-      "itemTitle": "I read every major CS paper of the last 100 years...",
-      "itemUrl": "https://www.youtube.com/watch?v=ML3q7Ok4hJg",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-17T20:01:01.793Z"
-    },
-    {
-      "id": "a_mqihxkkh_xnsk",
-      "type": "add",
-      "itemId": "i_mqihxkkh_v17yn8",
-      "itemTitle": "Agentic Resource Discovery: Let agents search",
-      "itemUrl": "https://huggingface.co/blog/agentic-resource-discovery-launch",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-17T20:01:01.793Z"
-    },
-    {
-      "id": "a_mqihxkkh_a95q",
-      "type": "add",
-      "itemId": "i_mqihxkkh_5kg4u9",
-      "itemTitle": "🔬 The Self-Driving Lab — Joseph Krause, Radical AI",
-      "itemUrl": "https://www.latent.space/p/radical-ai",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-17T20:01:01.793Z"
-    },
-    {
-      "id": "a_mqihxkkh_l4k2",
-      "type": "add",
-      "itemId": "i_mqihxkkh_r66jbx",
-      "itemTitle": "Quoting Charity Majors",
-      "itemUrl": "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-17T20:01:01.793Z"
     }
   ],
   "filterConfig": {
