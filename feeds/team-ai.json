@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_ms6zjexk_4flr2n",
+      "url": "https://llm2human.pages.dev/",
+      "title": "LLM Honeypot",
+      "description": "",
+      "image": "",
+      "domain": "llm2human.pages.dev",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-29T22:51:03.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-30T04:00:04.952Z"
+    },
+    {
       "id": "i_ms6qysij_h5mqfv",
       "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
       "title": "AI's top startups are barely publishing their research",
@@ -24566,6 +24588,17 @@
   ],
   "activity": [
     {
+      "id": "a_ms6zjexk_pgyb",
+      "type": "add",
+      "itemId": "i_ms6zjexk_4flr2n",
+      "itemTitle": "LLM Honeypot",
+      "itemUrl": "https://llm2human.pages.dev/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-30T04:00:04.952Z"
+    },
+    {
       "id": "a_ms6qysij_js4j",
       "type": "add",
       "itemId": "i_ms6qysij_c2elyl",
@@ -30049,17 +30082,6 @@
       "itemId": "i_mqjosswz_jda5pa",
       "itemTitle": "Is it agentic enough? Benchmarking open models on your own tooling",
       "itemUrl": "https://huggingface.co/blog/is-it-agentic-enough",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-18T16:01:02.819Z"
-    },
-    {
-      "id": "a_mqjosswz_xq5t",
-      "type": "add",
-      "itemId": "i_mqjosswz_tljf13",
-      "itemTitle": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-      "itemUrl": "https://huggingface.co/blog/peft-beyond-lora",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
