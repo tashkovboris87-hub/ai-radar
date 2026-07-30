@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_ms7gop2q_452809",
+      "url": "https://www.latent.space/p/ontologies-agentic-systems",
+      "title": "Ontologies Are So Back: Why AI Agents Are Reviving the Semantic Web",
+      "description": "AI engineers are rediscovering ontologies as a way to keep probabilistic agents inside deterministic boundaries.",
+      "image": "https://substackcdn.com/image/fetch/$s_!180z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33011df5-c14f-4770-9b91-efa55618b6eb_1672x941.png",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-30T11:17:55.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-30T12:00:04.850Z"
+    },
+    {
       "id": "i_ms6zjexk_4flr2n",
       "url": "https://llm2human.pages.dev/",
       "title": "LLM Honeypot",
@@ -24689,6 +24711,17 @@
   ],
   "activity": [
     {
+      "id": "a_ms7gop2q_4ljq",
+      "type": "add",
+      "itemId": "i_ms7gop2q_452809",
+      "itemTitle": "Ontologies Are So Back: Why AI Agents Are Reviving the Semantic Web",
+      "itemUrl": "https://www.latent.space/p/ontologies-agentic-systems",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-30T12:00:04.850Z"
+    },
+    {
       "id": "a_ms6zjexk_pgyb",
       "type": "add",
       "itemId": "i_ms6zjexk_4flr2n",
@@ -30176,17 +30209,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-18T20:01:02.282Z"
-    },
-    {
-      "id": "a_mqjosswz_j53n",
-      "type": "add",
-      "itemId": "i_mqjosswz_jda5pa",
-      "itemTitle": "Is it agentic enough? Benchmarking open models on your own tooling",
-      "itemUrl": "https://huggingface.co/blog/is-it-agentic-enough",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-18T16:01:02.819Z"
     }
   ],
   "filterConfig": {
