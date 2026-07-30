@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_ms7p99w4_jvxa7h",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "description": "",
+      "image": "",
+      "domain": "deepmind.google",
+      "contentType": "article",
+      "source": "feed",
+      "category": "gemini",
+      "tags": [],
+      "addedAt": "2026-07-30T15:15:48.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-30T16:00:01.876Z"
+    },
+    {
+      "id": "i_ms7p99w4_jc8fqy",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "description": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+      "image": "",
+      "domain": "deepmind.google",
+      "contentType": "article",
+      "source": "feed",
+      "category": "gemini",
+      "tags": [],
+      "addedAt": "2026-07-30T15:00:59.000Z",
+      "addedBy": "Google DeepMind",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-30T16:00:01.876Z"
+    },
+    {
+      "id": "i_ms7p99w4_nh9h0y",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "description": "",
+      "image": "",
+      "domain": "huggingface.co",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-30T15:09:09.000Z",
+      "addedBy": "Hugging Face",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-30T16:00:01.876Z"
+    },
+    {
       "id": "i_ms7gop2q_452809",
       "url": "https://www.latent.space/p/ontologies-agentic-systems",
       "title": "Ontologies Are So Back: Why AI Agents Are Reviving the Semantic Web",
@@ -24711,6 +24777,39 @@
   ],
   "activity": [
     {
+      "id": "a_ms7p99w4_ndys",
+      "type": "add",
+      "itemId": "i_ms7p99w4_nh9h0y",
+      "itemTitle": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "itemUrl": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-30T16:00:01.876Z"
+    },
+    {
+      "id": "a_ms7p99w4_nepa",
+      "type": "add",
+      "itemId": "i_ms7p99w4_jc8fqy",
+      "itemTitle": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "itemUrl": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "itemSource": "feed",
+      "category": "gemini",
+      "by": "AI Radar bot",
+      "at": "2026-07-30T16:00:01.876Z"
+    },
+    {
+      "id": "a_ms7p99w4_u4qm",
+      "type": "add",
+      "itemId": "i_ms7p99w4_jvxa7h",
+      "itemTitle": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "itemUrl": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "itemSource": "feed",
+      "category": "gemini",
+      "by": "AI Radar bot",
+      "at": "2026-07-30T16:00:01.876Z"
+    },
+    {
       "id": "a_ms7gop2q_4ljq",
       "type": "add",
       "itemId": "i_ms7gop2q_452809",
@@ -30174,39 +30273,6 @@
       "itemUrl": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
       "itemSource": "feed",
       "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-06-18T20:01:02.282Z"
-    },
-    {
-      "id": "a_mqjxdfm2_wggu",
-      "type": "add",
-      "itemId": "i_mqjxdfm2_90llzq",
-      "itemTitle": "New usage analytics and updated spend controls for enterprises",
-      "itemUrl": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-06-18T20:01:02.282Z"
-    },
-    {
-      "id": "a_mqjxdfm2_fe9z",
-      "type": "add",
-      "itemId": "i_mqjxdfm2_c728w9",
-      "itemTitle": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
-      "itemUrl": "https://tester.army",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-18T20:01:02.282Z"
-    },
-    {
-      "id": "a_mqjxdfm2_uxuv",
-      "type": "add",
-      "itemId": "i_mqjxdfm2_zmaz5t",
-      "itemTitle": "Noam Shazeer Joins OpenAI",
-      "itemUrl": "https://twitter.com/NoamShazeer/status/2067400851438932297",
-      "itemSource": "feed",
-      "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-18T20:01:02.282Z"
     }
