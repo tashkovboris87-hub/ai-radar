@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_ms6qysij_h5mqfv",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "title": "AI's top startups are barely publishing their research",
+      "description": "",
+      "image": "",
+      "domain": "science.org",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-29T21:25:40.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-30T00:00:05.851Z"
+    },
+    {
+      "id": "i_ms6qysij_wlhkmz",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "description": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-07-29T15:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-30T00:00:05.851Z"
+    },
+    {
+      "id": "i_ms6qysij_c2elyl",
+      "url": "https://www.latent.space/p/ainews-ai-is-eating-finance-aie-nyc",
+      "title": "[AINews] AI is eating Finance; AIE NYC now open",
+      "description": "a quiet day lets us cover how AI is permeating financial services as the next big vertical after coding.",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/L1hB6Nz16Fw",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-29T23:32:12.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-30T00:00:05.851Z"
+    },
+    {
       "id": "i_ms6ie4o9_zhv08s",
       "url": "https://openai.com/index/chatgpt-for-academic-researchers",
       "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
@@ -24500,6 +24566,39 @@
   ],
   "activity": [
     {
+      "id": "a_ms6qysij_js4j",
+      "type": "add",
+      "itemId": "i_ms6qysij_c2elyl",
+      "itemTitle": "[AINews] AI is eating Finance; AIE NYC now open",
+      "itemUrl": "https://www.latent.space/p/ainews-ai-is-eating-finance-aie-nyc",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-30T00:00:05.851Z"
+    },
+    {
+      "id": "a_ms6qysij_koyp",
+      "type": "add",
+      "itemId": "i_ms6qysij_wlhkmz",
+      "itemTitle": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "itemUrl": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-30T00:00:05.851Z"
+    },
+    {
+      "id": "a_ms6qysij_0iy3",
+      "type": "add",
+      "itemId": "i_ms6qysij_h5mqfv",
+      "itemTitle": "AI's top startups are barely publishing their research",
+      "itemUrl": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-30T00:00:05.851Z"
+    },
+    {
       "id": "a_ms6ie4o9_jks9",
       "type": "add",
       "itemId": "i_ms6ie4o9_72yuxq",
@@ -29965,39 +30064,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-18T16:01:02.819Z"
-    },
-    {
-      "id": "a_mqjosswz_ct19",
-      "type": "add",
-      "itemId": "i_mqjosswz_sx5pl7",
-      "itemTitle": "Securing the future of AI agents",
-      "itemUrl": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
-      "itemSource": "feed",
-      "category": "gemini",
-      "by": "AI Radar bot",
-      "at": "2026-06-18T16:01:02.819Z"
-    },
-    {
-      "id": "a_mqjosswz_81cw",
-      "type": "add",
-      "itemId": "i_mqjosswz_hv9dy8",
-      "itemTitle": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "itemUrl": "https://openai.com/index/diagnose-rare-childhood-diseases",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-06-18T16:01:02.819Z"
-    },
-    {
-      "id": "a_mqj7nhs9_48b4",
-      "type": "add",
-      "itemId": "i_mqj7nhs9_3ytsm4",
-      "itemTitle": "[AINews] Midjourney Medical: scan your organs like you step on a scale",
-      "itemUrl": "https://www.latent.space/p/ainews-midjourney-medical-scan-your",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-18T08:01:01.641Z"
     }
   ],
   "filterConfig": {
