@@ -2,6 +2,94 @@
   "version": 1,
   "items": [
     {
+      "id": "i_ms7xtz72_uox3x0",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+      "title": "Advancing the price-performance frontier with GPT‑5.6",
+      "description": "",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-07-30T17:15:51.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-30T20:00:04.718Z"
+    },
+    {
+      "id": "i_ms7xtz72_tho9u1",
+      "url": "https://obryant.dev/p/2x-not-10x/",
+      "title": "2x, not 10x: coding with LLMs in 2026",
+      "description": "",
+      "image": "",
+      "domain": "obryant.dev",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-25T14:27:05.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-30T20:00:04.718Z"
+    },
+    {
+      "id": "i_ms7xtz72_3cqxc9",
+      "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
+      "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
+      "description": "",
+      "image": "",
+      "domain": "bottlenecklabs.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-30T17:31:07.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-30T20:00:04.718Z"
+    },
+    {
+      "id": "i_ms7xtz72_k2pf9p",
+      "url": "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything",
+      "title": "Quoting Bruce Schneier",
+      "description": "The writing assignments I give my students are gym tasks, not work tasks. I ask them to write policy memos not because the world needs more policy memos. I assign them because the very act of writing, which includes thinking and outlining and drafting and editing, making and criticizing and revising",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-30T18:25:26.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-30T20:00:04.718Z"
+    },
+    {
       "id": "i_ms7p99w4_jvxa7h",
       "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
       "title": "Gemini Robotics 2 brings whole body intelligence to robots",
@@ -24777,6 +24865,50 @@
   ],
   "activity": [
     {
+      "id": "a_ms7xtz72_1mu2",
+      "type": "add",
+      "itemId": "i_ms7xtz72_k2pf9p",
+      "itemTitle": "Quoting Bruce Schneier",
+      "itemUrl": "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-30T20:00:04.718Z"
+    },
+    {
+      "id": "a_ms7xtz72_zner",
+      "type": "add",
+      "itemId": "i_ms7xtz72_3cqxc9",
+      "itemTitle": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
+      "itemUrl": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-30T20:00:04.718Z"
+    },
+    {
+      "id": "a_ms7xtz72_xeik",
+      "type": "add",
+      "itemId": "i_ms7xtz72_tho9u1",
+      "itemTitle": "2x, not 10x: coding with LLMs in 2026",
+      "itemUrl": "https://obryant.dev/p/2x-not-10x/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-30T20:00:04.718Z"
+    },
+    {
+      "id": "a_ms7xtz72_4o2j",
+      "type": "add",
+      "itemId": "i_ms7xtz72_uox3x0",
+      "itemTitle": "Advancing the price-performance frontier with GPT‑5.6",
+      "itemUrl": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-30T20:00:04.718Z"
+    },
+    {
       "id": "a_ms7p99w4_ndys",
       "type": "add",
       "itemId": "i_ms7p99w4_nh9h0y",
@@ -30229,50 +30361,6 @@
       "itemUrl": "https://www.youtube.com/watch?v=uzkTAT81FxA",
       "itemSource": "feed",
       "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-18T20:01:02.282Z"
-    },
-    {
-      "id": "a_mqjxdfm2_qex7",
-      "type": "add",
-      "itemId": "i_mqjxdfm2_igrk4c",
-      "itemTitle": "I figured out the best way to vibe code",
-      "itemUrl": "https://www.youtube.com/watch?v=wwfJlSF34n8",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-18T20:01:02.282Z"
-    },
-    {
-      "id": "a_mqjxdfm2_v1bl",
-      "type": "add",
-      "itemId": "i_mqjxdfm2_nqbbpv",
-      "itemTitle": "MosaicLeaks: Can your research agent keep a secret?",
-      "itemUrl": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-18T20:01:02.282Z"
-    },
-    {
-      "id": "a_mqjxdfm2_hu79",
-      "type": "add",
-      "itemId": "i_mqjxdfm2_ts70p2",
-      "itemTitle": "The Professor of Outputmaxxing — Anjney Midha, AMP",
-      "itemUrl": "https://www.latent.space/p/anj",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-18T20:01:02.282Z"
-    },
-    {
-      "id": "a_mqjxdfm2_54ud",
-      "type": "add",
-      "itemId": "i_mqjxdfm2_dokhuy",
-      "itemTitle": "Improving health intelligence in ChatGPT",
-      "itemUrl": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-      "itemSource": "feed",
-      "category": "chatgpt",
       "by": "AI Radar bot",
       "at": "2026-06-18T20:01:02.282Z"
     }
