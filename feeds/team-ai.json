@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_ms9d9rz3_g82p1h",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "title": "Disrupting a Criminal Scam Operation",
+      "description": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-08-04T00:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-31T20:00:02.271Z"
+    },
+    {
       "id": "i_ms94p4or_0eutzo",
       "url": "https://arxiv.org/abs/2607.27197",
       "title": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
@@ -25217,6 +25239,17 @@
   ],
   "activity": [
     {
+      "id": "a_ms9d9rz3_tva7",
+      "type": "add",
+      "itemId": "i_ms9d9rz3_g82p1h",
+      "itemTitle": "Disrupting a Criminal Scam Operation",
+      "itemUrl": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-31T20:00:02.271Z"
+    },
+    {
       "id": "a_ms94p4or_g5sq",
       "type": "add",
       "itemId": "i_ms94p4or_lmzpjk",
@@ -30700,17 +30733,6 @@
       "itemId": "i_mqo7nzrb_tgerwo",
       "itemTitle": "AI Was Supposed to Replace Workers. It’s Not Working",
       "itemUrl": "https://www.youtube.com/watch?v=thwf0gtZ_pY",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-21T20:00:15.815Z"
-    },
-    {
-      "id": "a_mqo7nzrb_sbfk",
-      "type": "add",
-      "itemId": "i_mqo7nzrb_irsrjd",
-      "itemTitle": "Identity verification on Claude",
-      "itemUrl": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
