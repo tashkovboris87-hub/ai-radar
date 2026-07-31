@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_ms8njwvg_xf6mpe",
+      "url": "https://www.latent.space/p/ainews-gpt-56-price-cut-by-20-80",
+      "title": "[AINews] GPT 5.6 price cut by 20%-80%: Cost of GPT 5.4 Intelligence dropped 13x in 4 months due to GPT 5.6 recursive self-optimization",
+      "description": "Distillation is all you need!",
+      "image": "https://substackcdn.com/image/fetch/$s_!gT87!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHOfg3rSWsAACTkR.png",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-31T04:40:54.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-31T08:00:05.164Z"
+    },
+    {
+      "id": "i_ms8njwvg_jx1fap",
+      "url": "https://www.youtube.com/watch?v=wAPDmc8e22U",
+      "title": "GPT-5.6 just made itself CHEAPER",
+      "description": "Matthew Berman (YouTube)",
+      "image": "https://i.ytimg.com/vi/wAPDmc8e22U/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-31T00:23:46.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-31T08:00:05.164Z"
+    },
+    {
       "id": "i_ms8ez9ji_4d4qhh",
       "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
       "title": "The AI Aesthetic",
@@ -25063,6 +25107,28 @@
   ],
   "activity": [
     {
+      "id": "a_ms8njwvg_2ivf",
+      "type": "add",
+      "itemId": "i_ms8njwvg_jx1fap",
+      "itemTitle": "GPT-5.6 just made itself CHEAPER",
+      "itemUrl": "https://www.youtube.com/watch?v=wAPDmc8e22U",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-31T08:00:05.164Z"
+    },
+    {
+      "id": "a_ms8njwvg_i3sb",
+      "type": "add",
+      "itemId": "i_ms8njwvg_xf6mpe",
+      "itemTitle": "[AINews] GPT 5.6 price cut by 20%-80%: Cost of GPT 5.4 Intelligence dropped 13x in 4 months due to GPT 5.6 recursive self-optimization",
+      "itemUrl": "https://www.latent.space/p/ainews-gpt-56-price-cut-by-20-80",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-31T08:00:05.164Z"
+    },
+    {
       "id": "a_ms8ez9ji_eo2l",
       "type": "add",
       "itemId": "i_ms8ez9ji_ijexqp",
@@ -30539,28 +30605,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-20T20:01:00.373Z"
-    },
-    {
-      "id": "a_mqmb3ta0_3zeg",
-      "type": "add",
-      "itemId": "i_mqmb3ta0_h1zfsl",
-      "itemTitle": "[AINews] not much happened today",
-      "itemUrl": "https://www.latent.space/p/ainews-not-much-happened-today-e7b",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-20T12:01:00.408Z"
-    },
-    {
-      "id": "a_mqmb3ta0_racc",
-      "type": "add",
-      "itemId": "i_mqmb3ta0_cyojti",
-      "itemTitle": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-      "itemUrl": "https://arrowtsx.dev/bigger-models/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-20T12:01:00.408Z"
     }
   ],
   "filterConfig": {
