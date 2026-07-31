@@ -2,6 +2,116 @@
   "version": 1,
   "items": [
     {
+      "id": "i_ms8ez9ji_4d4qhh",
+      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+      "title": "The AI Aesthetic",
+      "description": "",
+      "image": "",
+      "domain": "blog.jim-nielsen.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-30T23:22:16.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-31T04:00:04.878Z"
+    },
+    {
+      "id": "i_ms8ez9ji_fow1xk",
+      "url": "https://openai.com/index/avatarin",
+      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "description": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-07-30T00:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-31T04:00:04.878Z"
+    },
+    {
+      "id": "i_ms8ez9ji_b0gyq5",
+      "url": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
+      "title": "Advancing the price-performance frontier with GPT‑5.6",
+      "description": "Advancing the price-performance frontier with GPT‑5.6 Huge price drop from OpenAI today: GPT-5.6 Terra got a 20% reduction, and GPT-5.6 Luna got a massive 80% drop. OpenAI credit 5.6 Sol with enabling this: in How GPT‑5.6 fuses frontier intelligence with frontier efficiency they describe using 5.6 S",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-30T23:58:42.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-31T04:00:04.878Z"
+    },
+    {
+      "id": "i_ms8ez9ji_x298r1",
+      "url": "https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything",
+      "title": "llm 0.32rc2",
+      "description": "Release: llm 0.32rc2 Hot on the heels of RC1, this fixes a dependency issue and also adds two neat new features: The default model for users who have not set their own default is now GPT-5.6 Luna. It was previously GPT-4o mini. Luna is a much better and more recent model, albeit slightly more expens",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-30T22:52:06.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-31T04:00:04.878Z"
+    },
+    {
+      "id": "i_ms8ez9ji_ijexqp",
+      "url": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server/#atom-everything",
+      "title": "llm-chat-completions-server 0.1a0",
+      "description": "Release: llm-chat-completions-server 0.1a0 A key goal of the new content-addressable logs in LLM 0.32rc1 was being able to support OpenAI Chat Completion style requests where each incoming message extends the previous conversation, like this: curl http://localhost:8002/v1/chat/completions \\ -H 'Cont",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-30T15:43:16.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-31T04:00:04.878Z"
+    },
+    {
       "id": "i_ms86ekew_frk8iv",
       "url": "https://github.com/AminBlg/SimpleEnglish",
       "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
@@ -24953,6 +25063,61 @@
   ],
   "activity": [
     {
+      "id": "a_ms8ez9ji_eo2l",
+      "type": "add",
+      "itemId": "i_ms8ez9ji_ijexqp",
+      "itemTitle": "llm-chat-completions-server 0.1a0",
+      "itemUrl": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-31T04:00:04.878Z"
+    },
+    {
+      "id": "a_ms8ez9ji_babq",
+      "type": "add",
+      "itemId": "i_ms8ez9ji_x298r1",
+      "itemTitle": "llm 0.32rc2",
+      "itemUrl": "https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-31T04:00:04.878Z"
+    },
+    {
+      "id": "a_ms8ez9ji_ka1l",
+      "type": "add",
+      "itemId": "i_ms8ez9ji_b0gyq5",
+      "itemTitle": "Advancing the price-performance frontier with GPT‑5.6",
+      "itemUrl": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-31T04:00:04.878Z"
+    },
+    {
+      "id": "a_ms8ez9ji_8v7d",
+      "type": "add",
+      "itemId": "i_ms8ez9ji_fow1xk",
+      "itemTitle": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "itemUrl": "https://openai.com/index/avatarin",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-31T04:00:04.878Z"
+    },
+    {
+      "id": "a_ms8ez9ji_6vug",
+      "type": "add",
+      "itemId": "i_ms8ez9ji_4d4qhh",
+      "itemTitle": "The AI Aesthetic",
+      "itemUrl": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-31T04:00:04.878Z"
+    },
+    {
       "id": "a_ms86ekew_iaqx",
       "type": "add",
       "itemId": "i_ms86ekew_78mob6",
@@ -30396,61 +30561,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-20T12:01:00.408Z"
-    },
-    {
-      "id": "a_mqlldvsm_td7j",
-      "type": "add",
-      "itemId": "i_mqlldvsm_jhnvep",
-      "itemTitle": "Quoting Sean Lynch",
-      "itemUrl": "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-20T00:01:00.214Z"
-    },
-    {
-      "id": "a_mqlldvsm_2ioq",
-      "type": "add",
-      "itemId": "i_mqlldvsm_u9jq5g",
-      "itemTitle": "Norway imposes near ban on AI in elementary school",
-      "itemUrl": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-20T00:01:00.214Z"
-    },
-    {
-      "id": "a_mqlct9e5_puqg",
-      "type": "add",
-      "itemId": "i_mqlct9e5_mmmxvf",
-      "itemTitle": "The most trusted code on Earth is being rewritten in Rust",
-      "itemUrl": "https://www.youtube.com/watch?v=Sntj4HmuykI",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-19T20:01:01.133Z"
-    },
-    {
-      "id": "a_mqlct9e5_6g62",
-      "type": "add",
-      "itemId": "i_mqlct9e5_55srqw",
-      "itemTitle": "You NEED to try these 7 loops",
-      "itemUrl": "https://www.youtube.com/watch?v=F4a8aMLb678",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-19T20:01:01.133Z"
-    },
-    {
-      "id": "a_mql48ne0_f0dd",
-      "type": "add",
-      "itemId": "i_mql48ne0_m4dfy4",
-      "itemTitle": "This is OpenClaw On Steroids",
-      "itemUrl": "https://www.youtube.com/watch?v=dUmT0OIGoqE",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-19T16:01:02.568Z"
     }
   ],
   "filterConfig": {
