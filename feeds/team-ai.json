@@ -2,6 +2,50 @@
   "version": 1,
   "items": [
     {
+      "id": "i_ms94p4or_0eutzo",
+      "url": "https://arxiv.org/abs/2607.27197",
+      "title": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
+      "description": "",
+      "image": "",
+      "domain": "arxiv.org",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-31T11:37:12.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-31T16:00:02.043Z"
+    },
+    {
+      "id": "i_ms94p4or_lmzpjk",
+      "url": "https://openai.com/index/building-abundant-intelligence",
+      "title": "Building abundant intelligence",
+      "description": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-07-31T15:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-31T16:00:02.043Z"
+    },
+    {
       "id": "i_ms8w4hrt_j79ata",
       "url": "https://blog.google/security/chrome-stronger-with-every-update/",
       "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
@@ -25173,6 +25217,28 @@
   ],
   "activity": [
     {
+      "id": "a_ms94p4or_g5sq",
+      "type": "add",
+      "itemId": "i_ms94p4or_lmzpjk",
+      "itemTitle": "Building abundant intelligence",
+      "itemUrl": "https://openai.com/index/building-abundant-intelligence",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-31T16:00:02.043Z"
+    },
+    {
+      "id": "a_ms94p4or_7qcp",
+      "type": "add",
+      "itemId": "i_ms94p4or_0eutzo",
+      "itemTitle": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
+      "itemUrl": "https://arxiv.org/abs/2607.27197",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-31T16:00:02.043Z"
+    },
+    {
       "id": "a_ms8w4hrt_t025",
       "type": "add",
       "itemId": "i_ms8w4hrt_f67yft",
@@ -30649,28 +30715,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-21T20:00:15.815Z"
-    },
-    {
-      "id": "a_mqnz3c98_l6zg",
-      "type": "add",
-      "itemId": "i_mqnz3c98_iiljne",
-      "itemTitle": "[Exclusive] $250 off AI Engineer tix til Monday",
-      "itemUrl": "https://www.latent.space/p/exclusive-250-off-ai-engineer-tix",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-21T16:00:15.308Z"
-    },
-    {
-      "id": "a_mqnhy1zl_ktph",
-      "type": "add",
-      "itemId": "i_mqnhy1zl_kks3ls",
-      "itemTitle": "Building reliable agentic AI systems",
-      "itemUrl": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-21T08:00:15.249Z"
     }
   ],
   "filterConfig": {
