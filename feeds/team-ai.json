@@ -2,6 +2,94 @@
   "version": 1,
   "items": [
     {
+      "id": "i_ms86ekew_frk8iv",
+      "url": "https://github.com/AminBlg/SimpleEnglish",
+      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+      "description": "",
+      "image": "",
+      "domain": "github.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-30T19:34:27.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-31T00:00:02.264Z"
+    },
+    {
+      "id": "i_ms86ekew_sp4yhe",
+      "url": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything",
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "description": "Investigating three real-world incidents in our cybersecurity evaluations It happened again! This is turning into something of a pattern. Last week OpenAI accidentally exploited Hugging Face when one of their frontier models broke out of a sandboxed container and hacked into Hugging Face to try and ",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-30T23:41:29.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-31T00:00:02.264Z"
+    },
+    {
+      "id": "i_ms86ekew_ui9568",
+      "url": "https://www.youtube.com/shorts/JvkF6ckGy9o",
+      "title": "Which business will \"win\" AI?",
+      "description": "Matthew Berman (YouTube)",
+      "image": "",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-30T20:08:18.000Z",
+      "addedBy": "Matthew Berman",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-31T00:00:02.264Z"
+    },
+    {
+      "id": "i_ms86ekew_78mob6",
+      "url": "https://www.youtube.com/watch?v=0fFHBHQ_d2I",
+      "title": "Googles New 3 Gemini Models Are Incredible - Gemini 3.6 Flash And More Gemini 4 News)",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/0fFHBHQ_d2I/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-30T21:30:23.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-31T00:00:02.264Z"
+    },
+    {
       "id": "i_ms7xtz72_uox3x0",
       "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
       "title": "Advancing the price-performance frontier with GPT‑5.6",
@@ -24865,6 +24953,50 @@
   ],
   "activity": [
     {
+      "id": "a_ms86ekew_iaqx",
+      "type": "add",
+      "itemId": "i_ms86ekew_78mob6",
+      "itemTitle": "Googles New 3 Gemini Models Are Incredible - Gemini 3.6 Flash And More Gemini 4 News)",
+      "itemUrl": "https://www.youtube.com/watch?v=0fFHBHQ_d2I",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-31T00:00:02.264Z"
+    },
+    {
+      "id": "a_ms86ekew_ipiu",
+      "type": "add",
+      "itemId": "i_ms86ekew_ui9568",
+      "itemTitle": "Which business will \"win\" AI?",
+      "itemUrl": "https://www.youtube.com/shorts/JvkF6ckGy9o",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-31T00:00:02.264Z"
+    },
+    {
+      "id": "a_ms86ekew_g1bw",
+      "type": "add",
+      "itemId": "i_ms86ekew_sp4yhe",
+      "itemTitle": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "itemUrl": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-31T00:00:02.264Z"
+    },
+    {
+      "id": "a_ms86ekew_h4iy",
+      "type": "add",
+      "itemId": "i_ms86ekew_frk8iv",
+      "itemTitle": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+      "itemUrl": "https://github.com/AminBlg/SimpleEnglish",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-31T00:00:02.264Z"
+    },
+    {
       "id": "a_ms7xtz72_1mu2",
       "type": "add",
       "itemId": "i_ms7xtz72_k2pf9p",
@@ -30319,50 +30451,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-19T16:01:02.568Z"
-    },
-    {
-      "id": "a_mqkn3c73_cqm4",
-      "type": "add",
-      "itemId": "i_mqkn3c73_3f4yrj",
-      "itemTitle": "[AINews] GLM > GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December",
-      "itemUrl": "https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-19T08:01:01.311Z"
-    },
-    {
-      "id": "a_mqkeioid_vf2z",
-      "type": "add",
-      "itemId": "i_mqkeioid_i1d29z",
-      "itemTitle": "Datasette Apps: Host custom HTML applications inside Datasette",
-      "itemUrl": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-19T04:01:00.565Z"
-    },
-    {
-      "id": "a_mqk5y1p5_bv03",
-      "type": "add",
-      "itemId": "i_mqk5y1p5_0ncait",
-      "itemTitle": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
-      "itemUrl": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-19T00:01:00.953Z"
-    },
-    {
-      "id": "a_mqjxdfm2_x007",
-      "type": "add",
-      "itemId": "i_mqjxdfm2_bfjsei",
-      "itemTitle": "The First Real LLM Breakthrough Is Here...  SubQ (1000x Less Compute)",
-      "itemUrl": "https://www.youtube.com/watch?v=uzkTAT81FxA",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-18T20:01:02.282Z"
     }
   ],
   "filterConfig": {
