@@ -2,6 +2,72 @@
   "version": 1,
   "items": [
     {
+      "id": "i_ms8w4hrt_j79ata",
+      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "description": "",
+      "image": "",
+      "domain": "blog.google",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-31T07:29:22.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-31T12:00:02.297Z"
+    },
+    {
+      "id": "i_ms8w4hrt_48i07z",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "title": "Advancing responsible AI across Europe",
+      "description": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-07-31T15:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-31T12:00:02.297Z"
+    },
+    {
+      "id": "i_ms8w4hrt_f67yft",
+      "url": "https://openai.com/index/unive",
+      "title": "Univé builds an AI-ready workforce",
+      "description": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-07-31T07:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-07-31T12:00:02.297Z"
+    },
+    {
       "id": "i_ms8njwvg_xf6mpe",
       "url": "https://www.latent.space/p/ainews-gpt-56-price-cut-by-20-80",
       "title": "[AINews] GPT 5.6 price cut by 20%-80%: Cost of GPT 5.4 Intelligence dropped 13x in 4 months due to GPT 5.6 recursive self-optimization",
@@ -25107,6 +25173,39 @@
   ],
   "activity": [
     {
+      "id": "a_ms8w4hrt_t025",
+      "type": "add",
+      "itemId": "i_ms8w4hrt_f67yft",
+      "itemTitle": "Univé builds an AI-ready workforce",
+      "itemUrl": "https://openai.com/index/unive",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-31T12:00:02.297Z"
+    },
+    {
+      "id": "a_ms8w4hrt_guwq",
+      "type": "add",
+      "itemId": "i_ms8w4hrt_48i07z",
+      "itemTitle": "Advancing responsible AI across Europe",
+      "itemUrl": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-07-31T12:00:02.297Z"
+    },
+    {
+      "id": "a_ms8w4hrt_tq0k",
+      "type": "add",
+      "itemId": "i_ms8w4hrt_j79ata",
+      "itemTitle": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "itemUrl": "https://blog.google/security/chrome-stronger-with-every-update/",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-07-31T12:00:02.297Z"
+    },
+    {
       "id": "a_ms8njwvg_2ivf",
       "type": "add",
       "itemId": "i_ms8njwvg_jx1fap",
@@ -30572,39 +30671,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-21T08:00:15.249Z"
-    },
-    {
-      "id": "a_mqnhy1zl_3vyg",
-      "type": "add",
-      "itemId": "i_mqnhy1zl_72m1bi",
-      "itemTitle": "The 100k Whys of AI",
-      "itemUrl": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-21T08:00:15.249Z"
-    },
-    {
-      "id": "a_mqn9ddcv_cic8",
-      "type": "add",
-      "itemId": "i_mqn9ddcv_1p240c",
-      "itemTitle": "When I reject AI code even if it works",
-      "itemUrl": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-21T04:00:13.279Z"
-    },
-    {
-      "id": "a_mqms93h1_6496",
-      "type": "add",
-      "itemId": "i_mqms93h1_ypk4zr",
-      "itemTitle": "Google Flow Tools Tutorial - How To Use Google Flow Tools",
-      "itemUrl": "https://www.youtube.com/watch?v=yqAxSVpoSPo",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-20T20:01:00.373Z"
     }
   ],
   "filterConfig": {
