@@ -2,6 +2,28 @@
   "version": 1,
   "items": [
     {
+      "id": "i_msa2zp7i_s7mvse",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "description": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+      "image": "",
+      "domain": "openai.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": "chatgpt",
+      "tags": [],
+      "addedAt": "2026-08-01T00:00:00.000Z",
+      "addedBy": "OpenAI",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-08-01T08:00:02.142Z"
+    },
+    {
       "id": "i_ms9uf2jg_m5qlh3",
       "url": "https://github.com/yc-software/qm",
       "title": "qm – Multiplayer agent harness for work",
@@ -25415,6 +25437,17 @@
   ],
   "activity": [
     {
+      "id": "a_msa2zp7i_0r0b",
+      "type": "add",
+      "itemId": "i_msa2zp7i_s7mvse",
+      "itemTitle": "Ten advances in mathematics and theoretical computer science",
+      "itemUrl": "https://openai.com/index/ten-advances-in-mathematics",
+      "itemSource": "feed",
+      "category": "chatgpt",
+      "by": "AI Radar bot",
+      "at": "2026-08-01T08:00:02.142Z"
+    },
+    {
       "id": "a_ms9uf2jg_1k5l",
       "type": "add",
       "itemId": "i_ms9uf2jg_nhvdt8",
@@ -30898,17 +30931,6 @@
       "itemId": "i_mqpej7sj_grw7ya",
       "itemTitle": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
       "itemUrl": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-22T16:00:16.435Z"
-    },
-    {
-      "id": "a_mqpej7sj_n6nr",
-      "type": "add",
-      "itemId": "i_mqpej7sj_n5ewch",
-      "itemTitle": "Import AI 462: Superpersuasion; self-sustaining AI; paths to ASI",
-      "itemUrl": "https://importai.substack.com/p/import-ai-462-superpersuasion-self",
       "itemSource": "feed",
       "category": null,
       "by": "AI Radar bot",
