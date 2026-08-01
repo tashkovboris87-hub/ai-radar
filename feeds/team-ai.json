@@ -2,6 +2,94 @@
   "version": 1,
   "items": [
     {
+      "id": "i_ms9lufdy_0i3wxq",
+      "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything",
+      "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
+      "description": "Tuesday was Stateless MCP day - the rollout of MCP 2.0, or the 2026-07-28 Model Context Protocol specification to use the more formal but less memorable name. This is the most significant change to the MCP spec since it first launched, and has also served to reignite my personal interest in the prot",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-31T23:13:22.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-08-01T00:00:02.662Z"
+    },
+    {
+      "id": "i_ms9lufdy_tihk1w",
+      "url": "https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything",
+      "title": "Oxide and Friends: The Open Weight Revolution with Simon Willison",
+      "description": "Oxide and Friends: The Open Weight Revolution with Simon Willison On Monday Bryan Cantrill and Adam Leventhal invited me to join their podcast to talk about the wild week we've had - with Kimi K3 showing open weight models can stand toe-to-toe with proprietary frontier ones, accidental cybersecurity",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-31T21:33:13.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-08-01T00:00:02.662Z"
+    },
+    {
+      "id": "i_ms9lufdy_ugdvci",
+      "url": "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything",
+      "title": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
+      "description": "smevals - a small eval suite for evaluating models, prompts, and harnesses I've been working with Jesse Vincent's Prime Radiant applied AI research lab building out this evals framework to help answer questions about the capabilities of different models. The result is smevals, a new tool for running",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-31T21:15:23.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-08-01T00:00:02.662Z"
+    },
+    {
+      "id": "i_ms9lufdy_f4q2ff",
+      "url": "https://www.youtube.com/watch?v=s42VQasz4iI",
+      "title": "Google Just Unveiled Its Most Advanced AI Robots Yet - Gemini Robotics 2",
+      "description": "AI Foundations (YouTube)",
+      "image": "https://i.ytimg.com/vi/s42VQasz4iI/hqdefault.jpg",
+      "domain": "youtube.com",
+      "contentType": "video",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-31T20:38:32.000Z",
+      "addedBy": "AI Foundations",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-08-01T00:00:02.662Z"
+    },
+    {
       "id": "i_ms9d9rz3_g82p1h",
       "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
       "title": "Disrupting a Criminal Scam Operation",
@@ -25239,6 +25327,50 @@
   ],
   "activity": [
     {
+      "id": "a_ms9lufdy_0uzu",
+      "type": "add",
+      "itemId": "i_ms9lufdy_f4q2ff",
+      "itemTitle": "Google Just Unveiled Its Most Advanced AI Robots Yet - Gemini Robotics 2",
+      "itemUrl": "https://www.youtube.com/watch?v=s42VQasz4iI",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-08-01T00:00:02.662Z"
+    },
+    {
+      "id": "a_ms9lufdy_9d2v",
+      "type": "add",
+      "itemId": "i_ms9lufdy_ugdvci",
+      "itemTitle": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
+      "itemUrl": "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-08-01T00:00:02.662Z"
+    },
+    {
+      "id": "a_ms9lufdy_gkaf",
+      "type": "add",
+      "itemId": "i_ms9lufdy_tihk1w",
+      "itemTitle": "Oxide and Friends: The Open Weight Revolution with Simon Willison",
+      "itemUrl": "https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-08-01T00:00:02.662Z"
+    },
+    {
+      "id": "a_ms9lufdy_ykum",
+      "type": "add",
+      "itemId": "i_ms9lufdy_0i3wxq",
+      "itemTitle": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
+      "itemUrl": "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-08-01T00:00:02.662Z"
+    },
+    {
       "id": "a_ms9d9rz3_tva7",
       "type": "add",
       "itemId": "i_ms9d9rz3_g82p1h",
@@ -30693,50 +30825,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-22T00:00:17.362Z"
-    },
-    {
-      "id": "a_mqog8o2a_xkew",
-      "type": "add",
-      "itemId": "i_mqog8o2a_fj91ci",
-      "itemTitle": "sqlite-utils 4.0rc1 adds migrations and nested transactions",
-      "itemUrl": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-22T00:00:17.362Z"
-    },
-    {
-      "id": "a_mqog8o2a_1r7l",
-      "type": "add",
-      "itemId": "i_mqog8o2a_au6znh",
-      "itemTitle": "Samsung Electronics brings ChatGPT and Codex to employees",
-      "itemUrl": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-      "itemSource": "feed",
-      "category": "chatgpt",
-      "by": "AI Radar bot",
-      "at": "2026-06-22T00:00:17.362Z"
-    },
-    {
-      "id": "a_mqog8o2a_gdr8",
-      "type": "add",
-      "itemId": "i_mqog8o2a_iq5qbu",
-      "itemTitle": "Apertus – Open Foundation Model for Sovereign AI",
-      "itemUrl": "https://apertvs.ai/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-22T00:00:17.362Z"
-    },
-    {
-      "id": "a_mqo7nzrb_ncnn",
-      "type": "add",
-      "itemId": "i_mqo7nzrb_tgerwo",
-      "itemTitle": "AI Was Supposed to Replace Workers. It’s Not Working",
-      "itemUrl": "https://www.youtube.com/watch?v=thwf0gtZ_pY",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-21T20:00:15.815Z"
     }
   ],
   "filterConfig": {
