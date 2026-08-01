@@ -2,6 +2,94 @@
   "version": 1,
   "items": [
     {
+      "id": "i_ms9uf2jg_m5qlh3",
+      "url": "https://github.com/yc-software/qm",
+      "title": "qm – Multiplayer agent harness for work",
+      "description": "",
+      "image": "",
+      "domain": "github.com",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-31T18:04:58.000Z",
+      "addedBy": "HackerNews",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-08-01T04:00:02.716Z"
+    },
+    {
+      "id": "i_ms9uf2jg_px05l6",
+      "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything",
+      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "description": "deepseek-ai/DeepSeek-V4-Flash-0731 The latest release in DeepSeek's V4 family, \"with substantially enhanced agentic capabilities\". It's 304 billion parameters - 167GB on Hugging Face - but it appears to punch well above its weight. Artificial Analysis rank it ahead of MiniMax M3 - a 428B model. It's",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-31T23:59:44.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-08-01T04:00:02.716Z"
+    },
+    {
+      "id": "i_ms9uf2jg_og87qe",
+      "url": "https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything",
+      "title": "llm-mcp-client 0.1a0",
+      "description": "Release: llm-mcp-client 0.1a0 See this blog entry. Tags: llm, model-context-protocol",
+      "image": "",
+      "domain": "simonwillison.net",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-07-31T23:03:47.000Z",
+      "addedBy": "Simon Willison",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-08-01T04:00:02.716Z"
+    },
+    {
+      "id": "i_ms9uf2jg_nhvdt8",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-038",
+      "title": "[AINews] not much happened today",
+      "description": "apart from DeepSeek V4-Flash 0731, a quiet day.",
+      "image": "https://substackcdn.com/image/fetch/$s_!1adH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHOiugSLbQAAck-3.jpg",
+      "domain": "latent.space",
+      "contentType": "article",
+      "source": "feed",
+      "category": null,
+      "tags": [],
+      "addedAt": "2026-08-01T01:38:09.000Z",
+      "addedBy": "Latent Space",
+      "readBy": [],
+      "reactions": {
+        "important": [],
+        "must_read": [],
+        "watch_later": [],
+        "tried": []
+      },
+      "_updatedAt": "2026-08-01T04:00:02.716Z"
+    },
+    {
       "id": "i_ms9lufdy_0i3wxq",
       "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything",
       "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
@@ -25327,6 +25415,50 @@
   ],
   "activity": [
     {
+      "id": "a_ms9uf2jg_1k5l",
+      "type": "add",
+      "itemId": "i_ms9uf2jg_nhvdt8",
+      "itemTitle": "[AINews] not much happened today",
+      "itemUrl": "https://www.latent.space/p/ainews-not-much-happened-today-038",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-08-01T04:00:02.716Z"
+    },
+    {
+      "id": "a_ms9uf2jg_v947",
+      "type": "add",
+      "itemId": "i_ms9uf2jg_og87qe",
+      "itemTitle": "llm-mcp-client 0.1a0",
+      "itemUrl": "https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-08-01T04:00:02.716Z"
+    },
+    {
+      "id": "a_ms9uf2jg_6lnb",
+      "type": "add",
+      "itemId": "i_ms9uf2jg_px05l6",
+      "itemTitle": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "itemUrl": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-08-01T04:00:02.716Z"
+    },
+    {
+      "id": "a_ms9uf2jg_9i5r",
+      "type": "add",
+      "itemId": "i_ms9uf2jg_m5qlh3",
+      "itemTitle": "qm – Multiplayer agent harness for work",
+      "itemUrl": "https://github.com/yc-software/qm",
+      "itemSource": "feed",
+      "category": null,
+      "by": "AI Radar bot",
+      "at": "2026-08-01T04:00:02.716Z"
+    },
+    {
       "id": "a_ms9lufdy_0uzu",
       "type": "add",
       "itemId": "i_ms9lufdy_f4q2ff",
@@ -30781,50 +30913,6 @@
       "category": null,
       "by": "AI Radar bot",
       "at": "2026-06-22T16:00:16.435Z"
-    },
-    {
-      "id": "a_mqpej7sj_8xdi",
-      "type": "add",
-      "itemId": "i_mqpej7sj_tgdviu",
-      "itemTitle": "Claude Code's \"extended thinking\" is a summary- not authentic thinking",
-      "itemUrl": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-22T16:00:16.435Z"
-    },
-    {
-      "id": "a_mqp5ykau_17gs",
-      "type": "add",
-      "itemId": "i_mqp5ykau_zy5p5f",
-      "itemTitle": "Munich 1991: The Roots of the Current AI Boom",
-      "itemUrl": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-22T12:00:15.942Z"
-    },
-    {
-      "id": "a_mqog8o2a_bb4n",
-      "type": "add",
-      "itemId": "i_mqog8o2a_q71d15",
-      "itemTitle": "Temporary Cloudflare Accounts for AI agents",
-      "itemUrl": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-22T00:00:17.362Z"
-    },
-    {
-      "id": "a_mqog8o2a_xqql",
-      "type": "add",
-      "itemId": "i_mqog8o2a_j7409m",
-      "itemTitle": "sqlite-utils 4.0rc1",
-      "itemUrl": "https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything",
-      "itemSource": "feed",
-      "category": null,
-      "by": "AI Radar bot",
-      "at": "2026-06-22T00:00:17.362Z"
     }
   ],
   "filterConfig": {
